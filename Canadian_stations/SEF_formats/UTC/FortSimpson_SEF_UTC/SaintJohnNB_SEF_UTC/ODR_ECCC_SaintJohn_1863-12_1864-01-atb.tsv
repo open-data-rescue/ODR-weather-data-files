@@ -1,0 +1,106 @@
+SEF	1.0.0
+ID	SaintJohnCanada
+Name	SaintJohn
+Lat	45.27
+Lon	293.93
+Alt	41.15
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	atb
+Stat	point
+Unit	C
+Meta		UTCOffset=Applied	UTCOffset=4
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1863	12	01	11	00	0	-1.07	|	orig=30.069 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	01	18	00	0	-1.10	|	orig=30.018 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	02	01	00	0	-1.05	|	orig=30.105 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	02	11	00	0	-1.38	|	orig=29.516 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	02	18	00	0	-1.44	|	orig=29.400 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	03	01	00	0	-1.24	|	orig=29.776 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	03	11	00	0	-0.92	|	orig=30.340 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	03	18	00	0	-0.98	|	orig=30.233 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	04	01	00	0	-0.94	|	orig=30.300 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	04	11	00	0	-1.09	|	orig=30.046 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	04	18	00	0	-1.20	|	orig=29.844 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	05	01	00	0	-1.25	|	orig=29.752 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	05	11	00	0	-1.21	|	orig=29.818 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	05	18	00	0	-1.21	|	orig=29.819 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	06	01	00	0	-1.11	|	orig=29.997 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	06	11	00	0	-0.91	|	orig=30.358 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	06	18	00	0	-0.88	|	orig=30.410 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	07	01	00	0	-0.79	|	orig=30.584 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	07	11	00	0	-0.74	|	orig=30.670 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	07	18	00	0	-0.81	|	orig=30.548 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	08	01	00	0	-0.85	|	orig=30.476 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	08	11	00	0	-0.87	|	orig=30.426 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	08	18	00	0	-1.00	|	orig=30.206 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	09	01	00	0	-1.07	|	orig=30.080 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	09	11	00	0	-1.21	|	orig=29.830 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	09	18	00	0	-1.28	|	orig=29.693 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	10	01	00	0	-1.30	|	orig=29.664 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	10	11	00	0	-1.13	|	orig=29.963 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	10	18	00	0	-1.65	|	orig=29.026 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	11	01	00	0	-0.97	|	orig=30.250 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	11	11	00	0	-0.87	|	orig=30.430 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	11	18	00	0	-0.91	|	orig=30.367 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	12	01	00	0	-0.84	|	orig=30.482 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	12	11	00	0	-0.85	|	orig=30.465 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	12	18	00	0	-0.88	|	orig=30.412 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	13	01	00	0	-0.89	|	orig=30.402 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	13	11	00	0	-0.96	|	orig=30.276 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	13	18	00	0	-1.06	|	orig=30.100 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	14	01	00	0	-1.25	|	orig=29.755 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	14	11	00	0	-1.32	|	orig=29.633 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	14	18	00	0	-1.29	|	orig=29.680 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	15	01	00	0	-1.50	|	orig=29.306 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	15	11	00	0	-1.50	|	orig=29.295 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	15	18	00	0	-1.42	|	orig=29.447 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	16	01	00	0	-1.27	|	orig=29.706 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	16	11	00	0	-1.11	|	orig=30.011 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	16	18	00	0	-1.08	|	orig=30.058 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	17	01	00	0	-0.94	|	orig=30.300 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	17	11	00	0	-0.87	|	orig=30.427 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	17	18	00	0	-0.89	|	orig=30.392 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	18	01	00	0	-0.91	|	orig=30.366 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	18	11	00	0	-1.07	|	orig=30.070 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	18	18	00	0	-1.21	|	orig=29.821 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	19	01	00	0	-1.40	|	orig=29.474 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	19	11	00	0	-1.32	|	orig=29.617 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	19	18	00	0	-1.31	|	orig=29.634 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	20	01	00	0	-1.29	|	orig=29.676 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	20	11	00	0	-1.29	|	orig=29.677 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	20	18	00	0	-1.30	|	orig=29.661 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	21	01	00	0	-1.23	|	orig=29.790 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	21	11	00	0	-1.19	|	orig=29.855 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	21	18	00	0	-1.21	|	orig=29.823 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	22	01	00	0	-1.18	|	orig=29.874 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	22	11	00	0	-1.16	|	orig=29.912 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	22	18	00	0	-1.19	|	orig=29.858 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	23	01	00	0	-1.18	|	orig=29.876 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	23	11	00	0	-1.18	|	orig=29.874 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	23	18	00	0	-1.19	|	orig=29.856 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	24	01	00	0	-1.16	|	orig=29.906 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	24	11	00	0	-1.13	|	orig=29.970 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	24	18	00	0	-1.12	|	orig=29.987 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	25	01	00	0	-1.02	|	orig=30.160 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	25	11	00	0	-0.94	|	orig=30.315 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	25	18	00	0	-0.95	|	orig=30.295 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	26	01	00	0	-0.91	|	orig=30.370 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	26	11	00	0	-0.91	|	orig=30.366 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	26	18	00	0	-0.95	|	orig=30.290 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	27	01	00	0	-0.96	|	orig=30.266 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	27	11	00	0	-1.07	|	orig=30.072 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	27	18	00	0	-1.12	|	orig=29.986 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	28	01	00	0	-1.06	|	orig=30.086 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	28	11	00	0	-0.94	|	orig=30.306 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	28	18	00	0	-0.96	|	orig=30.274 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	29	01	00	0	-0.98	|	orig=30.238 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	29	11	00	0	-1.17	|	orig=29.903 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	29	18	00	0	-1.29	|	orig=29.680 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	30	01	00	0	-1.26	|	orig=29.724 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	30	11	00	0	-1.16	|	orig=29.906 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	30	18	00	0	-1.16	|	orig=29.910 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	31	01	00	0	-1.17	|	orig=29.902 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	31	11	00	0	-1.01	|	orig=30.182 F|Local time: 0700|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1863	12	31	18	00	0	-1.04	|	orig=30.126 F|Local time: 1400|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
+1864	01	01	01	00	0	-0.94	|	orig=30.311 F|Local time: 2100|QC flag: passed|Image File: SaintJohn_USSI-201_M1958_1863-12-01_OBS-R.jpg
