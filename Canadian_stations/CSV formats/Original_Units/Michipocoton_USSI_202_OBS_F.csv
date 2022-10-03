@@ -1,0 +1,183 @@
+Observation date,barometer_observed_height_7am,barometer_observed_height_2pm,barometer_observed_height_9pm,attached_thermometer_7am,attached_thermometer_2pm,attached_thermometer_9pm_0,depth_rain_melted_snow,depth_of_snow,cloud_amount_7am,kind_of_cloud_7am,higher_cloud_velocity_7am,higher_cloud_direction_7am,cloud_amount_2pm,kind_of_cloud_2pm,higher_cloud_velocity_2pm,higher_cloud_direction_2pm,cloud_amount_9pm,kind_cloud_9pm,higher_cloud_velocity_9pm,higher_cloud_direction_9pm,wind_direction_7am,wind_force_7am,wind_direction_2pm,wind_force_2pm,wind_direction_9pm,wind_force_9pm,daily_weather_remarks
+1863-09-01,29.36,29.38,29.44,64,66,66,NA,NA,Empty,NA,,NA,empty,NA,,NA,empty,NA,,NA,West,1,North-West,2,South-West,2,Rain [all day]
+1863-09-02,29.6,29.62,29.64,56,55,56,NA,NA,0,0,None,None,6,Cumulo-stratus,None,None,0,0,None,None,North-East,1,North-East,4,North-East,1,NA
+1863-09-03,29.69,29.66,29.61,56,58,60,NA,NA,2,Nimbus,None,None,0,0,None,None,0,0,None,None,0,0,South-West,3,0,0,Rain
+1863-09-04,29.54,29.4,29.26,63,60,62,NA,NA,0,None,None,None,4,Cumulus,None,None,empty,None,,None,South-West,1,South-West,2,North-East,1,Rain
+1863-09-05,29.12,29.24,29.36,58,59,60,NA,NA,empty,NA,,NA,empty,None,,None,10,Stratus,None,None,North-East,1,South-West,2,North-East,2,Rain
+1863-09-06,29.56,29.56,29.5,56,58,59,NA,NA,10,Cumulo-stratus,None,None,0,0,None,None,0,0,None,None,North-East,2,North-East,1,South-West,2,A gale last night from N
+1863-09-07,29.47,29.28,29.3,54,56,57,NA,NA,10,Cumulo-stratus,None,None,10,None,None,None,empty,NA,,NA,East,1,South-West,3,South,5,Rain
+1863-09-08,29.46,29.58,29.64,56,54,52,NA,NA,10,Cumulo-stratus,None,None,0,0,None,None,0,0,None,None,North-East,1,North,2,0,0,NA
+1863-09-09,29.68,29.68,29.62,62,60,58,NA,NA,0,0,None,None,0,0,None,None,0,0,None,None,North,1,South-West,3,South-West,1,NA
+1863-09-10,29.58,29.42,29.3,57,60,61,NA,NA,0,0,None,None,8,Cumulo-stratus,None,None,6,Stratus,None,None,South,1,South,3,South,2,NA
+1863-09-11,29.24,29.3,29.48,58,60,57,NA,NA,empty,NA,,NA,None,Mist,None,None,10,Stratus,None,None,South-West,1,South-West,2,North,2,Rain
+1863-09-12,29.5,29.48,29.4,57,58,57,NA,NA,0,0,None,None,0,0,None,None,10,Stratus,None,None,North-East,1,South-West,2,East,1,NA
+1863-09-13,29.3,29.21,29.22,59,64,63,NA,NA,10,None,Empty,Empty,empty,NA,,NA,10,Stratus,None,None,North-East,1,South,2,South,1,Rain
+1863-09-14,29.24,29.26,29.25,59,62,61,NA,NA,10,Fog,None,None,0,0,None,None,6,Stratus,None,None,0,0,North-West,2,North-West,1,NA
+1863-09-15,29.21,29.25,29.26,60,64,60,NA,NA,4,Cumulus,None,None,0,0,None,None,4,Stratus,None,None,South-West,2,South-West,2,South-West,1,NA
+1863-09-16,29.22,29.15,29.1,63,69,68,NA,NA,6,Cumulo-stratus,None,None,0,0,None,None,10,None,None,None,North-West,2,North-West,2,South,4,Rain
+1863-09-17,28.96,29.16,29.22,56,57,50,NA,NA,empty,NA,,NA,empty,NA,,NA,10,Stratus,None,None,North-East,4,North-East,6,North-East,4,Rain gale last night from South vivid lightning
+1863-09-18,29.36,29.46,29.5,46,60,66,NA,NA,10,Cumulus,None,None,4,Cumulus,None,None,5,Stratus,None,None,North,1,North-West,4,North-West,4,NA
+1863-09-19,29.42,29.3,29.24,52,56,54,NA,NA,8,Cumulo-stratus,None,None,10,Cumulo-stratus,None,None,10,Stratus,None,None,North,1,South-West,2,0,0,NA
+1863-09-20,29.18,29.18,29.32,52,54,54,NA,NA,10,Cumulus,None,None,empty,NA,,NA,0,0,None,None,South,1,0,0,0,0,NA
+1863-09-21,29.5,29.6,29.68,52,53,50,NA,NA,0,0,None,None,0,0,None,None,0,0,None,None,North,1,North,3,North,1,NA
+1863-09-22,29.76,29.6,29.5,44,53,54,NA,NA,0,0,None,None,0,0,None,None,0,0,None,None,North,1,South,2,South,2,NA
+1863-09-23,29.3,29.38,29.6,52,56,52,NA,NA,10,None,None,None,10,None,None,None,10,None,None,None,South-East,4,North-East,6,North-East,6,rain [all day]
+1863-09-24,29.7,29.74,29.75,54,56,50,NA,NA,0,0,None,None,0,0,None,None,0,0,None,None,North-East,2,North-East,4,North,2,NA
+1863-09-25,29.78,29.72,29.62,50,54,52,NA,NA,0,0,None,None,0,0,None,None,0,0,None,None,East,1,North-West,2,North,1,NA
+1863-09-26,29.56,29.42,29.4,54,58,60,NA,NA,0,0,None,None,0,0,None,None,0,0,None,None,0,0,West,3,0,0,NA
+1863-09-27,29.3,29.2,29.19,58,60,57,NA,NA,0,0,None,None,6,Cumulo-stratus,None,None,0,0,None,None,0,0,North-West,1,0,0,NA
+1863-09-28,29.2,29.25,29.3,58,60,59,NA,NA,6,Cumulus,None,None,4,Cumulus,None,None,0,0,None,None,North,1,West,1,0,0,NA
+1863-09-29,29.34,29.38,29.48,60,61,60,NA,NA,0,0,None,None,0,0,,None,0,0,None,None,0,0,North-West,2,0,0,NA
+1863-09-30,29.46,29.4,29.4,60,63,60,NA,NA,0,0,None,None,0,0,Empty,Empty,0,0,None,None,North-East,2,North-East,2,North-East,3,NA
+1863-10-01,29.38,29.27,29.3,60,54,53,NA,NA,10,Cumulo-stratus,None,None,10,None,None,None,10,None,None,None,North-East,4,North-East,3,North-East,2,rain
+1863-10-02,28.57,28.6,28.81,54,56,56,NA,NA,10,None,None,None,10,None,None,None,10,Stratus,,NA,West,2,South-West,6,South-West,4,rain
+1863-10-03,29.2,29.2,29.15,56,57,54,NA,NA,10,Cumulus,None,None,10,Cumulo-stratus,None,None,10,None,None,None,North-West,1,North-West,1,0,0,rain
+1863-10-04,29.1,29.07,29.12,50,50,51,NA,NA,10,Cumulus,None,None,10,Cumulo-stratus,None,None,10,Stratus,None,None,North-East,2,North-East,2,0,0,NA
+1863-10-05,29.22,29.31,29.32,47,62,60,NA,NA,10,None,None,None,10,Cumulus,None,None,10,Stratus,None,None,0,0,North-West,2,0,0,soft snow
+1863-10-06,29.36,29.37,29.39,56,57,54,NA,NA,10,Cumulus,,None,10,Cumulus,None,None,6,Cumulo-stratus,None,None,North,1,South-East,2,0,0,NA
+1863-10-07,29.44,29.42,29.4,53,70,64,NA,NA,10,Cumulus,None,None,4,Cirrus,None,None,4,Stratus,None,None,West,2,West,1,0,0,NA
+1863-10-08,29.3,29.28,29.36,56,62,60,NA,NA,3,Cirro-stratus,None,None,3,Nimbus,None,None,0,0,None,None,0,0,North-East,1,North,2,NA
+1863-10-09,29.5,29.6,29.67,50,64,60,NA,NA,10,Cirrus,None,None,10,Cumulo-stratus,None,None,10,Stratus,None,None,North-East,2,North-East,3,0,0,NA
+1863-10-10,29.75,29.79,29.76,52,70,64,NA,NA,10,Cumulus,None,None,0,0,None,None,0,0,None,None,0,0,West,1,0,0,NA
+1863-10-11,29.7,29.64,29.58,48,50,52,NA,NA,10,Cumulo-stratus,None,None,0,0,None,None,0,0,None,None,North-East,1,West,2,0,0,NA
+1863-10-12,29.52,29.51,29.46,50,53,52,NA,NA,10,Cumulo-stratus,None,None,0,0,None,None,0,0,None,None,East,1,North-West,3,0,0,NA
+1863-10-13,29.44,29.4,29.3,52,56,57,NA,NA,0,0,None,None,0,0,None,None,10,Stratus,None,None,0,0,South-West,2,West,1,NA
+1863-10-14,29.2,29.25,29.28,56,58,54,NA,NA,0,0,None,None,0,0,None,None,0,0,None,None,West,2,West,2,0,0,NA
+1863-10-15,29.22,29.14,29.16,52,60,58,NA,NA,4,Cumulus,None,None,4,Cumulo-stratus,None,None,0,0,None,None,0,0,South-West,2,South-West,2,NA
+1863-10-16,29.12,29.11,29.08,54,58,58,NA,NA,4,Cumulus,None,None,8,Cumulo-stratus,None,None,10,None,None,None,0,0,North-West,1,0,0,rain
+1863-10-17,28.98,28.94,28.9,56,60,57,NA,NA,10,Cumulus,None,None,10,Cumulo-stratus,None,None,10,Stratus,None,None,0,0,North-East,3,0,0,NA
+1863-10-18,28.7,28.68,28.7,60,56,53,NA,NA,10,Cumulo-stratus,None,None,10,None,None,None,10,None,None,None,South,2,South,4,South,7,rain
+1863-10-19,28.94,29.06,29,50,58,53,NA,NA,10,None,None,None,6,Cumulus,None,None,0,0,None,None,South-South-West,7,South-West,6,West,1,rain
+1863-10-20,28.84,29,29.3,52,63,60,NA,NA,10,None,None,None,10,Cumulo-stratus,None,None,10,Stratus,None,None,South-West,7,West,6,West,3,heavy rain & wind last night
+1863-10-21,29.43,29.52,29.72,54,52,50,NA,NA,6,Cumulus,None,None,0,0,,None,8,Stratus,None,None,North-West,4,North-West,3,North-West,2,NA
+1863-10-22,29.82,29.76,29.7,56,53,52,NA,NA,10,Cirro-stratus,,NA,10,Cumulus,None,None,8,Stratus,None,None,0,0,North,2,North,1,NA
+1863-10-23,29.56,29.5,29.57,50,54,66,NA,NA,10,Cumulus,None,None,10,Cumulo-stratus,None,None,10,None,None,None,North,1,North-East,2,North-East,2,snow
+1863-10-24,29.7,29.76,29.85,53,52,51,NA,NA,10,Cumulus,None,None,2,Nimbus,None,None,0,0,None,None,North,2,North-West,2,East-North-East,1,NA
+1863-10-25,29.9,29.87,29.81,46,48,50,NA,NA,2,Cirrus,,None,10,None,,None,10,Cumulus,None,None,North-East,2,East,1,South-West,3,snowy
+1863-10-26,29.78,29.84,29.82,50,72,59,NA,NA,10,Cumulo-stratus,None,None,3,Cirro-cumulus,,NA,10,Cumulus,None,None,South-West,5,West,3,North-West,2,NA
+1863-10-27,29.9,29.76,29.7,50,62,55,NA,NA,10,Cumulus,Empty,None,2,Cumulo-stratus,None,None,9,Cumulus,None,None,North-East,1,South-West,3,South,2,NA
+1863-10-28,29.6,29.54,29.49,56,54,54,NA,NA,4,Cumulus,None,None,10,None,None,None,10,Cumulus,None,None,South,2,South,3,South,3,rain
+1863-10-29,29.34,29.25,29.15,54,58,54,NA,NA,10,None,None,None,10,None,None,None,10,None,None,None,South,3,South,3,South-West,2,sleet
+1863-10-30,28.96,29.18,29.18,48,60,50,NA,NA,10,None,None,None,10,Cumulus,None,None,10,Stratus,None,None,North-East,2,North,2,North-West,2,snowy
+1863-10-31,29.2,29.48,29.66,41,58,50,NA,NA,10,None,None,None,10,Cumulus,None,None,10,Stratus,None,None,North-East,3,North,2,North,1,snow & drift
+1863-11-01,29.78,29.75,29.68,47,46,42,NA,NA,10,Cumulus,None,None,10,Cumulus,None,None,10,Stratus,None,None,North-East,1,North-East,1,East,2,sleet very bad night
+1863-11-02,29.3,28.94,28.92,48,56,57,NA,NA,8,Cumulo-stratus,None,None,10,None,None,None,10,None,None,None,East,3,South,5,South-South-West,8,"sleet, very bad night"
+1863-11-03,29.11,29.28,29.36,50,58,66,NA,NA,10,Cumulus,None,None,10,Cumulo-stratus,None,None,10,Cumulus,None,None,South-West,5,West,6,South-West,8,NA
+1863-11-04,29.27,29.24,29.08,54,58,54,NA,NA,0,0,None,None,2,Cirrus,,NA,10,Stratus,None,None,North,1,South-West,4,South-West,1,NA
+1863-11-05,28.84,28.94,29,50,57,62,0.539,None,10,None,None,None,2,Nimbus,,None,6,Cumulus,None,None,0,0,South-West,3,West,3,rain
+1863-11-06,29.04,29.12,29.14,56,56,54,NA,NA,10,Cumulo-stratus,None,None,7,Cumulus,None,None,7,Cumulus,None,None,West,5,South-West,4,South-West,3,NA
+1863-11-07,29.12,29.24,29.37,48,50,48,NA,NA,10,Cumulo-stratus,None,None,7,Cumulo-stratus,None,None,10,Cumulo-stratus,None,None,North,1,North,1,North,1,NA
+1863-11-08,29.47,29.52,29.58,46,45,50,NA,NA,10,Cumulo-stratus,None,None,10,Cumulus,None,None,10,Stratus,None,None,North,1,North,2,North,2,NA
+1863-11-09,29.65,29.77,29.74,45,54,44,0.025,None,10,None,None,None,4,Stratus,None,None,2,Stratus,None,None,North,2,North,2,0,0,snow
+1863-11-10,29.54,29.32,29.07,39,60,49,0.078,None,10,None,None,None,10,Cumulus,None,None,10,Stratus,None,None,East,2,South-West,5,South-West,6,snow
+1863-11-11,28.75,28.85,29.04,46,55,50,0.104,None,10,Cumulus,None,None,10,Cirrus,None,None,0,0,None,None,South-West,8,South-West,6,South-West,1,NA
+1863-11-12,29.14,29.2,29.2,46,64,54,0.002,None,10,Cumulus,None,None,10,Cumulus,None,None,10,None,None,None,North-East,1,North-East,3,North-East,4,snow
+1863-11-13,29.2,29.3,29.36,42,68,54,0.03,None,10,Cumulus,None,None,10,Cumulus,None,None,10,Stratus,None,None,North-East,2,North-East,3,North-East,3,NA
+1863-11-14,29.24,29.28,29.29,44,74,50,NA,NA,10,Cumulus,None,None,8,Cumulo-stratus,None,None,10,Stratus,None,None,North-East,3,East-North-East,3,East,4,NA
+1863-11-15,29.4,29.38,29.41,44,45,48,NA,NA,10,Cumulus,None,None,0,0,None,None,0,0,None,None,North,2,East-North-East,2,0,0,NA
+1863-11-16,29.4,29.43,29.37,43,63,53,NA,NA,0,0,None,None,0,0,None,None,0,0,None,None,East,1,South-West,1,0,0,NA
+1863-11-17,29.3,29.24,29.1,48,59,52,NA,NA,10,None,None,None,10,Fog,None,None,7,Cumulo-stratus,None,None,East,1,West,1,South-West,1,sleet
+1863-11-18,28.87,28.82,28.84,50,66,70,inap,None,10,Cumulo-stratus,None,None,10,Cumulus,None,None,10,Stratus,None,None,South-West,2,South-South-West,2,South-West,2,NA
+1863-11-19,28.84,28.77,28.8,56,70,59,NA,NA,0,0,None,None,10,None,None,None,10,Cumulo-stratus,None,None,North,1,South-South-West,3,South-West,6,rain
+1863-11-20,28.85,29.02,29.09,48,64,54,0.318,None,10,None,None,None,10,None,,None,7,Cumulus,Empty,None,South-West,6,West,8,West,6,snow and drift
+1863-11-21,29.05,29.03,29.06,46,59,54,NA,NA,4,Cumulo-stratus,None,None,10,Cumulo-stratus,None,None,9,Cumulus,None,None,North-East,1,South-West,3,South-West,6,NA
+1863-11-22,29.34,29.34,29.64,46,47,43,NA,NA,3,Cirro-stratus,None,None,10,Cumulo-stratus,None,None,10,Stratus,None,None,North,1,West,5,North-West,2,NA
+1863-11-23,29.72,29.7,29.6,40,56,51,0.6,None,10,None,None,None,10,Cumulus,None,None,10,Stratus,None,None,0,0,South-West,5,West-South-West,4,snow
+1863-11-24,29.36,29.09,28.94,42,60,50,0.072,None,10,Cumulo-stratus,None,None,10,None,None,None,10,None,None,None,North-East,1,North,1,North,2,snow
+1863-11-25,29.05,29.08,29.06,52,60,52,0.206,None,10,Cumulus,None,None,6,Cumulo-stratus,None,None,7,Cumulo-stratus,None,None,North-East,1,North-East,1,South-West,4,NA
+1863-11-26,29.15,29.09,29.15,43,54,50,0.342,None,10,Cumulo-stratus,None,None,10,Cirrus,None,None,10,Cumulus,None,None,North-East,1,South-West,5,North-West,4,NA
+1863-11-27,29.3,29.31,29.22,45,61,46,0.015,None,10,Cumulus,None,None,10,None,None,None,10,None,None,None,North-East,2,North-East,4,East-North-East,6,snow & drift
+1863-11-28,29.23,29.34,29.34,40,64,42,0.447,None,7,Cumulo-stratus,None,None,0,0,None,None,0,0,None,None,East-North-East,3,North-East,2,North-East,1,NA
+1863-11-29,29.3,29.31,29.38,28,52,57,NA,NA,2,Cumulus,None,None,10,None,None,None,10,Stratus,None,None,East,2,North-East,1,North-East,1,snow
+1863-11-30,29.48,29.55,29.42,40,59,48,0.05,None,0,0,None,None,10,Cumulus,None,None,10,None,None,None,East,1,East,1,North-East,2,snowy
+1863-12-01,29.1,29.01,28.82,38,60,50,0.481,empty,10,Overcast,empty,Empty,10,Cumulus,empty,Empty,10,Stratus,empty,Empty,West,6,South-West,5,South-West,6,snow and drift
+1863-12-02,29.36,29.53,29.54,56,59,42,Empty,empty,0,0,empty,Empty,0,0,empty,Empty,10,Stratus,empty,Empty,North,2,North-West,1,West,1,NA
+1863-12-03,29.36,29.06,28.91,38,57,51,0.06,empty,10,Overcast,empty,Empty,6,Cumulo-stratus,empty,Empty,2,Stratus,empty,Empty,East,2,South,2,South-West,8,snow
+1863-12-04,28.99,29.31,29.52,38,64,49,slight,empty,10,Cumulo-stratus,empty,Empty,4,Cumulo-stratus,empty,Empty,10,Overcast,empty,Empty,South-West,4,North-North-West,3,North-West,2,snow
+1863-12-05,29.64,29.76,29.78,38,57,46,slight,empty,10,Cumulus,empty,Empty,0,0,empty,Empty,10,Overcast,empty,Empty,South,2,South-South-West,1,East-South-East,1,snow
+1863-12-06,29.7,29.67,29.67,37,55,56,slight,empty,10,Cirrus,empty,Empty,10,Cirrus,empty,Empty,10,Mist,empty,Empty,South-South-West,6,South-West,5,South-West,2,mist
+1863-12-07,29.57,29.45,29.48,48,60,66,Empty,empty,10,Cumulo-stratus,empty,Empty,0,0,empty,Empty,10,Overcast,empty,Empty,South-South-West,4,South,4,South-West,5,snow
+1863-12-08,29.48,29.54,29.59,50,67,52,0.285,empty,10,Overcast,empty,Empty,10,Overcast,empty,Empty,10,Overcast,empty,Empty,North,3,North-East,3,North-East,5,sleet and snow
+1863-12-09,29.79,29.97,29.93,36,58,48,slight,empty,0,0,empty,Empty,0,0,empty,Empty,10,Cumulo-stratus,empty,Empty,East,4,North-East,4,South-East,5,NA
+1863-12-10,29.79,29.7,29.6,30,45,51,Empty,empty,10,Cumulo-stratus,empty,Empty,10,Cirrus,empty,Empty,10,Stratus,empty,Empty,North-East,1,East,1,East,1,NA
+1863-12-11,29.4,29.27,29.07,45,48,47,0.084,empty,10,Overcast,empty,Empty,10,Cirrus,empty,Empty,10,Overcast,empty,Empty,East,1,East,1,East,1,sleet
+1863-12-12,29.14,29.21,29.28,44,65,59,0.046,empty,10,Cirrus,empty,Empty,10,Overcast,empty,Empty,10,Stratus,empty,Empty,South,2,South-West,3,South-West,4,snowy
+1863-12-13,29.4,29.43,29.38,46,57,46,0.065,empty,10,Cirrus,empty,Empty,10,Cirrus,empty,Empty,10,Overcast,empty,Empty,North-East,3,North-East,3,North-East,6,snow
+1863-12-14,29.08,29.08,29.18,24,68,53,0.032,empty,10,Overcast,empty,Empty,10,Overcast,empty,Empty,10,Overcast,empty,Empty,North-East,6,North-East,6,North-East,4,snow & drift
+1863-12-15,29.28,29.54,29.76,30,60,51,0.204,empty,10,Overcast,empty,Empty,4,Cumulo-stratus,empty,Empty,0,0,empty,Empty,East,1,North-East,2,North-East,1,snowy
+1863-12-16,29.86,29.96,29.92,36,60,42,0.005,empty,0,0,empty,Empty,0,0,empty,Empty,0,0,empty,Empty,North-East,1,East,1,East,1,NA
+1863-12-17,29.62,29.45,29.19,24,58,52,Empty,empty,10,Cumulus,empty,Empty,10,Overcast,empty,Empty,10,Overcast,empty,Empty,North-East,3,North-East,3,North-East,6,snow & drift
+1863-12-18,28.97,29.03,29.22,42,52,46,1,empty,10,Cumulo-stratus,empty,Empty,10,Overcast,empty,Empty,7,Stratus Cumulus,empty,Empty,North-East,2,North-North-East,4,North-East,2,drift
+1863-12-19,29.3,29.42,29.47,36,50,47,Empty,empty,0,0,empty,Empty,0,0,empty,Empty,0,0,empty,None,East,1,North-East,1,0,0,NA
+1863-12-20,29.41,29.46,29.32,24,47,46,Empty,empty,0,0,empty,Empty,2,Nimbus,empty,Empty,10,Stratus,empty,Empty,0,0,East,1,East,2,NA
+1863-12-21,29.09,29.21,29.38,34,58,60,0.078,empty,10,Overcast,empty,Empty,10,Cumulus,empty,Empty,10,Stratus,empty,Empty,East,2,East,1,East,1,snow
+1863-12-22,29.42,29.48,29.56,45,61,56,Empty,empty,10,Cumulus,empty,Empty,10,Cumulus,empty,Empty,10,Cumulo-stratus,empty,Empty,0,0,North-East,1,North-East,1,NA
+1863-12-23,29.64,29.69,29.66,42,66,54,Empty,empty,0,0,empty,Empty,0,0,empty,Empty,8,Stratus,empty,Empty,0,0,North,1,North,1,NA
+1863-12-24,29.51,29.5,29.48,42,53,51,Empty,empty,10,Cirrus,empty,Empty,10,Overcast,empty,Empty,10,Overcast,empty,Empty,South,3,South-West,4,South-West,1,snow
+1863-12-25,29.52,29.5,29.56,62,51,56,0.094,empty,10,Cirrus,empty,Empty,0,0,empty,Empty,10,Stratus,empty,Empty,South-West,2,0,0,0,0,NA
+1863-12-26,29.57,29.57,29.58,46,52,48,Empty,empty,10,Cumulus,empty,Empty,10,Cumulus,empty,Empty,10,Stratus,empty,Empty,0,0,0,0,North,2,NA
+1863-12-27,29.62,29.58,29.52,38,44,44,Empty,empty,0,0,empty,Empty,0,0,empty,Empty,0,0,empty,Empty,North,1,North,1,North-East,2,NA
+1863-12-28,29.15,28.82,28.7,50,43,43,Empty,empty,10,Cumulus,empty,Empty,10,Overcast,empty,Empty,10,Overcast,empty,Empty,North-East,3,North-East,4,North-East,4,snowy
+1863-12-29,28.62,28.76,29,38,44,43,0.34,empty,10,Overcast,empty,Empty,10,Cumulus,empty,Empty,10,Overcast,empty,Empty,0,0,0,0,North-East,1,snow
+1863-12-30,29.38,29.54,29.58,42,47,38,0.008,empty,10,Cumulo-stratus,empty,Empty,8,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,0,0,North,1,North-East,2,NA
+1863-12-31,29.4,29.24,28.82,32,56,46,0.02,empty,10,Cirrus,empty,Empty,10,Overcast,empty,Empty,10,Overcast,empty,Empty,0,0,East,2,East,4,snow
+1864-01-01,28.6,28.74,28.79,30,45,29,0.52,Empty,10,Hidden,empty,Empty,8,Cumulo-stratus,Empty,Empty,10,Stratus,empty,Empty,North,1,North-West,3,South-West,4,snow
+1864-01-02,28.7,28.81,28.88,10,30,32,0.124,empty,10,Hidden,empty,Empty,10,Hidden,Empty,Empty,10,Hidden,empty,Empty,South-West,6,North-West,8,West,6,drift
+1864-01-03,28.84,28.98,29.17,20,28,22,Empty,empty,4,Stratus,empty,Empty,8,Cumulo-stratus,Empty,Empty,3,Stratus,empty,Empty,West,6,North-West,4,South-West,2,NA
+1864-01-04,29.34,29.42,29.39,14,42,42,Empty,empty,0,0,empty,Empty,6,Cumulo-stratus,Empty,Empty,0,0,empty,Empty,East,1,South-West,2,0,0,NA
+1864-01-05,29.15,29.28,29.32,27,64,43,Empty,empty,10,Cumulo-stratus,empty,Empty,0,0,Empty,Empty,7,Mist,empty,Empty,East,1,South-West,1,North-East,1,NA
+1864-01-06,29.45,29.52,29.68,24,60,42,Empty,empty,6,Cumulo-stratus,empty,Empty,10,Hidden,Empty,Empty,10,Stratus,empty,Empty,0,0,0,0,North-East,2,snow
+1864-01-07,29.47,29.43,29.34,30,52,63,0.032,empty,10,Cumulo-stratus,empty,Empty,8,Cirro-stratus,Empty,Empty,10,Hidden,empty,Empty,North-West,4,West,5,South-West,6,snow
+1864-01-08,29.16,29.18,29.1,40,60,52,0.046,empty,10,Cumulo-stratus,empty,Empty,6,Cirro-stratus,Empty,Empty,10,Stratus,empty,Empty,North-West,4,South-West,4,South-West,2,NA
+1864-01-09,28.8,28.82,28.89,36,64,48,0.061,empty,10,Hidden,empty,Empty,8,Cumulo-stratus,Empty,Empty,10,Stratus,empty,Empty,South-West,5,South-West,6,South-West,3,snow
+1864-01-10,29,29.07,29.01,38,52,49,inappreciable amount,empty,10,Cirrus,empty,Empty,10,Hidden,Empty,Empty,10,Stratus,empty,Empty,South-West,1,South-West,3,South-West,Illegible,snow
+1864-01-11,28.83,28.98,28.98,40,51,48,0.063,empty,10,Stratus,empty,Empty,10,Cumulo-stratus,Empty,Empty,10,Stratus,empty,Empty,North-West,4,North,2,North-East,Illegible,NA
+1864-01-12,28.53,28.54,28.66,36,60,48,0.238,empty,10,Hidden,empty,Empty,10,Hidden,empty,Empty,10,Stratus,empty,Empty,South-West,4,West,6,West,2,snow and drift
+1864-01-13,28.83,29.01,Empty,36,60,Empty,0.048,empty,10,Cumulo-stratus,empty,Empty,0,0,empty,Empty,0,0,empty,Empty,North-East,2,North-East,4,North-East,2,NA
+1864-01-14,29.24,29.32,29.4,36,60,64,Empty,empty,0,0,empty,Empty,0,0,empty,Empty,0,0,empty,Empty,North-East,2,North-East,2,North,1,NA
+1864-01-15,29.26,29.29,29.26,34,58,47,Empty,empty,10,Stratus,empty,Empty,8,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,North-East,2,South-East,1,East,2,NA
+1864-01-16,29.13,29.17,29.22,38,57,50,Empty,empty,10,Stratus,empty,Empty,10,Hidden,empty,Empty,10,Cumulo-stratus,empty,Empty,South,1,South-West,3,0,0,sleet
+1864-01-17,29.21,29.25,29.4,40,54,44,0.064,empty,10,Hidden,empty,Empty,10,Hidden,empty,Empty,0,0,empty,Empty,North-East,3,North-East,4,0,0,snow and drift
+1864-01-18,29.5,29.61,29.54,32,62,41,0.027,empty,10,Stratus,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,North-East,1,North-East,2,0,0,NA
+1864-01-19,29.38,29.28,29.26,32,61,54,Empty,empty,0,0,empty,Empty,0,0,empty,Empty,10,Mist,empty,Empty,East,1,North-East,3,0,0,NA
+1864-01-20,29.35,29.5,29.6,43,56,58,Empty,empty,10,Stratus,empty,Empty,0,0,empty,Empty,0,0,empty,Empty,North-East,1,North-East,2,0,0,NA
+1864-01-21,29.4,29.28,29.11,36,54,57,Empty,empty,10,Cumulo-stratus,empty,Empty,10,Hidden,empty,Empty,10,Stratus,empty,Empty,South,3,South-West,4,South-West,8,snow
+1864-01-22,29,29.23,29.36,46,61,52,0.06,empty,10,Stratus,empty,Empty,0,0,empty,Empty,10,Stratus,empty,Empty,South-West,4,West,4,0,0,NA
+1864-01-23,28.87,28.86,28.95,45,54,53,0.378,empty,10,Hidden,empty,Empty,6,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,South-West,4,West,1,0,0,snow
+1864-01-24,28.62,28.7,28.8,48,63,56,Empty,empty,10,Stratus,empty,Empty,8,Cumulo-stratus,empty,Empty,10,Cumulo-stratus,empty,Empty,South-West,4,West,4,0,0,NA
+1864-01-25,29,28.85,28.8,47,56,75,Empty,empty,0,0,empty,Empty,10,Hidden,empty,Empty,10,Hidden,empty,Empty,0,0,South-East,3,South-East,4,snow
+1864-01-26,29.09,29.02,28.82,54,62,58,0.262,empty,10,Stratus,empty,Empty,10,Hidden,empty,Empty,10,Hidden,empty,Empty,0,0,South,3,South,1,snow
+1864-01-27,29.03,29.16,29.2,50,56,55,0.086,empty,0,0,empty,Empty,6,Cumulo-stratus,empty,Empty,10,Hidden,empty,Empty,0,0,North-East,1,0,0,snow
+1864-01-28,29.28,29.44,29.7,50,56,51,Empty,empty,2,Mist,empty,Empty,0,0,empty,Empty,1,Stratus,empty,Empty,0,0,North-West,2,North,1,NA
+1864-01-29,29.78,29.76,29.79,53,62,57,Empty,empty,8,Cirro-stratus,empty,Empty,8,Cirro-stratus,empty,Empty,10,Stratus,empty,Empty,North-East,3,North-East,2,North,1,NA
+1864-01-30,29.62,29.52,29.56,37,59,56,Empty,empty,6,Cirro-stratus,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,North-East,2,North-East,1,North-East,3,NA
+1864-01-31,29.54,29.54,29.38,40,52,56,0.038,empty,10,Stratus,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,North-East,2,North-East,1,North-East,1,NA
+1864-02-01,28.86,28.94,29.1,42,67,60,0.132,empty,10,Hidden,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,North-East,3,North-West,3,South-West,2,snow
+1864-02-02,28.93,28.93,29.14,50,60,54,Empty,empty,10,Cirrus,empty,Empty,6,Cirro-stratus,empty,Empty,10,Stratus,empty,Empty,South-West,1,South-West,3,South-West,1,NA
+1864-02-03,29.16,29.14,28.96,42,55,74,0.048,empty,10,Stratus,empty,Empty,10,Hidden,empty,Empty,10,Stratus,empty,Empty,North-East,1,North-West,1,0,0,snow
+1864-02-04,28.67,28.79,28.86,38,61,55,0.028,empty,10,Hidden,empty,Empty,5,Cirro-stratus,empty,Empty,10,Stratus,empty,Empty,North-East,2,North-East,2,North-East,1,snow
+1864-02-05,28.79,28.94,29.21,57,58,54,0.03,empty,10,Hidden,empty,Empty,2,Cirro-stratus,empty,Empty,10,Stratus,empty,Empty,North-East,1,North-North-East,3,North-East,4,snow
+1864-02-06,29.3,29.25,29.08,38,54,56,Empty,empty,10,Stratus,empty,Empty,10,Cumulus,empty,Empty,10,Stratus,empty,Empty,North-East,3,North-East,3,North-East,1,NA
+1864-02-07,28.64,28.54,28.72,44,60,51,Empty,empty,10,Cumulo-stratus,empty,Empty,10,Hidden,empty,Empty,10,Stratus Cumulus,empty,Empty,South-West,5,South-South-West,6,South-West,2,snow
+1864-02-08,28.86,29.06,29.16,38,60,11,0.338,empty,10,Cirrus,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,North-West,2,North-West,4,North,1,NA
+1864-02-09,29.24,29.44,29.57,26,63,56,0.026,empty,0,0,empty,Empty,10,Hidden,empty,Empty,0,0,empty,Empty,North-East,1,South-West,3,North,1,snow
+1864-02-10,29.54,29.53,29.34,22,56,56,0.318,empty,0,0,empty,Empty,3,Cumulus,empty,Empty,10,Stratus,empty,Empty,East,1,South-West,3,South-West,5,NA
+1864-02-11,29.01,29.06,29.09,42,74,59,0.043,empty,10,Hidden,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,South-West,6,North-West,2,South-West,3,snow
+1864-02-12,29.2,29.08,28.76,40,55,52,Empty,empty,0,0,empty,Empty,10,Cumulus,empty,Empty,10,Cumulo-stratus,empty,Empty,0,0,South-West,2,South,4,NA
+1864-02-13,28.8,28.88,28.98,46,59,44,0.038,empty,10,Cirro-stratus,empty,Empty,10,Hidden,empty,Empty,10,Stratus,empty,Empty,0,0,North-East,4,North-East,6,snow
+1864-02-14,29.28,29.4,29.4,30,52,46,0.078,empty,0,0,empty,Empty,0,0,empty,Empty,0,0,empty,Empty,North-East,2,North-West,2,North,1,NA
+1864-02-15,28.89,28.77,28.87,32,69,48,0.039,empty,10,Hidden,empty,Empty,10,Hidden,empty,Empty,10,Stratus,empty,Empty,North-East,2,North-East,2,North,3,snow
+1864-02-16,29.04,29.22,29.36,24,58,56,inappreciable amount,empty,10,Hidden,empty,Empty,10,Cumulo-stratus,empty,Empty,0,0,empty,Empty,North-North-East,3,North-West,3,North-West,1,snow
+1864-02-17,29.36,29.48,29.49,26,62,46,Empty,empty,0,0,empty,Empty,0,0,empty,Empty,10,Stratus,empty,Empty,North-West,1,South-West,4,South,1,NA
+1864-02-18,29.46,29.6,29.58,16,50,48,0.07,empty,0,0,empty,Empty,0,0,empty,Empty,10,Stratus,empty,Empty,North-East,2,South-West,3,South-West,5,NA
+1864-02-19,29.22,28.98,29.13,28,50,52,0.234,empty,10,Hidden,empty,Empty,10,Hidden,empty,Empty,1,Stratus,empty,Empty,South-West,4,South-South-West,7,South-West,1,drift snow squally
+1864-02-20,29.1,29.04,28.96,38,62,52,0.138,empty,10,Cumulo-stratus,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Hidden,empty,Empty,North-East,1,South-South-West,4,North-East,3,snow
+1864-02-21,29.04,29.04,28.96,45,55,53,0.13,empty,10,Cumulo-stratus,empty,Empty,10,Cirrus,empty,Empty,10,Fog,empty,Empty,0,0,East,2,0,0,fog
+1864-02-22,28.74,28.82,28.94,51,56,54,nigh,empty,10,Hidden,empty,Empty,10,Cirrus,empty,Empty,10,Fog,empty,Empty,0,0,0,0,South-West,2,snow fog
+1864-02-23,28.75,28.74,28.96,52,58,64,0.22,empty,10,Hidden,empty,Empty,10,Hidden,empty,Empty,10,Cumulo-stratus,empty,Empty,0,0,North-East,1,0,0,soft snow
+1864-02-24,29.08,29.21,29.22,52,66,57,0.238,empty,10,Cumulo-stratus,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,0,0,South-West,1,South-West,1,NA
+1864-02-25,29.24,29.37,29.44,48,57,54,Empty,empty,0,0,empty,Empty,4,Cirro-stratus,empty,Empty,10,Stratus,empty,Empty,North-East,2,East,2,0,0,NA
+1864-02-26,29.45,29.47,29.35,46,57,54,Empty,empty,10,Cumulo-stratus,empty,Empty,2,Cirro-cumulus,empty,Empty,10,Fog,empty,Empty,North,1,West,1,0,0,fog
+1864-02-27,29.13,29.05,28.96,48,56,58,Empty,empty,6,Cumulus,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,South,2,South,1,0,0,NA
+1864-02-28,29,29.16,29.24,50,60,46,0.084,empty,10,Hidden,empty,Empty,5,Hidden,empty,Empty,7,Stratus,empty,Empty,West,3,West,6,South-West,2,snow drift
+1864-02-29,29.35,29.44,29.38,43,54,48,Empty,empty,6,Cumulo-stratus,empty,Empty,10,Cumulo-stratus,empty,Empty,10,Stratus,empty,Empty,North-West,1,North-West,2,South-West,1,NA

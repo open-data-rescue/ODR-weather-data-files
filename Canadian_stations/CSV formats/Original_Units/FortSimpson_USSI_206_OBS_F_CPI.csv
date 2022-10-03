@@ -1,0 +1,213 @@
+Observation date,daily_weather_remarks,remarks_7am,remarks_2pm,remarks_9pm,open_air_thermometer_7am,open_air_thermometer_2pm,open_air_thermometer_9pm,open_air_thermometer_mean,type_precipitation,rain_and_melted_snow_hour_began,rain_and_melted_snow_hour_ended,rain_and_melted_snow_amount,depth_of_snow,cloud_amount_7am,course_higher_clouds_7am,cloud_velocity_7am,kind_of_cloud_7am,course_higher_clouds_2pm,cloud_amount_2pm,cloud_velocity_2pm,kind_of_cloud_2pm,cloud_amount_9pm,course_higher_clouds_9pm,cloud_velocity_9pm,kind_cloud_9pm,wind_direction_7am,wind_force_7am,wind_direction_2pm,wind_force_2pm,wind_direction_9pm,wind_force_9pm,casual_phenomena,casual_phenomena_line_2,casual_phenomena_line_3,casual_phenomena_line_4,casual_phenomena_line_5,casual_phenomena_line_2,casual_phenomena_line_3,casual_phenomena_line_4,casual_phenomena_line_5
+1861-10-01,NA,NA,NA,NA,39,47,37,41,NA,NA,NA,NA,NA,8,North,1,Cumulo-stratus,North,4,3,Cumulo-stratus,3,0,0,Cumulus,0,0,North,3,North,1,The deciduous leaves are all fast falling. Night frosts are now constant and rather sharp.,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-02,NA,NA,NA,NA,33,45,30,34.33,NA,NA,NA,NA,NA,5,0,0,Cumulus,0,1,0,Cumulus,0,0,0,0,0,0,North-North-East,1,South,1,Another thick mist in the morning. Cleared away about 11 AM. Aurora in the evening. At first arched in the direction of NE SW after which it dispersed in streamers. The highest about 9 1/2 PM.,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-03,NA,NA,NA,NA,35,52,40,42.33,NA,NA,NA,NA,NA,4,East,2,Cumulo-stratus,0,3,0,Cirro-cumulus,2,0,0,Cirro-cumulus,East,3,East,1,North-East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-04,NA,NA,NA,NA,37,50,40,42.33,NA,NA,NA,NA,NA,3,0,0,Cirro-cumulus,North,2,3,Cumulo-stratus,5,0,0,Cumulus,North-West,2,North,2,West,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-05,NA,NA,NA,NA,30,35,33,32.66,snow,5:00 AM,Retracted,NA,NA,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,East,2,North-North-East,3,North,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-06,NA,NA,NA,NA,30,33,29,30.66,snow,Retracted,11:00 AM,NA,NA,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,North-East,5,North,4,North,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-07,NA,NA,NA,NA,20,22,18,20,snow,4:00 AM,10:00 PM,NA,NA,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,North-North-West,1,West,2,South-West,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-08,NA,NA,NA,NA,7,16,17,13.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,3,0,Cirro-stratus,0,0,0,0,West,3,South-West,3,South-West,3,Aurora appeared again this evening. Arched but neither very high nor bright.,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-09,NA,NA,NA,NA,22,38,35,28.33,NA,NA,NA,NA,NA,5,0,0,Stratus,0,4,0,Stratus,5,0,0,Cumulo-stratus,South,2,South-East,1,East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-10,NA,NA,NA,NA,33,50,36,39.33,NA,NA,NA,NA,NA,2,West-South-West,1,Cumulo-stratus,0,1,0,Stratus,0,0,0,0,0,0,South-West,2,West,1,Aurora at 9 this evening presented a brilliant appearance. At one time it formed itself into parallel lines from N to S completely covering the sky from the zenith to the horizon eastern. Afterwards it broke up and was dispersed over the whole sky.,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-11,NA,NA,NA,NA,30,50,32,37.33,NA,NA,NA,NA,NA,1,0,0,Cirrus,0,0,0,0,3,0,0,Cumulus,North-East,5,North-East,5,East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-12,NA,NA,NA,NA,28,30,25,24.33,snow,8:00 AM,4:00 PM,NA,NA,10,0,0,Nimbus,0,10,0,Nimbus,8,0,0,Cumulus,North,1,North,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-13,NA,NA,NA,NA,15,29,24,22.66,NA,NA,NA,NA,NA,1,0,0,Cirro-stratus,0,1,0,Cirrus,0,0,0,0,South-West,3,South-West,2,South-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-14,NA,NA,NA,NA,22,33,30,18.33,NA,NA,NA,NA,NA,8,North,5,Cumulus,North-North-East,7,3,Cirro-cumulus,9,North-East,5,Cirro-cumulus,South-East,4,South-East,3,South-East,5,A lunar halo at 9 o'clock this evening.,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-15,NA,NA,NA,NA,25,34,26,28.33,NA,NA,NA,NA,NA,3,0,0,Cirro-cumulus,0,2,0,Cumulus,2,0,0,Cirrus,South,1,South-South-East,4,South-South-East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-16,NA,NA,NA,NA,15,36,34,28.33,NA,NA,NA,NA,NA,5,0,0,Cumulus,North-East,7,5,Cumulus,8,South,5,Nimbus,East,1,East,2,East,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-17,NA,NA,NA,NA,30,40,26,32,NA,NA,NA,NA,NA,3,0,0,Cirro-cumulus,0,4,0,Cirro-cumulus,8,0,0,Nimbus,0,0,West,2,West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-18,NA,NA,NA,NA,22,30,15,19,snow,2:00 PM,8:00 PM,NA,NA,7,0,0,Nimbus,0,10,0,Nimbus,7,0,0,Nimbus,0,0,North-West,1,North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-19,NA,NA,NA,NA,13,25,24,17.66,NA,NA,NA,NA,NA,1,0,0,Cirro-stratus,0,2,0,Cirro-cumulus,10,0,0,Nimbus,0,0,South-West,2,South-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-20,NA,NA,NA,NA,22,34,24,23.33,snow,7:00 AM,Retracted,NA,NA,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,South,2,0,0,0,0,Ice commencing to drift from the Liaur River,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-21,[Snow] in the night,NA,NA,NA,30,43,30,34.33,,Retracted,in the night,,,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,0,0,East,1,South-South-East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-22,NA,NA,NA,NA,15,33,32,23.33,NA,NA,NA,NA,NA,4,0,0,Cumulus,0,1,0,Cirrus,1,0,0,Stratus,South-South-East,2,East,3,North,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-23,NA,NA,NA,NA,27,33,27,25.66,NA,NA,NA,NA,NA,1,0,0,Cirrus,0,2,0,Stratus,6,0,0,Cumulus,North,2,West,2,West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-24,NA,NA,NA,NA,24,30,23,25.66,snow,6:00 AM,10:00 PM,NA,NA,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,North-North-West,1,North-West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-25,NA,NA,NA,NA,15,31,18,21.33,NA,NA,NA,NA,NA,4,0,0,Cirro-cumulus,0,6,0,Cumulus,6,0,0,Cumulus,North-West,1,West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-26,NA,NA,NA,NA,17,22,17,18.66,NA,NA,NA,NA,NA,6,0,0,Cumulus,0,2,0,Stratus,1,0,0,0,0,0,0,0,South-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-27,NA,NA,NA,NA,10,20,18,16,NA,NA,NA,NA,NA,9,0,0,Nimbus,0,7,0,Nimbus,6,0,0,Nimbus,South-West,1,North-West,1,North-West,1,A faint aurora tonight but did not continue long,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-28,NA,NA,NA,NA,12,19,17,16,NA,NA,NA,NA,NA,1,0,0,Cumulus,0,0,0,Cirrus,3,0,0,Cirrus,0,0,West,1,East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-29,NA,NA,NA,NA,13,22,10,15,NA,NA,NA,NA,NA,6,0,0,Cumulus,0,6,0,Cumulus,4,0,0,Cumulus,East-South-East,1,East,1,North,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-30,NA,NA,NA,NA,10,15,12,12.33,NA,NA,NA,NA,NA,5,0,0,Cirro-cumulus,0,2,0,Cumulus,3,0,0,Cumulus,West,2,North-West,2,West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-10-31,NA,NA,NA,NA,10,20,18,16,NA,NA,NA,NA,NA,6,0,0,Nimbus,0,8,0,Nimbus,10,0,0,Nimbus,0,0,0,0,South-East,2,A thick mist with hoar frost nearly the whole day.,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-01,NA,NA,NA,NA,21,25,22,22.66,NA,NA,NA,NA,NA,9,0,0,Nimbus,0,7,0,Nimbus,8,0,0,Nimbus,East,1,East,1,South-South-East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-02,NA,NA,NA,NA,18,25,21,21.33,NA,NA,NA,NA,NA,4,0,0,Cumulo-stratus,East,4,3,Cumulo-stratus,0,0,0,0,East-South-East,2,North-North-East,1,North-North-East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-03,NA,NA,NA,NA,17,21,10,16,NA,NA,NA,NA,NA,9,0,0,Stratus Nimbus,0,4,0,Cirro-stratus,2,0,0,Cumulo-stratus,West-South-West,1,0,0,West-South-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-04,NA,NA,NA,NA,10,20,12,14,snow,9:00 AM,in night,,1.5,6,0,0,Nimbus Cumulus,0,10,0,Nimbus,10,0,0,Nimbus,South-West,2,West,2,North-West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-05,NA,NA,NA,NA,15,16,9,13.33,Empty,NA,NA,NA,NA,7,0,0,Stratus Nimbus,North-West,4,2,Cumulus,2,0,0,Cumulus,West,1,North-West,3,North-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-06,NA,NA,NA,NA,10,18,15,14.33,snow,10:00 AM,4:00 PM,NA,0.75,9,0,0,Stratus Nimbus,0,10,0,Nimbus,8,0,0,Nimbus,West-South-West,1,South-West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-07,NA,NA,NA,NA,13,15,8,12,snow,6:00 AM,3:00 PM,NA,0.5,10,0,0,Nimbus,0,10,0,Nimbus,6,0,0,Stratus Nimbus,0,0,North-West,2,North-North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-08,NA,NA,NA,NA,4,9,-3,4.33,NA,NA,NA,NA,NA,10,0,0,Nimbus,0,7,0,Nimbus Cumulus,7,0,0,Nimbus Cumulus,North-North-West,1,North-North-West,1,North-North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-09,NA,NA,NA,NA,-1,4,2,2,NA,NA,NA,NA,NA,10,0,0,Nimbus,0,6,0,Stratus Nimbus,8,0,0,Nimbus,West,2,West,2,West,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-10,NA,NA,NA,NA,3,5,4,4,NA,NA,NA,NA,NA,7,West,1,Cumulus,West,6,1,Cumulus,6,0,0,Cumulus,West,1,West,1,West-South-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-11,NA,NA,NA,NA,5,10,6,7,NA,NA,NA,NA,NA,5,0,0,Cumulo-stratus,0,6,0,Cumulo-stratus,6,0,0,Cumulus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-12,NA,NA,NA,NA,7,15,0,7.33,NA,NA,NA,NA,NA,6,East,3,Cumulo-stratus,0,1,0,Cirro-stratus,2,0,0,Cirro-stratus,East,3,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-13,NA,NA,NA,NA,-7,-5,5,1.66,NA,NA,NA,NA,NA,1,0,0,Cirro-stratus,0,3,0,Cirro-stratus,1,0,0,Cirrus,South-East,1,South-East,1,South-East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-14,NA,NA,NA,NA,12,23,15,16.66,NA,NA,NA,NA,NA,5,South,1,Cumulo-stratus,0,7,0,Cumulus,8,0,0,Nimbus,South-West,3,South-West,1,West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-15,NA,NA,NA,NA,3,4,-7,2.33,NA,NA,NA,NA,NA,4,0,0,Cirro-stratus,0,1,0,Cumulus,1,0,0,Cirrus,West,1,North-West,1,North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-16,NA,NA,NA,NA,-12,-6,-4,-7.33,NA,NA,NA,NA,NA,3,0,0,Stratus,0,3,0,Stratus,3,0,0,Cumulo-stratus,South-West,1,South,1,South-East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-17,NA,NA,NA,NA,-4,-1,-3,-2.66,NA,NA,NA,NA,NA,4,0,0,Cumulo-stratus,0,6,0,Stratus Nimbus,1,0,0,Stratus,South-East,2,South-East,2,East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-18,NA,NA,NA,NA,-3,0,-2,-1.66,NA,NA,NA,NA,NA,7,0,0,Nimbus Cumulus,0,5,0,Nimbus,4,0,0,Cumulus,South-West,1,South-West,1,West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-19,NA,NA,NA,NA,-3,-5,-6,-4.66,snow,4:00 PM,Retracted,NA,NA,10,0,0,Nimbus,0,6,0,Cumulo-stratus,10,0,0,Nimbus,North-West,3,North-West,2,North-West,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-20,NA,NA,NA,NA,-10,-7,-10,-9,NA,Retracted,11:00 AM,NA,2,10,0,0,Nimbus,0,5,0,Cumulus,5,0,0,Cumulus,North-West,4,West,2,West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-21,NA,NA,NA,NA,-5,-2,-7,-4.66,NA,NA,NA,NA,NA,7,0,0,Nimbus Cumulus,0,6,0,Nimbus,4,0,0,Cumulus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-22,NA,NA,NA,NA,-7,-5,-6,-6,snow,4:00 AM,in night,,2,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,0,0,West,1,West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-23,NA,NA,NA,NA,-10,-8,-11,-9,snow,10:00 AM,in night,,0.5,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,West,2,West,4,North-West,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-24,drifting,NA,NA,NA,-9,-7,-8,-8,NA,NA,NA,NA,NA,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,North-West,4,North-West,4,West,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-25,drifting,NA,NA,NA,-11,-14,-15,-13.33,NA,NA,NA,NA,NA,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,North-West,7,North-West,7,North-West,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-26,drifting,NA,NA,NA,-9,-10,-11,-10,,,,,,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,North-West,7,North-West,7,North-West,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-27,drifting,NA,NA,NA,-10,-8,-11,-9.66,NA,NA,NA,NA,NA,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,North-West,7,North-West,7,North-West,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-28,NA,NA,NA,NA,-15,-12,-16,-14.33,NA,NA,NA,NA,NA,5,0,0,Cumulus,0,2,0,Cumulo-stratus,4,0,0,Cumulo-stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-29,NA,NA,NA,NA,-12,-9,-12,-13,NA,NA,NA,NA,NA,5,0,0,Cumulo-stratus,0,1,0,Stratus,0,0,0,Stratus,West,2,West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-11-30,NA,NA,NA,NA,-14,-12,-15,-13.16,NA,NA,NA,NA,NA,4,0,0,Cumulus,0,4,0,Cumulus,3,0,0,Cumulo-stratus,0,0,North-West,2,North-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-01,NA,NA,NA,NA,-35,-30,-37,-34,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,West,1,West,1,0,0,"An aurora at 9 o'clock in rays, crosses + streamers over the quarter part of the sky. And remained partly much so the whole evening.",NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-02,NA,NA,NA,NA,-38,-34,-25,-29,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,0,0,0,0,East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-03,NA,NA,NA,NA,-10,-10,-20,-13.33,NA,NA,NA,NA,NA,6,0,0,Nimbus,0,4,0,Cumulus,0,0,0,0,West,3,West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-04,NA,NA,NA,NA,-27,-19,-18,-21.33,snow,11:00 AM,3:00 PM,NA,0.25,4,0,0,Stratus Nimbus,0,10,0,Nimbus,0,0,0,Nimbus,West,1,West,3,West,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-05,drifting,NA,NA,NA,-22,-20,-30,-24,Drifting,7:00 PM,,,,10,0,0,Nimbus,0,10,0,Nimbus,6,0,0,Stratus,North-West,6,North-West,6,West,2,An aurora in one large magnficient arch running from E to W directly across the zenith. Very bright silvery white with the ends of the arch a little singed with yellow,None,None,None,None,NA,NA,NA,NA
+1861-12-06,NA,NA,NA,NA,-40,-37,-40,-39,NA,NA,NA,NA,NA,8,0,0,Stratus,0,2,0,Stratus,0,0,0,0,0,0,0,0,East,1,Faint patches of Aurora of a smokey color the edges tinged with pink,None,None,None,None,NA,NA,NA,NA
+1861-12-07,NA,NA,NA,NA,-41,-38,-41,-40,NA,NA,NA,NA,NA,1,0,0,0,0,0,0,0,0,0,0,0,East,3,East,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-08,NA,NA,NA,NA,-45,-39,-44,-43.66,NA,NA,NA,NA,NA,2,0,0,Stratus,0,0,0,0,0,0,0,0,West,1,West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-09,NA,NA,NA,NA,-38,-39,-43,-40,NA,NA,NA,NA,NA,3,0,0,Cumulo-stratus,0,0,0,0,0,0,0,0,West,2,West,2,West,1,At 8 o'clock an Aurora in streamers over whole sky. rather faint at 9 much brighter at 10 much scattered,None,None,None,None,NA,NA,NA,NA
+1861-12-10,NA,NA,NA,NA,-45,-40,-38,-41,NA,NA,NA,NA,NA,2,0,0,Cirro-stratus,0,0,0,0,0,0,0,0,East,2,East,1,East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-11,NA,NA,NA,NA,-35,-30,-20,-28.33,snow,9:00 AM,In night,,1.5,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,West,3,West,5,North-West,5,Faint rays of Aurora in S and S.W.,None,None,None,None,NA,NA,NA,NA
+1861-12-12,NA,NA,NA,NA,-20,-22,-15,-19,NA,NA,NA,NA,NA,1,0,0,Stratus,0,4,0,Cirro-stratus,2,0,0,Stratus,North-West,1,West,1,West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-13,NA,NA,NA,NA,-23,-22,-24,-23,snow,6:00 PM,In night,,0.5,6,0,0,Nimbus,0,8,0,Nimbus,10,0,0,Nimbus,North-West,3,North-West,2,North-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-14,NA,NA,NA,NA,-27,-27,-37,-30.33,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,1,0,0,Stratus,West,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-15,NA,NA,NA,NA,-35,-26,-30,-30.33,NA,NA,NA,NA,NA,4,0,0,Stratus Nimbus,0,5,0,Stratus Nimbus,1,0,0,Stratus,0,0,0,0,0,0,A lunar halo about 7 o'clock which shortly afterwards disappeared,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-16,NA,NA,NA,NA,-28,-27,-24,-26.33,NA,NA,NA,NA,NA,4,0,0,Cumulo-stratus,0,7,0,Cumulus,0,0,0,0,West,1,West,1,0,0,Lunar halo again tonight very clear and bright at 9 o'clock,None,None,None,None,NA,NA,NA,NA
+1861-12-17,NA,NA,NA,NA,-27,-28,-35,-30,NA,NA,NA,NA,NA,2,0,0,Cirro-stratus,0,1,0,Stratus,2,0,0,Cumulo-stratus,East,1,East,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-18,NA,NA,NA,NA,-37,-30,-25,-30.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,5,0,0,Cirro-stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-19,NA,NA,NA,NA,-27,-20,-15,-20.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,2,0,0,Cumulo-stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-20,NA,NA,NA,NA,-5,-7,-14,-8.66,snow,10:00 AM,4:00 PM,NA,0.5,6,0,0,Nimbus,0,10,0,Nimbus,6,0,0,Nimbus,0,0,South-East,3,South-East,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-21,NA,NA,NA,NA,-20,-18,-25,-21,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-22,NA,NA,NA,NA,-26,-24,-15,-21.66,NA,NA,NA,NA,NA,3,0,0,Cumulo-stratus,0,4,0,Cumulo-stratus,2,0,0,Stratus,South-East,1,East,2,East,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-23,NA,NA,NA,NA,-10,0,-5,-5,snow,7:00 AM,In night,,1,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,0,0,West,2,West,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-24,NA,NA,NA,NA,-10,-12,-15,-12.33,NA,NA,NA,NA,NA,10,0,0,Nimbus,0,6,0,Cumulo-stratus,6,0,0,Cumulo-stratus,North-West,4,North-West,3,North-West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-25,NA,NA,NA,NA,-20,-20,-25,-21.66,NA,NA,NA,NA,NA,4,0,0,Nimbus,0,4,0,Stratus Nimbus,0,0,0,0,West,2,West,1,West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-26,NA,NA,NA,NA,-28,-27,-38,-31,NA,NA,NA,NA,NA,6,0,0,Stratus Nimbus,0,5,0,Stratus Nimbus,0,0,0,0,West,1,West,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-27,NA,NA,NA,NA,-47,-46,-51,-47,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-28,NA,NA,NA,NA,-50,-38,-35,-41,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,South-East,1,South-East,2,An Aurora at 8 o'clock arch markedly bright S to W. All 15 degrees of yellowish color at 9 o'clock much brighter at 10,The arch was scarcely visible but a great many patches were seen,NA,NA,NA,NA,NA,NA,NA
+1861-12-29,NA,NA,NA,NA,-49,-40,-45,-44.66,NA,NA,NA,NA,NA,3,0,0,Cirro-stratus,0,1,0,Stratus,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-30,NA,NA,NA,NA,-44,-31,-25,-33.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,South-East,1,South-East,2,South-East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1861-12-31,NA,NA,NA,NA,-18,-19,-12,-16.33,snow,11:00 AM,In night,,1,6,0,0,Stratus Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,South-East,2,South-East,2,South-East,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-01,NA,NA,NA,NA,-15,-15,-20,-16.66,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,West,1,0,0,0,0,Patches of irregular Aurora in the North & North West irregular in shape & faint in brightness,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-02,NA,NA,NA,NA,-14,-10,-10,-11.33,NA,NA,NA,NA,NA,2,0,0,Cumulo-stratus,0,6,0,Cumulo-stratus,4,0,0,Cumulo-stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-03,NA,NA,NA,NA,-7,-5,-10,-7.33,NA,NA,NA,NA,NA,7,0,0,Cumulo-stratus,0,2,0,Cirro-stratus,0,0,0,0,West,1,South-East,1,South-East,1,Aurora in the North. Scattered of a smoky color. Disappeared between 9 & 10 o'clock,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-04,NA,NA,NA,NA,6,10,-2,6,NA,NA,NA,NA,NA,4,0,0,Cumulo-stratus,0,2,0,Cumulus,1,0,0,Cumulo-stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-05,NA,NA,NA,NA,-3,-1,-10,-4.66,snow,in night,11:00 AM,NA,1.5,10,0,0,Nimbus,0,7,0,Stratus Nimbus,4,0,0,Nimbus Stratus,0,0,North-North-West,4,North-North-West,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-06,NA,NA,NA,NA,-10,-9,-10,-9.66,NA,NA,NA,NA,NA,2,0,0,Stratus Nimbus,0,4,0,Cumulo-stratus,0,0,0,0,North-West,3,North-West,3,North-West,6,Halo around tne Moon during the first part of the evening. Disappeared about 8 o'clock at which time the wind increased,None,None,None,None,NA,NA,NA,NA
+1862-01-07,NA,NA,NA,NA,-15,-21,-33,-23,NA,NA,NA,NA,NA,7,0,0,Nimbus,0,8,0,Stratus,0,0,0,0,North-West,4,North-West,3,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-08,NA,NA,NA,NA,-40,-38,-35,-35,NA,NA,NA,NA,NA,2,0,0,Stratus,0,1,0,Stratus,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-09,NA,NA,NA,NA,-37,-27,-20,-28,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,South-East,1,South-East,1,Faint patches of Aurora in the N and NW,None,None,None,None,NA,NA,NA,NA
+1862-01-10,NA,NA,NA,NA,-10,-12,-19,-13.66,NA,NA,NA,NA,NA,3,0,0,Cirro-stratus,0,4,0,Cirro-stratus,2,0,0,Stratus,North-North-West,4,North-West,3,North-West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-11,NA,NA,NA,NA,-11,-10,-12,-11,NA,NA,NA,NA,NA,0,0,0,0,0,8,0,Stratus,0,0,0,0,0,0,0,0,0,0,Aurora in bands all around the horizon of a dull smoky color,None,None,None,None,NA,NA,NA,NA
+1862-01-12,NA,NA,NA,NA,-36,-19,-10,-21.66,snow,8:00 PM,Empty,,,4,0,0,Stratus Nimbus,0,1,0,Nimbus,10,0,0,Nimbus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-13,NA,NA,NA,NA,-15,-14,-13,-14,snow,Empty,11:00 AM,2.75,,10,0,0,Nimbus,0,1,0,Stratus Nimbus,0,0,0,0,North-West,1,North-West,1,West,4,Lunar Halo very bright at 9 o'clock disappeared shortly after 10 o'clock,None,None,None,None,NA,NA,NA,NA
+1862-01-14,NA,NA,NA,NA,-38,-30,-35,-34.33,NA,NA,NA,NA,NA,2,0,0,Stratus,0,2,0,Stratus,2,0,0,Stratus,West,5,West,2,West,1,Aurora in irregular masses. Motion rapid. Colour palish green. Brightest about 8 o'clock. Disappeared about 1/2 past 9,None,None,None,None,NA,NA,NA,NA
+1862-01-15,NA,NA,NA,NA,-11,-4,-4,-5.66,snow,2:00 PM,10:00 PM,1.25,NA,3,0,0,Stratus Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,0,0,South-East,2,North-East,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-16,NA,NA,NA,NA,-21,-25,-27,-24.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,4,0,0,Cumulus,West-South-West,2,West-South-West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-17,NA,NA,NA,NA,-21,-20,-29,-23.33,NA,NA,NA,NA,NA,5,0,0,Stratus Nimbus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-18,NA,NA,NA,NA,-36,-15,-24,-25,NA,NA,NA,NA,NA,2,0,0,Stratus,0,4,0,Cumulo-stratus,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-19,NA,NA,NA,NA,-34,-25,-23,-27.33,NA,NA,NA,NA,NA,2,0,0,Cumulo-stratus,0,3,0,Cirro-stratus,3,0,0,Cumulo-stratus,South-East,1,South-East,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-20,NA,NA,NA,NA,-15,-16,-18,-16.33,snow,in night,6:00 PM,2,NA,10,0,0,Nimbus,Retracted,10,0,Nimbus,7,0,0,Nimbus,North-West,3,South-West,2,South-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-21,NA,NA,NA,NA,-35,-24,-20,-26.33,NA,NA,NA,NA,NA,4,0,0,Cumulo-stratus,0,7,0,Stratus Nimbus,0,0,0,0,0,0,0,0,0,0,"A splendid display of aurora tonight. Streamer crossed the whole sky. Motion very rapid, but no sound could be","heard. Colors various, but pale pink prevailed",NA,NA,NA,NA,NA,NA,NA
+1862-01-22,NA,NA,NA,NA,-31,-25,-20,-28.66,NA,NA,NA,NA,NA,5,0,0,Stratus Nimbus,0,0,0,0,0,0,0,0,South-West,3,South-West,2,South-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-23,NA,NA,NA,NA,-32,-22,-20,-25,snow,6:00 PM,in night,0.5,NA,3,0,0,Stratus Nimbus,0,7,0,Nimbus,10,0,0,Nimbus,West,1,West,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-24,NA,NA,NA,NA,-23,-15,-33,-23.66,NA,NA,NA,NA,NA,10,0,0,Nimbus,0,6,0,Nimbus,0,0,0,0,0,0,0,0,0,0,Aurora in patches and bands but little motion. Colour faint,None,None,None,None,NA,NA,NA,NA
+1862-01-25,NA,NA,NA,NA,-41,-30,-37,-36,NA,NA,NA,NA,NA,3,0,0,Stratus,0,0,0,0,0,0,0,0,West,2,West,1,0,0,Fine display of aurora again tomight. A magnificient arch ran distinctly across the zenith from E to W with two,or three smaller ones towards the Northern horizon. Very little motion. Color of silvery brightness,NA,NA,NA,NA,NA,NA,NA
+1862-01-26,NA,NA,NA,NA,-37,-12,-7,-18.66,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-27,NA,NA,NA,NA,-5,-12,-30,-15.66,NA,NA,NA,NA,NA,1,0,0,Stratus Nimbus,0,2,0,Stratus,0,0,0,0,North-West,2,West-South-West,3,West-South-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-28,NA,NA,NA,NA,-43,-24,-26,-31,NA,NA,NA,NA,NA,1,0,0,Stratus,0,3,0,Cirro-stratus,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-29,NA,NA,NA,NA,-18,-10,-5,-11,NA,NA,NA,NA,NA,6,0,0,Cirro-stratus,0,4,0,Cirro-stratus,4,0,0,Stratus,South-West,1,South-West,1,South-West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-30,NA,NA,NA,NA,-3,-3,-7,-4.33,NA,NA,NA,NA,NA,7,0,0,Stratus Nimbus,0,6,0,Stratus Nimbus,6,0,0,Stratus Nimbus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-01-31,NA,NA,NA,NA,-15,-5,-6,-8.66,snow,9:00 AM,in night,2,NA,9,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-01,NA,NA,NA,NA,-20,-18,-22,-20,NA,NA,NA,NA,NA,6,0,0,Stratus Nimbus,0,4,0,Cirro-stratus,0,0,0,0,0,0,West,1,West,3,A few faint patches of Aurora in the N and NE brightest at 8 o'clock died gradually away about 9.30,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-02,NA,NA,NA,NA,-35,-15,-26,-25.33,NA,NA,NA,NA,NA,4,0,0,Stratus,0,1,0,Stratus,0,0,0,0,0,0,South,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-03,NA,NA,NA,NA,-32,-26,-23,-30.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,West,3,West,2,West,1,"A single blotch of Aurora in the NE very faint in color, and did not continue long",None,None,None,None,NA,NA,NA,NA
+1862-02-04,NA,NA,NA,NA,-40,-20,-35,-31.66,NA,NA,NA,NA,NA,2,0,0,Stratus,0,1,0,Cumulo-stratus,0,0,0,0,0,0,North-West,1,North-West,1,Aurora in a small arch running from East to West. Color pink with faint stripes of yellow.  Motion rather quick. Brightest about 10 o'clock,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-05,NA,NA,NA,NA,-38,-15,-23,-25.33,NA,NA,NA,NA,NA,4,0,0,Stratus Nimbus,0,3,0,Cumulo-stratus,1,0,0,Stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-06,NA,NA,NA,NA,-30,-14,-17,-20.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,2,0,Cirro-stratus,1,0,0,Cirro-stratus,West,1,West,1,West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-07,NA,NA,NA,NA,-20,-13,-7,-13.33,snow,11:00 AM,in night,2,NA,3,0,0,Stratus Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,South-East,2,South-East,5,South-East,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-08,NA,NA,NA,NA,-10,-4,-5,-6.33,NA,NA,NA,NA,NA,4,0,0,Stratus Nimbus,0,3,0,Cumulo-stratus,1,0,0,Cumulo-stratus,0,0,West,1,West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-09,NA,NA,NA,NA,-4,-1,-6,-3.33,snow,12:00 AM,Retracted,NA,NA,5,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,West,3,North-West,2,North-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-10,NA,NA,NA,NA,-10,-7,-10,-9,snow,Retracted,4:00 PM,8,NA,10,0,0,Nimbus,0,10,0,Nimbus,7,0,0,Nimbus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-11,NA,NA,NA,NA,-17,-10,-11,-12.66,NA,NA,NA,NA,NA,6,0,0,Nimbus,0,4,0,Cumulus,2,0,0,Cumulo-stratus,West-North-West,2,West-North-West,1,West-North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-12,NA,NA,NA,NA,-20,-12,-16,-16,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bands and patches of aurora in the North and North-east of a steel color but little motion. All disappreaed suddenly between 9 and 10 o'clock,None,None,None,None,NA,NA,NA,NA
+1862-02-13,NA,NA,NA,NA,-40,-19,-12,-20.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,2,0,Cumulo-stratus,4,0,0,Cumulo-stratus,0,0,South-East,1,South-East,1,A Lunar Halo very bright at 7 o'clock disappeared a little after 9,None,None,None,None,NA,NA,NA,NA
+1862-02-14,NA,NA,NA,NA,-5,0,-2,-2.33,snow,4:00 AM,in night,3,NA,5,0,0,Nimbus,0,5,0,Nimbus,10,0,0,Nimbus,South-East,3,South-East,2,South-East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-15,NA,NA,NA,NA,-3,-2,-10,-4.33,NA,NA,NA,NA,NA,8,0,0,Stratus Nimbus,0,6,0,Stratus Nimbus,3,0,0,Stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-16,NA,NA,NA,NA,2,13,5,10,NA,NA,NA,NA,NA,7,0,0,Nimbus,0,4,0,Cumulo-stratus,3,0,0,Cumulo-stratus,North-West,5,North-West,3,North-West,1,Patches of Aurora in the East but very faint and indistinct,None,None,None,None,NA,NA,NA,NA
+1862-02-17,NA,NA,NA,NA,11,7,-12,6,NA,NA,NA,NA,NA,6,0,0,Stratus Nimbus,0,3,0,Stratus Nimbus,0,0,0,0,West,2,West-North-West,3,North-West,1,Aurora in a faint arch from SE to NW brightest at 9 o'clock the last time I saw it. Little or no motion observable at that time,None,None,None,None,NA,NA,NA,NA
+1862-02-18,NA,NA,NA,NA,-17,-2,0,-6.33,NA,NA,NA,NA,NA,2,0,0,Stratus,0,0,0,0,4,0,0,Stratus Nimbus,0,0,South-East,1,South,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-19,NA,NA,NA,NA,4,14,10,9.33,NA,NA,NA,NA,NA,6,0,0,Stratus Nimbus,North-West,5,2,Cumulus,4,0,0,Nimbus,0,0,0,0,North-West,1,A fine display of Aurora. 2 distinct arches one across the zenith from SE to NW the other from E to N alt about 25. Both,"were exceedingly bright ad beautiful. Colors prismatic. In addition to the arches there were also many curves, rays, & streamers interspersed nearly all over the sky.",NA,Colors varied and their motion was very rapid. The brightest appearance was at 9.30 when I retired. No sound was audible,NA,NA,NA,NA,NA
+1862-02-20,NA,NA,NA,NA,15,7,-5,7.33,snow,in night,11:00 AM,2.75,NA,10,0,0,Nimbus,North-West,5,2,Cirro-cumulus,0,0,0,0,North-West,8,North-West,8,North-North-East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-21,NA,NA,NA,NA,-25,-8,-5,-16.66,NA,NA,NA,NA,NA,3,0,0,Cumulo-stratus,0,2,0,Stratus,0,0,0,0,0,0,0,0,North-North-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-22,NA,NA,NA,NA,-12,-15,-27,-18,NA,NA,NA,NA,NA,6,0,0,Nimbus,0,8,0,Nimbus,3,0,0,Stratus Nimbus,North-North-West,3,North-North-West,8,North-North-West,6,Aurora in a small arch at the North-east. Color dull. No motion,None,None,None,None,NA,NA,NA,NA
+1862-02-23,NA,NA,NA,NA,-37,-13,-31,-27,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,0,0,North-West,1,North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-24,NA,NA,NA,NA,-34,-17,-21,-24,NA,NA,NA,NA,NA,7,0,0,Stratus Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,North-North-West,2,North-North-West,4,West-North-West,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-25,NA,NA,NA,NA,-23,-15,-20,-19.33,NA,NA,NA,NA,NA,10,0,0,Nimbus,North-West,5,4,Cumulus,2,0,0,Stratus,North-West,2,North-West,4,North-West,1,A beautiful Parhelia shortly after sun-rise. The circle was nearly complete. At the Zenith and Horizon it appeared double. The colors prismatic. In about a half an hour it disappeared,None,None,None,None,NA,NA,NA,NA
+1862-02-26,NA,NA,NA,NA,-30,-22,-25,-25.66,NA,NA,NA,NA,NA,3,0,0,Cirro-stratus,0,2,0,Cumulus,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-02-27,NA,NA,NA,NA,-37,-12,-29,-26,NA,NA,NA,NA,NA,0,0,0,0,0,1,0,Stratus,0,0,0,0,0,0,0,0,0,0,Aurora in irregular patches from 7 to 10 o'clock. Color dusky. Motion slight,None,None,None,None,NA,NA,NA,NA
+1862-02-28,NA,NA,NA,NA,-42,-17,-30,-30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-01,NA,NA,NA,NA,-21,-9,-23,-17.66,NA,NA,NA,NA,NA,2,0,0,Cirro-stratus,0,1,0,Cirrus,0,0,0,0,South-East,1,South-East,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-02,NA,NA,NA,NA,-34,-10,-17,-20.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,1,0,Cirro-stratus,3,0,0,Stratus Nimbus,0,0,South-West,1,South-West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-03,NA,NA,NA,NA,-19,0,-11,-10,NA,NA,NA,NA,NA,2,0,0,Cirro-cumulus,0,4,0,Cirro-stratus,0,0,0,0,West,1,South-West,1,South-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-04,NA,NA,NA,NA,-18,8,-1,-6.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,0,0,East,1,East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-05,NA,NA,NA,NA,0,15,1,-5.33,NA,NA,NA,NA,NA,1,0,0,Cirrus,0,0,0,0,0,0,0,0,West,1,West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-06,NA,NA,NA,NA,-5,-4,0,-3,snow,11:00 AM,in night,NA,1.25,5,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,West,3,North-North-West,4,North-North-West,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-07,NA,NA,NA,NA,-4,-1,-9,-4.66,NA,NA,NA,NA,NA,8,North-West,5,Nimbus Cumulus,North-West,7,5,Nimbus,10,0,0,Nimbus,North-West,6,North-West,6,North-West,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-08,NA,NA,NA,NA,-14,-6,-12,-14,NA,NA,NA,NA,NA,7,0,0,Nimbus,0,4,0,Cumulus,0,0,0,0,North-West,4,North-West,4,North-West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-09,NA,NA,NA,NA,-18,-3,-15,-12,NA,NA,NA,NA,NA,5,0,0,Stratus Nimbus,0,2,0,Stratus,0,0,0,0,West-North-West,3,West-North-West,3,West-North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-10,NA,NA,NA,NA,-24,-4,-8,-12,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,South-East,1,South-East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-11,NA,NA,NA,NA,-11,-7,-9,-9,NA,NA,NA,NA,NA,0,0,0,0,0,3,0,Cumulus,1,0,0,Cumulus,South-East,3,South-East,2,West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-12,NA,NA,NA,NA,-14,5,-11,-8.33,NA,NA,NA,NA,NA,3,0,0,Cumulo-stratus,0,0,0,0,1,0,0,Stratus,West,2,West,2,West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-13,NA,NA,NA,NA,-4,17,4,-5.66,NA,NA,NA,NA,NA,5,0,0,Cumulo-stratus,0,2,0,Cumulus,1,0,0,Cumulo-stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-14,NA,NA,NA,NA,5,20,8,11,snow,4:00 AM,3:00 PM,NA,2.5,10,0,0,Nimbus,0,10,0,Nimbus,6,South,3,Nimbus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-15,NA,NA,NA,NA,-5,20,15,10,NA,NA,NA,NA,NA,5,West,2,Nimbus,0,7,0,Cumulus,5,0,0,Nimbus,West,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-16,NA,NA,NA,NA,8,20,12,13.33,NA,NA,NA,NA,NA,7,0,0,Nimbus,0,4,0,Cumulo-stratus,0,0,0,0,West,2,North-West,3,North-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-17,NA,NA,NA,NA,10,20,15,16,NA,NA,NA,NA,NA,8,0,0,Nimbus,0,6,0,Cumulus,3,0,0,Stratus,North-West,1,North-West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-18,NA,NA,NA,NA,16,21,18,18.33,snow,10:00 AM,night,NA,1,6,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,East,2,East,2,East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-19,NA,NA,NA,NA,14,22,2,12.66,NA,NA,NA,NA,NA,5,0,0,Stratus Nimbus,0,3,0,Cumulo-stratus,1,0,0,Stratus,South-East,1,South-East,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-20,NA,NA,NA,NA,4,30,18,17.33,NA,NA,NA,NA,NA,2,0,0,Cirro-stratus,0,2,0,Cirro-stratus,0,0,0,0,0,0,North-West,1,North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-21,NA,NA,NA,NA,7,15,12,14.66,NA,NA,NA,NA,NA,3,0,0,Cirro-stratus,0,6,0,Stratus Nimbus,2,0,0,Nimbus,North-West,3,North-West,3,North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-22,NA,NA,NA,NA,3,28,17,16,NA,NA,NA,NA,NA,2,0,0,Stratus,0,1,0,Stratus,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-23,NA,NA,NA,NA,7,15,5,9,snow,6:00 AM,10:00 AM,NA,0.25,10,0,0,Nimbus,0,5,0,Nimbus,4,0,0,Nimbus,West,1,North-West,2,North-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-24,NA,NA,NA,NA,6,19,17,14,NA,NA,NA,NA,NA,4,0,0,Cumulo-stratus,0,1,0,Stratus,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-25,NA,NA,NA,NA,11,17,8,12,NA,NA,NA,NA,NA,1,0,0,Stratus,0,4,0,Cirro-cumulus,6,0,0,Cumulus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-26,NA,NA,NA,NA,9,15,5,9.66,,6:00 AM,9:00 AM,NA,0.25,10,0,0,Nimbus,0,5,0,Cumulus,3,0,0,Cumulus,West-South-West,1,West-South-West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-27,NA,NA,NA,NA,1,9,3,4.33,NA,NA,NA,NA,NA,4,0,0,Nimbus,0,3,0,Cumulus,3,0,0,Cumulus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-28,NA,NA,NA,NA,2,4,-3,1,Empty,5:00 AM,4:00 PM,NA,1.5,10,0,0,Nimbus,0,10,0,Nimbus,7,0,0,Nimbus,North-West,4,North-West,4,North-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-29,NA,NA,NA,NA,-14,10,-4,-2.66,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,West,1,West,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-30,NA,NA,NA,NA,10,14,-5,6.33,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-03-31,NA,NA,NA,NA,-9,11,-3,-0.33,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,1,0,0,Stratus,0,0,North-West,1,North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-01,NA,NA,NA,NA,-4,14,-5,1.66,NA,NA,NA,NA,NA,2,0,0,Cirro-stratus,0,4,0,Cirro-cumulus,1,0,0,Cumulus,West,1,West,3,West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-02,NA,NA,NA,NA,-6,9,0,3,NA,NA,NA,NA,NA,0,0,0,0,0,1,0,Stratus,2,0,0,Cumulo-stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-03,NA,NA,NA,NA,18,14,-3,10.66,NA,NA,NA,NA,NA,2,West,1,Cumulus,West,4,2,Cumulus,0,0,0,0,West,1,West,2,West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-04,NA,NA,NA,NA,7,18,8,11,NA,NA,NA,NA,NA,0,0,0,0,0,2,0,Cirro-stratus,1,0,0,Stratus,South,1,South-East,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-05,NA,NA,NA,NA,10,7,-6,3.66,NA,NA,NA,NA,NA,1,0,0,Cumulo-stratus,0,1,0,Cumulus,0,0,0,0,West-North-West,6,North-West,7,North-West,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-06,NA,NA,NA,NA,-3,0,-10,-4.33,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,West-North-West,4,West-North-West,3,West-North-West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-07,NA,NA,NA,NA,-10,6,-3,-2.33,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,South,2,South,2,South,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-08,NA,NA,NA,NA,-1,14,-4,3,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,South,1,South,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-09,NA,NA,NA,NA,-6,12,-3,1,NA,NA,NA,NA,NA,0,0,0,0,0,1,0,Stratus,3,0,0,Cumulo-stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-10,NA,NA,NA,NA,2,13,5,6.66,NA,NA,NA,NA,NA,2,0,0,Cumulo-stratus,0,1,0,Stratus,0,0,0,0,South-East,2,South-East,3,South-East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-11,NA,NA,NA,NA,10,21,13,14.66,NA,NA,NA,NA,NA,2,0,0,Cumulo-stratus,0,2,0,Stratus,5,South-East,2,Stratus Nimbus,South-East,2,South-East,5,South-East,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-12,NA,NA,NA,NA,14,30,18,20.66,snow,4:00 AM,7:00 AM,NA,0.25,10,0,0,Nimbus,South,6,2,Cumulus,4,West,2,Cumulus,South-East,4,South,2,South,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-13,NA,NA,NA,NA,17,30,27,24.66,NA,NA,NA,NA,NA,1,0,0,Stratus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-14,NA,NA,NA,NA,29,40,35,34.66,NA,NA,NA,NA,NA,5,0,0,Cumulus,South,2,1,Cumulus,0,0,0,0,0,0,South,1,South,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-15,NA,NA,NA,NA,38,47,38,44.33,NA,NA,NA,NA,NA,1,0,0,Cumulus,0,1,0,Stratus,2,0,0,Cumulo-stratus,South-East,1,South-East,1,South-East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-16,NA,NA,NA,NA,40,49,40,43,NA,NA,NA,NA,NA,0,0,0,0,0,3,0,Cirro-cumulus,3,0,0,Cirro-stratus,0,0,South,2,South,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-17,NA,NA,NA,NA,46,50,40,45.33,NA,NA,NA,NA,NA,3,0,0,Cumulo-stratus,0,2,0,Cumulus,1,0,0,Stratus,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-18,NA,NA,NA,NA,43,51,39,44.33,NA,NA,NA,NA,NA,1,0,0,Cirro-stratus,0,3,0,Cirro-cumulus,2,0,0,Cumulus,0,0,South-East,1,South-East,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-19,NA,NA,NA,NA,38,35,27,33.33,NA,NA,NA,NA,NA,2,0,0,Cirro-stratus,North-West,3,3,Cumulo-stratus,1,0,0,Stratus,North-West,2,North-West,4,North-West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-20,NA,NA,NA,NA,25,34,25,28,NA,NA,NA,NA,NA,2,0,0,Stratus,West,5,2,Stratus Nimbus,4,0,0,Stratus Nimbus,North-West,3,North-West,3,North-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-21,NA,NA,NA,NA,23,37,34,31.33,NA,NA,NA,NA,NA,6,0,0,Stratus Nimbus,0,7,0,Nimbus,8,0,0,Nimbus,0,0,0,0,East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-22,NA,NA,NA,NA,23,39,33,31.66,NA,NA,NA,NA,NA,7,0,0,Nimbus,East,5,2,Cumulus,2,0,0,Cumulo-stratus,East,2,East,2,South,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-23,NA,NA,NA,NA,25,38,33,32,NA,NA,NA,NA,NA,5,South-East,1,Stratus Nimbus,0,2,0,Cumulus,1,0,0,Stratus,South-East,2,East,1,East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-24,NA,NA,NA,NA,34,49,47,43.33,NA,NA,NA,NA,NA,3,West,1,Cumulus,0,2,0,Cumulus,7,0,0,Nimbus,South,1,South,1,West,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-25,NA,NA,NA,NA,26,29,24,26.33,snow,5:00 AM,6:00 PM,NA,1.75,10,0,0,Nimbus,0,10,0,Nimbus,10,0,0,Nimbus,North-West,3,North-West,4,North-West,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-26,NA,NA,NA,NA,25,37,35,32.33,NA,NA,NA,NA,NA,1,0,0,Stratus,West,5,1,Cumulus,2,0,0,Cumulo-stratus,West,1,South-East,1,South-East,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-27,NA,NA,NA,NA,39,55,48,47.33,NA,NA,NA,NA,Empty,3,0,0,Cumulo-stratus,South-West,5,3,Cumulus,2,0,0,Cumulo-stratus,East-South-East,1,South-South-West,4,South-West,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-28,NA,NA,NA,NA,52,56,45,51,NA,NA,NA,NA,NA,3,West,1,Cumulus,West,2,1,Cumulus,1,0,0,Stratus,0,0,0,0,West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-29,NA,NA,NA,NA,49,57,55,57,NA,NA,NA,NA,NA,4,0,0,Stratus Nimbus,South-East,3,2,Cirro-stratus,6,0,0,Stratus Nimbus,South-East,2,South-East,4,South-East,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1862-04-30,NA,NA,NA,NA,44,59,51,51.33,NA,NA,NA,NA,NA,6,0,0,Stratus Nimbus,0,5,0,Cumulo-stratus,3,0,0,Stratus,South-East,1,South-West,2,South-West,1,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,65 @@
+SEF	1.0.0
+ID	StJohnsCanada
+Name	StJohnsNFLDCas
+Lat	47.55
+Lon	307.28
+Alt	37.6
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ww
+Stat	point
+Unit	manual observation
+Meta		UTCOffset=Applied	UTCOffset=3.5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1868	11	17	00	00	24	AU	|	orig=Aurora slight Nov[ember] 17 evening mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-11-01_CP.jpg
+1868	11	19	00	00	24	-999	|	orig=Shotting starts Nov. 19 [at] 7:50pm - South to North, all 70 [degrees?] East. No trail left behind it mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-11-01_CP.jpg
+1868	11	19	00	00	24	AU	|	orig=Aurora slight Nov. 19 mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-11-01_CP.jpg
+1868	11	26	00	00	24	HALO	|	orig=Lunar halo, Nov. 26 evening mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-11-01_CP.jpg
+1868	11	30	00	00	24	HALO	|	orig=Ditto [Lunar halo in evening], Nov. 30th, evening mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-11-01_CP.jpg
+1868	12	02	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	03	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	05	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	06	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	07	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	08	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	09	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	11	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	12	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	13	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	14	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	15	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	16	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	17	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	18	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	19	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	20	00	00	24	-999	|	orig= mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_CP.jpg
+1868	12	20	00	00	24	-999	|	orig= mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_CP.jpg
+1868	12	20	00	00	24	-999	|	orig=dark cloud underneath mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_CP.jpg
+1868	12	20	00	00	24	-999	|	orig=no arch : no shooting rays : only considerable brightness mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_CP.jpg
+1868	12	20	00	00	24	AU	|	orig=9 PM slight aurora mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_CP.jpg
+1868	12	20	00	00	24	SN	|	orig=Snow still on the ground. Slight aurora mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	21	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	22	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	23	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	25	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	26	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	27	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	28	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	29	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	30	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1868	12	31	00	00	24	SN	|	orig=snow still on the ground mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1868-12-01_OBS-L.jpg
+1869	01	07	00	00	24	-999	|	orig= mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-01-01_CP.jpg
+1869	01	07	00	00	24	-999	|	orig= mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-01-01_CP.jpg
+1869	01	07	00	00	24	-999	|	orig= mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-01-01_CP.jpg
+1869	01	07	00	00	24	-999	|	orig= mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-01-01_CP.jpg
+1869	01	07	00	00	24	AU	|	orig=Slight aurora in evening. Stars very bright mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-01-01_CP.jpg
+1869	01	09	00	00	24	SN	|	orig=Ground only about a quarter covered with snow - opening of the new skating rink postponed on account of the thaw mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-01-01_CP.jpg
+1869	01	10	00	00	24	SN	|	orig=Ground only about a quarter covered with snow - opening of the new skating rink postponed on account of the thaw mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-01-01_CP.jpg
+1869	01	11	00	00	24	SN	|	orig=Ground only about a quarter covered with snow - opening of the new skating rink postponed on account of the thaw mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-01-01_CP.jpg
+1869	02	01	00	00	24	-999	|	orig= mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_CP.jpg
+1869	02	01	00	00	24	-999	|	orig= mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_CP.jpg
+1869	02	01	00	00	24	-999	|	orig= mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_CP.jpg
+1869	02	01	00	00	24	-999	|	orig=About the beginning of the month a small brig left here for Oporto, and was telegraphed as having arrived there on the 12th day after her departure from here - Even 21 days is considered a good passage generally. - at the end of the month a brig arrived here 90 days out from Sicily. - This will give some idea of the weather of late on the Atlantic mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_CP.jpg
+1869	02	01	00	00	24	-999	|	orig=Sea mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_CP.jpg
+1869	02	08	00	00	24	-999	|	orig=3 PM mock sun, northern side of sun mno|Local time: mean|QC flag: missing|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_CP.jpg
+1869	02	11	00	00	24	HALO	|	orig=2:30 PM - halo round sun mno|Local time: mean|QC flag: passed|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_CP.jpg
