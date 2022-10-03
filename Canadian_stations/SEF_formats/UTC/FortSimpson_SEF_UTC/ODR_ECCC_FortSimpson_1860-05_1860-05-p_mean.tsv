@@ -1,0 +1,44 @@
+SEF	1.0.0
+ID	FortSimpsonCanada
+Name	FortSimpson
+Lat	61.85
+Lon	238.58
+Alt	90
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	p
+Stat	mean
+Unit	hPa
+Meta		UTCOffset=Applied	UTCOffset=7
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1860	05	01	00	00	24	29.116	|	orig=29.116 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	02	00	00	24	29.124	|	orig=29.124 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	03	00	00	24	29.129	|	orig=29.129 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	04	00	00	24	29.111	|	orig=29.111 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	05	00	00	24	29.126	|	orig=29.126 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	06	00	00	24	29.116	|	orig=29.116 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	07	00	00	24	29.121	|	orig=29.121 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	08	00	00	24	29.122	|	orig=29.122 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	09	00	00	24	29.084	|	orig=29.084 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	10	00	00	24	29.107	|	orig=29.107 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	11	00	00	24	29.112	|	orig=29.112 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	12	00	00	24	29.092	|	orig=29.092 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	13	00	00	24	29.130	|	orig=29.130 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	14	00	00	24	29.130	|	orig=29.130 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	15	00	00	24	29.141	|	orig=29.141 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	16	00	00	24	29.150	|	orig=29.150 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	17	00	00	24	29.153	|	orig=29.153 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	18	00	00	24	29.175	|	orig=29.175 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	19	00	00	24	29.178	|	orig=29.178 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	20	00	00	24	29.178	|	orig=29.178 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	21	00	00	24	29.169	|	orig=29.169 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	22	00	00	24	29.181	|	orig=29.181 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	23	00	00	24	29.186	|	orig=29.186 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	24	00	00	24	29.181	|	orig=29.181 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	25	00	00	24	29.184	|	orig=29.184 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	26	00	00	24	29.175	|	orig=29.175 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	27	00	00	24	29.188	|	orig=29.188 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	28	00	00	24	29.202	|	orig=29.202 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	29	00	00	24	29.219	|	orig=29.219 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	30	00	00	24	29.214	|	orig=29.214 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
+1860	05	31	00	00	24	29.189	|	orig=29.189 inHg|Local time: mean|QC flag: none|Image File: FortSimpson_USSI-201_M1958_1860-05-01_OBS-L.jpg
