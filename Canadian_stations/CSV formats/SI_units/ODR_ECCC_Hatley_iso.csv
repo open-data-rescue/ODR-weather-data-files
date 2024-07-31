@@ -1,0 +1,214 @@
+,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
+1,Hatley,America/Montreal,0,1836-02-01,1836-02-01,empty,mno,daily_weather_remarks,129,384217,3020,2906
+2,Hatley,America/Montreal,0,1836-02-02,1836-02-02,snow much drifted,mno,daily_weather_remarks,129,384558,3020,2906
+3,Hatley,America/Montreal,0,1836-02-03,1836-02-03,empty,mno,daily_weather_remarks,129,384559,3020,2906
+4,Hatley,America/Montreal,0,1836-02-04,1836-02-04,empty,mno,daily_weather_remarks,129,384560,3020,2906
+5,Hatley,America/Montreal,0,1836-02-05,1836-02-05,empty,mno,daily_weather_remarks,129,384561,3020,2906
+6,Hatley,America/Montreal,0,1836-02-06,1836-02-06,empty,mno,daily_weather_remarks,129,384562,3020,2906
+7,Hatley,America/Montreal,0,1836-02-07,1836-02-07,empty,mno,daily_weather_remarks,129,384563,3020,2906
+8,Hatley,America/Montreal,0,1836-02-08,1836-02-08,empty,mno,daily_weather_remarks,129,384564,3020,2906
+9,Hatley,America/Montreal,0,1836-02-09,1836-02-09,empty,mno,daily_weather_remarks,129,384565,3020,2906
+10,Hatley,America/Montreal,0,1836-02-10,1836-02-10,snow badly drifted,mno,daily_weather_remarks,129,384566,3020,2906
+11,Hatley,America/Montreal,0,1836-02-11,1836-02-11,aurora borealis and zodiacal light very beautiful.,mno,daily_weather_remarks,129,384567,3020,2906
+12,Hatley,America/Montreal,0,1836-02-12,1836-02-12,empty,mno,daily_weather_remarks,129,384568,3020,2906
+13,Hatley,America/Montreal,0,1836-02-13,1836-02-13,2 feet of snow since monday; 2 feet on the ground before.,mno,daily_weather_remarks,129,384569,3020,2906
+14,Hatley,America/Montreal,0,1836-02-14,1836-02-14,empty,mno,daily_weather_remarks,129,384570,3020,2906
+15,Hatley,America/Montreal,0,1836-02-15,1836-02-15,empty,mno,daily_weather_remarks,129,384571,3020,2906
+16,Hatley,America/Montreal,0,1836-02-16,1836-02-16,empty,mno,daily_weather_remarks,129,384572,3020,2906
+17,Hatley,America/Montreal,0,1836-02-17,1836-02-17,smoke settles in the vallies [valleys],mno,daily_weather_remarks,129,384573,3020,2906
+18,Hatley,America/Montreal,0,1836-02-18,1836-02-18,empty,mno,daily_weather_remarks,129,384574,3020,2906
+19,Hatley,America/Montreal,0,1836-02-19,1836-02-19,empty,mno,daily_weather_remarks,129,384575,3020,2906
+20,Hatley,America/Montreal,0,1836-02-20,1836-02-20,empty,mno,daily_weather_remarks,129,384576,3020,2906
+21,Hatley,America/Montreal,0,1836-02-21,1836-02-21,empty,mno,daily_weather_remarks,129,384577,3020,2906
+22,Hatley,America/Montreal,0,1836-02-22,1836-02-22,frost upon the trees,mno,daily_weather_remarks,129,384578,3020,2906
+23,Hatley,America/Montreal,0,1836-02-23,1836-02-23,empty,mno,daily_weather_remarks,129,384579,3020,2906
+24,Hatley,America/Montreal,0,1836-02-24,1836-02-24,empty,mno,daily_weather_remarks,129,384580,3020,2906
+25,Hatley,America/Montreal,0,1836-02-25,1836-02-25,roads impassable on account of drifts,mno,daily_weather_remarks,129,384581,3020,2906
+26,Hatley,America/Montreal,0,1836-02-26,1836-02-26,empty,mno,daily_weather_remarks,129,384582,3020,2906
+27,Hatley,America/Montreal,0,1836-02-27,1836-02-27,empty,mno,daily_weather_remarks,129,384583,3020,2906
+28,Hatley,America/Montreal,0,1836-02-28,1836-02-28,empty,mno,daily_weather_remarks,129,384584,3020,2906
+29,Hatley,America/Montreal,0,1836-02-29,1836-02-29,empty,mno,daily_weather_remarks,129,384585,3020,2906
+30,Hatley,America/Montreal,0,1836-03-01,1836-03-01,empty,mno,daily_weather_remarks,129,384410,3021,2910
+31,Hatley,America/Montreal,0,1836-03-02,1836-03-02,empty,mno,daily_weather_remarks,129,384411,3021,2910
+32,Hatley,America/Montreal,0,1836-03-03,1836-03-03,empty,mno,daily_weather_remarks,129,384412,3021,2910
+33,Hatley,America/Montreal,0,1836-03-04,1836-03-04,empty,mno,daily_weather_remarks,129,384413,3021,2910
+34,Hatley,America/Montreal,0,1836-03-05,1836-03-05,empty,mno,daily_weather_remarks,129,384414,3021,2910
+35,Hatley,America/Montreal,0,1836-03-06,1836-03-06,empty,mno,daily_weather_remarks,129,384415,3021,2910
+36,Hatley,America/Montreal,0,1836-03-07,1836-03-07,empty,mno,daily_weather_remarks,129,384416,3021,2910
+37,Hatley,America/Montreal,0,1836-03-08,1836-03-08,empty,mno,daily_weather_remarks,129,384417,3021,2910
+38,Hatley,America/Montreal,0,1836-03-09,1836-03-09,empty,mno,daily_weather_remarks,129,384418,3021,2910
+39,Hatley,America/Montreal,0,1836-03-10,1836-03-10,empty,mno,daily_weather_remarks,129,384419,3021,2910
+40,Hatley,America/Montreal,0,1836-03-11,1836-03-11,severe snow squalls,mno,daily_weather_remarks,129,384421,3021,2910
+41,Hatley,America/Montreal,0,1836-03-12,1836-03-12,windows covered with frost,mno,daily_weather_remarks,129,384423,3021,2910
+42,Hatley,America/Montreal,0,1836-03-13,1836-03-13,1 inch of snow in the night,mno,daily_weather_remarks,129,384425,3021,2910
+43,Hatley,America/Montreal,0,1836-03-14,1836-03-14,empty,mno,daily_weather_remarks,129,384426,3021,2910
+44,Hatley,America/Montreal,0,1836-03-15,1836-03-15,empty,mno,daily_weather_remarks,129,384427,3021,2910
+45,Hatley,America/Montreal,0,1836-03-16,1836-03-16,empty,mno,daily_weather_remarks,129,384428,3021,2910
+46,Hatley,America/Montreal,0,1836-03-17,1836-03-17,empty,mno,daily_weather_remarks,129,384429,3021,2910
+47,Hatley,America/Montreal,0,1836-03-18,1836-03-18,empty,mno,daily_weather_remarks,129,384430,3021,2910
+48,Hatley,America/Montreal,0,1836-03-19,1836-03-19,windows covered with frost,mno,daily_weather_remarks,129,384431,3021,2910
+49,Hatley,America/Montreal,0,1836-03-20,1836-03-20,empty,mno,daily_weather_remarks,129,384432,3021,2910
+50,Hatley,America/Montreal,0,1836-03-21,1836-03-21,windows frosty,mno,daily_weather_remarks,129,384433,3021,2910
+51,Hatley,America/Montreal,0,1836-03-22,1836-03-22,empty,mno,daily_weather_remarks,129,384434,3021,2910
+52,Hatley,America/Montreal,0,1836-03-23,1836-03-23,empty,mno,daily_weather_remarks,129,384435,3021,2910
+53,Hatley,America/Montreal,0,1836-03-24,1836-03-24,frost on the windows,mno,daily_weather_remarks,129,384436,3021,2910
+54,Hatley,America/Montreal,0,1836-03-25,1836-03-25,frost on the wnidows,mno,daily_weather_remarks,129,384437,3021,2910
+55,Hatley,America/Montreal,0,1836-03-26,1836-03-26,frost on the wnidows,mno,daily_weather_remarks,129,384438,3021,2910
+56,Hatley,America/Montreal,0,1836-03-27,1836-03-27,smoky,mno,daily_weather_remarks,129,384439,3021,2910
+57,Hatley,America/Montreal,0,1836-03-28,1836-03-28,smoky,mno,daily_weather_remarks,129,384440,3021,2910
+58,Hatley,America/Montreal,0,1836-03-29,1836-03-29,smoky,mno,daily_weather_remarks,129,384441,3021,2910
+59,Hatley,America/Montreal,0,1836-03-30,1836-03-30,smoky,mno,daily_weather_remarks,129,384442,3021,2910
+60,Hatley,America/Montreal,0,1836-03-31,1836-03-31,empty,mno,daily_weather_remarks,129,384443,3021,2910
+61,Hatley,America/Montreal,0,1836-04-01,1836-04-01,smoky,mno,daily_weather_remarks,129,384707,3022,2907
+62,Hatley,America/Montreal,0,1836-04-02,1836-04-02,smoky,mno,daily_weather_remarks,129,384708,3022,2907
+63,Hatley,America/Montreal,0,1836-04-03,1836-04-03,smoky,mno,daily_weather_remarks,129,384709,3022,2907
+64,Hatley,America/Montreal,0,1836-04-04,1836-04-04,empty,mno,daily_weather_remarks,129,384710,3022,2907
+65,Hatley,America/Montreal,0,1836-04-05,1836-04-05,empty,mno,daily_weather_remarks,129,384711,3022,2907
+66,Hatley,America/Montreal,0,1836-04-06,1836-04-06,empty,mno,daily_weather_remarks,129,384712,3022,2907
+67,Hatley,America/Montreal,0,1836-04-07,1836-04-07,empty,mno,daily_weather_remarks,129,384713,3022,2907
+68,Hatley,America/Montreal,0,1836-04-08,1836-04-08,sparrows seen,mno,daily_weather_remarks,129,384714,3022,2907
+69,Hatley,America/Montreal,0,1836-04-09,1836-04-09,empty,mno,daily_weather_remarks,129,384715,3022,2907
+70,Hatley,America/Montreal,0,1836-04-10,1836-04-10,trees and fences covered with icicles,mno,daily_weather_remarks,129,384716,3022,2907
+71,Hatley,America/Montreal,0,1836-04-11,1836-04-11,ground about half bare,mno,daily_weather_remarks,129,384735,3022,2907
+72,Hatley,America/Montreal,0,1836-04-12,1836-04-12,icicles continue and look like brilliants in the sunshine,mno,daily_weather_remarks,129,384717,3022,2907
+73,Hatley,America/Montreal,0,1836-04-13,1836-04-13,empty,mno,daily_weather_remarks,129,384719,3022,2907
+74,Hatley,America/Montreal,0,1836-04-14,1836-04-14,4 inches of snow last night,mno,daily_weather_remarks,129,384720,3022,2907
+75,Hatley,America/Montreal,0,1836-04-15,1836-04-15,empty,mno,daily_weather_remarks,129,384721,3022,2907
+76,Hatley,America/Montreal,0,1836-04-16,1836-04-16,blue birds and robins seen,mno,daily_weather_remarks,129,384722,3022,2907
+77,Hatley,America/Montreal,0,1836-04-17,1836-04-17,empty,mno,daily_weather_remarks,129,384723,3022,2907
+78,Hatley,America/Montreal,0,1836-04-18,1836-04-18,sleighing at an end,mno,daily_weather_remarks,129,384738,3022,2907
+79,Hatley,America/Montreal,0,1836-04-19,1836-04-19,empty,mno,daily_weather_remarks,129,384724,3022,2907
+80,Hatley,America/Montreal,0,1836-04-20,1836-04-20,fog on massawippi lake,mno,daily_weather_remarks,129,384725,3022,2907
+81,Hatley,America/Montreal,0,1836-04-21,1836-04-21,empty,mno,daily_weather_remarks,129,384726,3022,2907
+82,Hatley,America/Montreal,0,1836-04-22,1836-04-22,aurora borealis,mno,daily_weather_remarks,129,384727,3022,2907
+83,Hatley,America/Montreal,0,1836-04-23,1836-04-23,aurora borealis,mno,daily_weather_remarks,129,384728,3022,2907
+84,Hatley,America/Montreal,0,1836-04-24,1836-04-24,1.5 inch of snow,mno,daily_weather_remarks,129,384729,3022,2907
+85,Hatley,America/Montreal,0,1836-04-25,1836-04-25,empty,mno,daily_weather_remarks,129,384730,3022,2907
+86,Hatley,America/Montreal,0,1836-04-26,1836-04-26,empty,mno,daily_weather_remarks,129,384731,3022,2907
+87,Hatley,America/Montreal,0,1836-04-27,1836-04-27,thunder tempest in the evening,mno,daily_weather_remarks,129,384732,3022,2907
+88,Hatley,America/Montreal,0,1836-04-28,1836-04-28,ground frozen,mno,daily_weather_remarks,129,384733,3022,2907
+89,Hatley,America/Montreal,0,1836-04-29,1836-04-29,empty,mno,daily_weather_remarks,129,384734,3022,2907
+90,Hatley,America/Montreal,0,1836-04-30,1836-04-30,gathered violets in mrs. ives [sugar] [zodiac],mno,daily_weather_remarks,129,384736,3022,2907
+91,Hatley,America/Montreal,0,1836-05-01,1836-05-01,very little snow to be seen. butterflies out.,mno,daily_weather_remarks,129,384928,3023,2908
+92,Hatley,America/Montreal,0,1836-05-02,1836-05-02,moon eclipse visible; perfectly clear,mno,daily_weather_remarks,129,384930,3023,2908
+93,Hatley,America/Montreal,0,1836-05-03,1836-05-03,fog upon the hills,mno,daily_weather_remarks,129,384968,3023,2908
+94,Hatley,America/Montreal,0,1836-05-04,1836-05-04,empty,mno,daily_weather_remarks,129,384932,3023,2908
+95,Hatley,America/Montreal,0,1836-05-05,1836-05-05,white frost,mno,daily_weather_remarks,129,384934,3023,2908
+96,Hatley,America/Montreal,0,1836-05-06,1836-05-06,frost,mno,daily_weather_remarks,129,384935,3023,2908
+97,Hatley,America/Montreal,0,1836-05-07,1836-05-07,thunder shower,mno,daily_weather_remarks,129,384937,3023,2908
+98,Hatley,America/Montreal,0,1836-05-08,1836-05-08,aurora borealis,mno,daily_weather_remarks,129,384938,3023,2908
+99,Hatley,America/Montreal,0,1836-05-09,1836-05-09,smoky,mno,daily_weather_remarks,129,384939,3023,2908
+100,Hatley,America/Montreal,0,1836-05-10,1836-05-10,empty,mno,daily_weather_remarks,129,384940,3023,2908
+101,Hatley,America/Montreal,0,1836-05-11,1836-05-11,thunder in the afternoon,mno,daily_weather_remarks,129,384941,3023,2908
+102,Hatley,America/Montreal,0,1836-05-12,1836-05-12,thunder,mno,daily_weather_remarks,129,384942,3023,2908
+103,Hatley,America/Montreal,0,1836-05-13,1836-05-13,2 inches of snow,mno,daily_weather_remarks,129,384943,3023,2908
+104,Hatley,America/Montreal,0,1836-05-14,1836-05-14,frost on the windows,mno,daily_weather_remarks,129,384944,3023,2908
+105,Hatley,America/Montreal,0,1836-05-15,1836-05-15,empty,mno,daily_weather_remarks,129,384945,3023,2908
+106,Hatley,America/Montreal,0,1836-05-16,1836-05-16,thunder and a little rain,mno,daily_weather_remarks,129,384946,3023,2908
+107,Hatley,America/Montreal,0,1836-05-17,1836-05-17,thunder,mno,daily_weather_remarks,129,384947,3023,2908
+108,Hatley,America/Montreal,0,1836-05-18,1836-05-18,red cherry in blossom,mno,daily_weather_remarks,129,384949,3023,2908
+109,Hatley,America/Montreal,0,1836-05-19,1836-05-19,hummingbird seen,mno,daily_weather_remarks,129,384951,3023,2908
+110,Hatley,America/Montreal,0,1836-05-20,1836-05-20,currant and iris in blossom,mno,daily_weather_remarks,129,384970,3023,2908
+111,Hatley,America/Montreal,0,1836-05-21,1836-05-21,leaves begin to show,mno,daily_weather_remarks,129,384952,3023,2908
+112,Hatley,America/Montreal,0,1836-05-22,1836-05-22,empty,mno,daily_weather_remarks,129,384954,3023,2908
+113,Hatley,America/Montreal,0,1836-05-23,1836-05-23,empty,mno,daily_weather_remarks,129,384955,3023,2908
+114,Hatley,America/Montreal,0,1836-05-24,1836-05-24,empty,mno,daily_weather_remarks,129,384956,3023,2908
+115,Hatley,America/Montreal,0,1836-05-25,1836-05-25,empty,mno,daily_weather_remarks,129,384957,3023,2908
+116,Hatley,America/Montreal,0,1836-05-26,1836-05-26,empty,mno,daily_weather_remarks,129,384958,3023,2908
+117,Hatley,America/Montreal,0,1836-05-27,1836-05-27,empty,mno,daily_weather_remarks,129,384959,3023,2908
+118,Hatley,America/Montreal,0,1836-05-28,1836-05-28,empty,mno,daily_weather_remarks,129,384961,3023,2908
+119,Hatley,America/Montreal,0,1836-05-29,1836-05-29,fog upon the hills,mno,daily_weather_remarks,129,384963,3023,2908
+120,Hatley,America/Montreal,0,1836-05-30,1836-05-30,frost in places,mno,daily_weather_remarks,129,384965,3023,2908
+121,Hatley,America/Montreal,0,1836-05-31,1836-05-31,empty,mno,daily_weather_remarks,129,384966,3023,2908
+122,Hatley,America/Montreal,0,1836-06-01,1836-06-01,smoky,mno,daily_weather_remarks,129,384836,3024,2909
+123,Hatley,America/Montreal,0,1836-06-02,1836-06-02,smoky,mno,daily_weather_remarks,129,385044,3024,2909
+124,Hatley,America/Montreal,0,1836-06-03,1836-06-03,smoky,mno,daily_weather_remarks,129,385045,3024,2909
+125,Hatley,America/Montreal,0,1836-06-04,1836-06-04,apple trees in blossom,mno,daily_weather_remarks,129,385046,3024,2909
+126,Hatley,America/Montreal,0,1836-06-05,1836-06-05,fog upon the lake,mno,daily_weather_remarks,129,385047,3024,2909
+127,Hatley,America/Montreal,0,1836-06-06,1836-06-06,empty,mno,daily_weather_remarks,129,385048,3024,2909
+128,Hatley,America/Montreal,0,1836-06-07,1836-06-07,empty,mno,daily_weather_remarks,129,385049,3024,2909
+129,Hatley,America/Montreal,0,1836-06-08,1836-06-08,empty,mno,daily_weather_remarks,129,385050,3024,2909
+130,Hatley,America/Montreal,0,1836-06-09,1836-06-09,empty,mno,daily_weather_remarks,129,385051,3024,2909
+131,Hatley,America/Montreal,0,1836-06-10,1836-06-10,empty,mno,daily_weather_remarks,129,385052,3024,2909
+132,Hatley,America/Montreal,0,1836-06-11,1836-06-11,heavy shower - very dry before,mno,daily_weather_remarks,129,385053,3024,2909
+133,Hatley,America/Montreal,0,1836-06-12,1836-06-12,empty,mno,daily_weather_remarks,129,385054,3024,2909
+134,Hatley,America/Montreal,0,1836-06-13,1836-06-13,empty,mno,daily_weather_remarks,129,385055,3024,2909
+135,Hatley,America/Montreal,0,1836-06-14,1836-06-14,frost in places,mno,daily_weather_remarks,129,385056,3024,2909
+136,Hatley,America/Montreal,0,1836-06-15,1836-06-15,rain in the night,mno,daily_weather_remarks,129,385057,3024,2909
+137,Hatley,America/Montreal,0,1836-06-16,1836-06-16,empty,mno,daily_weather_remarks,129,385058,3024,2909
+138,Hatley,America/Montreal,0,1836-06-17,1836-06-17,empty,mno,daily_weather_remarks,129,385059,3024,2909
+139,Hatley,America/Montreal,0,1836-06-18,1836-06-18,empty,mno,daily_weather_remarks,129,385060,3024,2909
+140,Hatley,America/Montreal,0,1836-06-19,1836-06-19,empty,mno,daily_weather_remarks,129,385061,3024,2909
+141,Hatley,America/Montreal,0,1836-06-20,1836-06-20,empty,mno,daily_weather_remarks,129,385062,3024,2909
+142,Hatley,America/Montreal,0,1836-06-21,1836-06-21,empty,mno,daily_weather_remarks,129,385063,3024,2909
+143,Hatley,America/Montreal,0,1836-06-22,1836-06-22,empty,mno,daily_weather_remarks,129,385064,3024,2909
+144,Hatley,America/Montreal,0,1836-06-23,1836-06-23,empty,mno,daily_weather_remarks,129,385065,3024,2909
+145,Hatley,America/Montreal,0,1836-06-24,1836-06-24,empty,mno,daily_weather_remarks,129,385066,3024,2909
+146,Hatley,America/Montreal,0,1836-06-25,1836-06-25,empty,mno,daily_weather_remarks,129,385067,3024,2909
+147,Hatley,America/Montreal,0,1836-06-26,1836-06-26,empty,mno,daily_weather_remarks,129,385068,3024,2909
+148,Hatley,America/Montreal,0,1836-06-27,1836-06-27,very smoky,mno,daily_weather_remarks,129,385043,3024,2909
+149,Hatley,America/Montreal,0,1836-06-28,1836-06-28,very smoky,mno,daily_weather_remarks,129,385042,3024,2909
+150,Hatley,America/Montreal,0,1836-06-29,1836-06-29,lightning in the evening,mno,daily_weather_remarks,129,385041,3024,2909
+151,Hatley,America/Montreal,0,1836-06-30,1836-06-30,lightning in the evening,mno,daily_weather_remarks,129,384851,3024,2909
+152,Hatley,America/Montreal,0,1836-07-01,1836-07-01,very smoky,mno,daily_weather_remarks,129,385073,3025,2911
+153,Hatley,America/Montreal,0,1836-07-02,1836-07-02,very smoky,mno,daily_weather_remarks,129,385196,3025,2911
+154,Hatley,America/Montreal,0,1836-07-03,1836-07-03,lightning in the evening,mno,daily_weather_remarks,129,385197,3025,2911
+155,Hatley,America/Montreal,0,1836-07-04,1836-07-04,empty,mno,daily_weather_remarks,129,385198,3025,2911
+156,Hatley,America/Montreal,0,1836-07-05,1836-07-05,thunder and some rain,mno,daily_weather_remarks,129,385199,3025,2911
+157,Hatley,America/Montreal,0,1836-07-06,1836-07-06,empty,mno,daily_weather_remarks,129,385200,3025,2911
+158,Hatley,America/Montreal,0,1836-07-07,1836-07-07,thunder,mno,daily_weather_remarks,129,385201,3025,2911
+159,Hatley,America/Montreal,0,1836-07-08,1836-07-08,lightning in the evening,mno,daily_weather_remarks,129,385202,3025,2911
+160,Hatley,America/Montreal,0,1836-07-09,1836-07-09,thermometer 95 degrees at 10am,mno,daily_weather_remarks,129,385203,3025,2911
+161,Hatley,America/Montreal,0,1836-07-10,1836-07-10,fog some part of the day,mno,daily_weather_remarks,129,385204,3025,2911
+162,Hatley,America/Montreal,0,1836-07-11,1836-07-11,fog some part of the day,mno,daily_weather_remarks,129,385205,3025,2911
+163,Hatley,America/Montreal,0,1836-07-12,1836-07-12,fog some part of the day,mno,daily_weather_remarks,129,385206,3025,2911
+164,Hatley,America/Montreal,0,1836-07-13,1836-07-13,fog some part of the day,mno,daily_weather_remarks,129,385207,3025,2911
+165,Hatley,America/Montreal,0,1836-07-14,1836-07-14,fog some part of the day,mno,daily_weather_remarks,129,385208,3025,2911
+166,Hatley,America/Montreal,0,1836-07-15,1836-07-15,fog some part of the day,mno,daily_weather_remarks,129,385209,3025,2911
+167,Hatley,America/Montreal,0,1836-07-16,1836-07-16,fog some part of the day,mno,daily_weather_remarks,129,385210,3025,2911
+168,Hatley,America/Montreal,0,1836-07-17,1836-07-17,fog some part of the day,mno,daily_weather_remarks,129,385211,3025,2911
+169,Hatley,America/Montreal,0,1836-07-18,1836-07-18,fog some part of the day,mno,daily_weather_remarks,129,385212,3025,2911
+170,Hatley,America/Montreal,0,1836-07-19,1836-07-19,fog some part of the day,mno,daily_weather_remarks,129,385213,3025,2911
+171,Hatley,America/Montreal,0,1836-07-20,1836-07-20,fog some part of the day,mno,daily_weather_remarks,129,385214,3025,2911
+172,Hatley,America/Montreal,0,1836-07-21,1836-07-21,fog some part of the day,mno,daily_weather_remarks,129,385215,3025,2911
+173,Hatley,America/Montreal,0,1836-07-22,1836-07-22,fog some part of the day,mno,daily_weather_remarks,129,385216,3025,2911
+174,Hatley,America/Montreal,0,1836-07-23,1836-07-23,fog some part of the day,mno,daily_weather_remarks,129,385218,3025,2911
+175,Hatley,America/Montreal,0,1836-07-24,1836-07-24,fog some part of the day,mno,daily_weather_remarks,129,385219,3025,2911
+176,Hatley,America/Montreal,0,1836-07-25,1836-07-25,fog some part of the day,mno,daily_weather_remarks,129,385220,3025,2911
+177,Hatley,America/Montreal,0,1836-07-26,1836-07-26,fog some part of the day,mno,daily_weather_remarks,129,385221,3025,2911
+178,Hatley,America/Montreal,0,1836-07-27,1836-07-27,fog some part of the day,mno,daily_weather_remarks,129,385222,3025,2911
+179,Hatley,America/Montreal,0,1836-07-28,1836-07-28,fog some part of the day,mno,daily_weather_remarks,129,385223,3025,2911
+180,Hatley,America/Montreal,0,1836-07-29,1836-07-29,fog some part of the day,mno,daily_weather_remarks,129,385224,3025,2911
+181,Hatley,America/Montreal,0,1836-07-30,1836-07-30,fog some part of the day,mno,daily_weather_remarks,129,385225,3025,2911
+182,Hatley,America/Montreal,0,1836-07-31,1836-07-31,fog some part of the day,mno,daily_weather_remarks,129,385079,3025,2911
+183,Hatley,America/Montreal,0,1836-08-01,1836-08-01,empty,mno,daily_weather_remarks,129,385690,3027,2912
+184,Hatley,America/Montreal,0,1836-08-02,1836-08-02,empty,mno,daily_weather_remarks,129,385691,3027,2912
+185,Hatley,America/Montreal,0,1836-08-03,1836-08-03,thunder,mno,daily_weather_remarks,129,385692,3027,2912
+186,Hatley,America/Montreal,0,1836-08-04,1836-08-04,thunder,mno,daily_weather_remarks,129,385693,3027,2912
+187,Hatley,America/Montreal,0,1836-08-05,1836-08-05,empty,mno,daily_weather_remarks,129,385694,3027,2912
+188,Hatley,America/Montreal,0,1836-08-06,1836-08-06,empty,mno,daily_weather_remarks,129,385695,3027,2912
+189,Hatley,America/Montreal,0,1836-08-07,1836-08-07,sprinkle of rain,mno,daily_weather_remarks,129,385696,3027,2912
+190,Hatley,America/Montreal,0,1836-08-08,1836-08-08,empty,mno,daily_weather_remarks,129,385697,3027,2912
+191,Hatley,America/Montreal,0,1836-08-09,1836-08-09,empty,mno,daily_weather_remarks,129,385698,3027,2912
+192,Hatley,America/Montreal,0,1836-08-10,1836-08-10,empty,mno,daily_weather_remarks,129,385699,3027,2912
+193,Hatley,America/Montreal,0,1836-08-11,1836-08-11,aurora borealis very brilliant,mno,daily_weather_remarks,129,385701,3027,2912
+194,Hatley,America/Montreal,0,1836-08-12,1836-08-12,aurora borealis very brilliant,mno,daily_weather_remarks,129,385702,3027,2912
+195,Hatley,America/Montreal,0,1836-08-13,1836-08-13,empty,mno,daily_weather_remarks,129,385704,3027,2912
+196,Hatley,America/Montreal,0,1836-08-14,1836-08-14,empty,mno,daily_weather_remarks,129,385705,3027,2912
+197,Hatley,America/Montreal,0,1836-08-15,1836-08-15,empty,mno,daily_weather_remarks,129,385706,3027,2912
+198,Hatley,America/Montreal,0,1836-08-16,1836-08-16,aurora borealis,mno,daily_weather_remarks,129,385707,3027,2912
+199,Hatley,America/Montreal,0,1836-08-17,1836-08-17,aurora borealis,mno,daily_weather_remarks,129,385708,3027,2912
+200,Hatley,America/Montreal,0,1836-08-18,1836-08-18,empty,mno,daily_weather_remarks,129,385709,3027,2912
+201,Hatley,America/Montreal,0,1836-08-19,1836-08-19,thunder shower,mno,daily_weather_remarks,129,385710,3027,2912
+202,Hatley,America/Montreal,0,1836-08-20,1836-08-20,empty,mno,daily_weather_remarks,129,385711,3027,2912
+203,Hatley,America/Montreal,0,1836-08-21,1836-08-21,thunder and lightning,mno,daily_weather_remarks,129,385712,3027,2912
+204,Hatley,America/Montreal,0,1836-08-22,1836-08-22,empty,mno,daily_weather_remarks,129,385713,3027,2912
+205,Hatley,America/Montreal,0,1836-08-23,1836-08-23,empty,mno,daily_weather_remarks,129,385714,3027,2912
+206,Hatley,America/Montreal,0,1836-08-24,1836-08-24,empty,mno,daily_weather_remarks,129,385715,3027,2912
+207,Hatley,America/Montreal,0,1836-08-25,1836-08-25,empty,mno,daily_weather_remarks,129,385716,3027,2912
+208,Hatley,America/Montreal,0,1836-08-26,1836-08-26,thunder showers in the north,mno,daily_weather_remarks,129,385717,3027,2912
+209,Hatley,America/Montreal,0,1836-08-27,1836-08-27,empty,mno,daily_weather_remarks,129,385718,3027,2912
+210,Hatley,America/Montreal,0,1836-08-28,1836-08-28,empty,mno,daily_weather_remarks,129,385719,3027,2912
+211,Hatley,America/Montreal,0,1836-08-29,1836-08-29,thunder shower,mno,daily_weather_remarks,129,385720,3027,2912
+212,Hatley,America/Montreal,0,1836-08-30,1836-08-30,aurora borealis,mno,daily_weather_remarks,129,385721,3027,2912
+213,Hatley,America/Montreal,0,1836-08-31,1836-08-31,empty,mno,daily_weather_remarks,129,385722,3027,2912

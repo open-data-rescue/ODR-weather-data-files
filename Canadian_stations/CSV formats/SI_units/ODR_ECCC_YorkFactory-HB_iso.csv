@@ -1,0 +1,213 @@
+,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
+1,York Factory (HBC),America/Winnipeg,0,1773-01-01,1773-01-01,mostly cloudy,mno,daily_weather_remarks,129,388774,3059,2948
+2,York Factory (HBC),America/Winnipeg,0,1773-01-02,1773-01-02,fog in forenoon. afternoon cloudy.,mno,daily_weather_remarks,129,388775,3059,2948
+3,York Factory (HBC),America/Winnipeg,0,1773-01-03,1773-01-03,cloudy forenoon. hazy afternoon. clear at evening. frigid spicula. double halo and parhelia.,mno,daily_weather_remarks,129,388776,3059,2948
+4,York Factory (HBC),America/Winnipeg,0,1773-01-04,1773-01-04,clear,mno,daily_weather_remarks,129,388777,3059,2948
+5,York Factory (HBC),America/Winnipeg,0,1773-01-05,1773-01-05,clear.,mno,daily_weather_remarks,129,388778,3059,2948
+6,York Factory (HBC),America/Winnipeg,0,1773-01-06,1773-01-06,cloudy forenoon. clear afternoon.,mno,daily_weather_remarks,129,388779,3059,2948
+7,York Factory (HBC),America/Winnipeg,0,1773-01-07,1773-01-07,"cloudy day, a little snow about noon",mno,daily_weather_remarks,129,388780,3059,2948
+8,York Factory (HBC),America/Winnipeg,0,1773-01-08,1773-01-08,thick fog in day. cloudy at evening. clear night. three parhelia at noon. a paraselene at night.,mno,daily_weather_remarks,129,388781,3059,2948
+9,York Factory (HBC),America/Winnipeg,0,1773-01-09,1773-01-09,hazy forenoon. mostly clear afternoon and night.,mno,daily_weather_remarks,129,388782,3059,2948
+10,York Factory (HBC),America/Winnipeg,0,1773-01-10,1773-01-10,thick rime. aurora borealis.,mno,daily_weather_remarks,129,388783,3059,2948
+11,York Factory (HBC),America/Winnipeg,0,1773-01-11,1773-01-11,thick rime. aurora borealis.,mno,daily_weather_remarks,129,388784,3059,2948
+12,York Factory (HBC),America/Winnipeg,0,1773-01-12,1773-01-12,thick rime. little haze about noon. from 11am to 12pm the mercury fell from -64 to -71 gr. and then instantaneously subsided into the bulb [sn].,mno,daily_weather_remarks,129,388785,3059,2948
+13,York Factory (HBC),America/Winnipeg,0,1773-01-13,1773-01-13,"hazy day, clear at night",mno,daily_weather_remarks,129,388786,3059,2948
+14,York Factory (HBC),America/Winnipeg,0,1773-01-14,1773-01-14,"hazy day, very much.",mno,daily_weather_remarks,129,388787,3059,2948
+15,York Factory (HBC),America/Winnipeg,0,1773-01-15,1773-01-15,hazy day very much. at 1pm the mercury began to rise out of the bulb. at 2pm it stood at -32. at 4pm it fell to -34 and at 7pm to 39 [sn].,mno,daily_weather_remarks,129,388788,3059,2948
+16,York Factory (HBC),America/Winnipeg,0,1773-01-16,1773-01-16,"very hazy in the morning. clear afternoon and night. from 10am til 2pm, mercury in the bulb. aurora borealis.",mno,daily_weather_remarks,129,388789,3059,2948
+17,York Factory (HBC),America/Winnipeg,0,1773-01-17,1773-01-17,"clear, high wind in the night. aurora borealis.",mno,daily_weather_remarks,129,388790,3059,2948
+18,York Factory (HBC),America/Winnipeg,0,1773-01-18,1773-01-18,"cloudy, snow in the night",mno,daily_weather_remarks,129,388791,3059,2948
+19,York Factory (HBC),America/Winnipeg,0,1773-01-19,1773-01-19,cloudy. snow mostly all day. 2 inches deep of snow fell [sn.]. aurora borealis.,mno,daily_weather_remarks,129,388792,3059,2948
+20,York Factory (HBC),America/Winnipeg,0,1773-01-20,1773-01-20,clear. aurora borealis.,mno,daily_weather_remarks,129,388793,3059,2948
+21,York Factory (HBC),America/Winnipeg,0,1773-01-21,1773-01-21,thick fog in morning. hazy day. aurora borealis.,mno,daily_weather_remarks,129,388794,3059,2948
+22,York Factory (HBC),America/Winnipeg,0,1773-01-22,1773-01-22,clear. halo and 3 parhelia noon. aurora borealis.,mno,daily_weather_remarks,129,388795,3059,2948
+23,York Factory (HBC),America/Winnipeg,0,1773-01-23,1773-01-23,clear. aurora borealis.,mno,daily_weather_remarks,129,388796,3059,2948
+24,York Factory (HBC),America/Winnipeg,0,1773-01-24,1773-01-24,clear. aurora borealis.,mno,daily_weather_remarks,129,388797,3059,2948
+25,York Factory (HBC),America/Winnipeg,0,1773-01-25,1773-01-25,clear. aurora borealis.,mno,daily_weather_remarks,129,388798,3059,2948
+26,York Factory (HBC),America/Winnipeg,0,1773-01-26,1773-01-26,cloudy morning. rest mostly clear. aurora borealis.,mno,daily_weather_remarks,129,388799,3059,2948
+27,York Factory (HBC),America/Winnipeg,0,1773-01-27,1773-01-27,hazy. frigis spicula. aurora borealis.,mno,daily_weather_remarks,129,388800,3059,2948
+28,York Factory (HBC),America/Winnipeg,0,1773-01-28,1773-01-28,hazy. clear at evening.,mno,daily_weather_remarks,129,388801,3059,2948
+29,York Factory (HBC),America/Winnipeg,0,1773-01-29,1773-01-29,hazy,mno,daily_weather_remarks,129,388802,3059,2948
+30,York Factory (HBC),America/Winnipeg,0,1773-01-30,1773-01-30,hazy forenoon. clear afternoon. at 8am brought the thermometer to the fire. the mercury soon sunk into the bulb but rose again to -10. aurora borealis.,mno,daily_weather_remarks,129,388803,3059,2948
+31,York Factory (HBC),America/Winnipeg,0,1773-01-31,1773-01-31,clear. mercury in the bulb at noon. afternoon rose to -30 then fell to -40 leaving a portion of mercury about the breadth of 1 degree.,mno,daily_weather_remarks,129,388804,3059,2948
+32,York Factory (HBC),America/Winnipeg,0,1773-02-01,1773-02-01,clear. aurora borealis.,mno,daily_weather_remarks,129,388864,3062,2946
+33,York Factory (HBC),America/Winnipeg,0,1773-02-02,1773-02-02,fog at noon. clear day. aurora borealis.,mno,daily_weather_remarks,129,388865,3062,2946
+34,York Factory (HBC),America/Winnipeg,0,1773-02-03,1773-02-03,foggy morning. clear day.,mno,daily_weather_remarks,129,388866,3062,2946
+35,York Factory (HBC),America/Winnipeg,0,1773-02-04,1773-02-04,clear,mno,daily_weather_remarks,129,388867,3062,2946
+36,York Factory (HBC),America/Winnipeg,0,1773-02-05,1773-02-05,clear,mno,daily_weather_remarks,129,388868,3062,2946
+37,York Factory (HBC),America/Winnipeg,0,1773-02-06,1773-02-06,clear. aurora borealis.,mno,daily_weather_remarks,129,388869,3062,2946
+38,York Factory (HBC),America/Winnipeg,0,1773-02-07,1773-02-07,clear day. cloudy at evening. snow in the night.,mno,daily_weather_remarks,129,388870,3062,2946
+39,York Factory (HBC),America/Winnipeg,0,1773-02-08,1773-02-08,cloudy. snow in afternoon & night,mno,daily_weather_remarks,129,388871,3062,2946
+40,York Factory (HBC),America/Winnipeg,0,1773-02-09,1773-02-09,drift in morning; hazy day. aurora borealis.,mno,daily_weather_remarks,129,388872,3062,2946
+41,York Factory (HBC),America/Winnipeg,0,1773-02-10,1773-02-10,clear. aurora borealis.,mno,daily_weather_remarks,129,388874,3062,2946
+42,York Factory (HBC),America/Winnipeg,0,1773-02-11,1773-02-11,"clear at noon, rest hazy.",mno,daily_weather_remarks,129,388875,3062,2946
+43,York Factory (HBC),America/Winnipeg,0,1773-02-12,1773-02-12,clear forenoon. cloudy afternoon. snow at night.,mno,daily_weather_remarks,129,388876,3062,2946
+44,York Factory (HBC),America/Winnipeg,0,1773-02-13,1773-02-13,"clear at noon, rest cloudy. high winds & much snow in the night",mno,daily_weather_remarks,129,388877,3062,2946
+45,York Factory (HBC),America/Winnipeg,0,1773-02-14,1773-02-14,"hazy day, clear in the evening",mno,daily_weather_remarks,129,388878,3062,2946
+46,York Factory (HBC),America/Winnipeg,0,1773-02-15,1773-02-15,clear morning. cloudy day. high winds & drift in the afternoon. storm wind and drift.,mno,daily_weather_remarks,129,388879,3062,2946
+47,York Factory (HBC),America/Winnipeg,0,1773-02-16,1773-02-16,high winds and hazy. storm wind and drift.,mno,daily_weather_remarks,129,388880,3062,2946
+48,York Factory (HBC),America/Winnipeg,0,1773-02-17,1773-02-17,clear forenoon. hazy afternoon. double halo and parhelia.,mno,daily_weather_remarks,129,388881,3062,2946
+49,York Factory (HBC),America/Winnipeg,0,1773-02-18,1773-02-18,very hazy; a little snow at evening-time; aurora borealis.,mno,daily_weather_remarks,129,388882,3062,2946
+50,York Factory (HBC),America/Winnipeg,0,1773-02-19,1773-02-19,very hazy. aurora borealis visible,mno,daily_weather_remarks,129,388883,3062,2946
+51,York Factory (HBC),America/Winnipeg,0,1773-02-20,1773-02-20,hazy. aurora borealis visible.,mno,daily_weather_remarks,129,388884,3062,2946
+52,York Factory (HBC),America/Winnipeg,0,1773-02-21,1773-02-21,clear. aurora borealis.,mno,daily_weather_remarks,129,388885,3062,2946
+53,York Factory (HBC),America/Winnipeg,0,1773-02-22,1773-02-22,clear. cloudy night.,mno,daily_weather_remarks,129,388886,3062,2946
+54,York Factory (HBC),America/Winnipeg,0,1773-02-23,1773-02-23,clear. aurora borealis.,mno,daily_weather_remarks,129,388887,3062,2946
+55,York Factory (HBC),America/Winnipeg,0,1773-02-24,1773-02-24,clear.,mno,daily_weather_remarks,129,388888,3062,2946
+56,York Factory (HBC),America/Winnipeg,0,1773-02-25,1773-02-25,"cloudy forenoon. snowy afternoon and night. rain showers in evening, which froze immediately.",mno,daily_weather_remarks,129,388889,3062,2946
+57,York Factory (HBC),America/Winnipeg,0,1773-02-26,1773-02-26,snow in forenoon. high winds and cloudy afternoon. a heavy fall of snow.,mno,daily_weather_remarks,129,388890,3062,2946
+58,York Factory (HBC),America/Winnipeg,0,1773-02-27,1773-02-27,hazy morning. clear day. snow in the night.,mno,daily_weather_remarks,129,388891,3062,2946
+59,York Factory (HBC),America/Winnipeg,0,1773-02-28,1773-02-28,"hazy afternoon, rest clear",mno,daily_weather_remarks,129,388892,3062,2946
+60,York Factory (HBC),America/Winnipeg,0,1773-03-01,1773-03-01,hazy morning. clear day. a great mist over the sea.,mno,daily_weather_remarks,129,389072,3064,2947
+61,York Factory (HBC),America/Winnipeg,0,1773-03-02,1773-03-02,very hazy. clear at evening and night. aurora borealis.,mno,daily_weather_remarks,129,389073,3064,2947
+62,York Factory (HBC),America/Winnipeg,0,1773-03-03,1773-03-03,clear,mno,daily_weather_remarks,129,389074,3064,2947
+63,York Factory (HBC),America/Winnipeg,0,1773-03-04,1773-03-04,clear,mno,daily_weather_remarks,129,389075,3064,2947
+64,York Factory (HBC),America/Winnipeg,0,1773-03-05,1773-03-05,clear,mno,daily_weather_remarks,129,389076,3064,2947
+65,York Factory (HBC),America/Winnipeg,0,1773-03-06,1773-03-06,clear,mno,daily_weather_remarks,129,389077,3064,2947
+66,York Factory (HBC),America/Winnipeg,0,1773-03-07,1773-03-07,clear. aurora borealis.,mno,daily_weather_remarks,129,389078,3064,2947
+67,York Factory (HBC),America/Winnipeg,0,1773-03-08,1773-03-08,cloudy. a little snow & drift about noon. clear night.,mno,daily_weather_remarks,129,389079,3064,2947
+68,York Factory (HBC),America/Winnipeg,0,1773-03-09,1773-03-09,clear. aurora borealis.,mno,daily_weather_remarks,129,389080,3064,2947
+69,York Factory (HBC),America/Winnipeg,0,1773-03-10,1773-03-10,"cloudy day, clear night. aurora borealis.",mno,daily_weather_remarks,129,389081,3064,2947
+70,York Factory (HBC),America/Winnipeg,0,1773-03-11,1773-03-11,hazy morning. clear day. aurora borealis.,mno,daily_weather_remarks,129,389082,3064,2947
+71,York Factory (HBC),America/Winnipeg,0,1773-03-12,1773-03-12,cloudy morning. clear day. aurora borealis.,mno,daily_weather_remarks,129,389083,3064,2947
+72,York Factory (HBC),America/Winnipeg,0,1773-03-13,1773-03-13,flying clouds in morning. clear day. aurora borealis.,mno,daily_weather_remarks,129,389084,3064,2947
+73,York Factory (HBC),America/Winnipeg,0,1773-03-14,1773-03-14,clear. aurora borealis.,mno,daily_weather_remarks,129,389085,3064,2947
+74,York Factory (HBC),America/Winnipeg,0,1773-03-15,1773-03-15,clear. aurora borealis.,mno,daily_weather_remarks,129,389086,3064,2947
+75,York Factory (HBC),America/Winnipeg,0,1773-03-16,1773-03-16,clear forenoon. snow afternoon and night.,mno,daily_weather_remarks,129,389087,3064,2947
+76,York Factory (HBC),America/Winnipeg,0,1773-03-17,1773-03-17,cloudy morning and night. clear day.,mno,daily_weather_remarks,129,389089,3064,2947
+77,York Factory (HBC),America/Winnipeg,0,1773-03-18,1773-03-18,cloudy morning. clear day. aurora borealis.,mno,daily_weather_remarks,129,389091,3064,2947
+78,York Factory (HBC),America/Winnipeg,0,1773-03-19,1773-03-19,clear. aurora borealis.,mno,daily_weather_remarks,129,389092,3064,2947
+79,York Factory (HBC),America/Winnipeg,0,1773-03-20,1773-03-20,clear. aurora borealis.,mno,daily_weather_remarks,129,389095,3064,2947
+80,York Factory (HBC),America/Winnipeg,0,1773-03-21,1773-03-21,clear. aurora borealis.,mno,daily_weather_remarks,129,389096,3064,2947
+81,York Factory (HBC),America/Winnipeg,0,1773-03-22,1773-03-22,clear. some clouds in afternoon. aurora borealis.,mno,daily_weather_remarks,129,389097,3064,2947
+82,York Factory (HBC),America/Winnipeg,0,1773-03-23,1773-03-23,clear. aurora borealis.,mno,daily_weather_remarks,129,389100,3064,2947
+83,York Factory (HBC),America/Winnipeg,0,1773-03-24,1773-03-24,clear about noon; rest cloudy,mno,daily_weather_remarks,129,389101,3064,2947
+84,York Factory (HBC),America/Winnipeg,0,1773-03-25,1773-03-25,cloudy day; clear night. aurora borealis.,mno,daily_weather_remarks,129,389102,3064,2947
+85,York Factory (HBC),America/Winnipeg,0,1773-03-26,1773-03-26,clear. aurora borealis.,mno,daily_weather_remarks,129,389105,3064,2947
+86,York Factory (HBC),America/Winnipeg,0,1773-03-27,1773-03-27,much rain fell in morning. clear day.,mno,daily_weather_remarks,129,389106,3064,2947
+87,York Factory (HBC),America/Winnipeg,0,1773-03-28,1773-03-28,"cloudy morning, clear day. great thaw with rain. aurora borealis.",mno,daily_weather_remarks,129,389107,3064,2947
+88,York Factory (HBC),America/Winnipeg,0,1773-03-29,1773-03-29,clear,mno,daily_weather_remarks,129,389108,3064,2947
+89,York Factory (HBC),America/Winnipeg,0,1773-03-30,1773-03-30,clear. aurora borealis.,mno,daily_weather_remarks,129,389110,3064,2947
+90,York Factory (HBC),America/Winnipeg,0,1773-03-31,1773-03-31,clear forenoon. cloudy afternoon and night.,mno,daily_weather_remarks,129,389111,3064,2947
+91,York Factory (HBC),America/Winnipeg,0,1773-04-01,1773-04-01,clear about noon. rest cloudy. snow in the night.,mno,daily_weather_remarks,129,389390,3069,2945
+92,York Factory (HBC),America/Winnipeg,0,1773-04-02,1773-04-02,snow in morning. clear evening and night.,mno,daily_weather_remarks,129,389395,3069,2945
+93,York Factory (HBC),America/Winnipeg,0,1773-04-03,1773-04-03,clear,mno,daily_weather_remarks,129,389400,3069,2945
+94,York Factory (HBC),America/Winnipeg,0,1773-04-04,1773-04-04,cloudy. some snow in afternoon. aurora borealis.,mno,daily_weather_remarks,129,389404,3069,2945
+95,York Factory (HBC),America/Winnipeg,0,1773-04-05,1773-04-05,cloudy. much snow in the night.,mno,daily_weather_remarks,129,389409,3069,2945
+96,York Factory (HBC),America/Winnipeg,0,1773-04-06,1773-04-06,clear morning with drift. cloudy day.,mno,daily_weather_remarks,129,389412,3069,2945
+97,York Factory (HBC),America/Winnipeg,0,1773-04-07,1773-04-07,"cloudy, snow and drift afternoon and evening.",mno,daily_weather_remarks,129,389413,3069,2945
+98,York Factory (HBC),America/Winnipeg,0,1773-04-08,1773-04-08,clear,mno,daily_weather_remarks,129,389414,3069,2945
+99,York Factory (HBC),America/Winnipeg,0,1773-04-09,1773-04-09,clear,mno,daily_weather_remarks,129,389415,3069,2945
+100,York Factory (HBC),America/Winnipeg,0,1773-04-10,1773-04-10,clear. snow in the night.,mno,daily_weather_remarks,129,389418,3069,2945
+101,York Factory (HBC),America/Winnipeg,0,1773-04-11,1773-04-11,snow and drift,mno,daily_weather_remarks,129,389421,3069,2945
+102,York Factory (HBC),America/Winnipeg,0,1773-04-12,1773-04-12,clear day. cloudy evening. aurora borealis.,mno,daily_weather_remarks,129,389426,3069,2945
+103,York Factory (HBC),America/Winnipeg,0,1773-04-13,1773-04-13,clear. aurora borealis.,mno,daily_weather_remarks,129,389431,3069,2945
+104,York Factory (HBC),America/Winnipeg,0,1773-04-14,1773-04-14,clear forenoon. cloudy afternoon.,mno,daily_weather_remarks,129,389434,3069,2945
+105,York Factory (HBC),America/Winnipeg,0,1773-04-15,1773-04-15,cloudy,mno,daily_weather_remarks,129,389436,3069,2945
+106,York Factory (HBC),America/Winnipeg,0,1773-04-16,1773-04-16,cloudy. rain and snow in the night.,mno,daily_weather_remarks,129,389439,3069,2945
+107,York Factory (HBC),America/Winnipeg,0,1773-04-17,1773-04-17,cloudy. clear afternoon.,mno,daily_weather_remarks,129,389442,3069,2945
+108,York Factory (HBC),America/Winnipeg,0,1773-04-18,1773-04-18,cloudy. rain afternoon. snow in the night.,mno,daily_weather_remarks,129,389444,3069,2945
+109,York Factory (HBC),America/Winnipeg,0,1773-04-19,1773-04-19,clear morning. cloudy day. aurora borealis.,mno,daily_weather_remarks,129,389445,3069,2945
+110,York Factory (HBC),America/Winnipeg,0,1773-04-20,1773-04-20,clear day.,mno,daily_weather_remarks,129,389446,3069,2945
+111,York Factory (HBC),America/Winnipeg,0,1773-04-21,1773-04-21,showers of snow forenoon. much show afternoon. showers of rain at evening.,mno,daily_weather_remarks,129,389448,3069,2945
+112,York Factory (HBC),America/Winnipeg,0,1773-04-22,1773-04-22,showers of snow in morning. cloudy day. aurora borealis.,mno,daily_weather_remarks,129,389454,3069,2945
+113,York Factory (HBC),America/Winnipeg,0,1773-04-23,1773-04-23,cloudy morning. clear day. aurora borealis.,mno,daily_weather_remarks,129,389456,3069,2945
+114,York Factory (HBC),America/Winnipeg,0,1773-04-24,1773-04-24,clear. aurora borealis.,mno,daily_weather_remarks,129,389458,3069,2945
+115,York Factory (HBC),America/Winnipeg,0,1773-04-25,1773-04-25,clear. light clouds in afternoon.,mno,daily_weather_remarks,129,389463,3069,2945
+116,York Factory (HBC),America/Winnipeg,0,1773-04-26,1773-04-26,"cloudy, snow in the night.",mno,daily_weather_remarks,129,389465,3069,2945
+117,York Factory (HBC),America/Winnipeg,0,1773-04-27,1773-04-27,snow and drift.,mno,daily_weather_remarks,129,389468,3069,2945
+118,York Factory (HBC),America/Winnipeg,0,1773-04-28,1773-04-28,snow and drift with high wind in forenoon. cloudy afternoon.,mno,daily_weather_remarks,129,389472,3069,2945
+119,York Factory (HBC),America/Winnipeg,0,1773-04-29,1773-04-29,a little snow in morning. clear day.,mno,daily_weather_remarks,129,389474,3069,2945
+120,York Factory (HBC),America/Winnipeg,0,1773-04-30,1773-04-30,snow through the day.,mno,daily_weather_remarks,129,389478,3069,2945
+121,York Factory (HBC),America/Winnipeg,0,1773-05-01,1773-05-01,clear afternoon; rest cloudy,mno,daily_weather_remarks,129,389510,3070,2951
+122,York Factory (HBC),America/Winnipeg,0,1773-05-02,1773-05-02,"cloudy, a little snow in the night",mno,daily_weather_remarks,129,389511,3070,2951
+123,York Factory (HBC),America/Winnipeg,0,1773-05-03,1773-05-03,"cloudy, snow in forenoon",mno,daily_weather_remarks,129,389512,3070,2951
+124,York Factory (HBC),America/Winnipeg,0,1773-05-04,1773-05-04,"cloudy, snow in forenoon",mno,daily_weather_remarks,129,389513,3070,2951
+125,York Factory (HBC),America/Winnipeg,0,1773-05-05,1773-05-05,cloudy morning; clear day,mno,daily_weather_remarks,129,389514,3070,2951
+126,York Factory (HBC),America/Winnipeg,0,1773-05-06,1773-05-06,snow and drifts in forenoon. clear afternoon. cloudy night.,mno,daily_weather_remarks,129,389515,3070,2951
+127,York Factory (HBC),America/Winnipeg,0,1773-05-07,1773-05-07,cloudy morning and evening. rest clear. aurora borealis.,mno,daily_weather_remarks,129,389516,3070,2951
+128,York Factory (HBC),America/Winnipeg,0,1773-05-08,1773-05-08,clear day. cloudy night.,mno,daily_weather_remarks,129,389517,3070,2951
+129,York Factory (HBC),America/Winnipeg,0,1773-05-09,1773-05-09,cloudy,mno,daily_weather_remarks,129,389518,3070,2951
+130,York Factory (HBC),America/Winnipeg,0,1773-05-10,1773-05-10,cloudy,mno,daily_weather_remarks,129,389519,3070,2951
+131,York Factory (HBC),America/Winnipeg,0,1773-05-11,1773-05-11,clear. aurora borealis.,mno,daily_weather_remarks,129,389520,3070,2951
+132,York Factory (HBC),America/Winnipeg,0,1773-05-12,1773-05-12,cloudy forenoon. snow and sleet afternoon.,mno,daily_weather_remarks,129,389521,3070,2951
+133,York Factory (HBC),America/Winnipeg,0,1773-05-13,1773-05-13,drizzling in morning. cloudy day.,mno,daily_weather_remarks,129,389522,3070,2951
+134,York Factory (HBC),America/Winnipeg,0,1773-05-14,1773-05-14,"cloudy day, clear night",mno,daily_weather_remarks,129,389523,3070,2951
+135,York Factory (HBC),America/Winnipeg,0,1773-05-15,1773-05-15,fog in morning. clear day.,mno,daily_weather_remarks,129,389524,3070,2951
+136,York Factory (HBC),America/Winnipeg,0,1773-05-16,1773-05-16,clear at noon. rest mostly cloudy.,mno,daily_weather_remarks,129,389525,3070,2951
+137,York Factory (HBC),America/Winnipeg,0,1773-05-17,1773-05-17,cloudy. rain evening and night.,mno,daily_weather_remarks,129,389526,3070,2951
+138,York Factory (HBC),America/Winnipeg,0,1773-05-18,1773-05-18,cloudy,mno,daily_weather_remarks,129,389527,3070,2951
+139,York Factory (HBC),America/Winnipeg,0,1773-05-19,1773-05-19,cloudy,mno,daily_weather_remarks,129,389528,3070,2951
+140,York Factory (HBC),America/Winnipeg,0,1773-05-20,1773-05-20,cloudy,mno,daily_weather_remarks,129,389529,3070,2951
+141,York Factory (HBC),America/Winnipeg,0,1773-05-21,1773-05-21,clear about noon. rest cloudy.,mno,daily_weather_remarks,129,389530,3070,2951
+142,York Factory (HBC),America/Winnipeg,0,1773-05-22,1773-05-22,showers of snow through the day.,mno,daily_weather_remarks,129,389531,3070,2951
+143,York Factory (HBC),America/Winnipeg,0,1773-05-23,1773-05-23,clear about noon. rest cloudy.,mno,daily_weather_remarks,129,389532,3070,2951
+144,York Factory (HBC),America/Winnipeg,0,1773-05-24,1773-05-24,cloudy forenoon. rain afternoon and night.,mno,daily_weather_remarks,129,389533,3070,2951
+145,York Factory (HBC),America/Winnipeg,0,1773-05-25,1773-05-25,wind and cloudy.,mno,daily_weather_remarks,129,389534,3070,2951
+146,York Factory (HBC),America/Winnipeg,0,1773-05-26,1773-05-26,cloudy forenoon. clear afternoon,mno,daily_weather_remarks,129,389535,3070,2951
+147,York Factory (HBC),America/Winnipeg,0,1773-05-27,1773-05-27,cloudy forenoon. clear afternoon with high wind. showers of rain at evening.,mno,daily_weather_remarks,129,389536,3070,2951
+148,York Factory (HBC),America/Winnipeg,0,1773-05-28,1773-05-28,cloudy,mno,daily_weather_remarks,129,389537,3070,2951
+149,York Factory (HBC),America/Winnipeg,0,1773-05-29,1773-05-29,mostly clear,mno,daily_weather_remarks,129,389538,3070,2951
+150,York Factory (HBC),America/Winnipeg,0,1773-05-30,1773-05-30,"clear forenoon. rain, thunder, and lightning in afternoon.",mno,daily_weather_remarks,129,389539,3070,2951
+151,York Factory (HBC),America/Winnipeg,0,1773-05-31,1773-05-31,cloudy,mno,daily_weather_remarks,129,389540,3070,2951
+152,York Factory (HBC),America/Winnipeg,0,1773-06-01,1773-06-01,foggy day. high wind and rain at night.,mno,daily_weather_remarks,129,389622,3072,2949
+153,York Factory (HBC),America/Winnipeg,0,1773-06-02,1773-06-02,"high wind, snow, and drift",mno,daily_weather_remarks,129,389684,3072,2949
+154,York Factory (HBC),America/Winnipeg,0,1773-06-03,1773-06-03,clear,mno,daily_weather_remarks,129,389685,3072,2949
+155,York Factory (HBC),America/Winnipeg,0,1773-06-04,1773-06-04,clear,mno,daily_weather_remarks,129,389686,3072,2949
+156,York Factory (HBC),America/Winnipeg,0,1773-06-05,1773-06-05,clear morning. cloudy day. rain in the night.,mno,daily_weather_remarks,129,389687,3072,2949
+157,York Factory (HBC),America/Winnipeg,0,1773-06-06,1773-06-06,several showers of rain,mno,daily_weather_remarks,129,389688,3072,2949
+158,York Factory (HBC),America/Winnipeg,0,1773-06-07,1773-06-07,shower of snow in morning. rest mostly cloudy.,mno,daily_weather_remarks,129,389689,3072,2949
+159,York Factory (HBC),America/Winnipeg,0,1773-06-08,1773-06-08,showers of snow and sleet in afternoon. rest cloudy.,mno,daily_weather_remarks,129,389690,3072,2949
+160,York Factory (HBC),America/Winnipeg,0,1773-06-09,1773-06-09,cloudy,mno,daily_weather_remarks,129,389691,3072,2949
+161,York Factory (HBC),America/Winnipeg,0,1773-06-10,1773-06-10,cloudy forenoon. high wind and flying clouds afternoon. rain at night.,mno,daily_weather_remarks,129,389692,3072,2949
+162,York Factory (HBC),America/Winnipeg,0,1773-06-11,1773-06-11,cloudy with high wind in afternoon. small rain in the night.,mno,daily_weather_remarks,129,389693,3072,2949
+163,York Factory (HBC),America/Winnipeg,0,1773-06-12,1773-06-12,cloudy forenoon. clear afternoon.,mno,daily_weather_remarks,129,389694,3072,2949
+164,York Factory (HBC),America/Winnipeg,0,1773-06-13,1773-06-13,cloudy,mno,daily_weather_remarks,129,389695,3072,2949
+165,York Factory (HBC),America/Winnipeg,0,1773-06-14,1773-06-14,cloudy with rain in forenoon. clear night.,mno,daily_weather_remarks,129,389697,3072,2949
+166,York Factory (HBC),America/Winnipeg,0,1773-06-15,1773-06-15,foggy and cloudy. rain at evening-time.,mno,daily_weather_remarks,129,389698,3072,2949
+167,York Factory (HBC),America/Winnipeg,0,1773-06-16,1773-06-16,foggy. small rain in the night.,mno,daily_weather_remarks,129,389700,3072,2949
+168,York Factory (HBC),America/Winnipeg,0,1773-06-17,1773-06-17,cloudy,mno,daily_weather_remarks,129,389702,3072,2949
+169,York Factory (HBC),America/Winnipeg,0,1773-06-18,1773-06-18,cloudy morning. clear day.,mno,daily_weather_remarks,129,389703,3072,2949
+170,York Factory (HBC),America/Winnipeg,0,1773-06-19,1773-06-19,cloudy. showers in afternoon and evening.,mno,daily_weather_remarks,129,389704,3072,2949
+171,York Factory (HBC),America/Winnipeg,0,1773-06-20,1773-06-20,clear,mno,daily_weather_remarks,129,389705,3072,2949
+172,York Factory (HBC),America/Winnipeg,0,1773-06-21,1773-06-21,clear morning. cloudy day. rain in evening and night.,mno,daily_weather_remarks,129,389707,3072,2949
+173,York Factory (HBC),America/Winnipeg,0,1773-06-22,1773-06-22,clear forenoon. cloudy afternoon. showers in the night.,mno,daily_weather_remarks,129,389708,3072,2949
+174,York Factory (HBC),America/Winnipeg,0,1773-06-23,1773-06-23,cloudy,mno,daily_weather_remarks,129,389709,3072,2949
+175,York Factory (HBC),America/Winnipeg,0,1773-06-24,1773-06-24,clear morning. rest mostly cloudy.,mno,daily_weather_remarks,129,389713,3072,2949
+176,York Factory (HBC),America/Winnipeg,0,1773-06-25,1773-06-25,cloudy,mno,daily_weather_remarks,129,389718,3072,2949
+177,York Factory (HBC),America/Winnipeg,0,1773-06-26,1773-06-26,cloudy,mno,daily_weather_remarks,129,389720,3072,2949
+178,York Factory (HBC),America/Winnipeg,0,1773-06-27,1773-06-27,cloudy forenoon. clear afternoon.,mno,daily_weather_remarks,129,389724,3072,2949
+179,York Factory (HBC),America/Winnipeg,0,1773-06-28,1773-06-28,cloudy,mno,daily_weather_remarks,129,389739,3072,2949
+180,York Factory (HBC),America/Winnipeg,0,1773-06-29,1773-06-29,cloudy morning. clear day.,mno,daily_weather_remarks,129,389746,3072,2949
+181,York Factory (HBC),America/Winnipeg,0,1773-06-30,1773-06-30,"cloudy, thunder, lightning, and rain in the night",mno,daily_weather_remarks,129,389625,3072,2949
+182,York Factory (HBC),America/Winnipeg,0,1773-07-01,1773-07-01,cloudy. thunder and rain afternoon.,mno,daily_weather_remarks,129,389886,3074,2950
+183,York Factory (HBC),America/Winnipeg,0,1773-07-02,1773-07-02,cloudy. thunder about noon.,mno,daily_weather_remarks,129,389890,3074,2950
+184,York Factory (HBC),America/Winnipeg,0,1773-07-03,1773-07-03,clear forenoon. cloudy afternoon. rain at evening-time.,mno,daily_weather_remarks,129,389896,3074,2950
+185,York Factory (HBC),America/Winnipeg,0,1773-07-04,1773-07-04,clear,mno,daily_weather_remarks,129,389898,3074,2950
+186,York Factory (HBC),America/Winnipeg,0,1773-07-05,1773-07-05,clear forenoon. cloudy afternoon.,mno,daily_weather_remarks,129,389900,3074,2950
+187,York Factory (HBC),America/Winnipeg,0,1773-07-06,1773-07-06,cloudy forenoon. clear at noon. afternoon foggy.,mno,daily_weather_remarks,129,389904,3074,2950
+188,York Factory (HBC),America/Winnipeg,0,1773-07-07,1773-07-07,clear,mno,daily_weather_remarks,129,389906,3074,2950
+189,York Factory (HBC),America/Winnipeg,0,1773-07-08,1773-07-08,clear forenoon. cloudy afternoon. much lightning in the night.,mno,daily_weather_remarks,129,389913,3074,2950
+190,York Factory (HBC),America/Winnipeg,0,1773-07-09,1773-07-09,mostly cloudy. thunder at a distance in forenoon.,mno,daily_weather_remarks,129,389919,3074,2950
+191,York Factory (HBC),America/Winnipeg,0,1773-07-10,1773-07-10,cloudy,mno,daily_weather_remarks,129,389921,3074,2950
+192,York Factory (HBC),America/Winnipeg,0,1773-07-11,1773-07-11,clear. aurora borealis.,mno,daily_weather_remarks,129,389922,3074,2950
+193,York Factory (HBC),America/Winnipeg,0,1773-07-12,1773-07-12,clear forenoon. cloudy afternoon. fog at night.,mno,daily_weather_remarks,129,389925,3074,2950
+194,York Factory (HBC),America/Winnipeg,0,1773-07-13,1773-07-13,fog in morning. clear day.,mno,daily_weather_remarks,129,389927,3074,2950
+195,York Factory (HBC),America/Winnipeg,0,1773-07-14,1773-07-14,clear day. rain in the night.,mno,daily_weather_remarks,129,389930,3074,2950
+196,York Factory (HBC),America/Winnipeg,0,1773-07-15,1773-07-15,showers at noon. rest cloudy.,mno,daily_weather_remarks,129,389932,3074,2950
+197,York Factory (HBC),America/Winnipeg,0,1773-07-16,1773-07-16,clear day. heavy showers at night.,mno,daily_weather_remarks,129,389935,3074,2950
+198,York Factory (HBC),America/Winnipeg,0,1773-07-17,1773-07-17,clear morning. cloudy day.,mno,daily_weather_remarks,129,389937,3074,2950
+199,York Factory (HBC),America/Winnipeg,0,1773-07-18,1773-07-18,cloudy morning. clear day. small rain at night. aurora borealis.,mno,daily_weather_remarks,129,389942,3074,2950
+200,York Factory (HBC),America/Winnipeg,0,1773-07-19,1773-07-19,showers in forenoon. rest cloudy.,mno,daily_weather_remarks,129,389944,3074,2950
+201,York Factory (HBC),America/Winnipeg,0,1773-07-20,1773-07-20,small rain in morning. rest mostly clear. aurora borealis.,mno,daily_weather_remarks,129,389948,3074,2950
+202,York Factory (HBC),America/Winnipeg,0,1773-07-21,1773-07-21,clear,mno,daily_weather_remarks,129,389951,3074,2950
+203,York Factory (HBC),America/Winnipeg,0,1773-07-22,1773-07-22,clear,mno,daily_weather_remarks,129,389953,3074,2950
+204,York Factory (HBC),America/Winnipeg,0,1773-07-23,1773-07-23,rain in morning. rest mostly cloudy.,mno,daily_weather_remarks,129,389956,3074,2950
+205,York Factory (HBC),America/Winnipeg,0,1773-07-24,1773-07-24,fog in morning. clear at noon. cloudy afternoon and night.,mno,daily_weather_remarks,129,389958,3074,2950
+206,York Factory (HBC),America/Winnipeg,0,1773-07-25,1773-07-25,clear,mno,daily_weather_remarks,129,389960,3074,2950
+207,York Factory (HBC),America/Winnipeg,0,1773-07-26,1773-07-26,clear,mno,daily_weather_remarks,129,389963,3074,2950
+208,York Factory (HBC),America/Winnipeg,0,1773-07-27,1773-07-27,hazy and cloudy forenoon. clear afternoon and night.,mno,daily_weather_remarks,129,389966,3074,2950
+209,York Factory (HBC),America/Winnipeg,0,1773-07-28,1773-07-28,clear,mno,daily_weather_remarks,129,389972,3074,2950
+210,York Factory (HBC),America/Winnipeg,0,1773-07-29,1773-07-29,clear morning. rest hazy with high wind. thunder at evening-time.,mno,daily_weather_remarks,129,389974,3074,2950
+211,York Factory (HBC),America/Winnipeg,0,1773-07-30,1773-07-30,cloudy,mno,daily_weather_remarks,129,389977,3074,2950
+212,York Factory (HBC),America/Winnipeg,0,1773-07-31,1773-07-31,several showers,mno,daily_weather_remarks,129,389980,3074,2950

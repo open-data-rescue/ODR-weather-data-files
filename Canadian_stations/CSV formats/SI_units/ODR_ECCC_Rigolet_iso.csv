@@ -1,0 +1,851 @@
+,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
+1,Rigolet,America/Goose_Bay,0,1861-01-27 00:00:00,1861-01-27 00:00:00,halo around the moon at 9pm,mno,casual_phenomena_line_3,200,164620,1372,1256
+2,Rigolet,America/Goose_Bay,0,1861-08-30 00:00:00,1861-08-30 00:00:00,halo round the sun at 6 pm,mno,casual_phenomena_line_3,200,167414,1413,1278
+3,Rigolet,America/Goose_Bay,0,1861-10-26 00:00:00,1861-10-26 00:00:00,aur. bor. very bright,mno,casual_phenomena_line_3,200,168585,1427,1282
+4,Rigolet,America/Goose_Bay,0,1861-11-18 00:00:00,1861-11-18 00:00:00,3m on the ground,mno,casual_phenomena_line_3,200,168597,1428,1286
+5,Rigolet,America/Goose_Bay,0,1862-03-03 00:00:00,1862-03-03 00:00:00,the aur. bor finished at 8:30 pm e to nw,mno,casual_phenomena_line_3,200,168676,1432,1298
+6,Rigolet,America/Goose_Bay,0,1862-04-27 00:00:00,1862-04-27 00:00:00,the sun set red,mno,casual_phenomena_line_3,200,168724,1433,1300
+7,Rigolet,America/Goose_Bay,0,1862-06-17 00:00:00,1862-06-17 00:00:00,a light shower of rain at 7pm,mno,casual_phenomena_line_3,200,168868,1435,1306
+8,Rigolet,America/Goose_Bay,0,1863-02-04 00:00:00,1863-02-04 00:00:00,aur.bor. faint e to w,mno,casual_phenomena_line_3,200,169432,1445,1325
+9,Rigolet,America/Goose_Bay,0,1861-03-13 00:00:00,1861-03-13 00:00:00,the aur.borealis very bright all over at 8pm,mno,casual_phenomena_line_2,199,165044,1378,1258
+10,Rigolet,America/Goose_Bay,0,1861-03-15 00:00:00,1861-03-15 00:00:00,the aur.borealis very bright all over,mno,casual_phenomena_line_2,199,165046,1378,1258
+11,Rigolet,America/Goose_Bay,0,1861-03-18 00:00:00,1861-03-18 00:00:00,the aur. bor. very bright e to n at 9pm,mno,casual_phenomena_line_2,199,165049,1378,1258
+12,Rigolet,America/Goose_Bay,0,1861-04-03 00:00:00,1861-04-03 00:00:00,aur.bor very bright to e to w,mno,casual_phenomena_line_2,199,165556,1384,1265
+13,Rigolet,America/Goose_Bay,0,1861-04-06 00:00:00,1861-04-06 00:00:00,the aur. bor. very bright ne to nw at 10pm,mno,casual_phenomena_line_2,199,165559,1384,1265
+14,Rigolet,America/Goose_Bay,0,1861-04-08 00:00:00,1861-04-08 00:00:00,e to nw very bright,mno,casual_phenomena_line_2,199,165560,1384,1265
+15,Rigolet,America/Goose_Bay,0,1861-04-09 00:00:00,1861-04-09 00:00:00,the aur. bor. very bright e to nw,mno,casual_phenomena_line_2,199,165561,1384,1265
+16,Rigolet,America/Goose_Bay,0,1861-04-12 00:00:00,1861-04-12 00:00:00,the aur. very bright,mno,casual_phenomena_line_2,199,165567,1384,1265
+17,Rigolet,America/Goose_Bay,0,1861-04-22 00:00:00,1861-04-22 00:00:00,the aur. very bright,mno,casual_phenomena_line_2,199,165571,1384,1265
+18,Rigolet,America/Goose_Bay,0,1861-04-23 00:00:00,1861-04-23 00:00:00,halo round the moon,mno,casual_phenomena_line_2,199,165574,1384,1265
+19,Rigolet,America/Goose_Bay,0,1861-05-08 00:00:00,1861-05-08 00:00:00,the aur. bor faint,mno,casual_phenomena_line_2,199,165583,1385,1268
+20,Rigolet,America/Goose_Bay,0,1861-05-24 00:00:00,1861-05-24 00:00:00,empty,mno,casual_phenomena_line_2,199,165594,1385,1268
+21,Rigolet,America/Goose_Bay,0,1861-06-05 00:00:00,1861-06-05 00:00:00,the [ther] at 2 pm 87[degrees] [exposed] in the sun,mno,casual_phenomena_line_2,199,165602,1386,1272
+22,Rigolet,America/Goose_Bay,0,1861-06-08 00:00:00,1861-06-08 00:00:00,halo round the sun at 1:30 pm,mno,casual_phenomena_line_2,199,165605,1386,1272
+23,Rigolet,America/Goose_Bay,0,1861-07-05 00:00:00,1861-07-05 00:00:00,rain is very heavily at 9 pm with thunderat at a great distance at a face flashes of lightning,mno,casual_phenomena_line_2,199,167390,1412,1276
+24,Rigolet,America/Goose_Bay,0,1861-08-02 00:00:00,1861-08-02 00:00:00,the ther at 3pm in the sun stood 102 degrees,mno,casual_phenomena_line_2,199,167403,1413,1278
+25,Rigolet,America/Goose_Bay,0,1861-08-03 00:00:00,1861-08-03 00:00:00,distant thunder heard at 3 pm to w,mno,casual_phenomena_line_2,199,167404,1413,1278
+26,Rigolet,America/Goose_Bay,0,1861-08-04 00:00:00,1861-08-04 00:00:00,empty,mno,casual_phenomena_line_2,199,167405,1413,1278
+27,Rigolet,America/Goose_Bay,0,1861-08-24 00:00:00,1861-08-24 00:00:00,rainbow at 2 pm,mno,casual_phenomena_line_2,199,167412,1413,1278
+28,Rigolet,America/Goose_Bay,0,1861-08-30 00:00:00,1861-08-30 00:00:00,the ther 29 [degrees] at sunrise,mno,casual_phenomena_line_2,199,167414,1413,1278
+29,Rigolet,America/Goose_Bay,0,1861-10-13 00:00:00,1861-10-13 00:00:00,halo round the mơn,mno,casual_phenomena_line_2,199,168576,1427,1282
+30,Rigolet,America/Goose_Bay,0,1861-10-16 00:00:00,1861-10-16 00:00:00,shower of snow at 11 am,mno,casual_phenomena_line_2,199,168577,1427,1282
+31,Rigolet,America/Goose_Bay,0,1861-10-19 00:00:00,1861-10-19 00:00:00,empty,mno,casual_phenomena_line_2,199,168580,1427,1282
+32,Rigolet,America/Goose_Bay,0,1861-10-22 00:00:00,1861-10-22 00:00:00,halo round the moon,mno,casual_phenomena_line_2,199,168582,1427,1282
+33,Rigolet,America/Goose_Bay,0,1861-10-24 00:00:00,1861-10-24 00:00:00,shower of rain + snow,mno,casual_phenomena_line_2,199,168583,1427,1282
+34,Rigolet,America/Goose_Bay,0,1861-10-26 00:00:00,1861-10-26 00:00:00,halo round the sun at  2pm,mno,casual_phenomena_line_2,199,168585,1427,1282
+35,Rigolet,America/Goose_Bay,0,1861-10-27 00:00:00,1861-10-27 00:00:00,the aur.bor. very bright,mno,casual_phenomena_line_2,199,168586,1427,1282
+36,Rigolet,America/Goose_Bay,0,1861-10-28 00:00:00,1861-10-28 00:00:00,the aur.bor. very bright,mno,casual_phenomena_line_2,199,168587,1427,1282
+37,Rigolet,America/Goose_Bay,0,1861-11-10 00:00:00,1861-11-10 00:00:00,halo round the moon at 8 pm,mno,casual_phenomena_line_2,199,168594,1428,1286
+38,Rigolet,America/Goose_Bay,0,1861-11-18 00:00:00,1861-11-18 00:00:00,last geese seen on their way south,mno,casual_phenomena_line_2,199,168597,1428,1286
+39,Rigolet,America/Goose_Bay,0,1861-11-23 00:00:00,1861-11-23 00:00:00,se to w low but bright nw to e low + faint at 8 pm,mno,casual_phenomena_line_2,199,168602,1428,1286
+40,Rigolet,America/Goose_Bay,0,1861-11-26 00:00:00,1861-11-26 00:00:00,e to w low,mno,casual_phenomena_line_2,199,168605,1428,1286
+41,Rigolet,America/Goose_Bay,0,1861-11-28 00:00:00,1861-11-28 00:00:00,e to w low,mno,casual_phenomena_line_2,199,168606,1428,1286
+42,Rigolet,America/Goose_Bay,0,1861-11-30 00:00:00,1861-11-30 00:00:00,a shower of snow at noon,mno,casual_phenomena_line_2,199,168608,1428,1286
+43,Rigolet,America/Goose_Bay,0,1861-12-01 00:00:00,1861-12-01 00:00:00,aur. bor faint,mno,casual_phenomena_line_2,199,168609,1429,1289
+44,Rigolet,America/Goose_Bay,0,1861-12-03 00:00:00,1861-12-03 00:00:00,the aur bor very bright all over,mno,casual_phenomena_line_2,199,168611,1429,1289
+45,Rigolet,America/Goose_Bay,0,1861-12-04 00:00:00,1861-12-04 00:00:00,the aur bor very bright all over,mno,casual_phenomena_line_2,199,168612,1429,1289
+46,Rigolet,America/Goose_Bay,0,1861-12-05 00:00:00,1861-12-05 00:00:00,very red at sun rise,mno,casual_phenomena_line_2,199,168613,1429,1289
+47,Rigolet,America/Goose_Bay,0,1861-12-06 00:00:00,1861-12-06 00:00:00,the aur bor very bright all over,mno,casual_phenomena_line_2,199,168614,1429,1289
+48,Rigolet,America/Goose_Bay,0,1861-12-08 00:00:00,1861-12-08 00:00:00,empty,mno,casual_phenomena_line_2,199,168616,1429,1289
+49,Rigolet,America/Goose_Bay,0,1861-12-09 00:00:00,1861-12-09 00:00:00,aur. bor faint,mno,casual_phenomena_line_2,199,168617,1429,1289
+50,Rigolet,America/Goose_Bay,0,1861-12-10 00:00:00,1861-12-10 00:00:00,aur bor very bright,mno,casual_phenomena_line_2,199,168618,1429,1289
+51,Rigolet,America/Goose_Bay,0,1861-12-22 00:00:00,1861-12-22 00:00:00,mock suns at 2pm,mno,casual_phenomena_line_2,199,168624,1429,1289
+52,Rigolet,America/Goose_Bay,0,1862-01-09 00:00:00,1862-01-09 00:00:00,halo round the moon + 2 mock suns at 1 pm,mno,casual_phenomena_line_2,199,168634,1430,1292
+53,Rigolet,America/Goose_Bay,0,1862-01-16 00:00:00,1862-01-16 00:00:00,halo round the moon at 8pm,mno,casual_phenomena_line_2,199,168639,1430,1292
+54,Rigolet,America/Goose_Bay,0,1862-01-22 00:00:00,1862-01-22 00:00:00,the sun rose red,mno,casual_phenomena_line_2,199,168645,1430,1292
+55,Rigolet,America/Goose_Bay,0,1862-02-14 00:00:00,1862-02-14 00:00:00,2 mock moons at 8 pm,mno,casual_phenomena_line_2,199,168649,1431,1297
+56,Rigolet,America/Goose_Bay,0,1862-02-20 00:00:00,1862-02-20 00:00:00,the aur bor. very bright all over,mno,casual_phenomena_line_2,199,168654,1431,1297
+57,Rigolet,America/Goose_Bay,0,1862-02-22 00:00:00,1862-02-22 00:00:00,aur bor very bright,mno,casual_phenomena_line_2,199,168656,1431,1297
+58,Rigolet,America/Goose_Bay,0,1862-02-24 00:00:00,1862-02-24 00:00:00,halo round the sun at 9 am,mno,casual_phenomena_line_2,199,168658,1431,1297
+59,Rigolet,America/Goose_Bay,0,1862-02-27 00:00:00,1862-02-27 00:00:00,the ther at noon 39 [degrees],mno,casual_phenomena_line_2,199,168660,1431,1297
+60,Rigolet,America/Goose_Bay,0,1862-02-28 00:00:00,1862-02-28 00:00:00,the aur. bor very bright at 7 pm from e to w,mno,casual_phenomena_line_2,199,168663,1431,1297
+61,Rigolet,America/Goose_Bay,0,1862-03-03 00:00:00,1862-03-03 00:00:00,clear at 8pm,mno,casual_phenomena_line_2,199,168676,1432,1298
+62,Rigolet,America/Goose_Bay,0,1862-03-05 00:00:00,1862-03-05 00:00:00,heavy shower [illegible] and lasted 3 hours,mno,casual_phenomena_line_2,199,168678,1432,1298
+63,Rigolet,America/Goose_Bay,0,1862-03-10 00:00:00,1862-03-10 00:00:00,j round the moon at 6 pm,mno,casual_phenomena_line_2,199,168682,1432,1298
+64,Rigolet,America/Goose_Bay,0,1862-03-11 00:00:00,1862-03-11 00:00:00,the change very sudden,mno,casual_phenomena_line_2,199,168685,1432,1298
+65,Rigolet,America/Goose_Bay,0,1862-03-12 00:00:00,1862-03-12 00:00:00,very bright at 10 pm,mno,casual_phenomena_line_2,199,168691,1432,1298
+66,Rigolet,America/Goose_Bay,0,1862-03-13 00:00:00,1862-03-13 00:00:00,snow at 3pm,mno,casual_phenomena_line_2,199,168693,1432,1298
+67,Rigolet,America/Goose_Bay,0,1862-03-15 00:00:00,1862-03-15 00:00:00,the aur bor. at 8 pm bright ne to n,mno,casual_phenomena_line_2,199,168695,1432,1298
+68,Rigolet,America/Goose_Bay,0,1862-03-27 00:00:00,1862-03-27 00:00:00,the aur.bor very bright at 7pm e to w + e to n,mno,casual_phenomena_line_2,199,168703,1432,1298
+69,Rigolet,America/Goose_Bay,0,1862-03-31 00:00:00,1862-03-31 00:00:00,the aur. bor. e to n low + faint 7:30 pm,mno,casual_phenomena_line_2,199,168707,1432,1298
+70,Rigolet,America/Goose_Bay,0,1862-04-03 00:00:00,1862-04-03 00:00:00,halo round the sun all day,mno,casual_phenomena_line_2,199,168719,1433,1300
+71,Rigolet,America/Goose_Bay,0,1862-04-27 00:00:00,1862-04-27 00:00:00,aur bor. very bright all over at 8 pm,mno,casual_phenomena_line_2,199,168724,1433,1300
+72,Rigolet,America/Goose_Bay,0,1862-04-28 00:00:00,1862-04-28 00:00:00,aur borealis very bright at 9 pm e to w + very low from se to w,mno,casual_phenomena_line_2,199,168725,1433,1300
+73,Rigolet,America/Goose_Bay,0,1862-04-29 00:00:00,1862-04-29 00:00:00,the sun set red,mno,casual_phenomena_line_2,199,168736,1433,1300
+74,Rigolet,America/Goose_Bay,0,1862-05-01 00:00:00,1862-05-01 00:00:00,the aur.bor. very bright at 10 pm e to nw,mno,casual_phenomena_line_2,199,168760,1434,1304
+75,Rigolet,America/Goose_Bay,0,1862-05-05 00:00:00,1862-05-05 00:00:00,halo round the sun at 5pm,mno,casual_phenomena_line_2,199,168765,1434,1304
+76,Rigolet,America/Goose_Bay,0,1862-06-11 00:00:00,1862-06-11 00:00:00,the sun set red,mno,casual_phenomena_line_2,199,168864,1435,1306
+77,Rigolet,America/Goose_Bay,0,1862-06-14 00:00:00,1862-06-14 00:00:00,snow + rain at 8 pm,mno,casual_phenomena_line_2,199,168865,1435,1306
+78,Rigolet,America/Goose_Bay,0,1862-06-15 00:00:00,1862-06-15 00:00:00,the sun set red,mno,casual_phenomena_line_2,199,168866,1435,1306
+79,Rigolet,America/Goose_Bay,0,1862-06-16 00:00:00,1862-06-16 00:00:00,the ther 30 [degrees],mno,casual_phenomena_line_2,199,168867,1435,1306
+80,Rigolet,America/Goose_Bay,0,1862-06-17 00:00:00,1862-06-17 00:00:00,halo round the sun at 9 am,mno,casual_phenomena_line_2,199,168868,1435,1306
+81,Rigolet,America/Goose_Bay,0,1862-06-19 00:00:00,1862-06-19 00:00:00,snowing all night until 6am when it [illegible],mno,casual_phenomena_line_2,199,168870,1435,1306
+82,Rigolet,America/Goose_Bay,0,1862-06-25 00:00:00,1862-06-25 00:00:00,hard frost at night,mno,casual_phenomena_line_2,199,168872,1435,1306
+83,Rigolet,America/Goose_Bay,0,1862-08-02 00:00:00,1862-08-02 00:00:00,the aur.bor. faint at 10pm,mno,casual_phenomena_line_2,199,168877,1437,1310
+84,Rigolet,America/Goose_Bay,0,1862-08-14 00:00:00,1862-08-14 00:00:00,the aur.bor bright at 9pm,mno,casual_phenomena_line_2,199,168884,1437,1310
+85,Rigolet,America/Goose_Bay,0,1862-08-15 00:00:00,1862-08-15 00:00:00,halo round the sun at 10 am,mno,casual_phenomena_line_2,199,168885,1437,1310
+86,Rigolet,America/Goose_Bay,0,1862-08-21 00:00:00,1862-08-21 00:00:00,very bright at 10 pm,mno,casual_phenomena_line_2,199,168889,1437,1310
+87,Rigolet,America/Goose_Bay,0,1862-08-29 00:00:00,1862-08-29 00:00:00,very bright at 10 pm,mno,casual_phenomena_line_2,199,168893,1437,1310
+88,Rigolet,America/Goose_Bay,0,1862-10-05 00:00:00,1862-10-05 00:00:00,high hills covered with snow,mno,casual_phenomena_line_2,199,169352,1442,1316
+89,Rigolet,America/Goose_Bay,0,1862-10-13 00:00:00,1862-10-13 00:00:00,very red some time before sunrise,mno,casual_phenomena_line_2,199,169357,1442,1316
+90,Rigolet,America/Goose_Bay,0,1862-10-15 00:00:00,1862-10-15 00:00:00,the aur.bor. at 7 pm bright,mno,casual_phenomena_line_2,199,169359,1442,1316
+91,Rigolet,America/Goose_Bay,0,1862-10-17 00:00:00,1862-10-17 00:00:00,halo round the sun,mno,casual_phenomena_line_2,199,169361,1442,1316
+92,Rigolet,America/Goose_Bay,0,1862-10-20 00:00:00,1862-10-20 00:00:00,aur.bor. very bright at 8pm e to w,mno,casual_phenomena_line_2,199,169363,1442,1316
+93,Rigolet,America/Goose_Bay,0,1862-10-23 00:00:00,1862-10-23 00:00:00,empty,mno,casual_phenomena_line_2,199,169365,1442,1316
+94,Rigolet,America/Goose_Bay,0,1862-10-29 00:00:00,1862-10-29 00:00:00,aur. bor bright,mno,casual_phenomena_line_2,199,169370,1442,1316
+95,Rigolet,America/Goose_Bay,0,1862-10-30 00:00:00,1862-10-30 00:00:00,2 mock suns,mno,casual_phenomena_line_2,199,169371,1442,1316
+96,Rigolet,America/Goose_Bay,0,1862-11-14 00:00:00,1862-11-14 00:00:00,two mock suns at noon,mno,casual_phenomena_line_2,199,169382,1443,1317
+97,Rigolet,America/Goose_Bay,0,1862-11-18 00:00:00,1862-11-18 00:00:00,two mock suns,mno,casual_phenomena_line_2,199,169385,1443,1317
+98,Rigolet,America/Goose_Bay,0,1862-11-26 00:00:00,1862-11-26 00:00:00,aur.bor. very bright,mno,casual_phenomena_line_2,199,169388,1443,1317
+99,Rigolet,America/Goose_Bay,0,1862-12-02 00:00:00,1862-12-02 00:00:00,halo round the moon,mno,casual_phenomena_line_2,199,169402,1444,1322
+100,Rigolet,America/Goose_Bay,0,1862-12-04 00:00:00,1862-12-04 00:00:00,at 7pm ther 14 below [zero] [illegible] at the time,mno,casual_phenomena_line_2,199,169403,1444,1322
+101,Rigolet,America/Goose_Bay,0,1862-12-17 00:00:00,1862-12-17 00:00:00,aur.bor very bright from e to nw,mno,casual_phenomena_line_2,199,169411,1444,1322
+102,Rigolet,America/Goose_Bay,0,1862-12-23 00:00:00,1862-12-23 00:00:00,aur.bor. faint n to e low,mno,casual_phenomena_line_2,199,169414,1444,1322
+103,Rigolet,America/Goose_Bay,0,1863-02-04 00:00:00,1863-02-04 00:00:00,halo round the moon at 8pm,mno,casual_phenomena_line_2,199,169432,1445,1325
+104,Rigolet,America/Goose_Bay,0,1863-02-06 00:00:00,1863-02-06 00:00:00,snowing a little fin 8 to 10 am,mno,casual_phenomena_line_2,199,169434,1445,1325
+105,Rigolet,America/Goose_Bay,0,1863-02-07 00:00:00,1863-02-07 00:00:00,the aur.bor very bright all over,mno,casual_phenomena_line_2,199,169435,1445,1325
+106,Rigolet,America/Goose_Bay,0,1863-02-09 00:00:00,1863-02-09 00:00:00,the aur.bor very bright at 8pm all over,mno,casual_phenomena_line_2,199,169436,1445,1325
+107,Rigolet,America/Goose_Bay,0,1863-02-13 00:00:00,1863-02-13 00:00:00,empty,mno,casual_phenomena_line_2,199,169439,1445,1325
+108,Rigolet,America/Goose_Bay,0,1863-02-16 00:00:00,1863-02-16 00:00:00,ther at noon 31[degrees],mno,casual_phenomena_line_2,199,169442,1445,1325
+109,Rigolet,America/Goose_Bay,0,1863-02-17 00:00:00,1863-02-17 00:00:00,the aur.bor bright e to n,mno,casual_phenomena_line_2,199,169443,1445,1325
+110,Rigolet,America/Goose_Bay,0,1863-02-21 00:00:00,1863-02-21 00:00:00,the heaviest this winter,mno,casual_phenomena_line_2,199,169453,1445,1325
+111,Rigolet,America/Goose_Bay,0,1863-02-22 00:00:00,1863-02-22 00:00:00,drifting hard all day,mno,casual_phenomena_line_2,199,169454,1445,1325
+112,Rigolet,America/Goose_Bay,0,1863-02-23 00:00:00,1863-02-23 00:00:00,halo round the moon at 8pm,mno,casual_phenomena_line_2,199,169455,1445,1325
+113,Rigolet,America/Goose_Bay,0,1863-02-27 00:00:00,1863-02-27 00:00:00,the aur.bor very bright all over,mno,casual_phenomena_line_2,199,169463,1445,1325
+114,Rigolet,America/Goose_Bay,0,1863-02-28 00:00:00,1863-02-28 00:00:00,the aur bor very bright all over,mno,casual_phenomena_line_2,199,169467,1445,1325
+115,Rigolet,America/Goose_Bay,0,1863-03-03 00:00:00,1863-03-03 00:00:00,empty,mno,casual_phenomena_line_2,199,169470,1446,1329
+116,Rigolet,America/Goose_Bay,0,1863-03-06 00:00:00,1863-03-06 00:00:00,a little snow at 4pm with wind,mno,casual_phenomena_line_2,199,169478,1446,1329
+117,Rigolet,America/Goose_Bay,0,1863-03-07 00:00:00,1863-03-07 00:00:00,the aur.bor very bright from 7 to 9 pm all over the heavens,mno,casual_phenomena_line_2,199,169479,1446,1329
+118,Rigolet,America/Goose_Bay,0,1863-03-13 00:00:00,1863-03-13 00:00:00,the aur.bor faint e to nw low at 9pm,mno,casual_phenomena_line_2,199,169484,1446,1329
+119,Rigolet,America/Goose_Bay,0,1863-03-18 00:00:00,1863-03-18 00:00:00,aur.bor faint e to n low,mno,casual_phenomena_line_2,199,169489,1446,1329
+120,Rigolet,America/Goose_Bay,0,1863-03-20 00:00:00,1863-03-20 00:00:00,aur.bor bright all over,mno,casual_phenomena_line_2,199,169491,1446,1329
+121,Rigolet,America/Goose_Bay,0,1863-05-22 00:00:00,1863-05-22 00:00:00,first robins seen here,mno,casual_phenomena_line_2,199,169526,1447,1331
+122,Rigolet,America/Goose_Bay,0,1863-06-13 00:00:00,1863-06-13 00:00:00,ther 27[degrees] at 4am,mno,casual_phenomena_line_2,199,169551,1448,1335
+123,Rigolet,America/Goose_Bay,0,1863-06-16 00:00:00,1863-06-16 00:00:00,rain at 10am,mno,casual_phenomena_line_2,199,169552,1448,1335
+124,Rigolet,America/Goose_Bay,0,1861-10-29 00:00:00,1861-10-29 00:00:00,thick fog all day,mno,casual_phenomena,155,168588,1427,1282
+125,Rigolet,America/Goose_Bay,0,1861-10-30 00:00:00,1861-10-30 00:00:00,the aur. bor. very bright,mno,casual_phenomena,155,168589,1427,1282
+126,Rigolet,America/Goose_Bay,0,1861-11-01 00:00:00,1861-11-01 00:00:00,the sun rose red,mno,casual_phenomena,155,168590,1428,1286
+127,Rigolet,America/Goose_Bay,0,1861-11-02 00:00:00,1861-11-02 00:00:00,the aur.bor. very bright,mno,casual_phenomena,155,168591,1428,1286
+128,Rigolet,America/Goose_Bay,0,1861-11-03 00:00:00,1861-11-03 00:00:00,the aur bor very bright,mno,casual_phenomena,155,168592,1428,1286
+129,Rigolet,America/Goose_Bay,0,1861-11-04 00:00:00,1861-11-04 00:00:00,the aur bor very bright,mno,casual_phenomena,155,168593,1428,1286
+130,Rigolet,America/Goose_Bay,0,1861-11-10 00:00:00,1861-11-10 00:00:00,halo round the sun at 3 pm,mno,casual_phenomena,155,168594,1428,1286
+131,Rigolet,America/Goose_Bay,0,1861-11-11 00:00:00,1861-11-11 00:00:00,about 4 [in] snow on the ground,mno,casual_phenomena,155,168595,1428,1286
+132,Rigolet,America/Goose_Bay,0,1861-11-14 00:00:00,1861-11-14 00:00:00,all the snow disappeared,mno,casual_phenomena,155,168596,1428,1286
+133,Rigolet,America/Goose_Bay,0,1861-11-18 00:00:00,1861-11-18 00:00:00,aur. bor. very bright,mno,casual_phenomena,155,168597,1428,1286
+134,Rigolet,America/Goose_Bay,0,1861-11-19 00:00:00,1861-11-19 00:00:00,the sun rose red,mno,casual_phenomena,155,168598,1428,1286
+135,Rigolet,America/Goose_Bay,0,1861-11-20 00:00:00,1861-11-20 00:00:00,the sun set red,mno,casual_phenomena,155,168599,1428,1286
+136,Rigolet,America/Goose_Bay,0,1861-11-21 00:00:00,1861-11-21 00:00:00,the aur. bor very bright from e to w,mno,casual_phenomena,155,168600,1428,1286
+137,Rigolet,America/Goose_Bay,0,1861-11-22 00:00:00,1861-11-22 00:00:00,the aur bor very bright from e to w,mno,casual_phenomena,155,172532,1428,1286
+138,Rigolet,America/Goose_Bay,0,1861-11-23 00:00:00,1861-11-23 00:00:00,the aur bor,mno,casual_phenomena,155,168602,1428,1286
+139,Rigolet,America/Goose_Bay,0,1861-11-24 00:00:00,1861-11-24 00:00:00,light showers of snow all day,mno,casual_phenomena,155,168603,1428,1286
+140,Rigolet,America/Goose_Bay,0,1861-11-25 00:00:00,1861-11-25 00:00:00,the aur. bor e to w low + se to nw very bright,mno,casual_phenomena,155,168604,1428,1286
+141,Rigolet,America/Goose_Bay,0,1861-11-26 00:00:00,1861-11-26 00:00:00,the aur bor,mno,casual_phenomena,155,168605,1428,1286
+142,Rigolet,America/Goose_Bay,0,1861-11-28 00:00:00,1861-11-28 00:00:00,the aur bor,mno,casual_phenomena,155,168606,1428,1286
+143,Rigolet,America/Goose_Bay,0,1861-11-29 00:00:00,1861-11-29 00:00:00,ice floating about for the first time,mno,casual_phenomena,155,168607,1428,1286
+144,Rigolet,America/Goose_Bay,0,1861-11-30 00:00:00,1861-11-30 00:00:00,the sun rose red,mno,casual_phenomena,155,168608,1428,1286
+145,Rigolet,America/Goose_Bay,0,1861-12-01 00:00:00,1861-12-01 00:00:00,showers of snow all day,mno,casual_phenomena,155,168609,1429,1289
+146,Rigolet,America/Goose_Bay,0,1861-12-02 00:00:00,1861-12-02 00:00:00,the aur bor faint,mno,casual_phenomena,155,168610,1429,1289
+147,Rigolet,America/Goose_Bay,0,1861-12-03 00:00:00,1861-12-03 00:00:00,the sun set red,mno,casual_phenomena,155,168611,1429,1289
+148,Rigolet,America/Goose_Bay,0,1861-12-04 00:00:00,1861-12-04 00:00:00,the sun set red,mno,casual_phenomena,155,168612,1429,1289
+149,Rigolet,America/Goose_Bay,0,1861-12-05 00:00:00,1861-12-05 00:00:00,the aur. bor bright,mno,casual_phenomena,155,168613,1429,1289
+150,Rigolet,America/Goose_Bay,0,1861-12-06 00:00:00,1861-12-06 00:00:00,the sun set red,mno,casual_phenomena,155,168614,1429,1289
+151,Rigolet,America/Goose_Bay,0,1861-12-07 00:00:00,1861-12-07 00:00:00,halo round the sun,mno,casual_phenomena,155,168615,1429,1289
+152,Rigolet,America/Goose_Bay,0,1861-12-08 00:00:00,1861-12-08 00:00:00,fog in the morning,mno,casual_phenomena,155,168616,1429,1289
+153,Rigolet,America/Goose_Bay,0,1861-12-09 00:00:00,1861-12-09 00:00:00,halo round the moon,mno,casual_phenomena,155,168617,1429,1289
+154,Rigolet,America/Goose_Bay,0,1861-12-10 00:00:00,1861-12-10 00:00:00,the sun set red,mno,casual_phenomena,155,168618,1429,1289
+155,Rigolet,America/Goose_Bay,0,1861-12-12 00:00:00,1861-12-12 00:00:00,the aur. bor. bright,mno,casual_phenomena,155,168619,1429,1289
+156,Rigolet,America/Goose_Bay,0,1861-12-13 00:00:00,1861-12-13 00:00:00,halo round the sun,mno,casual_phenomena,155,168620,1429,1289
+157,Rigolet,America/Goose_Bay,0,1861-12-17 00:00:00,1861-12-17 00:00:00,aur. bor. bright,mno,casual_phenomena,155,168621,1429,1289
+158,Rigolet,America/Goose_Bay,0,1861-12-18 00:00:00,1861-12-18 00:00:00,halo round the sun,mno,casual_phenomena,155,168622,1429,1289
+159,Rigolet,America/Goose_Bay,0,1861-12-21 00:00:00,1861-12-21 00:00:00,halo round the sun,mno,casual_phenomena,155,168623,1429,1289
+160,Rigolet,America/Goose_Bay,0,1861-12-22 00:00:00,1861-12-22 00:00:00,drifting hard,mno,casual_phenomena,155,168624,1429,1289
+161,Rigolet,America/Goose_Bay,0,1861-12-23 00:00:00,1861-12-23 00:00:00,aur. bor. very bright,mno,casual_phenomena,155,168625,1429,1289
+162,Rigolet,America/Goose_Bay,0,1861-12-24 00:00:00,1861-12-24 00:00:00,snow storm,mno,casual_phenomena,155,168626,1429,1289
+163,Rigolet,America/Goose_Bay,0,1861-12-25 00:00:00,1861-12-25 00:00:00,the aur. bor. very bright,mno,casual_phenomena,155,168627,1429,1289
+164,Rigolet,America/Goose_Bay,0,1861-12-26 00:00:00,1861-12-26 00:00:00,the aur bor very bright,mno,casual_phenomena,155,168628,1429,1289
+165,Rigolet,America/Goose_Bay,0,1862-01-01 00:00:00,1862-01-01 00:00:00,"the aur, bor very bright all over",mno,casual_phenomena,155,168629,1430,1292
+166,Rigolet,America/Goose_Bay,0,1862-01-02 00:00:00,1862-01-02 00:00:00,a feint shower of rain + hail at 3 pm,mno,casual_phenomena,155,168630,1430,1292
+167,Rigolet,America/Goose_Bay,0,1862-01-06 00:00:00,1862-01-06 00:00:00,aur. bor. very bright,mno,casual_phenomena,155,168631,1430,1292
+168,Rigolet,America/Goose_Bay,0,1862-01-07 00:00:00,1862-01-07 00:00:00,aur bor very bright at 10 pm,mno,casual_phenomena,155,168632,1430,1292
+169,Rigolet,America/Goose_Bay,0,1862-01-08 00:00:00,1862-01-08 00:00:00,aur bor very bright,mno,casual_phenomena,155,168633,1430,1292
+170,Rigolet,America/Goose_Bay,0,1862-01-09 00:00:00,1862-01-09 00:00:00,aur bor very bright at 11 pm,mno,casual_phenomena,155,168634,1430,1292
+171,Rigolet,America/Goose_Bay,0,1862-01-11 00:00:00,1862-01-11 00:00:00,aur bor very bright,mno,casual_phenomena,155,168635,1430,1292
+172,Rigolet,America/Goose_Bay,0,1862-01-12 00:00:00,1862-01-12 00:00:00,halo round the moon,mno,casual_phenomena,155,168636,1430,1292
+173,Rigolet,America/Goose_Bay,0,1862-01-14 00:00:00,1862-01-14 00:00:00,aur. bor. bright,mno,casual_phenomena,155,168637,1430,1292
+174,Rigolet,America/Goose_Bay,0,1862-01-15 00:00:00,1862-01-15 00:00:00,aur bor bright,mno,casual_phenomena,155,168638,1430,1292
+175,Rigolet,America/Goose_Bay,0,1862-01-16 00:00:00,1862-01-16 00:00:00,aur bor bright at 7 pm,mno,casual_phenomena,155,168639,1430,1292
+176,Rigolet,America/Goose_Bay,0,1862-01-17 00:00:00,1862-01-17 00:00:00,halo round the sun,mno,casual_phenomena,155,168640,1430,1292
+177,Rigolet,America/Goose_Bay,0,1862-01-18 00:00:00,1862-01-18 00:00:00,aur bor. very bright,mno,casual_phenomena,155,168641,1430,1292
+178,Rigolet,America/Goose_Bay,0,1862-01-19 00:00:00,1862-01-19 00:00:00,aur bor very bright,mno,casual_phenomena,155,168642,1430,1292
+179,Rigolet,America/Goose_Bay,0,1862-01-20 00:00:00,1862-01-20 00:00:00,aur bor very bright,mno,casual_phenomena,155,168643,1430,1292
+180,Rigolet,America/Goose_Bay,0,1862-01-21 00:00:00,1862-01-21 00:00:00,aur bor very bright all over,mno,casual_phenomena,155,168644,1430,1292
+181,Rigolet,America/Goose_Bay,0,1862-01-22 00:00:00,1862-01-22 00:00:00,aur bor very bright,mno,casual_phenomena,155,168645,1430,1292
+182,Rigolet,America/Goose_Bay,0,1862-01-24 00:00:00,1862-01-24 00:00:00,aur bor very bright,mno,casual_phenomena,155,168646,1430,1292
+183,Rigolet,America/Goose_Bay,0,1862-01-29 00:00:00,1862-01-29 00:00:00,aur bor very bright,mno,casual_phenomena,155,168647,1430,1292
+184,Rigolet,America/Goose_Bay,0,1862-02-13 00:00:00,1862-02-13 00:00:00,the aur. bor from e to n,mno,casual_phenomena,155,168648,1431,1297
+185,Rigolet,America/Goose_Bay,0,1862-02-14 00:00:00,1862-02-14 00:00:00,the aur bor. from e to n low,mno,casual_phenomena,155,168649,1431,1297
+186,Rigolet,America/Goose_Bay,0,1862-02-15 00:00:00,1862-02-15 00:00:00,the aur bor. from e to n low,mno,casual_phenomena,155,168650,1431,1297
+187,Rigolet,America/Goose_Bay,0,1862-02-16 00:00:00,1862-02-16 00:00:00,the aur bor from e to n,mno,casual_phenomena,155,168651,1431,1297
+188,Rigolet,America/Goose_Bay,0,1862-02-17 00:00:00,1862-02-17 00:00:00,the aur bor from e to n,mno,casual_phenomena,155,168652,1431,1297
+189,Rigolet,America/Goose_Bay,0,1862-02-18 00:00:00,1862-02-18 00:00:00,the aur bor from e to n,mno,casual_phenomena,155,168653,1431,1297
+190,Rigolet,America/Goose_Bay,0,1862-02-20 00:00:00,1862-02-20 00:00:00,the sun rose red,mno,casual_phenomena,155,168654,1431,1297
+191,Rigolet,America/Goose_Bay,0,1862-02-21 00:00:00,1862-02-21 00:00:00,the aur bor very bright,mno,casual_phenomena,155,168655,1431,1297
+192,Rigolet,America/Goose_Bay,0,1862-02-22 00:00:00,1862-02-22 00:00:00,the sun rose red,mno,casual_phenomena,155,168656,1431,1297
+193,Rigolet,America/Goose_Bay,0,1862-02-23 00:00:00,1862-02-23 00:00:00,halo round the sun at 2 pm,mno,casual_phenomena,155,168657,1431,1297
+194,Rigolet,America/Goose_Bay,0,1862-02-24 00:00:00,1862-02-24 00:00:00,the sun rose red,mno,casual_phenomena,155,168658,1431,1297
+195,Rigolet,America/Goose_Bay,0,1862-02-26 00:00:00,1862-02-26 00:00:00,showers of snow + rain until 2 pm when it began to snow,mno,casual_phenomena,155,168659,1431,1297
+196,Rigolet,America/Goose_Bay,0,1862-02-27 00:00:00,1862-02-27 00:00:00,rain [hard] all night,mno,casual_phenomena,155,168660,1431,1297
+197,Rigolet,America/Goose_Bay,0,1862-02-28 00:00:00,1862-02-28 00:00:00,rain + snow until 1 pm,mno,casual_phenomena,155,168663,1431,1297
+198,Rigolet,America/Goose_Bay,0,1862-03-01 00:00:00,1862-03-01 00:00:00,snow falling until 4 pm when it began to rain hard,mno,casual_phenomena,155,168672,1432,1298
+199,Rigolet,America/Goose_Bay,0,1862-03-02 00:00:00,1862-03-02 00:00:00,rained hard all night + the greater part of this day in showers but began to rain hard at 8 pm,mno,casual_phenomena,155,168675,1432,1298
+200,Rigolet,America/Goose_Bay,0,1862-03-03 00:00:00,1862-03-03 00:00:00,raining hard until 3 pm,mno,casual_phenomena,155,168676,1432,1298
+201,Rigolet,America/Goose_Bay,0,1862-03-04 00:00:00,1862-03-04 00:00:00,the aur. bor very bright at 10 pm from e to w,mno,casual_phenomena,155,168677,1432,1298
+202,Rigolet,America/Goose_Bay,0,1862-03-05 00:00:00,1862-03-05 00:00:00,light showers of snow at [illegible] at 1/4 to 5 a[m],mno,casual_phenomena,155,168678,1432,1298
+203,Rigolet,America/Goose_Bay,0,1862-03-08 00:00:00,1862-03-08 00:00:00,light shower of snow at 7:15 pm to 9 pm,mno,casual_phenomena,155,168679,1432,1298
+204,Rigolet,America/Goose_Bay,0,1862-03-10 00:00:00,1862-03-10 00:00:00,halo round the sun at 2 pm +,mno,casual_phenomena,155,168682,1432,1298
+205,Rigolet,America/Goose_Bay,0,1862-03-11 00:00:00,1862-03-11 00:00:00,snow and wind fin 8 at 20 min past 7 am,mno,casual_phenomena,155,168685,1432,1298
+206,Rigolet,America/Goose_Bay,0,1862-03-12 00:00:00,1862-03-12 00:00:00,the aur bor faint at 8 pm fin se to nw,mno,casual_phenomena,155,168691,1432,1298
+207,Rigolet,America/Goose_Bay,0,1862-03-13 00:00:00,1862-03-13 00:00:00,the sun rose red,mno,casual_phenomena,155,168693,1432,1298
+208,Rigolet,America/Goose_Bay,0,1862-03-14 00:00:00,1862-03-14 00:00:00,the aur. bor very bright at 9pm e to w,mno,casual_phenomena,155,168694,1432,1298
+209,Rigolet,America/Goose_Bay,0,1862-03-15 00:00:00,1862-03-15 00:00:00,the sun set red,mno,casual_phenomena,155,168695,1432,1298
+210,Rigolet,America/Goose_Bay,0,1862-03-16 00:00:00,1862-03-16 00:00:00,the aur.bor. faint e to n low at 9 pm,mno,casual_phenomena,155,168696,1432,1298
+211,Rigolet,America/Goose_Bay,0,1862-03-18 00:00:00,1862-03-18 00:00:00,the aur bor faint e to n low at 8pm,mno,casual_phenomena,155,168697,1432,1298
+212,Rigolet,America/Goose_Bay,0,1862-03-19 00:00:00,1862-03-19 00:00:00,began to rain hard at 12 am,mno,casual_phenomena,155,168698,1432,1298
+213,Rigolet,America/Goose_Bay,0,1862-03-20 00:00:00,1862-03-20 00:00:00,the aur bor faint + low e to n at 7:30 pm,mno,casual_phenomena,155,168699,1432,1298
+214,Rigolet,America/Goose_Bay,0,1862-03-21 00:00:00,1862-03-21 00:00:00,the sun rose and set red,mno,casual_phenomena,155,168700,1432,1298
+215,Rigolet,America/Goose_Bay,0,1862-03-23 00:00:00,1862-03-23 00:00:00,began to snow at 3 pm,mno,casual_phenomena,155,168701,1432,1298
+216,Rigolet,America/Goose_Bay,0,1862-03-26 00:00:00,1862-03-26 00:00:00,[illegible] showers of snow all day but began to snow hard as the evening advanced,mno,casual_phenomena,155,168702,1432,1298
+217,Rigolet,America/Goose_Bay,0,1862-03-27 00:00:00,1862-03-27 00:00:00,cleared up at 6pm,mno,casual_phenomena,155,168703,1432,1298
+218,Rigolet,America/Goose_Bay,0,1862-03-28 00:00:00,1862-03-28 00:00:00,blew very hard from nw all night until day light + began again on the evening,mno,casual_phenomena,155,168704,1432,1298
+219,Rigolet,America/Goose_Bay,0,1862-03-29 00:00:00,1862-03-29 00:00:00,blew very hard from n all night,mno,casual_phenomena,155,168705,1432,1298
+220,Rigolet,America/Goose_Bay,0,1862-03-30 00:00:00,1862-03-30 00:00:00,blew very hard from n all night + the greater part of the day,mno,casual_phenomena,155,168706,1432,1298
+221,Rigolet,America/Goose_Bay,0,1862-03-31 00:00:00,1862-03-31 00:00:00,the sun set red,mno,casual_phenomena,155,168707,1432,1298
+222,Rigolet,America/Goose_Bay,0,1862-04-01 00:00:00,1862-04-01 00:00:00,aur bor very bright all over from 7 to 10 pm,mno,casual_phenomena,155,168712,1433,1300
+223,Rigolet,America/Goose_Bay,0,1862-04-02 00:00:00,1862-04-02 00:00:00,aur borealis very bright all over 7pm,mno,casual_phenomena,155,168716,1433,1300
+224,Rigolet,America/Goose_Bay,0,1862-04-03 00:00:00,1862-04-03 00:00:00,aur borealis very bright e to n at 7 pm -,mno,casual_phenomena,155,168719,1433,1300
+225,Rigolet,America/Goose_Bay,0,1862-04-27 00:00:00,1862-04-27 00:00:00,halo round the sun at 9 am,mno,casual_phenomena,155,168724,1433,1300
+226,Rigolet,America/Goose_Bay,0,1862-04-28 00:00:00,1862-04-28 00:00:00,halo round the sun at 1 pm,mno,casual_phenomena,155,168725,1433,1300
+227,Rigolet,America/Goose_Bay,0,1862-04-29 00:00:00,1862-04-29 00:00:00,mock snow at sun rise,mno,casual_phenomena,155,168736,1433,1300
+228,Rigolet,America/Goose_Bay,0,1862-05-01 00:00:00,1862-05-01 00:00:00,the sun set red,mno,casual_phenomena,155,168760,1434,1304
+229,Rigolet,America/Goose_Bay,0,1862-05-02 00:00:00,1862-05-02 00:00:00,the aur.bor. very bright all over from 8 to 10 pm,mno,casual_phenomena,155,168762,1434,1304
+230,Rigolet,America/Goose_Bay,0,1862-05-03 00:00:00,1862-05-03 00:00:00,halo round the sun at 8am,mno,casual_phenomena,155,168764,1434,1304
+231,Rigolet,America/Goose_Bay,0,1862-05-05 00:00:00,1862-05-05 00:00:00,light showers of snow,mno,casual_phenomena,155,168765,1434,1304
+232,Rigolet,America/Goose_Bay,0,1862-05-12 00:00:00,1862-05-12 00:00:00,showers of snow in the pm and heavy one at 7 pm,mno,casual_phenomena,155,168766,1434,1304
+233,Rigolet,America/Goose_Bay,0,1862-05-14 00:00:00,1862-05-14 00:00:00,showers of snow at 2pm,mno,casual_phenomena,155,168767,1434,1304
+234,Rigolet,America/Goose_Bay,0,1862-05-16 00:00:00,1862-05-16 00:00:00,the sun set red,mno,casual_phenomena,155,168768,1434,1304
+235,Rigolet,America/Goose_Bay,0,1862-05-17 00:00:00,1862-05-17 00:00:00,light showers of snow in the evening,mno,casual_phenomena,155,168771,1434,1304
+236,Rigolet,America/Goose_Bay,0,1862-05-18 00:00:00,1862-05-18 00:00:00,the sun set red,mno,casual_phenomena,155,168783,1434,1304
+237,Rigolet,America/Goose_Bay,0,1862-05-19 00:00:00,1862-05-19 00:00:00,snowing + blowing hard during the night,mno,casual_phenomena,155,168784,1434,1304
+238,Rigolet,America/Goose_Bay,0,1862-05-23 00:00:00,1862-05-23 00:00:00,light wind very hard from 3 am til 4 when it ceased but [illegible] rain continued,mno,casual_phenomena,155,168785,1434,1304
+239,Rigolet,America/Goose_Bay,0,1862-05-27 00:00:00,1862-05-27 00:00:00,halo round the sun at 11am,mno,casual_phenomena,155,168786,1434,1304
+240,Rigolet,America/Goose_Bay,0,1862-05-29 00:00:00,1862-05-29 00:00:00,snowing hard until 8 pm when it began to rain about 3 [ins] of snow on the ground,mno,casual_phenomena,155,168787,1434,1304
+241,Rigolet,America/Goose_Bay,0,1862-05-30 00:00:00,1862-05-30 00:00:00,snow + rain all day,mno,casual_phenomena,155,168788,1434,1304
+242,Rigolet,America/Goose_Bay,0,1862-06-02 00:00:00,1862-06-02 00:00:00,showers of rain + snow,mno,casual_phenomena,155,168859,1435,1306
+243,Rigolet,America/Goose_Bay,0,1862-06-08 00:00:00,1862-06-08 00:00:00,halo round the sun at 10 am,mno,casual_phenomena,155,168860,1435,1306
+244,Rigolet,America/Goose_Bay,0,1862-06-09 00:00:00,1862-06-09 00:00:00,a light shower of rain at 6pm shortly after a double rainbow was [illegible],mno,casual_phenomena,155,168861,1435,1306
+245,Rigolet,America/Goose_Bay,0,1862-06-10 00:00:00,1862-06-10 00:00:00,the sun set red,mno,casual_phenomena,155,168862,1435,1306
+246,Rigolet,America/Goose_Bay,0,1862-06-11 00:00:00,1862-06-11 00:00:00,ther 32[degrees] at sunrise,mno,casual_phenomena,155,168864,1435,1306
+247,Rigolet,America/Goose_Bay,0,1862-06-13 00:00:00,1862-06-13 00:00:00,one inch of snow on the ground but disappeared during the night,mno,casual_phenomena,155,168863,1435,1306
+248,Rigolet,America/Goose_Bay,0,1862-06-14 00:00:00,1862-06-14 00:00:00,ther 32 [degrees] at sun rise,mno,casual_phenomena,155,168865,1435,1306
+249,Rigolet,America/Goose_Bay,0,1862-06-15 00:00:00,1862-06-15 00:00:00,the ground covered with  snow but disappeared at 8am,mno,casual_phenomena,155,168866,1435,1306
+250,Rigolet,America/Goose_Bay,0,1862-06-16 00:00:00,1862-06-16 00:00:00,the frost in the night,mno,casual_phenomena,155,168867,1435,1306
+251,Rigolet,America/Goose_Bay,0,1862-06-17 00:00:00,1862-06-17 00:00:00,the sun rose very red,mno,casual_phenomena,155,168868,1435,1306
+252,Rigolet,America/Goose_Bay,0,1862-06-18 00:00:00,1862-06-18 00:00:00,snow at 5 pm,mno,casual_phenomena,155,168869,1435,1306
+253,Rigolet,America/Goose_Bay,0,1862-06-19 00:00:00,1862-06-19 00:00:00,one inch of snow on the ground,mno,casual_phenomena,155,168870,1435,1306
+254,Rigolet,America/Goose_Bay,0,1862-06-20 00:00:00,1862-06-20 00:00:00,rain all night until 6am,mno,casual_phenomena,155,168871,1435,1306
+255,Rigolet,America/Goose_Bay,0,1862-06-25 00:00:00,1862-06-25 00:00:00,the sun very red at rising sometime after,mno,casual_phenomena,155,168872,1435,1306
+256,Rigolet,America/Goose_Bay,0,1862-06-30 00:00:00,1862-06-30 00:00:00,the ther at 1pm 105[degrees] in the sun,mno,casual_phenomena,155,168873,1435,1306
+257,Rigolet,America/Goose_Bay,0,1862-08-01 00:00:00,1862-08-01 00:00:00,the aur.bor. very faint at 10 pm e to n,mno,casual_phenomena,155,168876,1437,1310
+258,Rigolet,America/Goose_Bay,0,1862-08-02 00:00:00,1862-08-02 00:00:00,halo round the sun at 4pm,mno,casual_phenomena,155,168877,1437,1310
+259,Rigolet,America/Goose_Bay,0,1862-08-03 00:00:00,1862-08-03 00:00:00,halo round the sun all day,mno,casual_phenomena,155,168878,1437,1310
+260,Rigolet,America/Goose_Bay,0,1862-08-04 00:00:00,1862-08-04 00:00:00,the aur.bor at 8pm e to s,mno,casual_phenomena,155,168879,1437,1310
+261,Rigolet,America/Goose_Bay,0,1862-08-05 00:00:00,1862-08-05 00:00:00,the aur bor fin 8 to 10 pm e to n,mno,casual_phenomena,155,168880,1437,1310
+262,Rigolet,America/Goose_Bay,0,1862-08-08 00:00:00,1862-08-08 00:00:00,hard frost during the night,mno,casual_phenomena,155,168881,1437,1310
+263,Rigolet,America/Goose_Bay,0,1862-08-10 00:00:00,1862-08-10 00:00:00,the aur.bor bright at 9 pm,mno,casual_phenomena,155,168882,1437,1310
+264,Rigolet,America/Goose_Bay,0,1862-08-11 00:00:00,1862-08-11 00:00:00,halo round the sun all day,mno,casual_phenomena,155,168883,1437,1310
+265,Rigolet,America/Goose_Bay,0,1862-08-14 00:00:00,1862-08-14 00:00:00,light showers of rain in the afternoon,mno,casual_phenomena,155,168884,1437,1310
+266,Rigolet,America/Goose_Bay,0,1862-08-15 00:00:00,1862-08-15 00:00:00,hard frost this morning,mno,casual_phenomena,155,168885,1437,1310
+267,Rigolet,America/Goose_Bay,0,1862-08-16 00:00:00,1862-08-16 00:00:00,the aur.bor. very bright at 8 pm,mno,casual_phenomena,155,168886,1437,1310
+268,Rigolet,America/Goose_Bay,0,1862-08-18 00:00:00,1862-08-18 00:00:00,the aur bor very bright,mno,casual_phenomena,155,168887,1437,1310
+269,Rigolet,America/Goose_Bay,0,1862-08-19 00:00:00,1862-08-19 00:00:00,the aur bor very bright,mno,casual_phenomena,155,168888,1437,1310
+270,Rigolet,America/Goose_Bay,0,1862-08-21 00:00:00,1862-08-21 00:00:00,the aur bor,mno,casual_phenomena,155,168889,1437,1310
+271,Rigolet,America/Goose_Bay,0,1862-08-22 00:00:00,1862-08-22 00:00:00,the aur bor very bright,mno,casual_phenomena,155,168890,1437,1310
+272,Rigolet,America/Goose_Bay,0,1862-08-23 00:00:00,1862-08-23 00:00:00,the aur bor very bright,mno,casual_phenomena,155,168891,1437,1310
+273,Rigolet,America/Goose_Bay,0,1862-08-24 00:00:00,1862-08-24 00:00:00,the aur bor very bright,mno,casual_phenomena,155,168892,1437,1310
+274,Rigolet,America/Goose_Bay,0,1862-08-29 00:00:00,1862-08-29 00:00:00,the aur bor,mno,casual_phenomena,155,168893,1437,1310
+275,Rigolet,America/Goose_Bay,0,1862-08-30 00:00:00,1862-08-30 00:00:00,showers of rain,mno,casual_phenomena,155,168894,1437,1310
+276,Rigolet,America/Goose_Bay,0,1862-10-02 00:00:00,1862-10-02 00:00:00,halo round the sun at 9 am,mno,casual_phenomena,155,169347,1442,1316
+277,Rigolet,America/Goose_Bay,0,1862-10-05 00:00:00,1862-10-05 00:00:00,showers of snow,mno,casual_phenomena,155,169352,1442,1316
+278,Rigolet,America/Goose_Bay,0,1862-10-06 00:00:00,1862-10-06 00:00:00,the ground covered with a thin coat of snow,mno,casual_phenomena,155,169353,1442,1316
+279,Rigolet,America/Goose_Bay,0,1862-10-08 00:00:00,1862-10-08 00:00:00,the aur.bor. very bright at 7 pm,mno,casual_phenomena,155,169354,1442,1316
+280,Rigolet,America/Goose_Bay,0,1862-10-11 00:00:00,1862-10-11 00:00:00,halo round the sun at noon,mno,casual_phenomena,155,169355,1442,1316
+281,Rigolet,America/Goose_Bay,0,1862-10-12 00:00:00,1862-10-12 00:00:00,the aur.bor. very bright at 7 pm all over,mno,casual_phenomena,155,169356,1442,1316
+282,Rigolet,America/Goose_Bay,0,1862-10-13 00:00:00,1862-10-13 00:00:00,the aur bor very bright at 9pm,mno,casual_phenomena,155,169357,1442,1316
+283,Rigolet,America/Goose_Bay,0,1862-10-14 00:00:00,1862-10-14 00:00:00,the aur bor very bright,mno,casual_phenomena,155,169358,1442,1316
+284,Rigolet,America/Goose_Bay,0,1862-10-15 00:00:00,1862-10-15 00:00:00,two in of snow on the ground,mno,casual_phenomena,155,169359,1442,1316
+285,Rigolet,America/Goose_Bay,0,1862-10-16 00:00:00,1862-10-16 00:00:00,the aur.bor very bright all over at 8pm,mno,casual_phenomena,155,169360,1442,1316
+286,Rigolet,America/Goose_Bay,0,1862-10-17 00:00:00,1862-10-17 00:00:00,the sky red some time before sunrise,mno,casual_phenomena,155,169361,1442,1316
+287,Rigolet,America/Goose_Bay,0,1862-10-18 00:00:00,1862-10-18 00:00:00,the aur.bor very bright at 8pm,mno,casual_phenomena,155,169362,1442,1316
+288,Rigolet,America/Goose_Bay,0,1862-10-20 00:00:00,1862-10-20 00:00:00,four ins snow on the ground,mno,casual_phenomena,155,169363,1442,1316
+289,Rigolet,America/Goose_Bay,0,1862-10-21 00:00:00,1862-10-21 00:00:00,the aur.bor. bright at 7pm all over,mno,casual_phenomena,155,169364,1442,1316
+290,Rigolet,America/Goose_Bay,0,1862-10-23 00:00:00,1862-10-23 00:00:00,the snow all [gone],mno,casual_phenomena,155,169365,1442,1316
+291,Rigolet,America/Goose_Bay,0,1862-10-24 00:00:00,1862-10-24 00:00:00,aur.bor. bright at 8pm,mno,casual_phenomena,155,169366,1442,1316
+292,Rigolet,America/Goose_Bay,0,1862-10-25 00:00:00,1862-10-25 00:00:00,the aur bor bright at 10 pm,mno,casual_phenomena,155,169367,1442,1316
+293,Rigolet,America/Goose_Bay,0,1862-10-26 00:00:00,1862-10-26 00:00:00,the aur bor very bright at 6pm,mno,casual_phenomena,155,169368,1442,1316
+294,Rigolet,America/Goose_Bay,0,1862-10-28 00:00:00,1862-10-28 00:00:00,about 10cm snow on the ground,mno,casual_phenomena,155,169369,1442,1316
+295,Rigolet,America/Goose_Bay,0,1862-10-29 00:00:00,1862-10-29 00:00:00,halo round the sun,mno,casual_phenomena,155,169370,1442,1316
+296,Rigolet,America/Goose_Bay,0,1862-10-30 00:00:00,1862-10-30 00:00:00,halo round the sun,mno,casual_phenomena,155,169371,1442,1316
+297,Rigolet,America/Goose_Bay,0,1862-10-31 00:00:00,1862-10-31 00:00:00,halo round the sun bright fin e to w,mno,casual_phenomena,155,169372,1442,1316
+298,Rigolet,America/Goose_Bay,0,1862-11-01 00:00:00,1862-11-01 00:00:00,aur.bor very bright at 8pm e to w,mno,casual_phenomena,155,169373,1443,1317
+299,Rigolet,America/Goose_Bay,0,1862-11-02 00:00:00,1862-11-02 00:00:00,aur bor. very bright at 9pm e to nw,mno,casual_phenomena,155,169374,1443,1317
+300,Rigolet,America/Goose_Bay,0,1862-11-04 00:00:00,1862-11-04 00:00:00,aur bor. faint at 8pm se to nw low,mno,casual_phenomena,155,169375,1443,1317
+301,Rigolet,America/Goose_Bay,0,1862-11-05 00:00:00,1862-11-05 00:00:00,halo round the moon,mno,casual_phenomena,155,169376,1443,1317
+302,Rigolet,America/Goose_Bay,0,1862-11-07 00:00:00,1862-11-07 00:00:00,aur.bor faint at 9pm sw to se low,mno,casual_phenomena,155,169377,1443,1317
+303,Rigolet,America/Goose_Bay,0,1862-11-08 00:00:00,1862-11-08 00:00:00,aur bor bright at 7:30pm e to nw,mno,casual_phenomena,155,169378,1443,1317
+304,Rigolet,America/Goose_Bay,0,1862-11-10 00:00:00,1862-11-10 00:00:00,aur bor very bright at 8pm e to nw,mno,casual_phenomena,155,169379,1443,1317
+305,Rigolet,America/Goose_Bay,0,1862-11-11 00:00:00,1862-11-11 00:00:00,aur bor very bright from 9pm e to n low,mno,casual_phenomena,155,169380,1443,1317
+306,Rigolet,America/Goose_Bay,0,1862-11-13 00:00:00,1862-11-13 00:00:00,aur bor bright at 9pm e to nw,mno,casual_phenomena,155,169381,1443,1317
+307,Rigolet,America/Goose_Bay,0,1862-11-14 00:00:00,1862-11-14 00:00:00,aur bor very bright at 7pm e to nw,mno,casual_phenomena,155,169382,1443,1317
+308,Rigolet,America/Goose_Bay,0,1862-11-15 00:00:00,1862-11-15 00:00:00,aur bor very bright at 9pm all over,mno,casual_phenomena,155,169383,1443,1317
+309,Rigolet,America/Goose_Bay,0,1862-11-16 00:00:00,1862-11-16 00:00:00,aur bor very bright at 9 pm all over,mno,casual_phenomena,155,169384,1443,1317
+310,Rigolet,America/Goose_Bay,0,1862-11-18 00:00:00,1862-11-18 00:00:00,aur bor very bright,mno,casual_phenomena,155,169385,1443,1317
+311,Rigolet,America/Goose_Bay,0,1862-11-19 00:00:00,1862-11-19 00:00:00,halo round the sun at 10am,mno,casual_phenomena,155,169386,1443,1317
+312,Rigolet,America/Goose_Bay,0,1862-11-25 00:00:00,1862-11-25 00:00:00,aur.bor. very bright all night,mno,casual_phenomena,155,169387,1443,1317
+313,Rigolet,America/Goose_Bay,0,1862-11-26 00:00:00,1862-11-26 00:00:00,very red on the [illegible] some time before sunrise,mno,casual_phenomena,155,169388,1443,1317
+314,Rigolet,America/Goose_Bay,0,1862-11-28 00:00:00,1862-11-28 00:00:00,aur.bor. bright at 10pm e to n,mno,casual_phenomena,155,169389,1443,1317
+315,Rigolet,America/Goose_Bay,0,1862-11-29 00:00:00,1862-11-29 00:00:00,the sun rose red,mno,casual_phenomena,155,169400,1443,1317
+316,Rigolet,America/Goose_Bay,0,1862-12-01 00:00:00,1862-12-01 00:00:00,halo round the moon at 7pm,mno,casual_phenomena,155,169401,1444,1322
+317,Rigolet,America/Goose_Bay,0,1862-12-02 00:00:00,1862-12-02 00:00:00,halo round the sun all day,mno,casual_phenomena,155,169402,1444,1322
+318,Rigolet,America/Goose_Bay,0,1862-12-04 00:00:00,1862-12-04 00:00:00,aur. bor. from e to nw,mno,casual_phenomena,155,169403,1444,1322
+319,Rigolet,America/Goose_Bay,0,1862-12-06 00:00:00,1862-12-06 00:00:00,observed the eclipse of the moon this morning but infrequently snowing at the time,mno,casual_phenomena,155,169404,1444,1322
+320,Rigolet,America/Goose_Bay,0,1862-12-07 00:00:00,1862-12-07 00:00:00,snow storm began about 4am,mno,casual_phenomena,155,169405,1444,1322
+321,Rigolet,America/Goose_Bay,0,1862-12-08 00:00:00,1862-12-08 00:00:00,aur.bor. very bright at 6pm e to w,mno,casual_phenomena,155,169406,1444,1322
+322,Rigolet,America/Goose_Bay,0,1862-12-09 00:00:00,1862-12-09 00:00:00,aur bor very bright all over,mno,casual_phenomena,155,169407,1444,1322
+323,Rigolet,America/Goose_Bay,0,1862-12-10 00:00:00,1862-12-10 00:00:00,the sun rose very red,mno,casual_phenomena,155,169408,1444,1322
+324,Rigolet,America/Goose_Bay,0,1862-12-13 00:00:00,1862-12-13 00:00:00,aur.bor faint e to n low at 9pm,mno,casual_phenomena,155,169409,1444,1322
+325,Rigolet,America/Goose_Bay,0,1862-12-14 00:00:00,1862-12-14 00:00:00,aur bor very bright fin e to nw fin se to nw,mno,casual_phenomena,155,169410,1444,1322
+326,Rigolet,America/Goose_Bay,0,1862-12-17 00:00:00,1862-12-17 00:00:00,snow storm all night,mno,casual_phenomena,155,169411,1444,1322
+327,Rigolet,America/Goose_Bay,0,1862-12-18 00:00:00,1862-12-18 00:00:00,aur.bor bright from e to n,mno,casual_phenomena,155,169412,1444,1322
+328,Rigolet,America/Goose_Bay,0,1862-12-21 00:00:00,1862-12-21 00:00:00,aur bor faint in n to e low,mno,casual_phenomena,155,169413,1444,1322
+329,Rigolet,America/Goose_Bay,0,1862-12-23 00:00:00,1862-12-23 00:00:00,ther at 4pm 18[degrees],mno,casual_phenomena,155,169414,1444,1322
+330,Rigolet,America/Goose_Bay,0,1862-12-25 00:00:00,1862-12-25 00:00:00,the sun rose red,mno,casual_phenomena,155,169415,1444,1322
+331,Rigolet,America/Goose_Bay,0,1862-12-26 00:00:00,1862-12-26 00:00:00,the sun rose red,mno,casual_phenomena,155,169416,1444,1322
+332,Rigolet,America/Goose_Bay,0,1862-12-28 00:00:00,1862-12-28 00:00:00,halo round the moon,mno,casual_phenomena,155,169417,1444,1322
+333,Rigolet,America/Goose_Bay,0,1863-02-01 00:00:00,1863-02-01 00:00:00,the aur.bor very faint at 7 pm n to w low,mno,casual_phenomena,155,169429,1445,1325
+334,Rigolet,America/Goose_Bay,0,1863-02-02 00:00:00,1863-02-02 00:00:00,mock suns round the sun but after sunrise,mno,casual_phenomena,155,169430,1445,1325
+335,Rigolet,America/Goose_Bay,0,1863-02-03 00:00:00,1863-02-03 00:00:00,mock suns + halo round the sun at 9am,mno,casual_phenomena,155,169431,1445,1325
+336,Rigolet,America/Goose_Bay,0,1863-02-04 00:00:00,1863-02-04 00:00:00,halo round the sun at 3pm,mno,casual_phenomena,155,169432,1445,1325
+337,Rigolet,America/Goose_Bay,0,1863-02-05 00:00:00,1863-02-05 00:00:00,aur.bor. bright at 9pm e to w,mno,casual_phenomena,155,169433,1445,1325
+338,Rigolet,America/Goose_Bay,0,1863-02-06 00:00:00,1863-02-06 00:00:00,very red about 1/2 hour before sunrise,mno,casual_phenomena,155,169434,1445,1325
+339,Rigolet,America/Goose_Bay,0,1863-02-07 00:00:00,1863-02-07 00:00:00,snow storm during the morning,mno,casual_phenomena,155,169435,1445,1325
+340,Rigolet,America/Goose_Bay,0,1863-02-09 00:00:00,1863-02-09 00:00:00,the sky very red after sunset,mno,casual_phenomena,155,169436,1445,1325
+341,Rigolet,America/Goose_Bay,0,1863-02-11 00:00:00,1863-02-11 00:00:00,the aur.bor. very bright all over at 7 to 9:30 pm,mno,casual_phenomena,155,169437,1445,1325
+342,Rigolet,America/Goose_Bay,0,1863-02-12 00:00:00,1863-02-12 00:00:00,the aur. bor. very bright,mno,casual_phenomena,155,169438,1445,1325
+343,Rigolet,America/Goose_Bay,0,1863-02-13 00:00:00,1863-02-13 00:00:00,the aur borealis e to n low,mno,casual_phenomena,155,169439,1445,1325
+344,Rigolet,America/Goose_Bay,0,1863-02-14 00:00:00,1863-02-14 00:00:00,the aur. borealis very bright e to n faint,mno,casual_phenomena,155,169440,1445,1325
+345,Rigolet,America/Goose_Bay,0,1863-02-15 00:00:00,1863-02-15 00:00:00,a little snow at 8pm,mno,casual_phenomena,155,169441,1445,1325
+346,Rigolet,America/Goose_Bay,0,1863-02-16 00:00:00,1863-02-16 00:00:00,halo round the sun at noon,mno,casual_phenomena,155,169442,1445,1325
+347,Rigolet,America/Goose_Bay,0,1863-02-17 00:00:00,1863-02-17 00:00:00,drifting hard all day,mno,casual_phenomena,155,169443,1445,1325
+348,Rigolet,America/Goose_Bay,0,1863-02-18 00:00:00,1863-02-18 00:00:00,aur.bor very bright at 7 1/2 pm all over,mno,casual_phenomena,155,169446,1445,1325
+349,Rigolet,America/Goose_Bay,0,1863-02-20 00:00:00,1863-02-20 00:00:00,snow storm began bout 5pm,mno,casual_phenomena,155,169448,1445,1325
+350,Rigolet,America/Goose_Bay,0,1863-02-21 00:00:00,1863-02-21 00:00:00,the snow storm raged all last night  + all this day,mno,casual_phenomena,155,169453,1445,1325
+351,Rigolet,America/Goose_Bay,0,1863-02-22 00:00:00,1863-02-22 00:00:00,aur bor. very bright all over low from e to w,mno,casual_phenomena,155,169454,1445,1325
+352,Rigolet,America/Goose_Bay,0,1863-02-23 00:00:00,1863-02-23 00:00:00,aur bor very bright all over,mno,casual_phenomena,155,169455,1445,1325
+353,Rigolet,America/Goose_Bay,0,1863-02-24 00:00:00,1863-02-24 00:00:00,halo round the sun at 10am,mno,casual_phenomena,155,169456,1445,1325
+354,Rigolet,America/Goose_Bay,0,1863-02-25 00:00:00,1863-02-25 00:00:00,aur.bor very bright e to w + w to se low,mno,casual_phenomena,155,169458,1445,1325
+355,Rigolet,America/Goose_Bay,0,1863-02-26 00:00:00,1863-02-26 00:00:00,aur bor very bright all over,mno,casual_phenomena,155,169459,1445,1325
+356,Rigolet,America/Goose_Bay,0,1863-02-27 00:00:00,1863-02-27 00:00:00,halo round the sun at 9am,mno,casual_phenomena,155,169463,1445,1325
+357,Rigolet,America/Goose_Bay,0,1863-02-28 00:00:00,1863-02-28 00:00:00,halo round the sun at 9 am,mno,casual_phenomena,155,169467,1445,1325
+358,Rigolet,America/Goose_Bay,0,1863-03-01 00:00:00,1863-03-01 00:00:00,aur.bor. very bright at 10pm,mno,casual_phenomena,155,169468,1446,1329
+359,Rigolet,America/Goose_Bay,0,1863-03-02 00:00:00,1863-03-02 00:00:00,aur.bor. very bright at 7pm,mno,casual_phenomena,155,169469,1446,1329
+360,Rigolet,America/Goose_Bay,0,1863-03-03 00:00:00,1863-03-03 00:00:00,aur.bor very bright at 9pm,mno,casual_phenomena,155,169470,1446,1329
+361,Rigolet,America/Goose_Bay,0,1863-03-04 00:00:00,1863-03-04 00:00:00,aur. bor very bright at 9pm,mno,casual_phenomena,155,169471,1446,1329
+362,Rigolet,America/Goose_Bay,0,1863-03-05 00:00:00,1863-03-05 00:00:00,halo round the moon at 8pm,mno,casual_phenomena,155,169473,1446,1329
+363,Rigolet,America/Goose_Bay,0,1863-03-06 00:00:00,1863-03-06 00:00:00,halo round the sun during am,mno,casual_phenomena,155,169478,1446,1329
+364,Rigolet,America/Goose_Bay,0,1863-03-07 00:00:00,1863-03-07 00:00:00,halo round the sun during am,mno,casual_phenomena,155,169479,1446,1329
+365,Rigolet,America/Goose_Bay,0,1863-03-08 00:00:00,1863-03-08 00:00:00,the aur.bor. very bright,mno,casual_phenomena,155,169480,1446,1329
+366,Rigolet,America/Goose_Bay,0,1863-03-10 00:00:00,1863-03-10 00:00:00,aur.bor faint,mno,casual_phenomena,155,169481,1446,1329
+367,Rigolet,America/Goose_Bay,0,1863-03-13 00:00:00,1863-03-13 00:00:00,halo round the sun at 10am,mno,casual_phenomena,155,169484,1446,1329
+368,Rigolet,America/Goose_Bay,0,1863-03-15 00:00:00,1863-03-15 00:00:00,halo round the sun all day,mno,casual_phenomena,155,169486,1446,1329
+369,Rigolet,America/Goose_Bay,0,1863-03-17 00:00:00,1863-03-17 00:00:00,aur.bor faint e to n low,mno,casual_phenomena,155,169488,1446,1329
+370,Rigolet,America/Goose_Bay,0,1863-03-18 00:00:00,1863-03-18 00:00:00,halo round the sun,mno,casual_phenomena,155,169489,1446,1329
+371,Rigolet,America/Goose_Bay,0,1863-03-19 00:00:00,1863-03-19 00:00:00,halo round the sun at 8am,mno,casual_phenomena,155,169490,1446,1329
+372,Rigolet,America/Goose_Bay,0,1863-03-20 00:00:00,1863-03-20 00:00:00,halo round the sun at 10 am,mno,casual_phenomena,155,169491,1446,1329
+373,Rigolet,America/Goose_Bay,0,1863-03-23 00:00:00,1863-03-23 00:00:00,aur.bor bright all over,mno,casual_phenomena,155,169492,1446,1329
+374,Rigolet,America/Goose_Bay,0,1863-03-24 00:00:00,1863-03-24 00:00:00,aur bor. very bright at 10 pm,mno,casual_phenomena,155,169493,1446,1329
+375,Rigolet,America/Goose_Bay,0,1863-03-30 00:00:00,1863-03-30 00:00:00,aur bor bright all over,mno,casual_phenomena,155,169494,1446,1329
+376,Rigolet,America/Goose_Bay,0,1863-05-07 00:00:00,1863-05-07 00:00:00,first geese seen at nw river,mno,casual_phenomena,155,169514,1447,1331
+377,Rigolet,America/Goose_Bay,0,1863-05-10 00:00:00,1863-05-10 00:00:00,first geese seen at rigolet,mno,casual_phenomena,155,169517,1447,1331
+378,Rigolet,America/Goose_Bay,0,1863-05-14 00:00:00,1863-05-14 00:00:00,aur.bor very bright e to w low,mno,casual_phenomena,155,169519,1447,1331
+379,Rigolet,America/Goose_Bay,0,1863-05-16 00:00:00,1863-05-16 00:00:00,halo round the sun at 3pm,mno,casual_phenomena,155,169520,1447,1331
+380,Rigolet,America/Goose_Bay,0,1863-05-17 00:00:00,1863-05-17 00:00:00,halo round the sun at 8am,mno,casual_phenomena,155,169521,1447,1331
+381,Rigolet,America/Goose_Bay,0,1863-05-19 00:00:00,1863-05-19 00:00:00,shower of snow + rain at 5pm,mno,casual_phenomena,155,169522,1447,1331
+382,Rigolet,America/Goose_Bay,0,1863-05-22 00:00:00,1863-05-22 00:00:00,mock suns at 6pm,mno,casual_phenomena,155,169526,1447,1331
+383,Rigolet,America/Goose_Bay,0,1863-05-29 00:00:00,1863-05-29 00:00:00,halo round the sun in the afternoon,mno,casual_phenomena,155,169527,1447,1331
+384,Rigolet,America/Goose_Bay,0,1863-06-04 00:00:00,1863-06-04 00:00:00,snow in the night,mno,casual_phenomena,155,169548,1448,1335
+385,Rigolet,America/Goose_Bay,0,1863-06-08 00:00:00,1863-06-08 00:00:00,at 5pm began to blow fin ne,mno,casual_phenomena,155,169549,1448,1335
+386,Rigolet,America/Goose_Bay,0,1863-06-11 00:00:00,1863-06-11 00:00:00,rain until noon,mno,casual_phenomena,155,169550,1448,1335
+387,Rigolet,America/Goose_Bay,0,1863-06-13 00:00:00,1863-06-13 00:00:00,aur.bor. bright fin w to e,mno,casual_phenomena,155,169551,1448,1335
+388,Rigolet,America/Goose_Bay,0,1863-06-16 00:00:00,1863-06-16 00:00:00,snow storm began about 2am,mno,casual_phenomena,155,169552,1448,1335
+389,Rigolet,America/Goose_Bay,0,1863-06-20 00:00:00,1863-06-20 00:00:00,halo round the sun at 6pm,mno,casual_phenomena,155,169553,1448,1335
+390,Rigolet,America/Goose_Bay,0,1863-06-25 00:00:00,1863-06-25 00:00:00,ther 31[degrees] at 4am,mno,casual_phenomena,155,169554,1448,1335
+391,Rigolet,America/Goose_Bay,0,1863-06-26 00:00:00,1863-06-26 00:00:00,ther 30 [degrees] at 4am,mno,casual_phenomena,155,169555,1448,1335
+392,Rigolet,America/Goose_Bay,0,1862-01-01 21:00:00,1862-01-01 21:00:00,clear,mno,remarks_9pm,217,167555,1415,1296
+393,Rigolet,America/Goose_Bay,0,1862-01-02 21:00:00,1862-01-02 21:00:00,snow,mno,remarks_9pm,217,167556,1415,1296
+394,Rigolet,America/Goose_Bay,0,1862-01-03 21:00:00,1862-01-03 21:00:00,snow,mno,remarks_9pm,217,167557,1415,1296
+395,Rigolet,America/Goose_Bay,0,1862-01-04 21:00:00,1862-01-04 21:00:00,rain,mno,remarks_9pm,217,167558,1415,1296
+396,Rigolet,America/Goose_Bay,0,1862-01-05 21:00:00,1862-01-05 21:00:00,cloudy,mno,remarks_9pm,217,167559,1415,1296
+397,Rigolet,America/Goose_Bay,0,1862-01-06 21:00:00,1862-01-06 21:00:00,clear,mno,remarks_9pm,217,167560,1415,1296
+398,Rigolet,America/Goose_Bay,0,1862-01-07 21:00:00,1862-01-07 21:00:00,clear,mno,remarks_9pm,217,167561,1415,1296
+399,Rigolet,America/Goose_Bay,0,1862-01-08 21:00:00,1862-01-08 21:00:00,clear,mno,remarks_9pm,217,167562,1415,1296
+400,Rigolet,America/Goose_Bay,0,1862-01-09 21:00:00,1862-01-09 21:00:00,clear,mno,remarks_9pm,217,167563,1415,1296
+401,Rigolet,America/Goose_Bay,0,1862-01-10 21:00:00,1862-01-10 21:00:00,clear,mno,remarks_9pm,217,167564,1415,1296
+402,Rigolet,America/Goose_Bay,0,1862-01-11 21:00:00,1862-01-11 21:00:00,clear,mno,remarks_9pm,217,167565,1415,1296
+403,Rigolet,America/Goose_Bay,0,1862-01-12 21:00:00,1862-01-12 21:00:00,cloudy,mno,remarks_9pm,217,167566,1415,1296
+404,Rigolet,America/Goose_Bay,0,1862-01-13 21:00:00,1862-01-13 21:00:00,snow,mno,remarks_9pm,217,167567,1415,1296
+405,Rigolet,America/Goose_Bay,0,1862-01-14 21:00:00,1862-01-14 21:00:00,clear,mno,remarks_9pm,217,167568,1415,1296
+406,Rigolet,America/Goose_Bay,0,1862-01-15 21:00:00,1862-01-15 21:00:00,clear,mno,remarks_9pm,217,167569,1415,1296
+407,Rigolet,America/Goose_Bay,0,1862-01-16 21:00:00,1862-01-16 21:00:00,snow,mno,remarks_9pm,217,167570,1415,1296
+408,Rigolet,America/Goose_Bay,0,1862-01-17 21:00:00,1862-01-17 21:00:00,cloudy,mno,remarks_9pm,217,167571,1415,1296
+409,Rigolet,America/Goose_Bay,0,1862-01-18 21:00:00,1862-01-18 21:00:00,clear,mno,remarks_9pm,217,167572,1415,1296
+410,Rigolet,America/Goose_Bay,0,1862-01-19 21:00:00,1862-01-19 21:00:00,clear,mno,remarks_9pm,217,167573,1415,1296
+411,Rigolet,America/Goose_Bay,0,1862-01-20 21:00:00,1862-01-20 21:00:00,clear,mno,remarks_9pm,217,167574,1415,1296
+412,Rigolet,America/Goose_Bay,0,1862-01-21 21:00:00,1862-01-21 21:00:00,clear,mno,remarks_9pm,217,167575,1415,1296
+413,Rigolet,America/Goose_Bay,0,1862-01-22 21:00:00,1862-01-22 21:00:00,clear,mno,remarks_9pm,217,167576,1415,1296
+414,Rigolet,America/Goose_Bay,0,1862-01-23 21:00:00,1862-01-23 21:00:00,snow,mno,remarks_9pm,217,167577,1415,1296
+415,Rigolet,America/Goose_Bay,0,1862-01-24 21:00:00,1862-01-24 21:00:00,clear,mno,remarks_9pm,217,167578,1415,1296
+416,Rigolet,America/Goose_Bay,0,1862-01-25 21:00:00,1862-01-25 21:00:00,cloudy,mno,remarks_9pm,217,167579,1415,1296
+417,Rigolet,America/Goose_Bay,0,1862-01-26 21:00:00,1862-01-26 21:00:00,cloudy,mno,remarks_9pm,217,167580,1415,1296
+418,Rigolet,America/Goose_Bay,0,1862-01-27 21:00:00,1862-01-27 21:00:00,snow,mno,remarks_9pm,217,167581,1415,1296
+419,Rigolet,America/Goose_Bay,0,1862-01-28 21:00:00,1862-01-28 21:00:00,snow,mno,remarks_9pm,217,167582,1415,1296
+420,Rigolet,America/Goose_Bay,0,1862-01-29 21:00:00,1862-01-29 21:00:00,clear,mno,remarks_9pm,217,167583,1415,1296
+421,Rigolet,America/Goose_Bay,0,1862-01-30 21:00:00,1862-01-30 21:00:00,snow,mno,remarks_9pm,217,167584,1415,1296
+422,Rigolet,America/Goose_Bay,0,1862-01-31 21:00:00,1862-01-31 21:00:00,snow,mno,remarks_9pm,217,167585,1415,1296
+423,Rigolet,America/Goose_Bay,0,1862-02-01 21:00:00,1862-02-01 21:00:00,cloudy,mno,remarks_9pm,217,167647,1416,1295
+424,Rigolet,America/Goose_Bay,0,1862-02-02 21:00:00,1862-02-02 21:00:00,cloudy,mno,remarks_9pm,217,167648,1416,1295
+425,Rigolet,America/Goose_Bay,0,1862-02-03 21:00:00,1862-02-03 21:00:00,clear,mno,remarks_9pm,217,167649,1416,1295
+426,Rigolet,America/Goose_Bay,0,1862-02-04 21:00:00,1862-02-04 21:00:00,clear,mno,remarks_9pm,217,167650,1416,1295
+427,Rigolet,America/Goose_Bay,0,1862-02-05 21:00:00,1862-02-05 21:00:00,rain,mno,remarks_9pm,217,167651,1416,1295
+428,Rigolet,America/Goose_Bay,0,1862-02-06 21:00:00,1862-02-06 21:00:00,snow,mno,remarks_9pm,217,167652,1416,1295
+429,Rigolet,America/Goose_Bay,0,1862-02-07 21:00:00,1862-02-07 21:00:00,rain,mno,remarks_9pm,217,167653,1416,1295
+430,Rigolet,America/Goose_Bay,0,1862-02-08 21:00:00,1862-02-08 21:00:00,snow,mno,remarks_9pm,217,167654,1416,1295
+431,Rigolet,America/Goose_Bay,0,1862-02-09 21:00:00,1862-02-09 21:00:00,hail,mno,remarks_9pm,217,167655,1416,1295
+432,Rigolet,America/Goose_Bay,0,1862-02-10 21:00:00,1862-02-10 21:00:00,cloudy,mno,remarks_9pm,217,167656,1416,1295
+433,Rigolet,America/Goose_Bay,0,1862-02-11 21:00:00,1862-02-11 21:00:00,snow,mno,remarks_9pm,217,167657,1416,1295
+434,Rigolet,America/Goose_Bay,0,1862-02-12 21:00:00,1862-02-12 21:00:00,cloudy,mno,remarks_9pm,217,167658,1416,1295
+435,Rigolet,America/Goose_Bay,0,1862-02-13 21:00:00,1862-02-13 21:00:00,clear,mno,remarks_9pm,217,167659,1416,1295
+436,Rigolet,America/Goose_Bay,0,1862-02-14 21:00:00,1862-02-14 21:00:00,clear,mno,remarks_9pm,217,167660,1416,1295
+437,Rigolet,America/Goose_Bay,0,1862-02-15 21:00:00,1862-02-15 21:00:00,clear,mno,remarks_9pm,217,167661,1416,1295
+438,Rigolet,America/Goose_Bay,0,1862-02-16 21:00:00,1862-02-16 21:00:00,clear,mno,remarks_9pm,217,167662,1416,1295
+439,Rigolet,America/Goose_Bay,0,1862-02-17 21:00:00,1862-02-17 21:00:00,clear,mno,remarks_9pm,217,167663,1416,1295
+440,Rigolet,America/Goose_Bay,0,1862-02-18 21:00:00,1862-02-18 21:00:00,clear,mno,remarks_9pm,217,167664,1416,1295
+441,Rigolet,America/Goose_Bay,0,1862-02-19 21:00:00,1862-02-19 21:00:00,clear,mno,remarks_9pm,217,167665,1416,1295
+442,Rigolet,America/Goose_Bay,0,1862-02-20 21:00:00,1862-02-20 21:00:00,clear,mno,remarks_9pm,217,167666,1416,1295
+443,Rigolet,America/Goose_Bay,0,1862-02-21 21:00:00,1862-02-21 21:00:00,clear,mno,remarks_9pm,217,167667,1416,1295
+444,Rigolet,America/Goose_Bay,0,1862-02-22 21:00:00,1862-02-22 21:00:00,clear,mno,remarks_9pm,217,167668,1416,1295
+445,Rigolet,America/Goose_Bay,0,1862-02-23 21:00:00,1862-02-23 21:00:00,clear,mno,remarks_9pm,217,167669,1416,1295
+446,Rigolet,America/Goose_Bay,0,1862-02-24 21:00:00,1862-02-24 21:00:00,clear,mno,remarks_9pm,217,167670,1416,1295
+447,Rigolet,America/Goose_Bay,0,1862-02-25 21:00:00,1862-02-25 21:00:00,cloudy,mno,remarks_9pm,217,167671,1416,1295
+448,Rigolet,America/Goose_Bay,0,1862-02-26 21:00:00,1862-02-26 21:00:00,rain,mno,remarks_9pm,217,167672,1416,1295
+449,Rigolet,America/Goose_Bay,0,1862-02-27 21:00:00,1862-02-27 21:00:00,rain,mno,remarks_9pm,217,167673,1416,1295
+450,Rigolet,America/Goose_Bay,0,1862-02-28 21:00:00,1862-02-28 21:00:00,clear,mno,remarks_9pm,217,167674,1416,1295
+451,Rigolet,America/Goose_Bay,0,1862-03-01 21:00:00,1862-03-01 21:00:00,rain,mno,remarks_9pm,217,167741,1417,1299
+452,Rigolet,America/Goose_Bay,0,1862-03-02 21:00:00,1862-03-02 21:00:00,rain,mno,remarks_9pm,217,167742,1417,1299
+453,Rigolet,America/Goose_Bay,0,1862-03-03 21:00:00,1862-03-03 21:00:00,clear,mno,remarks_9pm,217,167743,1417,1299
+454,Rigolet,America/Goose_Bay,0,1862-03-04 21:00:00,1862-03-04 21:00:00,clear,mno,remarks_9pm,217,167744,1417,1299
+455,Rigolet,America/Goose_Bay,0,1862-03-05 21:00:00,1862-03-05 21:00:00,cloudy,mno,remarks_9pm,217,167745,1417,1299
+456,Rigolet,America/Goose_Bay,0,1862-03-06 21:00:00,1862-03-06 21:00:00,cloudy,mno,remarks_9pm,217,167746,1417,1299
+457,Rigolet,America/Goose_Bay,0,1862-03-07 21:00:00,1862-03-07 21:00:00,cloudy,mno,remarks_9pm,217,167747,1417,1299
+458,Rigolet,America/Goose_Bay,0,1862-03-08 21:00:00,1862-03-08 21:00:00,cloudy,mno,remarks_9pm,217,167748,1417,1299
+459,Rigolet,America/Goose_Bay,0,1862-03-09 21:00:00,1862-03-09 21:00:00,clear,mno,remarks_9pm,217,167749,1417,1299
+460,Rigolet,America/Goose_Bay,0,1862-03-10 21:00:00,1862-03-10 21:00:00,clear,mno,remarks_9pm,217,167750,1417,1299
+461,Rigolet,America/Goose_Bay,0,1862-03-11 21:00:00,1862-03-11 21:00:00,cloudy,mno,remarks_9pm,217,167751,1417,1299
+462,Rigolet,America/Goose_Bay,0,1862-03-12 21:00:00,1862-03-12 21:00:00,cloudy,mno,remarks_9pm,217,167752,1417,1299
+463,Rigolet,America/Goose_Bay,0,1862-03-13 21:00:00,1862-03-13 21:00:00,snow,mno,remarks_9pm,217,167753,1417,1299
+464,Rigolet,America/Goose_Bay,0,1862-03-14 21:00:00,1862-03-14 21:00:00,clear,mno,remarks_9pm,217,167754,1417,1299
+465,Rigolet,America/Goose_Bay,0,1862-03-15 21:00:00,1862-03-15 21:00:00,clear,mno,remarks_9pm,217,167755,1417,1299
+466,Rigolet,America/Goose_Bay,0,1862-03-16 21:00:00,1862-03-16 21:00:00,cloudy,mno,remarks_9pm,217,167756,1417,1299
+467,Rigolet,America/Goose_Bay,0,1862-03-17 21:00:00,1862-03-17 21:00:00,cloudy,mno,remarks_9pm,217,167757,1417,1299
+468,Rigolet,America/Goose_Bay,0,1862-03-18 21:00:00,1862-03-18 21:00:00,clear,mno,remarks_9pm,217,167758,1417,1299
+469,Rigolet,America/Goose_Bay,0,1862-03-19 21:00:00,1862-03-19 21:00:00,rain,mno,remarks_9pm,217,167759,1417,1299
+470,Rigolet,America/Goose_Bay,0,1862-03-20 21:00:00,1862-03-20 21:00:00,cloudy,mno,remarks_9pm,217,167760,1417,1299
+471,Rigolet,America/Goose_Bay,0,1862-03-21 21:00:00,1862-03-21 21:00:00,cloudy,mno,remarks_9pm,217,167761,1417,1299
+472,Rigolet,America/Goose_Bay,0,1862-03-22 21:00:00,1862-03-22 21:00:00,cloudy,mno,remarks_9pm,217,167762,1417,1299
+473,Rigolet,America/Goose_Bay,0,1862-03-23 21:00:00,1862-03-23 21:00:00,snow,mno,remarks_9pm,217,167763,1417,1299
+474,Rigolet,America/Goose_Bay,0,1862-03-24 21:00:00,1862-03-24 21:00:00,snow,mno,remarks_9pm,217,167764,1417,1299
+475,Rigolet,America/Goose_Bay,0,1862-03-25 21:00:00,1862-03-25 21:00:00,cloudy,mno,remarks_9pm,217,167765,1417,1299
+476,Rigolet,America/Goose_Bay,0,1862-03-26 21:00:00,1862-03-26 21:00:00,snow,mno,remarks_9pm,217,167766,1417,1299
+477,Rigolet,America/Goose_Bay,0,1862-03-27 21:00:00,1862-03-27 21:00:00,clear,mno,remarks_9pm,217,167767,1417,1299
+478,Rigolet,America/Goose_Bay,0,1862-03-28 21:00:00,1862-03-28 21:00:00,snow,mno,remarks_9pm,217,167768,1417,1299
+479,Rigolet,America/Goose_Bay,0,1862-03-29 21:00:00,1862-03-29 21:00:00,snow,mno,remarks_9pm,217,167769,1417,1299
+480,Rigolet,America/Goose_Bay,0,1862-03-30 21:00:00,1862-03-30 21:00:00,cloudy,mno,remarks_9pm,217,167770,1417,1299
+481,Rigolet,America/Goose_Bay,0,1862-03-31 21:00:00,1862-03-31 21:00:00,clear,mno,remarks_9pm,217,167771,1417,1299
+482,Rigolet,America/Goose_Bay,0,1862-04-01 21:00:00,1862-04-01 21:00:00,clear,mno,remarks_9pm,217,167834,1418,1301
+483,Rigolet,America/Goose_Bay,0,1862-04-02 21:00:00,1862-04-02 21:00:00,clear,mno,remarks_9pm,217,167835,1418,1301
+484,Rigolet,America/Goose_Bay,0,1862-04-03 21:00:00,1862-04-03 21:00:00,clear,mno,remarks_9pm,217,167836,1418,1301
+485,Rigolet,America/Goose_Bay,0,1862-04-04 21:00:00,1862-04-04 21:00:00,cloudy,mno,remarks_9pm,217,167837,1418,1301
+486,Rigolet,America/Goose_Bay,0,1862-04-05 21:00:00,1862-04-05 21:00:00,snow,mno,remarks_9pm,217,167838,1418,1301
+487,Rigolet,America/Goose_Bay,0,1862-04-06 21:00:00,1862-04-06 21:00:00,cloudy,mno,remarks_9pm,217,167839,1418,1301
+488,Rigolet,America/Goose_Bay,0,1862-04-07 21:00:00,1862-04-07 21:00:00,cloudy,mno,remarks_9pm,217,167840,1418,1301
+489,Rigolet,America/Goose_Bay,0,1862-04-08 21:00:00,1862-04-08 21:00:00,cloudy,mno,remarks_9pm,217,167841,1418,1301
+490,Rigolet,America/Goose_Bay,0,1862-04-09 21:00:00,1862-04-09 21:00:00,snow,mno,remarks_9pm,217,167842,1418,1301
+491,Rigolet,America/Goose_Bay,0,1862-04-27 21:00:00,1862-04-27 21:00:00,clear,mno,remarks_9pm,217,167843,1418,1301
+492,Rigolet,America/Goose_Bay,0,1862-04-28 21:00:00,1862-04-28 21:00:00,clear,mno,remarks_9pm,217,167844,1418,1301
+493,Rigolet,America/Goose_Bay,0,1862-04-29 21:00:00,1862-04-29 21:00:00,clear,mno,remarks_9pm,217,167845,1418,1301
+494,Rigolet,America/Goose_Bay,0,1862-05-01 21:00:00,1862-05-01 21:00:00,cloudy,mno,remarks_9pm,217,167897,1419,1305
+495,Rigolet,America/Goose_Bay,0,1862-05-02 21:00:00,1862-05-02 21:00:00,clear,mno,remarks_9pm,217,167898,1419,1305
+496,Rigolet,America/Goose_Bay,0,1862-05-03 21:00:00,1862-05-03 21:00:00,clear,mno,remarks_9pm,217,167899,1419,1305
+497,Rigolet,America/Goose_Bay,0,1862-05-04 21:00:00,1862-05-04 21:00:00,cloudy,mno,remarks_9pm,217,167900,1419,1305
+498,Rigolet,America/Goose_Bay,0,1862-05-05 21:00:00,1862-05-05 21:00:00,snow,mno,remarks_9pm,217,167901,1419,1305
+499,Rigolet,America/Goose_Bay,0,1862-05-06 21:00:00,1862-05-06 21:00:00,cloudy,mno,remarks_9pm,217,167902,1419,1305
+500,Rigolet,America/Goose_Bay,0,1862-05-07 21:00:00,1862-05-07 21:00:00,cloudy,mno,remarks_9pm,217,167903,1419,1305
+501,Rigolet,America/Goose_Bay,0,1862-05-08 21:00:00,1862-05-08 21:00:00,cloudy,mno,remarks_9pm,217,167904,1419,1305
+502,Rigolet,America/Goose_Bay,0,1862-05-09 21:00:00,1862-05-09 21:00:00,snow,mno,remarks_9pm,217,167905,1419,1305
+503,Rigolet,America/Goose_Bay,0,1862-05-10 21:00:00,1862-05-10 21:00:00,cloudy,mno,remarks_9pm,217,167906,1419,1305
+504,Rigolet,America/Goose_Bay,0,1862-05-11 21:00:00,1862-05-11 21:00:00,cloudy,mno,remarks_9pm,217,167907,1419,1305
+505,Rigolet,America/Goose_Bay,0,1862-05-12 21:00:00,1862-05-12 21:00:00,rain,mno,remarks_9pm,217,167908,1419,1305
+506,Rigolet,America/Goose_Bay,0,1862-05-13 21:00:00,1862-05-13 21:00:00,cloudy,mno,remarks_9pm,217,167909,1419,1305
+507,Rigolet,America/Goose_Bay,0,1862-05-14 21:00:00,1862-05-14 21:00:00,cloudy,mno,remarks_9pm,217,167910,1419,1305
+508,Rigolet,America/Goose_Bay,0,1862-05-15 21:00:00,1862-05-15 21:00:00,cloudy,mno,remarks_9pm,217,167911,1419,1305
+509,Rigolet,America/Goose_Bay,0,1862-05-16 21:00:00,1862-05-16 21:00:00,cloudy,mno,remarks_9pm,217,167912,1419,1305
+510,Rigolet,America/Goose_Bay,0,1862-05-17 21:00:00,1862-05-17 21:00:00,cloudy,mno,remarks_9pm,217,167913,1419,1305
+511,Rigolet,America/Goose_Bay,0,1862-05-18 21:00:00,1862-05-18 21:00:00,cloudy,mno,remarks_9pm,217,167914,1419,1305
+512,Rigolet,America/Goose_Bay,0,1862-05-19 21:00:00,1862-05-19 21:00:00,cloudy,mno,remarks_9pm,217,167915,1419,1305
+513,Rigolet,America/Goose_Bay,0,1862-05-20 21:00:00,1862-05-20 21:00:00,cloudy,mno,remarks_9pm,217,167916,1419,1305
+514,Rigolet,America/Goose_Bay,0,1862-05-21 21:00:00,1862-05-21 21:00:00,clear,mno,remarks_9pm,217,167917,1419,1305
+515,Rigolet,America/Goose_Bay,0,1862-05-22 21:00:00,1862-05-22 21:00:00,cloudy,mno,remarks_9pm,217,167918,1419,1305
+516,Rigolet,America/Goose_Bay,0,1862-05-23 21:00:00,1862-05-23 21:00:00,cloudy,mno,remarks_9pm,217,167919,1419,1305
+517,Rigolet,America/Goose_Bay,0,1862-05-24 21:00:00,1862-05-24 21:00:00,snow,mno,remarks_9pm,217,167920,1419,1305
+518,Rigolet,America/Goose_Bay,0,1862-05-25 21:00:00,1862-05-25 21:00:00,cloudy,mno,remarks_9pm,217,167921,1419,1305
+519,Rigolet,America/Goose_Bay,0,1862-05-26 21:00:00,1862-05-26 21:00:00,cloudy,mno,remarks_9pm,217,167922,1419,1305
+520,Rigolet,America/Goose_Bay,0,1862-05-27 21:00:00,1862-05-27 21:00:00,cloudy,mno,remarks_9pm,217,167923,1419,1305
+521,Rigolet,America/Goose_Bay,0,1862-05-28 21:00:00,1862-05-28 21:00:00,rain,mno,remarks_9pm,217,167924,1419,1305
+522,Rigolet,America/Goose_Bay,0,1862-05-29 21:00:00,1862-05-29 21:00:00,rain,mno,remarks_9pm,217,167925,1419,1305
+523,Rigolet,America/Goose_Bay,0,1862-05-30 21:00:00,1862-05-30 21:00:00,rain,mno,remarks_9pm,217,167926,1419,1305
+524,Rigolet,America/Goose_Bay,0,1862-05-31 21:00:00,1862-05-31 21:00:00,cloudy,mno,remarks_9pm,217,167927,1419,1305
+525,Rigolet,America/Goose_Bay,0,1862-06-01 21:00:00,1862-06-01 21:00:00,snow,mno,remarks_9pm,217,167998,1420,1308
+526,Rigolet,America/Goose_Bay,0,1862-06-02 21:00:00,1862-06-02 21:00:00,cloudy,mno,remarks_9pm,217,167999,1420,1308
+527,Rigolet,America/Goose_Bay,0,1862-06-03 21:00:00,1862-06-03 21:00:00,snow,mno,remarks_9pm,217,168000,1420,1308
+528,Rigolet,America/Goose_Bay,0,1862-06-04 21:00:00,1862-06-04 21:00:00,cloudy,mno,remarks_9pm,217,168001,1420,1308
+529,Rigolet,America/Goose_Bay,0,1862-06-05 21:00:00,1862-06-05 21:00:00,cloudy,mno,remarks_9pm,217,168002,1420,1308
+530,Rigolet,America/Goose_Bay,0,1862-06-06 21:00:00,1862-06-06 21:00:00,cloudy,mno,remarks_9pm,217,168003,1420,1308
+531,Rigolet,America/Goose_Bay,0,1862-06-07 21:00:00,1862-06-07 21:00:00,cloudy,mno,remarks_9pm,217,168004,1420,1308
+532,Rigolet,America/Goose_Bay,0,1862-06-08 21:00:00,1862-06-08 21:00:00,clear,mno,remarks_9pm,217,168005,1420,1308
+533,Rigolet,America/Goose_Bay,0,1862-06-09 21:00:00,1862-06-09 21:00:00,cloudy,mno,remarks_9pm,217,168006,1420,1308
+534,Rigolet,America/Goose_Bay,0,1862-06-10 21:00:00,1862-06-10 21:00:00,clear,mno,remarks_9pm,217,168007,1420,1308
+535,Rigolet,America/Goose_Bay,0,1862-06-11 21:00:00,1862-06-11 21:00:00,cloudy,mno,remarks_9pm,217,168008,1420,1308
+536,Rigolet,America/Goose_Bay,0,1862-06-12 21:00:00,1862-06-12 21:00:00,snow,mno,remarks_9pm,217,168009,1420,1308
+537,Rigolet,America/Goose_Bay,0,1862-06-13 21:00:00,1862-06-13 21:00:00,cloudy,mno,remarks_9pm,217,168010,1420,1308
+538,Rigolet,America/Goose_Bay,0,1862-06-14 21:00:00,1862-06-14 21:00:00,cloudy,mno,remarks_9pm,217,168011,1420,1308
+539,Rigolet,America/Goose_Bay,0,1862-06-15 21:00:00,1862-06-15 21:00:00,cloudy,mno,remarks_9pm,217,168012,1420,1308
+540,Rigolet,America/Goose_Bay,0,1862-06-16 21:00:00,1862-06-16 21:00:00,clear,mno,remarks_9pm,217,168013,1420,1308
+541,Rigolet,America/Goose_Bay,0,1862-06-17 21:00:00,1862-06-17 21:00:00,cloudy,mno,remarks_9pm,217,168014,1420,1308
+542,Rigolet,America/Goose_Bay,0,1862-06-18 21:00:00,1862-06-18 21:00:00,snow,mno,remarks_9pm,217,168015,1420,1308
+543,Rigolet,America/Goose_Bay,0,1862-06-19 21:00:00,1862-06-19 21:00:00,cloudy,mno,remarks_9pm,217,168016,1420,1308
+544,Rigolet,America/Goose_Bay,0,1862-06-20 21:00:00,1862-06-20 21:00:00,rain,mno,remarks_9pm,217,168017,1420,1308
+545,Rigolet,America/Goose_Bay,0,1862-06-21 21:00:00,1862-06-21 21:00:00,cloudy,mno,remarks_9pm,217,168018,1420,1308
+546,Rigolet,America/Goose_Bay,0,1862-06-22 21:00:00,1862-06-22 21:00:00,clear,mno,remarks_9pm,217,168019,1420,1308
+547,Rigolet,America/Goose_Bay,0,1862-06-23 21:00:00,1862-06-23 21:00:00,cloudy,mno,remarks_9pm,217,168020,1420,1308
+548,Rigolet,America/Goose_Bay,0,1862-06-24 21:00:00,1862-06-24 21:00:00,clear,mno,remarks_9pm,217,168021,1420,1308
+549,Rigolet,America/Goose_Bay,0,1862-06-25 21:00:00,1862-06-25 21:00:00,cloudy,mno,remarks_9pm,217,168022,1420,1308
+550,Rigolet,America/Goose_Bay,0,1862-06-26 21:00:00,1862-06-26 21:00:00,cloudy,mno,remarks_9pm,217,168023,1420,1308
+551,Rigolet,America/Goose_Bay,0,1862-06-27 21:00:00,1862-06-27 21:00:00,cloudy,mno,remarks_9pm,217,168024,1420,1308
+552,Rigolet,America/Goose_Bay,0,1862-06-28 21:00:00,1862-06-28 21:00:00,clear,mno,remarks_9pm,217,168025,1420,1308
+553,Rigolet,America/Goose_Bay,0,1862-06-29 21:00:00,1862-06-29 21:00:00,clear,mno,remarks_9pm,217,168026,1420,1308
+554,Rigolet,America/Goose_Bay,0,1862-06-30 21:00:00,1862-06-30 21:00:00,clear,mno,remarks_9pm,217,168027,1420,1308
+555,Rigolet,America/Goose_Bay,0,1862-08-01 21:00:00,1862-08-01 21:00:00,clear,mno,remarks_9pm,217,168118,1421,1313
+556,Rigolet,America/Goose_Bay,0,1862-08-02 21:00:00,1862-08-02 21:00:00,cloudy,mno,remarks_9pm,217,168119,1421,1313
+557,Rigolet,America/Goose_Bay,0,1862-08-03 21:00:00,1862-08-03 21:00:00,cloudy,mno,remarks_9pm,217,168120,1421,1313
+558,Rigolet,America/Goose_Bay,0,1862-08-04 21:00:00,1862-08-04 21:00:00,clear,mno,remarks_9pm,217,168121,1421,1313
+559,Rigolet,America/Goose_Bay,0,1862-08-05 21:00:00,1862-08-05 21:00:00,clear,mno,remarks_9pm,217,168122,1421,1313
+560,Rigolet,America/Goose_Bay,0,1862-08-06 21:00:00,1862-08-06 21:00:00,rain,mno,remarks_9pm,217,168123,1421,1313
+561,Rigolet,America/Goose_Bay,0,1862-08-07 21:00:00,1862-08-07 21:00:00,cloudy,mno,remarks_9pm,217,168124,1421,1313
+562,Rigolet,America/Goose_Bay,0,1862-08-08 21:00:00,1862-08-08 21:00:00,cloudy,mno,remarks_9pm,217,168125,1421,1313
+563,Rigolet,America/Goose_Bay,0,1862-08-09 21:00:00,1862-08-09 21:00:00,cloudy,mno,remarks_9pm,217,168126,1421,1313
+564,Rigolet,America/Goose_Bay,0,1862-08-10 21:00:00,1862-08-10 21:00:00,clear,mno,remarks_9pm,217,168127,1421,1313
+565,Rigolet,America/Goose_Bay,0,1862-08-11 21:00:00,1862-08-11 21:00:00,cloudy,mno,remarks_9pm,217,168128,1421,1313
+566,Rigolet,America/Goose_Bay,0,1862-08-12 21:00:00,1862-08-12 21:00:00,cloudy,mno,remarks_9pm,217,168129,1421,1313
+567,Rigolet,America/Goose_Bay,0,1862-08-13 21:00:00,1862-08-13 21:00:00,rain,mno,remarks_9pm,217,168130,1421,1313
+568,Rigolet,America/Goose_Bay,0,1862-08-14 21:00:00,1862-08-14 21:00:00,clear,mno,remarks_9pm,217,168131,1421,1313
+569,Rigolet,America/Goose_Bay,0,1862-08-15 21:00:00,1862-08-15 21:00:00,cloudy,mno,remarks_9pm,217,168132,1421,1313
+570,Rigolet,America/Goose_Bay,0,1862-08-16 21:00:00,1862-08-16 21:00:00,clear,mno,remarks_9pm,217,168133,1421,1313
+571,Rigolet,America/Goose_Bay,0,1862-08-17 21:00:00,1862-08-17 21:00:00,clear,mno,remarks_9pm,217,168134,1421,1313
+572,Rigolet,America/Goose_Bay,0,1862-08-18 21:00:00,1862-08-18 21:00:00,clear,mno,remarks_9pm,217,168135,1421,1313
+573,Rigolet,America/Goose_Bay,0,1862-08-19 21:00:00,1862-08-19 21:00:00,clear,mno,remarks_9pm,217,168136,1421,1313
+574,Rigolet,America/Goose_Bay,0,1862-08-20 21:00:00,1862-08-20 21:00:00,rain,mno,remarks_9pm,217,168137,1421,1313
+575,Rigolet,America/Goose_Bay,0,1862-08-21 21:00:00,1862-08-21 21:00:00,clear,mno,remarks_9pm,217,168138,1421,1313
+576,Rigolet,America/Goose_Bay,0,1862-08-22 21:00:00,1862-08-22 21:00:00,clear,mno,remarks_9pm,217,168139,1421,1313
+577,Rigolet,America/Goose_Bay,0,1862-08-23 21:00:00,1862-08-23 21:00:00,cloudy,mno,remarks_9pm,217,168140,1421,1313
+578,Rigolet,America/Goose_Bay,0,1862-08-24 21:00:00,1862-08-24 21:00:00,cloudy,mno,remarks_9pm,217,168141,1421,1313
+579,Rigolet,America/Goose_Bay,0,1862-08-25 21:00:00,1862-08-25 21:00:00,cloudy,mno,remarks_9pm,217,168142,1421,1313
+580,Rigolet,America/Goose_Bay,0,1862-08-26 21:00:00,1862-08-26 21:00:00,cloudy,mno,remarks_9pm,217,168143,1421,1313
+581,Rigolet,America/Goose_Bay,0,1862-08-27 21:00:00,1862-08-27 21:00:00,cloudy,mno,remarks_9pm,217,168144,1421,1313
+582,Rigolet,America/Goose_Bay,0,1862-08-28 21:00:00,1862-08-28 21:00:00,cloudy,mno,remarks_9pm,217,168145,1421,1313
+583,Rigolet,America/Goose_Bay,0,1862-08-29 21:00:00,1862-08-29 21:00:00,cloudy,mno,remarks_9pm,217,168146,1421,1313
+584,Rigolet,America/Goose_Bay,0,1862-08-30 21:00:00,1862-08-30 21:00:00,cloudy,mno,remarks_9pm,217,168147,1421,1313
+585,Rigolet,America/Goose_Bay,0,1862-08-31 21:00:00,1862-08-31 21:00:00,cloudy,mno,remarks_9pm,217,168148,1421,1313
+586,Rigolet,America/Goose_Bay,0,1862-09-01 21:00:00,1862-09-01 21:00:00,rain,mno,remarks_9pm,217,168223,1422,1312
+587,Rigolet,America/Goose_Bay,0,1862-09-02 21:00:00,1862-09-02 21:00:00,rain,mno,remarks_9pm,217,168224,1422,1312
+588,Rigolet,America/Goose_Bay,0,1862-09-03 21:00:00,1862-09-03 21:00:00,clear,mno,remarks_9pm,217,168225,1422,1312
+589,Rigolet,America/Goose_Bay,0,1862-09-04 21:00:00,1862-09-04 21:00:00,rain,mno,remarks_9pm,217,168226,1422,1312
+590,Rigolet,America/Goose_Bay,0,1862-09-05 21:00:00,1862-09-05 21:00:00,clear,mno,remarks_9pm,217,168227,1422,1312
+591,Rigolet,America/Goose_Bay,0,1862-09-06 21:00:00,1862-09-06 21:00:00,cloudy,mno,remarks_9pm,217,168228,1422,1312
+592,Rigolet,America/Goose_Bay,0,1862-09-07 21:00:00,1862-09-07 21:00:00,clear,mno,remarks_9pm,217,168229,1422,1312
+593,Rigolet,America/Goose_Bay,0,1862-09-08 21:00:00,1862-09-08 21:00:00,cloudy,mno,remarks_9pm,217,168230,1422,1312
+594,Rigolet,America/Goose_Bay,0,1862-09-09 21:00:00,1862-09-09 21:00:00,cloudy,mno,remarks_9pm,217,168231,1422,1312
+595,Rigolet,America/Goose_Bay,0,1862-09-10 21:00:00,1862-09-10 21:00:00,cloudy,mno,remarks_9pm,217,168232,1422,1312
+596,Rigolet,America/Goose_Bay,0,1862-09-11 21:00:00,1862-09-11 21:00:00,cloudy,mno,remarks_9pm,217,168233,1422,1312
+597,Rigolet,America/Goose_Bay,0,1862-09-12 21:00:00,1862-09-12 21:00:00,clear,mno,remarks_9pm,217,168234,1422,1312
+598,Rigolet,America/Goose_Bay,0,1862-09-13 21:00:00,1862-09-13 21:00:00,clear,mno,remarks_9pm,217,168235,1422,1312
+599,Rigolet,America/Goose_Bay,0,1862-09-14 21:00:00,1862-09-14 21:00:00,cloudy,mno,remarks_9pm,217,168236,1422,1312
+600,Rigolet,America/Goose_Bay,0,1862-09-15 21:00:00,1862-09-15 21:00:00,cloudy,mno,remarks_9pm,217,168237,1422,1312
+601,Rigolet,America/Goose_Bay,0,1862-09-16 21:00:00,1862-09-16 21:00:00,cloudy,mno,remarks_9pm,217,168238,1422,1312
+602,Rigolet,America/Goose_Bay,0,1862-09-17 21:00:00,1862-09-17 21:00:00,clear,mno,remarks_9pm,217,168239,1422,1312
+603,Rigolet,America/Goose_Bay,0,1862-09-18 21:00:00,1862-09-18 21:00:00,rain,mno,remarks_9pm,217,168240,1422,1312
+604,Rigolet,America/Goose_Bay,0,1862-09-19 21:00:00,1862-09-19 21:00:00,cloudy,mno,remarks_9pm,217,168241,1422,1312
+605,Rigolet,America/Goose_Bay,0,1862-09-20 21:00:00,1862-09-20 21:00:00,cloudy,mno,remarks_9pm,217,168242,1422,1312
+606,Rigolet,America/Goose_Bay,0,1862-09-21 21:00:00,1862-09-21 21:00:00,cloudy,mno,remarks_9pm,217,168243,1422,1312
+607,Rigolet,America/Goose_Bay,0,1862-09-22 21:00:00,1862-09-22 21:00:00,clear,mno,remarks_9pm,217,168244,1422,1312
+608,Rigolet,America/Goose_Bay,0,1862-09-23 21:00:00,1862-09-23 21:00:00,clear,mno,remarks_9pm,217,168245,1422,1312
+609,Rigolet,America/Goose_Bay,0,1862-09-24 21:00:00,1862-09-24 21:00:00,snow,mno,remarks_9pm,217,168246,1422,1312
+610,Rigolet,America/Goose_Bay,0,1862-09-25 21:00:00,1862-09-25 21:00:00,cloudy,mno,remarks_9pm,217,168247,1422,1312
+611,Rigolet,America/Goose_Bay,0,1862-09-26 21:00:00,1862-09-26 21:00:00,clear,mno,remarks_9pm,217,168248,1422,1312
+612,Rigolet,America/Goose_Bay,0,1862-09-27 21:00:00,1862-09-27 21:00:00,clear,mno,remarks_9pm,217,168249,1422,1312
+613,Rigolet,America/Goose_Bay,0,1862-09-28 21:00:00,1862-09-28 21:00:00,snow,mno,remarks_9pm,217,168250,1422,1312
+614,Rigolet,America/Goose_Bay,0,1862-09-29 21:00:00,1862-09-29 21:00:00,clear,mno,remarks_9pm,217,168251,1422,1312
+615,Rigolet,America/Goose_Bay,0,1862-09-30 21:00:00,1862-09-30 21:00:00,cloudy,mno,remarks_9pm,217,168252,1422,1312
+616,Rigolet,America/Goose_Bay,0,1862-10-01 21:00:00,1862-10-01 21:00:00,cloudy,mno,remarks_9pm,217,168326,1423,1319
+617,Rigolet,America/Goose_Bay,0,1862-10-02 21:00:00,1862-10-02 21:00:00,cloudy,mno,remarks_9pm,217,168327,1423,1319
+618,Rigolet,America/Goose_Bay,0,1862-10-03 21:00:00,1862-10-03 21:00:00,cloudy,mno,remarks_9pm,217,168328,1423,1319
+619,Rigolet,America/Goose_Bay,0,1862-10-04 21:00:00,1862-10-04 21:00:00,cloudy,mno,remarks_9pm,217,168329,1423,1319
+620,Rigolet,America/Goose_Bay,0,1862-10-05 21:00:00,1862-10-05 21:00:00,snow,mno,remarks_9pm,217,168330,1423,1319
+621,Rigolet,America/Goose_Bay,0,1862-10-06 21:00:00,1862-10-06 21:00:00,clear,mno,remarks_9pm,217,168331,1423,1319
+622,Rigolet,America/Goose_Bay,0,1862-10-07 21:00:00,1862-10-07 21:00:00,cloudy,mno,remarks_9pm,217,168332,1423,1319
+623,Rigolet,America/Goose_Bay,0,1862-10-08 21:00:00,1862-10-08 21:00:00,cloudy,mno,remarks_9pm,217,168333,1423,1319
+624,Rigolet,America/Goose_Bay,0,1862-10-09 21:00:00,1862-10-09 21:00:00,cloudy,mno,remarks_9pm,217,168334,1423,1319
+625,Rigolet,America/Goose_Bay,0,1862-10-10 21:00:00,1862-10-10 21:00:00,cloudy,mno,remarks_9pm,217,168335,1423,1319
+626,Rigolet,America/Goose_Bay,0,1862-10-11 21:00:00,1862-10-11 21:00:00,cloudy,mno,remarks_9pm,217,168336,1423,1319
+627,Rigolet,America/Goose_Bay,0,1862-10-12 21:00:00,1862-10-12 21:00:00,clear,mno,remarks_9pm,217,168337,1423,1319
+628,Rigolet,America/Goose_Bay,0,1862-10-13 21:00:00,1862-10-13 21:00:00,clear,mno,remarks_9pm,217,168338,1423,1319
+629,Rigolet,America/Goose_Bay,0,1862-10-14 21:00:00,1862-10-14 21:00:00,snow,mno,remarks_9pm,217,168339,1423,1319
+630,Rigolet,America/Goose_Bay,0,1862-10-15 21:00:00,1862-10-15 21:00:00,clear,mno,remarks_9pm,217,168340,1423,1319
+631,Rigolet,America/Goose_Bay,0,1862-10-16 21:00:00,1862-10-16 21:00:00,clear,mno,remarks_9pm,217,168341,1423,1319
+632,Rigolet,America/Goose_Bay,0,1862-10-17 21:00:00,1862-10-17 21:00:00,cloudy,mno,remarks_9pm,217,168342,1423,1319
+633,Rigolet,America/Goose_Bay,0,1862-10-18 21:00:00,1862-10-18 21:00:00,clear,mno,remarks_9pm,217,168343,1423,1319
+634,Rigolet,America/Goose_Bay,0,1862-10-19 21:00:00,1862-10-19 21:00:00,cloudy,mno,remarks_9pm,217,168344,1423,1319
+635,Rigolet,America/Goose_Bay,0,1862-10-20 21:00:00,1862-10-20 21:00:00,clear,mno,remarks_9pm,217,168345,1423,1319
+636,Rigolet,America/Goose_Bay,0,1862-10-21 21:00:00,1862-10-21 21:00:00,cloudy,mno,remarks_9pm,217,168346,1423,1319
+637,Rigolet,America/Goose_Bay,0,1862-10-22 21:00:00,1862-10-22 21:00:00,cloudy,mno,remarks_9pm,217,168347,1423,1319
+638,Rigolet,America/Goose_Bay,0,1862-10-23 21:00:00,1862-10-23 21:00:00,cloudy,mno,remarks_9pm,217,168348,1423,1319
+639,Rigolet,America/Goose_Bay,0,1862-10-24 21:00:00,1862-10-24 21:00:00,clear,mno,remarks_9pm,217,168349,1423,1319
+640,Rigolet,America/Goose_Bay,0,1862-10-25 21:00:00,1862-10-25 21:00:00,cloudy,mno,remarks_9pm,217,168350,1423,1319
+641,Rigolet,America/Goose_Bay,0,1862-10-26 21:00:00,1862-10-26 21:00:00,clear,mno,remarks_9pm,217,168351,1423,1319
+642,Rigolet,America/Goose_Bay,0,1862-10-27 21:00:00,1862-10-27 21:00:00,snow,mno,remarks_9pm,217,168352,1423,1319
+643,Rigolet,America/Goose_Bay,0,1862-10-28 21:00:00,1862-10-28 21:00:00,snow,mno,remarks_9pm,217,168353,1423,1319
+644,Rigolet,America/Goose_Bay,0,1862-10-29 21:00:00,1862-10-29 21:00:00,cloudy,mno,remarks_9pm,217,168354,1423,1319
+645,Rigolet,America/Goose_Bay,0,1862-10-30 21:00:00,1862-10-30 21:00:00,cloudy,mno,remarks_9pm,217,168355,1423,1319
+646,Rigolet,America/Goose_Bay,0,1862-10-31 21:00:00,1862-10-31 21:00:00,cloudy,mno,remarks_9pm,217,168356,1423,1319
+647,Rigolet,America/Goose_Bay,0,1862-11-01 21:00:00,1862-11-01 21:00:00,clear,mno,remarks_9pm,217,168420,1424,1321
+648,Rigolet,America/Goose_Bay,0,1862-11-02 21:00:00,1862-11-02 21:00:00,clear,mno,remarks_9pm,217,168421,1424,1321
+649,Rigolet,America/Goose_Bay,0,1862-11-03 21:00:00,1862-11-03 21:00:00,snow,mno,remarks_9pm,217,168422,1424,1321
+650,Rigolet,America/Goose_Bay,0,1862-11-04 21:00:00,1862-11-04 21:00:00,clear,mno,remarks_9pm,217,168423,1424,1321
+651,Rigolet,America/Goose_Bay,0,1862-11-05 21:00:00,1862-11-05 21:00:00,snow,mno,remarks_9pm,217,168424,1424,1321
+652,Rigolet,America/Goose_Bay,0,1862-11-06 21:00:00,1862-11-06 21:00:00,snow,mno,remarks_9pm,217,168425,1424,1321
+653,Rigolet,America/Goose_Bay,0,1862-11-07 21:00:00,1862-11-07 21:00:00,clear,mno,remarks_9pm,217,168426,1424,1321
+654,Rigolet,America/Goose_Bay,0,1862-11-08 21:00:00,1862-11-08 21:00:00,clear,mno,remarks_9pm,217,168427,1424,1321
+655,Rigolet,America/Goose_Bay,0,1862-11-09 21:00:00,1862-11-09 21:00:00,cloudy,mno,remarks_9pm,217,168428,1424,1321
+656,Rigolet,America/Goose_Bay,0,1862-11-10 21:00:00,1862-11-10 21:00:00,clear,mno,remarks_9pm,217,168429,1424,1321
+657,Rigolet,America/Goose_Bay,0,1862-11-11 21:00:00,1862-11-11 21:00:00,clear,mno,remarks_9pm,217,168430,1424,1321
+658,Rigolet,America/Goose_Bay,0,1862-11-12 21:00:00,1862-11-12 21:00:00,cloudy,mno,remarks_9pm,217,168431,1424,1321
+659,Rigolet,America/Goose_Bay,0,1862-11-13 21:00:00,1862-11-13 21:00:00,clear,mno,remarks_9pm,217,168432,1424,1321
+660,Rigolet,America/Goose_Bay,0,1862-11-14 21:00:00,1862-11-14 21:00:00,clear,mno,remarks_9pm,217,168433,1424,1321
+661,Rigolet,America/Goose_Bay,0,1862-11-15 21:00:00,1862-11-15 21:00:00,clear,mno,remarks_9pm,217,168434,1424,1321
+662,Rigolet,America/Goose_Bay,0,1862-11-16 21:00:00,1862-11-16 21:00:00,clear,mno,remarks_9pm,217,168435,1424,1321
+663,Rigolet,America/Goose_Bay,0,1862-11-17 21:00:00,1862-11-17 21:00:00,cloudy,mno,remarks_9pm,217,168436,1424,1321
+664,Rigolet,America/Goose_Bay,0,1862-11-18 21:00:00,1862-11-18 21:00:00,cloudy,mno,remarks_9pm,217,168437,1424,1321
+665,Rigolet,America/Goose_Bay,0,1862-11-19 21:00:00,1862-11-19 21:00:00,snow,mno,remarks_9pm,217,168438,1424,1321
+666,Rigolet,America/Goose_Bay,0,1862-11-20 21:00:00,1862-11-20 21:00:00,cloudy,mno,remarks_9pm,217,168439,1424,1321
+667,Rigolet,America/Goose_Bay,0,1862-11-21 21:00:00,1862-11-21 21:00:00,snow,mno,remarks_9pm,217,168440,1424,1321
+668,Rigolet,America/Goose_Bay,0,1862-11-22 21:00:00,1862-11-22 21:00:00,rain,mno,remarks_9pm,217,168441,1424,1321
+669,Rigolet,America/Goose_Bay,0,1862-11-23 21:00:00,1862-11-23 21:00:00,clear,mno,remarks_9pm,217,168442,1424,1321
+670,Rigolet,America/Goose_Bay,0,1862-11-24 21:00:00,1862-11-24 21:00:00,cloudy,mno,remarks_9pm,217,168443,1424,1321
+671,Rigolet,America/Goose_Bay,0,1862-11-25 21:00:00,1862-11-25 21:00:00,clear,mno,remarks_9pm,217,168444,1424,1321
+672,Rigolet,America/Goose_Bay,0,1862-11-26 21:00:00,1862-11-26 21:00:00,cloudy,mno,remarks_9pm,217,168445,1424,1321
+673,Rigolet,America/Goose_Bay,0,1862-11-27 21:00:00,1862-11-27 21:00:00,clear,mno,remarks_9pm,217,168446,1424,1321
+674,Rigolet,America/Goose_Bay,0,1862-11-28 21:00:00,1862-11-28 21:00:00,cloudy,mno,remarks_9pm,217,168447,1424,1321
+675,Rigolet,America/Goose_Bay,0,1862-11-29 21:00:00,1862-11-29 21:00:00,cloudy,mno,remarks_9pm,217,168448,1424,1321
+676,Rigolet,America/Goose_Bay,0,1862-12-01 21:00:00,1862-12-01 21:00:00,cloudy,mno,remarks_9pm,217,168510,1425,1323
+677,Rigolet,America/Goose_Bay,0,1862-12-02 21:00:00,1862-12-02 21:00:00,cloudy,mno,remarks_9pm,217,168511,1425,1323
+678,Rigolet,America/Goose_Bay,0,1862-12-03 21:00:00,1862-12-03 21:00:00,cloudy,mno,remarks_9pm,217,168512,1425,1323
+679,Rigolet,America/Goose_Bay,0,1862-12-04 21:00:00,1862-12-04 21:00:00,cloudy,mno,remarks_9pm,217,168513,1425,1323
+680,Rigolet,America/Goose_Bay,0,1862-12-05 21:00:00,1862-12-05 21:00:00,cloudy,mno,remarks_9pm,217,168514,1425,1323
+681,Rigolet,America/Goose_Bay,0,1862-12-06 21:00:00,1862-12-06 21:00:00,cloudy,mno,remarks_9pm,217,168515,1425,1323
+682,Rigolet,America/Goose_Bay,0,1862-12-07 21:00:00,1862-12-07 21:00:00,snow,mno,remarks_9pm,217,168516,1425,1323
+683,Rigolet,America/Goose_Bay,0,1862-12-08 21:00:00,1862-12-08 21:00:00,clear,mno,remarks_9pm,217,168517,1425,1323
+684,Rigolet,America/Goose_Bay,0,1862-12-09 21:00:00,1862-12-09 21:00:00,clear,mno,remarks_9pm,217,168518,1425,1323
+685,Rigolet,America/Goose_Bay,0,1862-12-10 21:00:00,1862-12-10 21:00:00,snow,mno,remarks_9pm,217,168519,1425,1323
+686,Rigolet,America/Goose_Bay,0,1862-12-11 21:00:00,1862-12-11 21:00:00,cloudy,mno,remarks_9pm,217,168520,1425,1323
+687,Rigolet,America/Goose_Bay,0,1862-12-12 21:00:00,1862-12-12 21:00:00,snow,mno,remarks_9pm,217,168521,1425,1323
+688,Rigolet,America/Goose_Bay,0,1862-12-13 21:00:00,1862-12-13 21:00:00,clear,mno,remarks_9pm,217,168522,1425,1323
+689,Rigolet,America/Goose_Bay,0,1862-12-14 21:00:00,1862-12-14 21:00:00,clear,mno,remarks_9pm,217,168523,1425,1323
+690,Rigolet,America/Goose_Bay,0,1862-12-15 21:00:00,1862-12-15 21:00:00,snow,mno,remarks_9pm,217,168524,1425,1323
+691,Rigolet,America/Goose_Bay,0,1862-12-16 21:00:00,1862-12-16 21:00:00,snow,mno,remarks_9pm,217,168525,1425,1323
+692,Rigolet,America/Goose_Bay,0,1862-12-17 21:00:00,1862-12-17 21:00:00,clear,mno,remarks_9pm,217,168526,1425,1323
+693,Rigolet,America/Goose_Bay,0,1862-12-18 21:00:00,1862-12-18 21:00:00,clear,mno,remarks_9pm,217,168527,1425,1323
+694,Rigolet,America/Goose_Bay,0,1862-12-19 21:00:00,1862-12-19 21:00:00,cloudy,mno,remarks_9pm,217,168528,1425,1323
+695,Rigolet,America/Goose_Bay,0,1862-12-20 21:00:00,1862-12-20 21:00:00,cloudy,mno,remarks_9pm,217,168529,1425,1323
+696,Rigolet,America/Goose_Bay,0,1862-12-21 21:00:00,1862-12-21 21:00:00,clear,mno,remarks_9pm,217,168530,1425,1323
+697,Rigolet,America/Goose_Bay,0,1862-12-22 21:00:00,1862-12-22 21:00:00,cloudy,mno,remarks_9pm,217,168531,1425,1323
+698,Rigolet,America/Goose_Bay,0,1862-12-23 21:00:00,1862-12-23 21:00:00,clear,mno,remarks_9pm,217,168532,1425,1323
+699,Rigolet,America/Goose_Bay,0,1862-12-24 21:00:00,1862-12-24 21:00:00,cloudy,mno,remarks_9pm,217,168533,1425,1323
+700,Rigolet,America/Goose_Bay,0,1862-12-25 21:00:00,1862-12-25 21:00:00,cloudy,mno,remarks_9pm,217,168534,1425,1323
+701,Rigolet,America/Goose_Bay,0,1862-12-26 21:00:00,1862-12-26 21:00:00,cloudy,mno,remarks_9pm,217,168535,1425,1323
+702,Rigolet,America/Goose_Bay,0,1862-12-27 21:00:00,1862-12-27 21:00:00,cloudy,mno,remarks_9pm,217,168536,1425,1323
+703,Rigolet,America/Goose_Bay,0,1862-12-28 21:00:00,1862-12-28 21:00:00,cloudy,mno,remarks_9pm,217,168537,1425,1323
+704,Rigolet,America/Goose_Bay,0,1862-12-29 21:00:00,1862-12-29 21:00:00,cloudy,mno,remarks_9pm,217,168538,1425,1323
+705,Rigolet,America/Goose_Bay,0,1862-12-30 21:00:00,1862-12-30 21:00:00,cloudy,mno,remarks_9pm,217,168539,1425,1323
+706,Rigolet,America/Goose_Bay,0,1862-12-31 21:00:00,1862-12-31 21:00:00,cloudy,mno,remarks_9pm,217,168540,1425,1323
+707,Rigolet,America/Goose_Bay,0,1863-02-01 21:00:00,1863-02-01 21:00:00,clear,mno,remarks_9pm,217,168903,1438,1327
+708,Rigolet,America/Goose_Bay,0,1863-02-02 21:00:00,1863-02-02 21:00:00,cloudy,mno,remarks_9pm,217,168910,1438,1327
+709,Rigolet,America/Goose_Bay,0,1863-02-03 21:00:00,1863-02-03 21:00:00,clear,mno,remarks_9pm,217,168917,1438,1327
+710,Rigolet,America/Goose_Bay,0,1863-02-04 21:00:00,1863-02-04 21:00:00,clear,mno,remarks_9pm,217,168922,1438,1327
+711,Rigolet,America/Goose_Bay,0,1863-02-05 21:00:00,1863-02-05 21:00:00,clear,mno,remarks_9pm,217,168927,1438,1327
+712,Rigolet,America/Goose_Bay,0,1863-02-06 21:00:00,1863-02-06 21:00:00,cloudy,mno,remarks_9pm,217,168932,1438,1327
+713,Rigolet,America/Goose_Bay,0,1863-02-07 21:00:00,1863-02-07 21:00:00,clear,mno,remarks_9pm,217,168937,1438,1327
+714,Rigolet,America/Goose_Bay,0,1863-02-08 21:00:00,1863-02-08 21:00:00,clear,mno,remarks_9pm,217,168942,1438,1327
+715,Rigolet,America/Goose_Bay,0,1863-02-09 21:00:00,1863-02-09 21:00:00,clear,mno,remarks_9pm,217,168947,1438,1327
+716,Rigolet,America/Goose_Bay,0,1863-02-10 21:00:00,1863-02-10 21:00:00,clear,mno,remarks_9pm,217,168952,1438,1327
+717,Rigolet,America/Goose_Bay,0,1863-02-11 21:00:00,1863-02-11 21:00:00,clear,mno,remarks_9pm,217,168957,1438,1327
+718,Rigolet,America/Goose_Bay,0,1863-02-12 21:00:00,1863-02-12 21:00:00,clear,mno,remarks_9pm,217,168962,1438,1327
+719,Rigolet,America/Goose_Bay,0,1863-02-13 21:00:00,1863-02-13 21:00:00,clear,mno,remarks_9pm,217,168968,1438,1327
+720,Rigolet,America/Goose_Bay,0,1863-02-14 21:00:00,1863-02-14 21:00:00,clear,mno,remarks_9pm,217,168973,1438,1327
+721,Rigolet,America/Goose_Bay,0,1863-02-15 21:00:00,1863-02-15 21:00:00,cloudy,mno,remarks_9pm,217,168978,1438,1327
+722,Rigolet,America/Goose_Bay,0,1863-02-16 21:00:00,1863-02-16 21:00:00,snow,mno,remarks_9pm,217,168983,1438,1327
+723,Rigolet,America/Goose_Bay,0,1863-02-17 21:00:00,1863-02-17 21:00:00,clear,mno,remarks_9pm,217,168988,1438,1327
+724,Rigolet,America/Goose_Bay,0,1863-02-18 21:00:00,1863-02-18 21:00:00,clear,mno,remarks_9pm,217,168993,1438,1327
+725,Rigolet,America/Goose_Bay,0,1863-02-19 21:00:00,1863-02-19 21:00:00,cloudy,mno,remarks_9pm,217,168998,1438,1327
+726,Rigolet,America/Goose_Bay,0,1863-02-20 21:00:00,1863-02-20 21:00:00,snow,mno,remarks_9pm,217,169003,1438,1327
+727,Rigolet,America/Goose_Bay,0,1863-02-21 21:00:00,1863-02-21 21:00:00,snow,mno,remarks_9pm,217,169008,1438,1327
+728,Rigolet,America/Goose_Bay,0,1863-02-22 21:00:00,1863-02-22 21:00:00,clear,mno,remarks_9pm,217,169013,1438,1327
+729,Rigolet,America/Goose_Bay,0,1863-02-23 21:00:00,1863-02-23 21:00:00,clear,mno,remarks_9pm,217,169018,1438,1327
+730,Rigolet,America/Goose_Bay,0,1863-02-24 21:00:00,1863-02-24 21:00:00,cloudy,mno,remarks_9pm,217,169023,1438,1327
+731,Rigolet,America/Goose_Bay,0,1863-02-25 21:00:00,1863-02-25 21:00:00,clear,mno,remarks_9pm,217,169028,1438,1327
+732,Rigolet,America/Goose_Bay,0,1863-02-26 21:00:00,1863-02-26 21:00:00,clear,mno,remarks_9pm,217,169033,1438,1327
+733,Rigolet,America/Goose_Bay,0,1863-02-27 21:00:00,1863-02-27 21:00:00,clear,mno,remarks_9pm,217,169038,1438,1327
+734,Rigolet,America/Goose_Bay,0,1863-02-28 21:00:00,1863-02-28 21:00:00,clear,mno,remarks_9pm,217,169043,1438,1327
+735,Rigolet,America/Goose_Bay,0,1863-03-01 21:00:00,1863-03-01 21:00:00,clear,mno,remarks_9pm,217,169133,1439,1328
+736,Rigolet,America/Goose_Bay,0,1863-03-02 21:00:00,1863-03-02 21:00:00,clear,mno,remarks_9pm,217,169134,1439,1328
+737,Rigolet,America/Goose_Bay,0,1863-03-03 21:00:00,1863-03-03 21:00:00,clear,mno,remarks_9pm,217,169135,1439,1328
+738,Rigolet,America/Goose_Bay,0,1863-03-04 21:00:00,1863-03-04 21:00:00,clear,mno,remarks_9pm,217,169136,1439,1328
+739,Rigolet,America/Goose_Bay,0,1863-03-05 21:00:00,1863-03-05 21:00:00,clear,mno,remarks_9pm,217,169137,1439,1328
+740,Rigolet,America/Goose_Bay,0,1863-03-06 21:00:00,1863-03-06 21:00:00,cloudy,mno,remarks_9pm,217,169138,1439,1328
+741,Rigolet,America/Goose_Bay,0,1863-03-07 21:00:00,1863-03-07 21:00:00,clear,mno,remarks_9pm,217,169139,1439,1328
+742,Rigolet,America/Goose_Bay,0,1863-03-08 21:00:00,1863-03-08 21:00:00,clear,mno,remarks_9pm,217,169140,1439,1328
+743,Rigolet,America/Goose_Bay,0,1863-03-09 21:00:00,1863-03-09 21:00:00,snow,mno,remarks_9pm,217,169141,1439,1328
+744,Rigolet,America/Goose_Bay,0,1863-03-10 21:00:00,1863-03-10 21:00:00,clear,mno,remarks_9pm,217,169142,1439,1328
+745,Rigolet,America/Goose_Bay,0,1863-03-11 21:00:00,1863-03-11 21:00:00,clear,mno,remarks_9pm,217,169143,1439,1328
+746,Rigolet,America/Goose_Bay,0,1863-03-12 21:00:00,1863-03-12 21:00:00,snow,mno,remarks_9pm,217,169144,1439,1328
+747,Rigolet,America/Goose_Bay,0,1863-03-13 21:00:00,1863-03-13 21:00:00,clear,mno,remarks_9pm,217,169145,1439,1328
+748,Rigolet,America/Goose_Bay,0,1863-03-14 21:00:00,1863-03-14 21:00:00,cloudy,mno,remarks_9pm,217,169146,1439,1328
+749,Rigolet,America/Goose_Bay,0,1863-03-15 21:00:00,1863-03-15 21:00:00,snow,mno,remarks_9pm,217,169147,1439,1328
+750,Rigolet,America/Goose_Bay,0,1863-03-16 21:00:00,1863-03-16 21:00:00,cloudy,mno,remarks_9pm,217,169148,1439,1328
+751,Rigolet,America/Goose_Bay,0,1863-03-17 21:00:00,1863-03-17 21:00:00,clear,mno,remarks_9pm,217,169149,1439,1328
+752,Rigolet,America/Goose_Bay,0,1863-03-18 21:00:00,1863-03-18 21:00:00,clear,mno,remarks_9pm,217,169150,1439,1328
+753,Rigolet,America/Goose_Bay,0,1863-03-19 21:00:00,1863-03-19 21:00:00,clear,mno,remarks_9pm,217,169151,1439,1328
+754,Rigolet,America/Goose_Bay,0,1863-03-20 21:00:00,1863-03-20 21:00:00,clear,mno,remarks_9pm,217,169152,1439,1328
+755,Rigolet,America/Goose_Bay,0,1863-03-21 21:00:00,1863-03-21 21:00:00,cloudy,mno,remarks_9pm,217,169153,1439,1328
+756,Rigolet,America/Goose_Bay,0,1863-03-22 21:00:00,1863-03-22 21:00:00,cloudy,mno,remarks_9pm,217,169154,1439,1328
+757,Rigolet,America/Goose_Bay,0,1863-03-23 21:00:00,1863-03-23 21:00:00,clear,mno,remarks_9pm,217,169155,1439,1328
+758,Rigolet,America/Goose_Bay,0,1863-03-24 21:00:00,1863-03-24 21:00:00,clear,mno,remarks_9pm,217,169156,1439,1328
+759,Rigolet,America/Goose_Bay,0,1863-03-25 21:00:00,1863-03-25 21:00:00,cloudy,mno,remarks_9pm,217,169157,1439,1328
+760,Rigolet,America/Goose_Bay,0,1863-03-26 21:00:00,1863-03-26 21:00:00,cloudy,mno,remarks_9pm,217,169158,1439,1328
+761,Rigolet,America/Goose_Bay,0,1863-03-27 21:00:00,1863-03-27 21:00:00,cloudy,mno,remarks_9pm,217,169159,1439,1328
+762,Rigolet,America/Goose_Bay,0,1863-03-28 21:00:00,1863-03-28 21:00:00,cloudy,mno,remarks_9pm,217,169160,1439,1328
+763,Rigolet,America/Goose_Bay,0,1863-03-29 21:00:00,1863-03-29 21:00:00,cloudy,mno,remarks_9pm,217,169161,1439,1328
+764,Rigolet,America/Goose_Bay,0,1863-03-30 21:00:00,1863-03-30 21:00:00,cloudy,mno,remarks_9pm,217,169162,1439,1328
+765,Rigolet,America/Goose_Bay,0,1863-03-31 21:00:00,1863-03-31 21:00:00,clear,mno,remarks_9pm,217,169163,1439,1328
+766,Rigolet,America/Goose_Bay,0,1863-06-01 21:00:00,1863-06-01 21:00:00,snow,mno,remarks_9pm,217,169257,1440,1336
+767,Rigolet,America/Goose_Bay,0,1863-06-02 21:00:00,1863-06-02 21:00:00,rain,mno,remarks_9pm,217,169258,1440,1336
+768,Rigolet,America/Goose_Bay,0,1863-06-03 21:00:00,1863-06-03 21:00:00,cloudy,mno,remarks_9pm,217,169259,1440,1336
+769,Rigolet,America/Goose_Bay,0,1863-06-04 21:00:00,1863-06-04 21:00:00,cloudy,mno,remarks_9pm,217,169260,1440,1336
+770,Rigolet,America/Goose_Bay,0,1863-06-05 21:00:00,1863-06-05 21:00:00,cloudy,mno,remarks_9pm,217,169261,1440,1336
+771,Rigolet,America/Goose_Bay,0,1863-06-06 21:00:00,1863-06-06 21:00:00,clear,mno,remarks_9pm,217,169262,1440,1336
+772,Rigolet,America/Goose_Bay,0,1863-06-07 21:00:00,1863-06-07 21:00:00,clear,mno,remarks_9pm,217,169263,1440,1336
+773,Rigolet,America/Goose_Bay,0,1863-06-08 21:00:00,1863-06-08 21:00:00,cloudy,mno,remarks_9pm,217,169264,1440,1336
+774,Rigolet,America/Goose_Bay,0,1863-06-09 21:00:00,1863-06-09 21:00:00,cloudy,mno,remarks_9pm,217,169265,1440,1336
+775,Rigolet,America/Goose_Bay,0,1863-06-10 21:00:00,1863-06-10 21:00:00,cloudy,mno,remarks_9pm,217,169266,1440,1336
+776,Rigolet,America/Goose_Bay,0,1863-06-11 21:00:00,1863-06-11 21:00:00,cloudy,mno,remarks_9pm,217,169267,1440,1336
+777,Rigolet,America/Goose_Bay,0,1863-06-12 21:00:00,1863-06-12 21:00:00,clear,mno,remarks_9pm,217,169268,1440,1336
+778,Rigolet,America/Goose_Bay,0,1863-06-13 21:00:00,1863-06-13 21:00:00,clear,mno,remarks_9pm,217,169269,1440,1336
+779,Rigolet,America/Goose_Bay,0,1863-06-14 21:00:00,1863-06-14 21:00:00,cloudy,mno,remarks_9pm,217,169270,1440,1336
+780,Rigolet,America/Goose_Bay,0,1863-06-15 21:00:00,1863-06-15 21:00:00,cloudy,mno,remarks_9pm,217,169271,1440,1336
+781,Rigolet,America/Goose_Bay,0,1863-06-16 21:00:00,1863-06-16 21:00:00,rain,mno,remarks_9pm,217,169272,1440,1336
+782,Rigolet,America/Goose_Bay,0,1863-06-17 21:00:00,1863-06-17 21:00:00,rain,mno,remarks_9pm,217,169273,1440,1336
+783,Rigolet,America/Goose_Bay,0,1863-06-18 21:00:00,1863-06-18 21:00:00,rain,mno,remarks_9pm,217,169274,1440,1336
+784,Rigolet,America/Goose_Bay,0,1863-06-19 21:00:00,1863-06-19 21:00:00,clear,mno,remarks_9pm,217,169275,1440,1336
+785,Rigolet,America/Goose_Bay,0,1863-06-20 21:00:00,1863-06-20 21:00:00,clear,mno,remarks_9pm,217,169276,1440,1336
+786,Rigolet,America/Goose_Bay,0,1863-06-21 21:00:00,1863-06-21 21:00:00,clear,mno,remarks_9pm,217,169277,1440,1336
+787,Rigolet,America/Goose_Bay,0,1863-06-22 21:00:00,1863-06-22 21:00:00,cloudy,mno,remarks_9pm,217,169278,1440,1336
+788,Rigolet,America/Goose_Bay,0,1863-06-23 21:00:00,1863-06-23 21:00:00,cloudy,mno,remarks_9pm,217,169279,1440,1336
+789,Rigolet,America/Goose_Bay,0,1863-06-24 21:00:00,1863-06-24 21:00:00,clear,mno,remarks_9pm,217,169280,1440,1336
+790,Rigolet,America/Goose_Bay,0,1863-06-25 21:00:00,1863-06-25 21:00:00,clear,mno,remarks_9pm,217,169281,1440,1336
+791,Rigolet,America/Goose_Bay,0,1863-06-26 21:00:00,1863-06-26 21:00:00,cloudy,mno,remarks_9pm,217,169282,1440,1336
+792,Rigolet,America/Goose_Bay,0,1863-06-27 21:00:00,1863-06-27 21:00:00,cloudy,mno,remarks_9pm,217,169283,1440,1336
+793,Rigolet,America/Goose_Bay,0,1863-06-28 21:00:00,1863-06-28 21:00:00,cloudy,mno,remarks_9pm,217,169284,1440,1336
+794,Rigolet,America/Goose_Bay,0,1863-06-29 21:00:00,1863-06-29 21:00:00,clear,mno,remarks_9pm,217,169285,1440,1336
+795,Rigolet,America/Goose_Bay,0,1863-06-30 21:00:00,1863-06-30 21:00:00,clear,mno,remarks_9pm,217,169286,1440,1336
+796,Rigolet,America/Goose_Bay,0,1863-06-29 07:00:00,1863-06-29 07:00:00,clear,mno,remarks_7am,215,169285,1440,1336
+797,Rigolet,America/Goose_Bay,0,1863-06-30 07:00:00,1863-06-30 07:00:00,cloudy,mno,remarks_7am,215,169286,1440,1336
+798,Rigolet,America/Goose_Bay,0,1863-03-09 21:00:00,1863-03-09 21:00:00,4,F,open_air_thermometer_9pm,97,169105,1439,1328
+799,Rigolet,America/Goose_Bay,0,1863-03-10 21:00:00,1863-03-10 21:00:00,5,F,open_air_thermometer_9pm,97,169106,1439,1328
+800,Rigolet,America/Goose_Bay,0,1863-03-11 21:00:00,1863-03-11 21:00:00,-6,F,open_air_thermometer_9pm,97,169107,1439,1328
+801,Rigolet,America/Goose_Bay,0,1863-03-12 21:00:00,1863-03-12 21:00:00,10,F,open_air_thermometer_9pm,97,169108,1439,1328
+802,Rigolet,America/Goose_Bay,0,1863-03-13 21:00:00,1863-03-13 21:00:00,3,F,open_air_thermometer_9pm,97,169109,1439,1328
+803,Rigolet,America/Goose_Bay,0,1863-03-14 21:00:00,1863-03-14 21:00:00,3,F,open_air_thermometer_9pm,97,169110,1439,1328
+804,Rigolet,America/Goose_Bay,0,1863-03-15 21:00:00,1863-03-15 21:00:00,6,F,open_air_thermometer_9pm,97,169111,1439,1328
+805,Rigolet,America/Goose_Bay,0,1863-03-16 21:00:00,1863-03-16 21:00:00,5,F,open_air_thermometer_9pm,97,169112,1439,1328
+806,Rigolet,America/Goose_Bay,0,1863-03-17 21:00:00,1863-03-17 21:00:00,2,F,open_air_thermometer_9pm,97,169113,1439,1328
+807,Rigolet,America/Goose_Bay,0,1863-03-18 21:00:00,1863-03-18 21:00:00,6,F,open_air_thermometer_9pm,97,169114,1439,1328
+808,Rigolet,America/Goose_Bay,0,1863-03-19 21:00:00,1863-03-19 21:00:00,0,F,open_air_thermometer_9pm,97,169115,1439,1328
+809,Rigolet,America/Goose_Bay,0,1863-03-20 21:00:00,1863-03-20 21:00:00,-4,F,open_air_thermometer_9pm,97,169116,1439,1328
+810,Rigolet,America/Goose_Bay,0,1863-03-21 21:00:00,1863-03-21 21:00:00,27,F,open_air_thermometer_9pm,97,169117,1439,1328
+811,Rigolet,America/Goose_Bay,0,1863-03-22 21:00:00,1863-03-22 21:00:00,14,F,open_air_thermometer_9pm,97,169118,1439,1328
+812,Rigolet,America/Goose_Bay,0,1863-03-23 21:00:00,1863-03-23 21:00:00,0,F,open_air_thermometer_9pm,97,169119,1439,1328
+813,Rigolet,America/Goose_Bay,0,1863-03-24 21:00:00,1863-03-24 21:00:00,-1,F,open_air_thermometer_9pm,97,169120,1439,1328
+814,Rigolet,America/Goose_Bay,0,1863-03-25 21:00:00,1863-03-25 21:00:00,30,F,open_air_thermometer_9pm,97,169121,1439,1328
+815,Rigolet,America/Goose_Bay,0,1863-03-26 21:00:00,1863-03-26 21:00:00,40,F,open_air_thermometer_9pm,97,169122,1439,1328
+816,Rigolet,America/Goose_Bay,0,1863-03-27 21:00:00,1863-03-27 21:00:00,35,F,open_air_thermometer_9pm,97,169123,1439,1328
+817,Rigolet,America/Goose_Bay,0,1863-03-28 21:00:00,1863-03-28 21:00:00,8,F,open_air_thermometer_9pm,97,169124,1439,1328
+818,Rigolet,America/Goose_Bay,0,1863-03-29 21:00:00,1863-03-29 21:00:00,-1,F,open_air_thermometer_9pm,97,169125,1439,1328
+819,Rigolet,America/Goose_Bay,0,1863-03-30 21:00:00,1863-03-30 21:00:00,-8,F,open_air_thermometer_9pm,97,169126,1439,1328
+820,Rigolet,America/Goose_Bay,0,1863-03-31 21:00:00,1863-03-31 21:00:00,16,F,open_air_thermometer_9pm,97,169127,1439,1328
+821,Rigolet,America/Goose_Bay,0,1863-06-01 21:00:00,1863-06-01 21:00:00,32,F,open_air_thermometer_9pm,97,169221,1440,1336
+822,Rigolet,America/Goose_Bay,0,1863-06-02 21:00:00,1863-06-02 21:00:00,32,F,open_air_thermometer_9pm,97,169222,1440,1336
+823,Rigolet,America/Goose_Bay,0,1863-06-03 21:00:00,1863-06-03 21:00:00,36,F,open_air_thermometer_9pm,97,169223,1440,1336
+824,Rigolet,America/Goose_Bay,0,1863-06-04 21:00:00,1863-06-04 21:00:00,36,F,open_air_thermometer_9pm,97,169224,1440,1336
+825,Rigolet,America/Goose_Bay,0,1863-06-05 21:00:00,1863-06-05 21:00:00,23,F,open_air_thermometer_9pm,97,169225,1440,1336
+826,Rigolet,America/Goose_Bay,0,1863-06-06 21:00:00,1863-06-06 21:00:00,32,F,open_air_thermometer_9pm,97,169226,1440,1336
+827,Rigolet,America/Goose_Bay,0,1863-06-07 21:00:00,1863-06-07 21:00:00,38,F,open_air_thermometer_9pm,97,169227,1440,1336
+828,Rigolet,America/Goose_Bay,0,1863-06-08 21:00:00,1863-06-08 21:00:00,41,F,open_air_thermometer_9pm,97,169228,1440,1336
+829,Rigolet,America/Goose_Bay,0,1863-06-09 21:00:00,1863-06-09 21:00:00,23,F,open_air_thermometer_9pm,97,169229,1440,1336
+830,Rigolet,America/Goose_Bay,0,1863-06-10 21:00:00,1863-06-10 21:00:00,46,F,open_air_thermometer_9pm,97,169230,1440,1336
+831,Rigolet,America/Goose_Bay,0,1863-06-11 21:00:00,1863-06-11 21:00:00,21,F,open_air_thermometer_9pm,97,169231,1440,1336
+832,Rigolet,America/Goose_Bay,0,1863-06-12 21:00:00,1863-06-12 21:00:00,30,F,open_air_thermometer_9pm,97,169232,1440,1336
+833,Rigolet,America/Goose_Bay,0,1863-06-13 21:00:00,1863-06-13 21:00:00,35,F,open_air_thermometer_9pm,97,169233,1440,1336
+834,Rigolet,America/Goose_Bay,0,1863-06-14 21:00:00,1863-06-14 21:00:00,42,F,open_air_thermometer_9pm,97,169234,1440,1336
+835,Rigolet,America/Goose_Bay,0,1863-06-15 21:00:00,1863-06-15 21:00:00,35,F,open_air_thermometer_9pm,97,169235,1440,1336
+836,Rigolet,America/Goose_Bay,0,1863-06-16 21:00:00,1863-06-16 21:00:00,33,F,open_air_thermometer_9pm,97,169236,1440,1336
+837,Rigolet,America/Goose_Bay,0,1863-06-17 21:00:00,1863-06-17 21:00:00,24,F,open_air_thermometer_9pm,97,169237,1440,1336
+838,Rigolet,America/Goose_Bay,0,1863-06-18 21:00:00,1863-06-18 21:00:00,37,F,open_air_thermometer_9pm,97,169238,1440,1336
+839,Rigolet,America/Goose_Bay,0,1863-06-19 21:00:00,1863-06-19 21:00:00,39,F,open_air_thermometer_9pm,97,169239,1440,1336
+840,Rigolet,America/Goose_Bay,0,1863-06-20 21:00:00,1863-06-20 21:00:00,35,F,open_air_thermometer_9pm,97,169240,1440,1336
+841,Rigolet,America/Goose_Bay,0,1863-06-21 21:00:00,1863-06-21 21:00:00,41,F,open_air_thermometer_9pm,97,169241,1440,1336
+842,Rigolet,America/Goose_Bay,0,1863-06-22 21:00:00,1863-06-22 21:00:00,47,F,open_air_thermometer_9pm,97,169242,1440,1336
+843,Rigolet,America/Goose_Bay,0,1863-06-23 21:00:00,1863-06-23 21:00:00,45,F,open_air_thermometer_9pm,97,169243,1440,1336
+844,Rigolet,America/Goose_Bay,0,1863-06-24 21:00:00,1863-06-24 21:00:00,37,F,open_air_thermometer_9pm,97,169244,1440,1336
+845,Rigolet,America/Goose_Bay,0,1863-06-25 21:00:00,1863-06-25 21:00:00,40,F,open_air_thermometer_9pm,97,169245,1440,1336
+846,Rigolet,America/Goose_Bay,0,1863-06-26 21:00:00,1863-06-26 21:00:00,52,F,open_air_thermometer_9pm,97,169246,1440,1336
+847,Rigolet,America/Goose_Bay,0,1863-06-27 21:00:00,1863-06-27 21:00:00,43,F,open_air_thermometer_9pm,97,169247,1440,1336
+848,Rigolet,America/Goose_Bay,0,1863-06-28 21:00:00,1863-06-28 21:00:00,29,F,open_air_thermometer_9pm,97,169248,1440,1336
+849,Rigolet,America/Goose_Bay,0,1863-06-29 21:00:00,1863-06-29 21:00:00,40,F,open_air_thermometer_9pm,97,169249,1440,1336
+850,Rigolet,America/Goose_Bay,0,1863-06-30 21:00:00,1863-06-30 21:00:00,52,F,open_air_thermometer_9pm,97,169250,1440,1336

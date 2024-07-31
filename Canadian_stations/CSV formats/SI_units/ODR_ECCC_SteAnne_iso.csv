@@ -1,0 +1,173 @@
+,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
+1,Ste Anne,America/Montreal,0,1867-03-02 00:00:00,1867-03-02 00:00:00,4.25 pm thermometer 21,mno,casual_phenomena_line_3,200,328411,2798,2651
+2,Ste Anne,America/Montreal,0,1867-04-07 00:00:00,1867-04-07 00:00:00,a harbor on a bold coast having a depth of three fathoms at low water and protected from the nw and ne winds would no doubt form a good winter port. such a place is not so difficult to find on the north as on the south shore. trees are commencing to bud,mno,casual_phenomena_line_3,200,324076,2775,2650
+3,Ste Anne,America/Montreal,0,1867-01-14 00:00:00,1867-01-14 00:00:00,"a bow in the sw about 20"" from the sun",mno,casual_phenomena_line_2,199,324051,2773,2647
+4,Ste Anne,America/Montreal,0,1867-01-16 00:00:00,1867-01-16 00:00:00,the direction of the densest clouds is from nw to se,mno,casual_phenomena_line_2,199,324052,2773,2647
+5,Ste Anne,America/Montreal,0,1867-02-01 00:00:00,1867-02-01 00:00:00,flying clouds in the south with the clouds thickening in the ne,mno,casual_phenomena_line_2,199,324056,2774,2649
+6,Ste Anne,America/Montreal,0,1867-02-04 00:00:00,1867-02-04 00:00:00,cumulus clouds in the southern horizon with light fleecy clouds crossing between them and the earth with great rapidity from w to e,mno,casual_phenomena_line_2,199,324059,2774,2649
+7,Ste Anne,America/Montreal,0,1867-02-11 00:00:00,1867-02-11 00:00:00,12:30pm white fleecy transparent clouds that do not obscure the sun or upper strata of clouds moving from w to e south of the zenith. maximum height of the barometer 30.595,mno,casual_phenomena_line_2,199,324061,2774,2649
+8,Ste Anne,America/Montreal,0,1867-02-27 00:00:00,1867-02-27 00:00:00,9:15pm streamers separated by black clouds emitting from the bow,mno,casual_phenomena_line_2,199,324069,2774,2649
+9,Ste Anne,America/Montreal,0,1867-03-02 00:00:00,1867-03-02 00:00:00,12 noon a sudden gale from the west accompanied,mno,casual_phenomena_line_2,199,328411,2798,2651
+10,Ste Anne,America/Montreal,0,1867-04-03 00:00:00,1867-04-03 00:00:00,10am wind sw river clear of ice (below) outside of low water mark. large crumbling sheets of ice still intact between high and low water marks. 4:30pm wind nw,mno,casual_phenomena_line_2,199,324073,2775,2650
+11,Ste Anne,America/Montreal,0,1867-04-04 00:00:00,1867-04-04 00:00:00,ice from above floating down the river. noon wind n,mno,casual_phenomena_line_2,199,324074,2775,2650
+12,Ste Anne,America/Montreal,0,1867-04-07 00:00:00,1867-04-07 00:00:00,the ice on the space between high and low water marks is formed from the rapid freezing of the water left by the ebb tides. this ice forms a perfect and impenetrable barrier to both tide and river and confines the river (within) to its bed at low water. hence the real difficulty of keeping navigation open in winter on the st. lawrence. it is not altogether its cold but the rapidity with which this strong ice forms between  high and low water on a flat coast that causes the scarcity of harbors on its shore which could be permanently kept opened for winter navigation.,mno,casual_phenomena_line_2,199,324076,2775,2650
+13,Ste Anne,America/Montreal,0,1867-04-17 00:00:00,1867-04-17 00:00:00,the late night frosts have much retarded the leafing of trees. a small flock of wild geese was seen flying northward today,mno,casual_phenomena_line_2,199,324084,2775,2650
+14,Ste Anne,America/Montreal,0,1867-04-24 00:00:00,1867-04-24 00:00:00,two years ago it rose 4feet above its usual height and about thirty years ago several feet. but this may be owing to atmospheric causes.,mno,casual_phenomena_line_2,199,324087,2775,2650
+15,Ste Anne,America/Montreal,0,1867-04-27 00:00:00,1867-04-27 00:00:00,6pm wind. nw 5. very cloudy and dark. a blue and light yellow space in the nw horizon. the point from which the wind blows,mno,casual_phenomena_line_2,199,324089,2775,2650
+16,Ste Anne,America/Montreal,0,1867-04-29 00:00:00,1867-04-29 00:00:00,"in the absence of commerce, it may be tolerated but a commercial enterprise would have swept it away a month ago.",mno,casual_phenomena_line_2,199,324090,2775,2650
+17,Ste Anne,America/Montreal,0,1867-04-30 00:00:00,1867-04-30 00:00:00,8am a mist which ceased at 9am,mno,casual_phenomena_line_2,199,324091,2775,2650
+18,Ste Anne,America/Montreal,0,1867-02-16 00:00:00,1867-02-16 00:00:00,the river for four miles from its southern bank is one frozen mass; floating ice in the channel,mno,casual_phenomena,155,324064,2774,2649
+19,Ste Anne,America/Montreal,0,1867-02-17 00:00:00,1867-02-17 00:00:00,6h:15m pm wind ne,mno,casual_phenomena,155,324065,2774,2649
+20,Ste Anne,America/Montreal,0,1867-02-18 00:00:00,1867-02-18 00:00:00,floating ice in the river channel. river a frozen mass for 3miles out into the channel from its south bank,mno,casual_phenomena,155,324066,2774,2649
+21,Ste Anne,America/Montreal,0,1867-02-20 00:00:00,1867-02-20 00:00:00,"a weather dog or bow about 20"" (towards the south point of the horizon) from the sun at rising",mno,casual_phenomena,155,324067,2774,2649
+22,Ste Anne,America/Montreal,0,1867-02-26 00:00:00,1867-02-26 00:00:00,7h10m am a considerable part of the eastern hemisphere is covered by a red sky. the horizon to the north and west on the north side of the river is bounded by a mountain range rising abruptly from the river. and in vanishing (clearing off; this red sky throws a light yellow sulphuric or phosporic shadow on the mountain which no scenic representation of an unearthly visitant can equal  on the stage. it is very interesting to watch the retreating shadow on the snow follow the direction of the cloud,mno,casual_phenomena,155,324068,2774,2649
+23,Ste Anne,America/Montreal,0,1867-02-27 00:00:00,1867-02-27 00:00:00,8h:15m pm an aurora forming a complete (bow) semicircle round the north pole of the horizon,mno,casual_phenomena,155,324069,2774,2649
+24,Ste Anne,America/Montreal,0,1867-02-28 00:00:00,1867-02-28 00:00:00,a stunted (sickly) vegetation sets in next week. the sun in the open air is very hot. the hottest time of the day is formed (12) noon to 1pmand never extends to 2pm here at least in winter,mno,casual_phenomena,155,324070,2774,2649
+25,Ste Anne,America/Montreal,0,1867-03-02 00:00:00,1867-03-02 00:00:00,11am wind w velocity 6 bar 28.87 inches,mno,casual_phenomena,155,328411,2798,2651
+26,Ste Anne,America/Montreal,0,1867-03-05 00:00:00,1867-03-05 00:00:00,observer from home,mno,casual_phenomena,155,328412,2798,2651
+27,Ste Anne,America/Montreal,0,1867-03-06 00:00:00,1867-03-06 00:00:00,observer from home,mno,casual_phenomena,155,328413,2798,2651
+28,Ste Anne,America/Montreal,0,1867-03-07 00:00:00,1867-03-07 00:00:00,observer from home,mno,casual_phenomena,155,328414,2798,2651
+29,Ste Anne,America/Montreal,0,1867-03-08 00:00:00,1867-03-08 00:00:00,observer from home,mno,casual_phenomena,155,328415,2798,2651
+30,Ste Anne,America/Montreal,0,1867-03-11 00:00:00,1867-03-11 00:00:00,noon a very red sky along the north eastern horizon,mno,casual_phenomena,155,328416,2798,2651
+31,Ste Anne,America/Montreal,0,1867-03-14 00:00:00,1867-03-14 00:00:00,8 am clearing off; cir cu 3,mno,casual_phenomena,155,328417,2798,2651
+32,Ste Anne,America/Montreal,0,1867-03-18 00:00:00,1867-03-18 00:00:00,the slow stunted vegetation mentioned in the remark of the 28 of february sets in to day,mno,casual_phenomena,155,328418,2798,2651
+33,Ste Anne,America/Montreal,0,1867-03-21 00:00:00,1867-03-21 00:00:00,ice in the river st. lawrence breaking up. crow begin to return. i saw two day,mno,casual_phenomena,155,328419,2798,2651
+34,Ste Anne,America/Montreal,0,1867-03-23 00:00:00,1867-03-23 00:00:00,large masses of floating ice in the channel. these were detached from the sheet of stationary ice along the s. bank and did not come down the river.,mno,casual_phenomena,155,328420,2798,2651
+35,Ste Anne,America/Montreal,0,1867-03-26 00:00:00,1867-03-26 00:00:00,8:30 pm an aurora borealis,mno,casual_phenomena,155,328421,2798,2651
+36,Ste Anne,America/Montreal,0,1867-03-27 00:00:00,1867-03-27 00:00:00,6 pm wind n,mno,casual_phenomena,155,328422,2798,2651
+37,Ste Anne,America/Montreal,0,1867-03-28 00:00:00,1867-03-28 00:00:00,a great deal of floating ice going slowly down the river,mno,casual_phenomena,155,328423,2798,2651
+38,Ste Anne,America/Montreal,0,1867-03-31 00:00:00,1867-03-31 00:00:00,it froze last night and the night before. river except along the south bank pretty clear of ice.,mno,casual_phenomena,155,328424,2798,2651
+39,Ste Anne,America/Montreal,0,1867-04-01 00:00:00,1867-04-01 00:00:00,frost sank from one foot seven to one foot nine inches only in some places here this year. greatest depth to which frost sinks in the ground is from two feet six to two feet eight inches.,mno,casual_phenomena,155,324071,2775,2650
+40,Ste Anne,America/Montreal,0,1867-04-02 00:00:00,1867-04-02 00:00:00,ice detached from the shore ice is floating down the river,mno,casual_phenomena,155,324072,2775,2650
+41,Ste Anne,America/Montreal,0,1867-04-03 00:00:00,1867-04-03 00:00:00,a quite distined yellow streaked in the sky along the horizon due west from this,mno,casual_phenomena,155,324073,2775,2650
+42,Ste Anne,America/Montreal,0,1867-04-04 00:00:00,1867-04-04 00:00:00,the ground is hard from last night's frost.,mno,casual_phenomena,155,324074,2775,2650
+43,Ste Anne,America/Montreal,0,1867-04-06 00:00:00,1867-04-06 00:00:00,ice from above going down the river this morning,mno,casual_phenomena,155,324075,2775,2650
+44,Ste Anne,America/Montreal,0,1867-04-07 00:00:00,1867-04-07 00:00:00,the only ice remaining in the river here are the large blocks strewn along the shore at high water mark.,mno,casual_phenomena,155,324076,2775,2650
+45,Ste Anne,America/Montreal,0,1867-04-08 00:00:00,1867-04-08 00:00:00,those blocks of ice at high water mark are from 8 to 10 feet high. ice going down the river from above.,mno,casual_phenomena,155,324077,2775,2650
+46,Ste Anne,America/Montreal,0,1867-04-09 00:00:00,1867-04-09 00:00:00,night frosts every night. the river fairly open to navigation from the island of orleans to the gulf but there is no commence and a sail whitens its surface,mno,casual_phenomena,155,324078,2775,2650
+47,Ste Anne,America/Montreal,0,1867-04-10 00:00:00,1867-04-10 00:00:00,10:30pm the wind has changed,mno,casual_phenomena,155,324079,2775,2650
+48,Ste Anne,America/Montreal,0,1867-04-12 00:00:00,1867-04-12 00:00:00,noon wind sw. 6pm wind nw,mno,casual_phenomena,155,324080,2775,2650
+49,Ste Anne,America/Montreal,0,1867-04-14 00:00:00,1867-04-14 00:00:00,6pm sky overcast with clouds. the clouds move from nw to se. long rays of light issuing from a clouded suns surround its upper limb. a yellow streak along the eastern horizon,mno,casual_phenomena,155,324081,2775,2650
+50,Ste Anne,America/Montreal,0,1867-04-15 00:00:00,1867-04-15 00:00:00,4pm clouded with a slow motion of the clouds from w to e. air dry with a apparent moisture,mno,casual_phenomena,155,324082,2775,2650
+51,Ste Anne,America/Montreal,0,1867-04-16 00:00:00,1867-04-16 00:00:00,11am dry fog and exhalation. 7pm fog and clouds clearing off. the air notwithstanding the rain and fog is dry,mno,casual_phenomena,155,324083,2775,2650
+52,Ste Anne,America/Montreal,0,1867-04-17 00:00:00,1867-04-17 00:00:00,wheeled vehicles running. 7am day foggy. noon not so foggy as in the morning. 6pm clouds moving from the ne.,mno,casual_phenomena,155,324084,2775,2650
+53,Ste Anne,America/Montreal,0,1867-04-22 00:00:00,1867-04-22 00:00:00,a strong healthy vegetation sets in. roads nearly impassable,mno,casual_phenomena,155,324085,2775,2650
+54,Ste Anne,America/Montreal,0,1867-04-23 00:00:00,1867-04-23 00:00:00,"buds are beginning to open. 8:30pm a clear streak of blue and a pale yellow sky in the nw horizon with a murky dark cloud across its breadth. from 3:30pm to 6pm, small rain drops falling.",mno,casual_phenomena,155,324086,2775,2650
+55,Ste Anne,America/Montreal,0,1867-04-24 00:00:00,1867-04-24 00:00:00,neap tides rise 8 feet and spring tides about 16feet here. freshets have no perceptible influence on the (height) depth of water in the river at this place. it perhaps overlows a portion of the valley three or four times in a century to a greater extent than usual.,mno,casual_phenomena,155,324087,2775,2650
+56,Ste Anne,America/Montreal,0,1867-04-25 00:00:00,1867-04-25 00:00:00,high well drained lands fit for ploughing. a red sky in the west after sunset . the snow this morning disappeared as fast as it fell 8pm. an auroral arch with its west and brighter than its east end,mno,casual_phenomena,155,324088,2775,2650
+57,Ste Anne,America/Montreal,0,1867-04-27 00:00:00,1867-04-27 00:00:00,noon clouds high and move from w to e. south of the zenith,mno,casual_phenomena,155,324089,2775,2650
+58,Ste Anne,America/Montreal,0,1867-04-29 00:00:00,1867-04-29 00:00:00,through navigation is now opened for nearly the last three weeks but one vessel has passed this place from below. the ice bridge at quebec which has been kept from breaking up by carefully closing [ruts] and air holes in it and watering. the crumbling ice particles at night becomes at length a nuisance and a real impediment to navigation.,mno,casual_phenomena,155,324090,2775,2650
+59,Ste Anne,America/Montreal,0,1867-04-30 00:00:00,1867-04-30 00:00:00,trees have not put forth their leaves. frost in wet lowlands only remains still in the ground. the snow is nearly all gone. the roads are not wholly passable but are becoming drier.,mno,casual_phenomena,155,324091,2775,2650
+60,Ste Anne,America/Montreal,0,1867-01-09 21:00:00,1867-01-09 21:00:00,4,Sm,wind_force_9pm,110,323384,2768,2648
+61,Ste Anne,America/Montreal,0,1867-01-10 21:00:00,1867-01-10 21:00:00,3,Sm,wind_force_9pm,110,323383,2768,2648
+62,Ste Anne,America/Montreal,0,1867-01-11 21:00:00,1867-01-11 21:00:00,3,Sm,wind_force_9pm,110,323382,2768,2648
+63,Ste Anne,America/Montreal,0,1867-01-12 21:00:00,1867-01-12 21:00:00,3,Sm,wind_force_9pm,110,323381,2768,2648
+64,Ste Anne,America/Montreal,0,1867-01-13 21:00:00,1867-01-13 21:00:00,2,Sm,wind_force_9pm,110,323380,2768,2648
+65,Ste Anne,America/Montreal,0,1867-01-14 21:00:00,1867-01-14 21:00:00,5,Sm,wind_force_9pm,110,323379,2768,2648
+66,Ste Anne,America/Montreal,0,1867-01-15 21:00:00,1867-01-15 21:00:00,4,Sm,wind_force_9pm,110,323378,2768,2648
+67,Ste Anne,America/Montreal,0,1867-01-16 21:00:00,1867-01-16 21:00:00,3,Sm,wind_force_9pm,110,323377,2768,2648
+68,Ste Anne,America/Montreal,0,1867-01-17 21:00:00,1867-01-17 21:00:00,4,Sm,wind_force_9pm,110,323376,2768,2648
+69,Ste Anne,America/Montreal,0,1867-01-18 21:00:00,1867-01-18 21:00:00,5,Sm,wind_force_9pm,110,323375,2768,2648
+70,Ste Anne,America/Montreal,0,1867-01-19 21:00:00,1867-01-19 21:00:00,4,Sm,wind_force_9pm,110,323374,2768,2648
+71,Ste Anne,America/Montreal,0,1867-01-20 21:00:00,1867-01-20 21:00:00,3,Sm,wind_force_9pm,110,323373,2768,2648
+72,Ste Anne,America/Montreal,0,1867-01-21 21:00:00,1867-01-21 21:00:00,3,Sm,wind_force_9pm,110,323372,2768,2648
+73,Ste Anne,America/Montreal,0,1867-01-22 21:00:00,1867-01-22 21:00:00,5,Sm,wind_force_9pm,110,323371,2768,2648
+74,Ste Anne,America/Montreal,0,1867-01-23 21:00:00,1867-01-23 21:00:00,4,Sm,wind_force_9pm,110,323370,2768,2648
+75,Ste Anne,America/Montreal,0,1867-01-24 21:00:00,1867-01-24 21:00:00,2,Sm,wind_force_9pm,110,323369,2768,2648
+76,Ste Anne,America/Montreal,0,1867-01-25 21:00:00,1867-01-25 21:00:00,3,Sm,wind_force_9pm,110,323368,2768,2648
+77,Ste Anne,America/Montreal,0,1867-01-26 21:00:00,1867-01-26 21:00:00,4,Sm,wind_force_9pm,110,323367,2768,2648
+78,Ste Anne,America/Montreal,0,1867-01-27 21:00:00,1867-01-27 21:00:00,1,Sm,wind_force_9pm,110,323366,2768,2648
+79,Ste Anne,America/Montreal,0,1867-01-28 21:00:00,1867-01-28 21:00:00,2,Sm,wind_force_9pm,110,323365,2768,2648
+80,Ste Anne,America/Montreal,0,1867-01-29 21:00:00,1867-01-29 21:00:00,4,Sm,wind_force_9pm,110,323364,2768,2648
+81,Ste Anne,America/Montreal,0,1867-01-30 21:00:00,1867-01-30 21:00:00,4,Sm,wind_force_9pm,110,323363,2768,2648
+82,Ste Anne,America/Montreal,0,1867-01-31 21:00:00,1867-01-31 21:00:00,3,Sm,wind_force_9pm,110,323362,2768,2648
+83,Ste Anne,America/Montreal,0,1867-02-01 21:00:00,1867-02-01 21:00:00,4,Sm,wind_force_9pm,110,323548,2769,2652
+84,Ste Anne,America/Montreal,0,1867-02-02 21:00:00,1867-02-02 21:00:00,2,Sm,wind_force_9pm,110,323547,2769,2652
+85,Ste Anne,America/Montreal,0,1867-02-03 21:00:00,1867-02-03 21:00:00,3,Sm,wind_force_9pm,110,323546,2769,2652
+86,Ste Anne,America/Montreal,0,1867-02-04 21:00:00,1867-02-04 21:00:00,2,Sm,wind_force_9pm,110,323545,2769,2652
+87,Ste Anne,America/Montreal,0,1867-02-05 21:00:00,1867-02-05 21:00:00,4,Sm,wind_force_9pm,110,323544,2769,2652
+88,Ste Anne,America/Montreal,0,1867-02-06 21:00:00,1867-02-06 21:00:00,2,Sm,wind_force_9pm,110,323543,2769,2652
+89,Ste Anne,America/Montreal,0,1867-02-07 21:00:00,1867-02-07 21:00:00,4,Sm,wind_force_9pm,110,323542,2769,2652
+90,Ste Anne,America/Montreal,0,1867-02-08 21:00:00,1867-02-08 21:00:00,3,Sm,wind_force_9pm,110,323541,2769,2652
+91,Ste Anne,America/Montreal,0,1867-02-09 21:00:00,1867-02-09 21:00:00,3,Sm,wind_force_9pm,110,323540,2769,2652
+92,Ste Anne,America/Montreal,0,1867-02-10 21:00:00,1867-02-10 21:00:00,4,Sm,wind_force_9pm,110,323539,2769,2652
+93,Ste Anne,America/Montreal,0,1867-02-11 21:00:00,1867-02-11 21:00:00,3,Sm,wind_force_9pm,110,323538,2769,2652
+94,Ste Anne,America/Montreal,0,1867-02-12 21:00:00,1867-02-12 21:00:00,2,Sm,wind_force_9pm,110,323537,2769,2652
+95,Ste Anne,America/Montreal,0,1867-02-13 21:00:00,1867-02-13 21:00:00,2,Sm,wind_force_9pm,110,323536,2769,2652
+96,Ste Anne,America/Montreal,0,1867-02-14 21:00:00,1867-02-14 21:00:00,3,Sm,wind_force_9pm,110,323535,2769,2652
+97,Ste Anne,America/Montreal,0,1867-02-15 21:00:00,1867-02-15 21:00:00,2,Sm,wind_force_9pm,110,323534,2769,2652
+98,Ste Anne,America/Montreal,0,1867-02-16 21:00:00,1867-02-16 21:00:00,2,Sm,wind_force_9pm,110,323533,2769,2652
+99,Ste Anne,America/Montreal,0,1867-02-17 21:00:00,1867-02-17 21:00:00,6,Sm,wind_force_9pm,110,323532,2769,2652
+100,Ste Anne,America/Montreal,0,1867-02-18 21:00:00,1867-02-18 21:00:00,3,Sm,wind_force_9pm,110,323531,2769,2652
+101,Ste Anne,America/Montreal,0,1867-02-19 21:00:00,1867-02-19 21:00:00,5,Sm,wind_force_9pm,110,323530,2769,2652
+102,Ste Anne,America/Montreal,0,1867-02-20 21:00:00,1867-02-20 21:00:00,2,Sm,wind_force_9pm,110,323529,2769,2652
+103,Ste Anne,America/Montreal,0,1867-02-21 21:00:00,1867-02-21 21:00:00,3,Sm,wind_force_9pm,110,323528,2769,2652
+104,Ste Anne,America/Montreal,0,1867-02-22 21:00:00,1867-02-22 21:00:00,3,Sm,wind_force_9pm,110,323527,2769,2652
+105,Ste Anne,America/Montreal,0,1867-02-23 21:00:00,1867-02-23 21:00:00,2,Sm,wind_force_9pm,110,323526,2769,2652
+106,Ste Anne,America/Montreal,0,1867-02-24 21:00:00,1867-02-24 21:00:00,4,Sm,wind_force_9pm,110,323525,2769,2652
+107,Ste Anne,America/Montreal,0,1867-02-25 21:00:00,1867-02-25 21:00:00,3,Sm,wind_force_9pm,110,323524,2769,2652
+108,Ste Anne,America/Montreal,0,1867-02-26 21:00:00,1867-02-26 21:00:00,3,Sm,wind_force_9pm,110,323523,2769,2652
+109,Ste Anne,America/Montreal,0,1867-02-27 21:00:00,1867-02-27 21:00:00,3,Sm,wind_force_9pm,110,323522,2769,2652
+110,Ste Anne,America/Montreal,0,1867-02-28 21:00:00,1867-02-28 21:00:00,2,Sm,wind_force_9pm,110,323521,2769,2652
+111,Ste Anne,America/Montreal,0,1867-03-01 21:00:00,1867-03-01 21:00:00,2,Sm,wind_force_9pm,110,323880,2771,2653
+112,Ste Anne,America/Montreal,0,1867-03-02 21:00:00,1867-03-02 21:00:00,4,Sm,wind_force_9pm,110,323879,2771,2653
+113,Ste Anne,America/Montreal,0,1867-03-03 21:00:00,1867-03-03 21:00:00,3,Sm,wind_force_9pm,110,323878,2771,2653
+114,Ste Anne,America/Montreal,0,1867-03-04 21:00:00,1867-03-04 21:00:00,2,Sm,wind_force_9pm,110,323877,2771,2653
+115,Ste Anne,America/Montreal,0,1867-03-09 21:00:00,1867-03-09 21:00:00,3,Sm,wind_force_9pm,110,323875,2771,2653
+116,Ste Anne,America/Montreal,0,1867-03-10 21:00:00,1867-03-10 21:00:00,4,Sm,wind_force_9pm,110,323874,2771,2653
+117,Ste Anne,America/Montreal,0,1867-03-11 21:00:00,1867-03-11 21:00:00,2,Sm,wind_force_9pm,110,323873,2771,2653
+118,Ste Anne,America/Montreal,0,1867-03-12 21:00:00,1867-03-12 21:00:00,3,Sm,wind_force_9pm,110,323872,2771,2653
+119,Ste Anne,America/Montreal,0,1867-03-13 21:00:00,1867-03-13 21:00:00,2,Sm,wind_force_9pm,110,323871,2771,2653
+120,Ste Anne,America/Montreal,0,1867-03-14 21:00:00,1867-03-14 21:00:00,5,Sm,wind_force_9pm,110,323870,2771,2653
+121,Ste Anne,America/Montreal,0,1867-03-15 21:00:00,1867-03-15 21:00:00,3,Sm,wind_force_9pm,110,323869,2771,2653
+122,Ste Anne,America/Montreal,0,1867-03-16 21:00:00,1867-03-16 21:00:00,3,Sm,wind_force_9pm,110,323868,2771,2653
+123,Ste Anne,America/Montreal,0,1867-03-17 21:00:00,1867-03-17 21:00:00,3,Sm,wind_force_9pm,110,323867,2771,2653
+124,Ste Anne,America/Montreal,0,1867-03-18 21:00:00,1867-03-18 21:00:00,3,Sm,wind_force_9pm,110,323866,2771,2653
+125,Ste Anne,America/Montreal,0,1867-03-19 21:00:00,1867-03-19 21:00:00,3,Sm,wind_force_9pm,110,323865,2771,2653
+126,Ste Anne,America/Montreal,0,1867-03-20 21:00:00,1867-03-20 21:00:00,3,Sm,wind_force_9pm,110,323864,2771,2653
+127,Ste Anne,America/Montreal,0,1867-03-21 21:00:00,1867-03-21 21:00:00,3,Sm,wind_force_9pm,110,323863,2771,2653
+128,Ste Anne,America/Montreal,0,1867-03-22 21:00:00,1867-03-22 21:00:00,3,Sm,wind_force_9pm,110,323862,2771,2653
+129,Ste Anne,America/Montreal,0,1867-03-23 21:00:00,1867-03-23 21:00:00,1,Sm,wind_force_9pm,110,323861,2771,2653
+130,Ste Anne,America/Montreal,0,1867-03-24 21:00:00,1867-03-24 21:00:00,1,Sm,wind_force_9pm,110,323860,2771,2653
+131,Ste Anne,America/Montreal,0,1867-03-25 21:00:00,1867-03-25 21:00:00,1,Sm,wind_force_9pm,110,323859,2771,2653
+132,Ste Anne,America/Montreal,0,1867-03-26 21:00:00,1867-03-26 21:00:00,2,Sm,wind_force_9pm,110,323858,2771,2653
+133,Ste Anne,America/Montreal,0,1867-03-27 21:00:00,1867-03-27 21:00:00,3,Sm,wind_force_9pm,110,323857,2771,2653
+134,Ste Anne,America/Montreal,0,1867-03-28 21:00:00,1867-03-28 21:00:00,2,Sm,wind_force_9pm,110,323856,2771,2653
+135,Ste Anne,America/Montreal,0,1867-03-29 21:00:00,1867-03-29 21:00:00,3,Sm,wind_force_9pm,110,323855,2771,2653
+136,Ste Anne,America/Montreal,0,1867-03-30 21:00:00,1867-03-30 21:00:00,4,Sm,wind_force_9pm,110,323854,2771,2653
+137,Ste Anne,America/Montreal,0,1867-03-31 21:00:00,1867-03-31 21:00:00,2,Sm,wind_force_9pm,110,323853,2771,2653
+138,Ste Anne,America/Montreal,0,1867-04-01 21:00:00,1867-04-01 21:00:00,3,Sm,wind_force_9pm,110,324050,2772,2654
+139,Ste Anne,America/Montreal,0,1867-04-02 21:00:00,1867-04-02 21:00:00,4,Sm,wind_force_9pm,110,324049,2772,2654
+140,Ste Anne,America/Montreal,0,1867-04-03 21:00:00,1867-04-03 21:00:00,2,Sm,wind_force_9pm,110,324048,2772,2654
+141,Ste Anne,America/Montreal,0,1867-04-04 21:00:00,1867-04-04 21:00:00,2,Sm,wind_force_9pm,110,324047,2772,2654
+142,Ste Anne,America/Montreal,0,1867-04-05 21:00:00,1867-04-05 21:00:00,4,Sm,wind_force_9pm,110,324046,2772,2654
+143,Ste Anne,America/Montreal,0,1867-04-06 21:00:00,1867-04-06 21:00:00,2,Sm,wind_force_9pm,110,324045,2772,2654
+144,Ste Anne,America/Montreal,0,1867-04-07 21:00:00,1867-04-07 21:00:00,2,Sm,wind_force_9pm,110,324044,2772,2654
+145,Ste Anne,America/Montreal,0,1867-04-08 21:00:00,1867-04-08 21:00:00,3,Sm,wind_force_9pm,110,324043,2772,2654
+146,Ste Anne,America/Montreal,0,1867-04-09 21:00:00,1867-04-09 21:00:00,4,Sm,wind_force_9pm,110,324042,2772,2654
+147,Ste Anne,America/Montreal,0,1867-04-10 21:00:00,1867-04-10 21:00:00,3,Sm,wind_force_9pm,110,324041,2772,2654
+148,Ste Anne,America/Montreal,0,1867-04-11 21:00:00,1867-04-11 21:00:00,4,Sm,wind_force_9pm,110,324040,2772,2654
+149,Ste Anne,America/Montreal,0,1867-04-12 21:00:00,1867-04-12 21:00:00,3,Sm,wind_force_9pm,110,324039,2772,2654
+150,Ste Anne,America/Montreal,0,1867-04-13 21:00:00,1867-04-13 21:00:00,2,Sm,wind_force_9pm,110,324038,2772,2654
+151,Ste Anne,America/Montreal,0,1867-04-14 21:00:00,1867-04-14 21:00:00,2,Sm,wind_force_9pm,110,324037,2772,2654
+152,Ste Anne,America/Montreal,0,1867-04-15 21:00:00,1867-04-15 21:00:00,2,Sm,wind_force_9pm,110,324036,2772,2654
+153,Ste Anne,America/Montreal,0,1867-04-16 21:00:00,1867-04-16 21:00:00,2,Sm,wind_force_9pm,110,324035,2772,2654
+154,Ste Anne,America/Montreal,0,1867-04-17 21:00:00,1867-04-17 21:00:00,4,Sm,wind_force_9pm,110,324034,2772,2654
+155,Ste Anne,America/Montreal,0,1867-04-18 21:00:00,1867-04-18 21:00:00,4,Sm,wind_force_9pm,110,324033,2772,2654
+156,Ste Anne,America/Montreal,0,1867-04-19 21:00:00,1867-04-19 21:00:00,3,Sm,wind_force_9pm,110,324032,2772,2654
+157,Ste Anne,America/Montreal,0,1867-04-20 21:00:00,1867-04-20 21:00:00,4,Sm,wind_force_9pm,110,324031,2772,2654
+158,Ste Anne,America/Montreal,0,1867-04-21 21:00:00,1867-04-21 21:00:00,4,Sm,wind_force_9pm,110,324030,2772,2654
+159,Ste Anne,America/Montreal,0,1867-04-22 21:00:00,1867-04-22 21:00:00,4,Sm,wind_force_9pm,110,324029,2772,2654
+160,Ste Anne,America/Montreal,0,1867-04-23 21:00:00,1867-04-23 21:00:00,3,Sm,wind_force_9pm,110,324028,2772,2654
+161,Ste Anne,America/Montreal,0,1867-04-24 21:00:00,1867-04-24 21:00:00,2,Sm,wind_force_9pm,110,324027,2772,2654
+162,Ste Anne,America/Montreal,0,1867-04-25 21:00:00,1867-04-25 21:00:00,3,Sm,wind_force_9pm,110,324026,2772,2654
+163,Ste Anne,America/Montreal,0,1867-04-26 21:00:00,1867-04-26 21:00:00,2,Sm,wind_force_9pm,110,324025,2772,2654
+164,Ste Anne,America/Montreal,0,1867-04-27 21:00:00,1867-04-27 21:00:00,5,Sm,wind_force_9pm,110,324024,2772,2654
+165,Ste Anne,America/Montreal,0,1867-04-28 21:00:00,1867-04-28 21:00:00,3,Sm,wind_force_9pm,110,324023,2772,2654
+166,Ste Anne,America/Montreal,0,1867-04-29 21:00:00,1867-04-29 21:00:00,3,Sm,wind_force_9pm,110,324022,2772,2654
+167,Ste Anne,America/Montreal,0,1867-04-30 21:00:00,1867-04-30 21:00:00,3,Sm,wind_force_9pm,110,324021,2772,2654
+168,Ste Anne,America/Montreal,0,1867-04-30 07:00:00,1867-04-30 07:00:00,3,Sm,wind_force_7am,108,324021,2772,2654
+169,Ste Anne,America/Montreal,0,1867-04-30 21:00:00,1867-04-30 21:00:00,29.634,inHg,barometer_corrected_9pm,93,323638,2770,2655
+170,Ste Anne,America/Montreal,0,1867-04-28 21:00:00,1867-04-28 21:00:00,30.035,inHg,barometer_9pm,87,323576,2770,2655
+171,Ste Anne,America/Montreal,0,1867-04-29 21:00:00,1867-04-29 21:00:00,29.850,inHg,barometer_9pm,87,323577,2770,2655
+172,Ste Anne,America/Montreal,0,1867-04-30 21:00:00,1867-04-30 21:00:00,29.740,inHg,barometer_9pm,87,323578,2770,2655
