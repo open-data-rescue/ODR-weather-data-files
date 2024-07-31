@@ -1,0 +1,554 @@
+,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
+1,Fort Rae,America/Yellowknife,0,1859-11-01 00:00:00,1859-11-01 00:00:00,"29th late aurora, faint",mno,casual_phenomena_line_5,202,289453,2537,2420
+2,Fort Rae,America/Yellowknife,0,1861-12-18 00:00:00,1861-12-18 00:00:00,very light breeze from southwest.,mno,casual_phenomena_line_4,201,289483,2540,2428
+3,Fort Rae,America/Yellowknife,0,1861-11-08 00:00:00,1861-11-08 00:00:00,lower arch same coloured but very faint,mno,casual_phenomena_line_3,200,289468,2539,2427
+4,Fort Rae,America/Yellowknife,0,1861-11-30 00:00:00,1861-11-30 00:00:00,the cold fallen considerably,mno,casual_phenomena_line_3,200,289474,2539,2427
+5,Fort Rae,America/Yellowknife,0,1861-12-18 00:00:00,1861-12-18 00:00:00,"at 10 pm calm and light fleecy clouds all over the horizon, passing southward",mno,casual_phenomena_line_3,200,289483,2540,2428
+6,Fort Rae,America/Yellowknife,0,1861-12-20 00:00:00,1861-12-20 00:00:00,courses of higher clouds south east,mno,casual_phenomena_line_3,200,289484,2540,2428
+7,Fort Rae,America/Yellowknife,0,1862-02-08 00:00:00,1862-02-08 00:00:00,"night beautifully mild, the whole sky mottled over with white fleecy clouds separated by narrow streaks of blue",mno,casual_phenomena_line_3,200,289498,2541,2434
+8,Fort Rae,America/Yellowknife,0,1862-02-18 00:00:00,1862-02-18 00:00:00,motion to s,mno,casual_phenomena_line_3,200,291806,2541,2434
+9,Fort Rae,America/Yellowknife,0,1863-03-24 00:00:00,1863-03-24 00:00:00,(illegible words) the west (?),mno,casual_phenomena_line_3,200,296485,2613,2508
+10,Fort Rae,America/Yellowknife,0,1861-12-12 00:00:00,1861-12-12 00:00:00,a halo round the moon,mno,casual_phenomena_line_2,199,289481,2540,2428
+11,Fort Rae,America/Yellowknife,0,1861-12-18 00:00:00,1861-12-18 00:00:00,"at 9pm, wind changed",mno,casual_phenomena_line_2,199,289483,2540,2428
+12,Fort Rae,America/Yellowknife,0,1861-12-20 00:00:00,1861-12-20 00:00:00,wind still from southwest,mno,casual_phenomena_line_2,199,289484,2540,2428
+13,Fort Rae,America/Yellowknife,0,1861-12-27 00:00:00,1861-12-27 00:00:00,"a shooting star on the east side of the great bear, very near it.",mno,casual_phenomena_line_2,199,289486,2540,2428
+14,Fort Rae,America/Yellowknife,0,1861-12-30 00:00:00,1861-12-30 00:00:00,south east  from the same piercingly cold,mno,casual_phenomena_line_2,199,289487,2540,2428
+15,Fort Rae,America/Yellowknife,0,1861-12-31 00:00:00,1861-12-31 00:00:00,aurora last night at 10 1/2 but faint & pale colour,mno,casual_phenomena_line_2,199,289489,2540,2428
+16,Fort Rae,America/Yellowknife,0,1862-01-30 00:00:00,1862-01-30 00:00:00,the motion very quick and the whole making the morning so clear that i was first under the impression that it was moonlight,mno,casual_phenomena_line_2,199,288930,2530,2431
+17,Fort Rae,America/Yellowknife,0,1862-02-07 00:00:00,1862-02-07 00:00:00,the snow blown so violently as to render every thing indistinct a dozen paces off,mno,casual_phenomena_line_2,199,289497,2541,2434
+18,Fort Rae,America/Yellowknife,0,1862-02-08 00:00:00,1862-02-08 00:00:00,now drifts as high as the house seen in all directions,mno,casual_phenomena_line_2,199,289498,2541,2434
+19,Fort Rae,America/Yellowknife,0,1862-02-09 00:00:00,1862-02-09 00:00:00,"quadruple arch with a few streamers at north, and, towering n to s arch & motion indistinct",mno,casual_phenomena_line_2,199,289499,2541,2434
+20,Fort Rae,America/Yellowknife,0,1862-02-12 00:00:00,1862-02-12 00:00:00,"streamers only motion only perceptible, colours pale green, yellow and faint in direction from n to east.",mno,casual_phenomena_line_2,199,291799,2541,2434
+21,Fort Rae,America/Yellowknife,0,1862-02-18 00:00:00,1862-02-18 00:00:00,"colors strong - green, pale yellow & light green",mno,casual_phenomena_line_2,199,291806,2541,2434
+22,Fort Rae,America/Yellowknife,0,1862-02-20 00:00:00,1862-02-20 00:00:00,"colors strong - green, pale yellow & light green",mno,casual_phenomena_line_2,199,291808,2541,2434
+23,Fort Rae,America/Yellowknife,0,1862-02-28 00:00:00,1862-02-28 00:00:00,no streamers,mno,casual_phenomena_line_2,199,291812,2541,2434
+24,Fort Rae,America/Yellowknife,0,1862-06-15 00:00:00,1862-06-15 00:00:00,as i leave here tomorrow this register must now end --,mno,casual_phenomena_line_2,199,289446,2534,2439
+25,Fort Rae,America/Yellowknife,0,1862-10-13 00:00:00,1862-10-13 00:00:00,"11 3/4 [11:45]pm the arch entirely gone: and streamers of varied beauty and diversified colours covered the eastern face of the horizon, this lasted for say half an hour, when the emanations suddenly disappeared, leaving faint greenish streaks patterning the horizon from the zenith northwards",mno,casual_phenomena_line_2,199,290239,2548,2446
+26,Fort Rae,America/Yellowknife,0,1862-11-18 00:00:00,1862-11-18 00:00:00,"about 4pm the storm very violent and impossible to see an object 20 feet off from  the density of snow in the atmosphere. at this time every object invisible, the ground, the atmosphere, the [illegible, reads: interior?] of the horizon even a beautiful  [illegible, reads: vined] vermilion color, very pleasing to the eye; caused i suppose by the sea or  acting from behind the snow [illegible, reads: drift?] heavens! 10pm aurora visible in the form of an hazy arch, trailing from west to se, right across the zenith; at the se  extremity a few patches of white,  [illegible, reads nada?] in below; the horn of the arch - blowing frsh n [illegible, reads 'hu', or 'th'?] ice making a great sunrise",mno,casual_phenomena_line_2,199,296495,2612,2504
+27,Fort Rae,America/Yellowknife,0,1862-12-25 00:00:00,1862-12-25 00:00:00,"from this date to the end of the month aurora was seen every night with moon in [illegible, reads: lies?] brilliantly.",mno,casual_phenomena_line_2,199,293709,2579,2505
+28,Fort Rae,America/Yellowknife,0,1863-03-06 00:00:00,1863-03-06 00:00:00,much brighter at its northern side,mno,casual_phenomena_line_2,199,296475,2613,2508
+29,Fort Rae,America/Yellowknife,0,1863-03-11 00:00:00,1863-03-11 00:00:00,leaping over the (illegible) (illegible) of a (illegible) shape in three places,mno,casual_phenomena_line_2,199,296478,2613,2508
+30,Fort Rae,America/Yellowknife,0,1863-03-15 00:00:00,1863-03-15 00:00:00,some connections in the west,mno,casual_phenomena_line_2,199,296479,2613,2508
+31,Fort Rae,America/Yellowknife,0,1863-03-17 00:00:00,1863-03-17 00:00:00,very bright and stationary for night (?) time,mno,casual_phenomena_line_2,199,296480,2613,2508
+32,Fort Rae,America/Yellowknife,0,1863-03-18 00:00:00,1863-03-18 00:00:00,corruscations in the (illegible) w-,mno,casual_phenomena_line_2,199,296482,2613,2508
+33,Fort Rae,America/Yellowknife,0,1863-03-23 00:00:00,1863-03-23 00:00:00,illegible,mno,casual_phenomena_line_2,199,296483,2613,2508
+34,Fort Rae,America/Yellowknife,0,1863-03-24 00:00:00,1863-03-24 00:00:00,during the month (illegible),mno,casual_phenomena_line_2,199,296485,2613,2508
+35,Fort Rae,America/Yellowknife,0,1863-06-17 00:00:00,1863-06-17 00:00:00,i here end my observations.,mno,casual_phenomena_line_2,199,294856,2593,2514
+36,Fort Rae,America/Yellowknife,0,1861-11-16 00:00:00,1861-11-16 00:00:00,"aurora last night, colourless, arching from the east towards the north",mno,casual_phenomena,155,289470,2539,2427
+37,Fort Rae,America/Yellowknife,0,1861-11-19 00:00:00,1861-11-19 00:00:00,"halo round the moon last night 10 pm, pale yellow colour",mno,casual_phenomena,155,289471,2539,2427
+38,Fort Rae,America/Yellowknife,0,1861-11-24 00:00:00,1861-11-24 00:00:00,the wind turned northward last night at 10 pm and blew a violent gale all night,mno,casual_phenomena,155,289472,2539,2427
+39,Fort Rae,America/Yellowknife,0,1861-11-25 00:00:00,1861-11-25 00:00:00,snowing and drifting all day,mno,casual_phenomena,155,289473,2539,2427
+40,Fort Rae,America/Yellowknife,0,1861-11-30 00:00:00,1861-11-30 00:00:00,"the thermometer the same as yesterday, but the cold much more severe",mno,casual_phenomena,155,289474,2539,2427
+41,Fort Rae,America/Yellowknife,0,1861-12-02 00:00:00,1861-12-02 00:00:00,"aurora is a double arch from se to nw, lower arch with streamers, pale colour",mno,casual_phenomena,155,289476,2540,2428
+42,Fort Rae,America/Yellowknife,0,1861-12-03 00:00:00,1861-12-03 00:00:00,"at half past nine pm two shooting stars on the north side of the great bear, at no great distance",mno,casual_phenomena,155,289477,2540,2428
+43,Fort Rae,America/Yellowknife,0,1861-12-07 00:00:00,1861-12-07 00:00:00,"aurora commenced last evening at 9 pm, spread all over the horizon at 10 pm",mno,casual_phenomena,155,289478,2540,2428
+44,Fort Rae,America/Yellowknife,0,1861-12-09 00:00:00,1861-12-09 00:00:00,aurora at 10 pm last night over all the horizon but faint and colourless,mno,casual_phenomena,155,289479,2540,2428
+45,Fort Rae,America/Yellowknife,0,1861-12-10 00:00:00,1861-12-10 00:00:00,aurora same as last night,mno,casual_phenomena,155,289480,2540,2428
+46,Fort Rae,America/Yellowknife,0,1861-12-12 00:00:00,1861-12-12 00:00:00,"blowing and drifting from 10 pm last night, a violent gale",mno,casual_phenomena,155,289481,2540,2428
+47,Fort Rae,America/Yellowknife,0,1861-12-13 00:00:00,1861-12-13 00:00:00,"halo round the moon last night, colours light green to purple",mno,casual_phenomena,155,289482,2540,2428
+48,Fort Rae,America/Yellowknife,0,1861-12-18 00:00:00,1861-12-18 00:00:00,"the north wind piercingly cold today, although not blowing strong",mno,casual_phenomena,155,289483,2540,2428
+49,Fort Rae,America/Yellowknife,0,1861-12-20 00:00:00,1861-12-20 00:00:00,"heavy (illegible) at 10 pm last night, cleared up at 10 1/2",mno,casual_phenomena,155,289484,2540,2428
+50,Fort Rae,America/Yellowknife,0,1861-12-22 00:00:00,1861-12-22 00:00:00,aurora at 10 pm yesterday evening spread here and there over the horizon but faint and colourless,mno,casual_phenomena,155,289485,2540,2428
+51,Fort Rae,America/Yellowknife,0,1861-12-27 00:00:00,1861-12-27 00:00:00,9 pm clear starry night,mno,casual_phenomena,155,289486,2540,2428
+52,Fort Rae,America/Yellowknife,0,1861-12-30 00:00:00,1861-12-30 00:00:00,"aurora at 10 in the evening from north west to south east, pale colour",mno,casual_phenomena,155,289487,2540,2428
+53,Fort Rae,America/Yellowknife,0,1861-12-31 00:00:00,1861-12-31 00:00:00,blowing and drifting violently all day,mno,casual_phenomena,155,289489,2540,2428
+54,Fort Rae,America/Yellowknife,0,1862-01-04 00:00:00,1862-01-04 00:00:00,snowed very lightly last night,mno,casual_phenomena,155,288914,2530,2431
+55,Fort Rae,America/Yellowknife,0,1862-01-05 00:00:00,1862-01-05 00:00:00,"aurora at 11[pm] last night of every variety of form, all over the horizon, colour from purples to pale green",mno,casual_phenomena,155,288915,2530,2431
+56,Fort Rae,America/Yellowknife,0,1862-01-06 00:00:00,1862-01-06 00:00:00,"blowing and drifting all day, very cold north wind",mno,casual_phenomena,155,288916,2530,2431
+57,Fort Rae,America/Yellowknife,0,1862-01-08 00:00:00,1862-01-08 00:00:00,"aurora at 10 1/2 [10:30]pm last night, from north to south-east, but very faint.",mno,casual_phenomena,155,288917,2530,2431
+58,Fort Rae,America/Yellowknife,0,1862-01-11 00:00:00,1862-01-11 00:00:00,"halo around the moon last night. pale colour, and very large",mno,casual_phenomena,155,288918,2530,2431
+59,Fort Rae,America/Yellowknife,0,1862-01-12 00:00:00,1862-01-12 00:00:00,"aurora in se [word unclear, reads: angling] lines over the horizon at 10pm last night. a rainbow today to the east side of the sun at 10am. light fleecy clouds to the west sides. north wind very sharp and cold all day",mno,casual_phenomena,155,288919,2530,2431
+60,Fort Rae,America/Yellowknife,0,1862-01-13 00:00:00,1862-01-13 00:00:00,large halo around the moon last night at 10pm,mno,casual_phenomena,155,288920,2530,2431
+61,Fort Rae,America/Yellowknife,0,1862-01-21 00:00:00,1862-01-21 00:00:00,"aurora very clear and brilliant. arch very well defined. streamers numerous colours, pale green, yellow and red",mno,casual_phenomena,155,288921,2530,2431
+62,Fort Rae,America/Yellowknife,0,1862-01-22 00:00:00,1862-01-22 00:00:00,"aurora very clear and brilliant. arch very well defined. streamers numerous colours, pale green, yellow and red",mno,casual_phenomena,155,288922,2530,2431
+63,Fort Rae,America/Yellowknife,0,1862-01-23 00:00:00,1862-01-23 00:00:00,"aurora very clear and brilliant. arch very well defined. streamers numerous colours, pale green, yellow and red",mno,casual_phenomena,155,288923,2530,2431
+64,Fort Rae,America/Yellowknife,0,1862-01-24 00:00:00,1862-01-24 00:00:00,"11pm aurora from west to east a broad arch. streamers faint and a stivered colour, dull leanen gray",mno,casual_phenomena,155,288924,2530,2431
+65,Fort Rae,America/Yellowknife,0,1862-01-25 00:00:00,1862-01-25 00:00:00,10pm aurora all over the horizon - colour varied and motion great,mno,casual_phenomena,155,288925,2530,2431
+66,Fort Rae,America/Yellowknife,0,1862-01-26 00:00:00,1862-01-26 00:00:00,during the night blew a fierce gale from the east,mno,casual_phenomena,155,288926,2530,2431
+67,Fort Rae,America/Yellowknife,0,1862-01-28 00:00:00,1862-01-28 00:00:00,11pm aurora faint streakes seen in the weather,mno,casual_phenomena,155,288927,2530,2431
+68,Fort Rae,America/Yellowknife,0,1862-01-29 00:00:00,1862-01-29 00:00:00,10pm aurora a narrow broken arc from the zenith trending siuthward,mno,casual_phenomena,155,288928,2530,2431
+69,Fort Rae,America/Yellowknife,0,1862-01-30 00:00:00,1862-01-30 00:00:00,"4am - aurora all over the heavens. very beautiful and of shapes the most diversified. the colours green, yellow, red and orange; yellow prodominant.",mno,casual_phenomena,155,288930,2530,2431
+70,Fort Rae,America/Yellowknife,0,1862-01-31 00:00:00,1862-01-31 00:00:00,9pm aurora - a very low broad arc - from east to north - a very narrow streak cropping up west to east forming at the base of the arch a broken biangle - no streamers,mno,casual_phenomena,155,288931,2530,2431
+71,Fort Rae,America/Yellowknife,0,1862-02-01 00:00:00,1862-02-01 00:00:00,a faint streak of aurora seen from the zenith trending to the east,mno,casual_phenomena,155,289491,2541,2434
+72,Fort Rae,America/Yellowknife,0,1862-02-02 00:00:00,1862-02-02 00:00:00,"8 pm a streak of aurora, seen from the zenith trending to the southward",mno,casual_phenomena,155,289492,2541,2434
+73,Fort Rae,America/Yellowknife,0,1862-02-03 00:00:00,1862-02-03 00:00:00,4 am aurora faint a few straggling streamers,mno,casual_phenomena,155,289493,2541,2434
+74,Fort Rae,America/Yellowknife,0,1862-02-04 00:00:00,1862-02-04 00:00:00,"9 pm aurora arch distinct and well formed, stretching from nw to se, no streamers",mno,casual_phenomena,155,289494,2541,2434
+75,Fort Rae,America/Yellowknife,0,1862-02-05 00:00:00,1862-02-05 00:00:00,"10 pm aurora arch distinct but very narrow, stretching from n to s, no streamers",mno,casual_phenomena,155,289495,2541,2434
+76,Fort Rae,America/Yellowknife,0,1862-02-06 00:00:00,1862-02-06 00:00:00,3 am aurora in patches over the south and part of the heavens like milk grey clouds,mno,casual_phenomena,155,289496,2541,2434
+77,Fort Rae,America/Yellowknife,0,1862-02-07 00:00:00,1862-02-07 00:00:00,blowing a violent gale from the south,mno,casual_phenomena,155,289497,2541,2434
+78,Fort Rae,America/Yellowknife,0,1862-02-08 00:00:00,1862-02-08 00:00:00,sunrise the gale moderated until at 10 am it became calm,mno,casual_phenomena,155,289498,2541,2434
+79,Fort Rae,America/Yellowknife,0,1862-02-09 00:00:00,1862-02-09 00:00:00,"aurora seen at 10 pm,",mno,casual_phenomena,155,289499,2541,2434
+80,Fort Rae,America/Yellowknife,0,1862-02-10 00:00:00,1862-02-10 00:00:00,"11 pm aurora faint, form a half arc, from n to s",mno,casual_phenomena,155,289500,2541,2434
+81,Fort Rae,America/Yellowknife,0,1862-02-11 00:00:00,1862-02-11 00:00:00,9 pm aurora very indistinct in patches southward,mno,casual_phenomena,155,289501,2541,2434
+82,Fort Rae,America/Yellowknife,0,1862-02-12 00:00:00,1862-02-12 00:00:00,8 1/2 pm aurora very fair,mno,casual_phenomena,155,291799,2541,2434
+83,Fort Rae,America/Yellowknife,0,1862-02-13 00:00:00,1862-02-13 00:00:00,"8 pm aurora a narrow arc spanning the heavens from n to south, no streamers",mno,casual_phenomena,155,291801,2541,2434
+84,Fort Rae,America/Yellowknife,0,1862-02-14 00:00:00,1862-02-14 00:00:00,"gale continued with increased violence till 9 pm, when it moderated and ended at 11pm entirely",mno,casual_phenomena,155,291802,2541,2434
+85,Fort Rae,America/Yellowknife,0,1862-02-15 00:00:00,1862-02-15 00:00:00,a few streaks of the aurora seen to the eastward at 11 pm,mno,casual_phenomena,155,291803,2541,2434
+86,Fort Rae,America/Yellowknife,0,1862-02-16 00:00:00,1862-02-16 00:00:00,"a very faint aurora form arch from n to s, well defined tho indistinct",mno,casual_phenomena,155,291804,2541,2434
+87,Fort Rae,America/Yellowknife,0,1862-02-18 00:00:00,1862-02-18 00:00:00,aurora all over the heavens in streamers at 10 pm,mno,casual_phenomena,155,291806,2541,2434
+88,Fort Rae,America/Yellowknife,0,1862-02-20 00:00:00,1862-02-20 00:00:00,aurora all over the heavens in streamers @9 pm,mno,casual_phenomena,155,291808,2541,2434
+89,Fort Rae,America/Yellowknife,0,1862-02-22 00:00:00,1862-02-22 00:00:00,aurora all over the heavens in streamers (illegible) pm,mno,casual_phenomena,155,291809,2541,2434
+90,Fort Rae,America/Yellowknife,0,1862-02-28 00:00:00,1862-02-28 00:00:00,aurora double arch from n to south,mno,casual_phenomena,155,291812,2541,2434
+91,Fort Rae,America/Yellowknife,0,1862-03-04 00:00:00,1862-03-04 00:00:00,aurora at 10pm - streamers from n to e. colours indistinct and motion barely perceptible,mno,casual_phenomena,155,289826,2544,2435
+92,Fort Rae,America/Yellowknife,0,1862-03-08 00:00:00,1862-03-08 00:00:00,an extensive halo round the moon at 9pm,mno,casual_phenomena,155,289827,2544,2435
+93,Fort Rae,America/Yellowknife,0,1862-03-09 00:00:00,1862-03-09 00:00:00,a very large halo round the moon,mno,casual_phenomena,155,289828,2544,2435
+94,Fort Rae,America/Yellowknife,0,1862-03-10 00:00:00,1862-03-10 00:00:00,"a large halo round the moon [""same same same""]",mno,casual_phenomena,155,289829,2544,2435
+95,Fort Rae,America/Yellowknife,0,1862-04-17 00:00:00,1862-04-17 00:00:00,at 12am there fell a shower of wet hail which lasted 1/4 of an hour,mno,casual_phenomena,155,289830,2545,2436
+96,Fort Rae,America/Yellowknife,0,1862-04-19 00:00:00,1862-04-19 00:00:00,a heavy mist till 9am,mno,casual_phenomena,155,289831,2545,2436
+97,Fort Rae,America/Yellowknife,0,1862-04-25 00:00:00,1862-04-25 00:00:00,from 11am a wet snow at short intervals all day,mno,casual_phenomena,155,289832,2545,2436
+98,Fort Rae,America/Yellowknife,0,1862-04-28 00:00:00,1862-04-28 00:00:00,"rained for 1/4 hour in the middle of the day. the [word unclear, reads: cattlers] appearing in the dwarf [word unclear, reads: stem]",mno,casual_phenomena,155,289833,2545,2436
+99,Fort Rae,America/Yellowknife,0,1862-05-02 00:00:00,1862-05-02 00:00:00,1st ducks (stork) killed,mno,casual_phenomena,155,290252,2546,2441
+100,Fort Rae,America/Yellowknife,0,1862-05-04 00:00:00,1862-05-04 00:00:00,rained lightly during last night,mno,casual_phenomena,155,290253,2546,2441
+101,Fort Rae,America/Yellowknife,0,1862-05-17 00:00:00,1862-05-17 00:00:00,gooseberry bushes budding,mno,casual_phenomena,155,290254,2546,2441
+102,Fort Rae,America/Yellowknife,0,1862-05-24 00:00:00,1862-05-24 00:00:00,a few drops of snowfall about 6pm,mno,casual_phenomena,155,290255,2546,2441
+103,Fort Rae,America/Yellowknife,0,1862-05-30 00:00:00,1862-05-30 00:00:00,2 light showers of rain. lasted about 5 minutes each shower,mno,casual_phenomena,155,290256,2546,2441
+104,Fort Rae,America/Yellowknife,0,1862-06-06 00:00:00,1862-06-06 00:00:00,early morning a heavy wet fog which turned into rain at 7am and rained heavily until 10am at 1pm it again rained heavily for 1 1/2 hours when it turned out fine. blowing a strong gale westerly which has broken up the ice on the lake unprecedently early. distant thunder overheard in the south,mno,casual_phenomena,155,289283,2534,2439
+105,Fort Rae,America/Yellowknife,0,1862-06-07 00:00:00,1862-06-07 00:00:00,the ice all broken up tho[ugh] still stationary in the lake,mno,casual_phenomena,155,289286,2534,2439
+106,Fort Rae,America/Yellowknife,0,1862-06-08 00:00:00,1862-06-08 00:00:00,"the ice still the same. about 7pm thunder loud and long was heard in the  s[outh]-west and [word unclear, reads: 'derealty'] overhead, several flashes of zigzag lightening seen on the same direction - rained heavily for about half an hour",mno,casual_phenomena,155,289292,2534,2439
+107,Fort Rae,America/Yellowknife,0,1862-06-09 00:00:00,1862-06-09 00:00:00,"nearly all last night it rained heavily, accompanied with thunder frequent. loud and long duration from north to south and lightning frequent and diffuse. blew violently from the south for half an hour previous to the heaviest fall of rain. the ground this morning [word unclear, reads alttes]? sandy is in deep pools of water.",mno,casual_phenomena,155,289299,2534,2439
+108,Fort Rae,America/Yellowknife,0,1862-06-10 00:00:00,1862-06-10 00:00:00,about 8pm it rained lightly for 5 minutes. after a beautiful rainbow from n to s,mno,casual_phenomena,155,289300,2534,2439
+109,Fort Rae,America/Yellowknife,0,1862-06-12 00:00:00,1862-06-12 00:00:00,ice still in large pieces a couple of miles seaward,mno,casual_phenomena,155,289302,2534,2439
+110,Fort Rae,America/Yellowknife,0,1862-06-14 00:00:00,1862-06-14 00:00:00,"rained several times, lightly during the day the heavens entirely shrouded from the smoke of fires in the woods",mno,casual_phenomena,155,289306,2534,2439
+111,Fort Rae,America/Yellowknife,0,1862-06-15 00:00:00,1862-06-15 00:00:00,"the ice has now entirely disappeared from view. the season is unprecedently early. 'tis seldom that the willows begin to sprout here until the 17th or 18th, while now they were nearly in full leaf and the [illegible] beginning afternoon.",mno,casual_phenomena,155,289446,2534,2439
+112,Fort Rae,America/Yellowknife,0,1862-09-26 00:00:00,1862-09-26 00:00:00,aurora borealis in the form of an arch from ne @ s - appeared at 7pm and  began to disappear @ 8 1/2 [8:30]pm. a shooting star from w @ e at 8 1/2 pm. entire clearness of sky,mno,casual_phenomena,155,290247,2547,2444
+113,Fort Rae,America/Yellowknife,0,1862-09-27 00:00:00,1862-09-27 00:00:00,ice formed on the edge of the lake during the last night,mno,casual_phenomena,155,290248,2547,2444
+114,Fort Rae,America/Yellowknife,0,1862-09-28 00:00:00,1862-09-28 00:00:00,"aurora began last night [retracted, reads 'and continued'] immediately after dark and contined all night or at least it was still visible when i went to bed at 12pm, and again in the morning just before daylight",mno,casual_phenomena,155,290249,2547,2444
+115,Fort Rae,America/Yellowknife,0,1862-09-29 00:00:00,1862-09-29 00:00:00,the ground hard frozen this morning,mno,casual_phenomena,155,290250,2547,2444
+116,Fort Rae,America/Yellowknife,0,1862-10-02 00:00:00,1862-10-02 00:00:00,"a most splendid and  [illegible] appeared [rest of sentence illegible due to ink blot, last word possibly 'night'].  [illegible] steadily after [illegible] it formed in an arc, extending from, about, the horizon in the nw, through the zenith in a se direction and continued in this form with slight variations till 9pm; when the arch drew up itself together  in a heaped up scroll towards the zenith and gradually disappeared. during  the period of its transformation others in the forms of beams were becoming visible  in the east; stretching from north to south and by the time the arch totally disappeared, they assumed really a grand appearance, displaying vividly all the colours of the rainbow, and their motions now so quick that the eye could scarcely follow them. the secondary formations were of a very transient direction as the shadow that marks the gazing eye, and with the [illegible] of some [illegible] in the [illegible] of light transparent clouds along the eastern horizon at 9 1/2 [9:30]pm this disappeared.  - i watched their motions tonight the whole period of their display and noticed a few movements before the faint disappearance of the beams, that a shooting star drifted from below the polar star straight downwards and wnet veering suddenly out of sight.",mno,casual_phenomena,155,290234,2548,2446
+117,Fort Rae,America/Yellowknife,0,1862-10-03 00:00:00,1862-10-03 00:00:00,"before dawn this morning i [illegible, inspected?] the face[?] of the heavens, and the only trace that could be seen of the last night's aurora, was slight - [illegible] trails [or tails] of gray in the zenith like small vapoury clouds,  these streakes were exactly were i could imagine the centre of the arch to have been last night -- plenty of june [illegible, reads: as?] seen today. ice formed almost all over the lake since last night. sky very cloudy and a freak breeze  from the north since 6 [illegible, ink blot am/pm?]",mno,casual_phenomena,155,290235,2548,2446
+118,Fort Rae,America/Yellowknife,0,1862-10-04 00:00:00,1862-10-04 00:00:00,"late last night, or rather  early this morning, the aurora was visible in the form of  an arch from nne @ ssw with a large corona  at its northern extremities, but not of very visible colours. bands of the [illegible, reads logapas?] swallows seen for the first time this season. lake set fast  for the winter.",mno,casual_phenomena,155,290236,2548,2446
+119,Fort Rae,America/Yellowknife,0,1862-10-06 00:00:00,1862-10-06 00:00:00,"a halo round the moon of a small circumference, a robin [unclear, reads tundus] migratories, seen for the last time this season. blew a band of the [illegible, possibly aurora borealis?]",mno,casual_phenomena,155,290237,2548,2446
+120,Fort Rae,America/Yellowknife,0,1862-10-07 00:00:00,1862-10-07 00:00:00,a halo round the moon of the same magnitude  as on last night. a chroicocephalus of this summer's birth shot today,mno,casual_phenomena,155,290238,2548,2446
+121,Fort Rae,America/Yellowknife,0,1862-10-13 00:00:00,1862-10-13 00:00:00,"aurora in the form of two segments of an arc , with luminous emanations around in the e. ne rim [illegible, possibly retracted] nw - the two segments formed quite close to each other extending from the southern horizon. in each was ringed with a dark cloud to, i should imagine, about 2/3 of the distance between the zenith and the northern horizon. they did not continue in this separate position more than (say) 20 minutes, wherein they [illegible, reads 'merged'?] into one arch, not however making any change - in length - it began first to vanish from the se extremity, gradually towards the zenith. the above description from 8pm to 8 3/4 [8:45] pm --",mno,casual_phenomena,155,290239,2548,2446
+122,Fort Rae,America/Yellowknife,0,1862-10-14 00:00:00,1862-10-14 00:00:00,"10 1/2 [10:30]pm @ 11pm. the aurora in the form of a curved arch nw @ se extending from horizon to horizon most intersecting the horizon at right angles in the zenith as in previous night, but stretching with a slanting position towards the west. i [illegible, reads 'emanations'] long to its se extremity were visible and of much more luminous appearances than the arch - [retracted]",mno,casual_phenomena,155,290240,2548,2446
+123,Fort Rae,America/Yellowknife,0,1862-10-22 00:00:00,1862-10-22 00:00:00,"the glass for the first time below zero - about 3am the aurora appeared in the se and also in patterns in several other parts of the heavens, but very indistinct",mno,casual_phenomena,155,290241,2548,2446
+124,Fort Rae,America/Yellowknife,0,1862-10-25 00:00:00,1862-10-25 00:00:00,"9pm. an arch of the aurora from nw, n @ ses of a luminous appearance, but disappeared almost instantly last seen eastwards.",mno,casual_phenomena,155,290242,2548,2446
+125,Fort Rae,America/Yellowknife,0,1862-10-27 00:00:00,1862-10-27 00:00:00,"a beautiful display of the aurora streamers disappearing from a cone shaped arch all over the ne part of the heavens. motion very faint and the colours  distinct and beautiful  of pale green and yellow fringed with light vermilion. - 1/4 past 10pm [10:15pm] the whole of the horizon from west to east covered with flashing [illegible, possibly: concentrations?] of absurd but fine shapes and dense colouring, continued for say 15 minutes when those luminous attendants suddenly and entirely disappeared, leaving a triple haze coloured arch from w @ e. this also disappeared in a very short time leaving the canopy [illegible, possibly: remained]. the stars shining brightly. i may here state that i have, on this, as on many other occasions of a like nature, distinctly heard the rustling noise said to eminate from the aurora by many observers - but i beg to state that  tho[ugh] i have heard the noise, i entirely disagree with the obervers who assert it to have  proceded from that phenomenon. the fact is that the rustling noise may be distinctly heard any night in this [illegible, reads catiland], either before or after a break in the intense cold whether the aurora is  visible or not.",mno,casual_phenomena,155,290243,2548,2446
+126,Fort Rae,America/Yellowknife,0,1862-10-30 00:00:00,1862-10-30 00:00:00,"10 1/2 [10:30] pm. aurora formed into two arches. first a curved arch extending from ne in a westerly direction, this vanished almost instantly . immediately another arch flashed from nw @ s and appeared to arch toward moon at right angles . of the moon i should suppose at the time to be about 9 degrees from the western horizon [illegible, badly smudged]. [illegible, smudged] of aurora seen about 11pm to the south of the zenith.",mno,casual_phenomena,155,290244,2548,2446
+127,Fort Rae,America/Yellowknife,0,1862-10-31 00:00:00,1862-10-31 00:00:00,[entry mostly illegible] followed by a strong se [illegible].,mno,casual_phenomena,155,290245,2548,2446
+128,Fort Rae,America/Yellowknife,0,1862-11-01 00:00:00,1862-11-01 00:00:00,"[illegible, possibly aurora] appeared tonight in all but part of the heavens without much motion, and a shooting star was seen falling with a [illegible, possibly 'slow'?] motion towards the east - was visible for  perhaps [mostly illegible, possibly '3 seconds'?]",mno,casual_phenomena,155,296383,2612,2504
+129,Fort Rae,America/Yellowknife,0,1862-11-03 00:00:00,1862-11-03 00:00:00,"a sprinkling of snow fall only [illegible, probably number indicating depth] inches",mno,casual_phenomena,155,296384,2612,2504
+130,Fort Rae,America/Yellowknife,0,1862-11-07 00:00:00,1862-11-07 00:00:00,"at sunrise this morning the sun, which [next two words illegible] visible [next 3? words illegible], in the horizon, assumed a strange appearance, perpendicular to where his [next two words illegible] touch the upper part of the circumference; [illegible] a long [illegible, possibly 'spin' or 'spine'] the holls from which the sun seemed to emerge was distant say 7 miles from the fort, and i supposed the altitude to be about 400 feet high. the sun appeared like a red hot forge, or as he appears in tropical regions. the [illegible, possibly 'sphere'?] maintaing the same color tho[ugh] perhaps of not quite so dense a red. it was a beautiful specimen of the [illegible, possibly 'cone'?] while it stood on the circumference with its tapering form, almost on a point. - the sky was densly charged with nimbus, with the exception of a small [word unclear, reads: 'compass'?] round the sun which was of a firey red color, [illegible, possibly retracted?, reads: 'one arch']. shortly after the disappearance of this  phenomenon on each side of the [illegible, reads: 'due' or 'dime'] of the sun parhelia sunrise remained with the sun almost immediately heavens [illegible, possibly 'sky'?] cleared and was seen no more this day.",mno,casual_phenomena,155,296385,2612,2504
+131,Fort Rae,America/Yellowknife,0,1862-11-10 00:00:00,1862-11-10 00:00:00,"aurora tonight on a small scale in the nnw in the eastern horizon, faint greyish patch streaking the horizon",mno,casual_phenomena,155,296387,2612,2504
+132,Fort Rae,America/Yellowknife,0,1862-11-13 00:00:00,1862-11-13 00:00:00,"shapeless mass of aurora about 7pm from nw to se in peculiar form right up from the zenith assumed the exact shape of an open [illegible, reads: 'under at la' joined the apex of which stream [illegible, reads: 'vind'] emanations; the northern and southern horizon patches with luminous clouds,  having no motion whatsoever. in a short time a huge  mass of bright colored cloud bank up the northern portion of the heavens and had a perceptible tho[ugh] very slight motion eastwards. 9pm along the eastern  horizon a segment of an arc of a light green color, fringed with part vermilion, directly vis a vis on the northern horizon another segment of an arc virtually the same except it had no colouring",mno,casual_phenomena,155,296388,2612,2504
+133,Fort Rae,America/Yellowknife,0,1862-11-14 00:00:00,1862-11-14 00:00:00,"an arch of aurora from nw to se about the same magnitude as last night, lasted say half an hour in time, when immediately after another arose from ne to e below which was a large dark cloud. a shooting star fell straight [illegible, reads: ammined?] from the ne.",mno,casual_phenomena,155,296492,2612,2504
+134,Fort Rae,America/Yellowknife,0,1862-11-16 00:00:00,1862-11-16 00:00:00,"the sun sit in the shape of a large cone, similar to that of the morning of the 7th [illegible, reads: mist' or 'inst'?], and on each side of [illegible, reads: senin?] there was a sun ray. at 9 1/2 [9:30]pm the aurora made its appearance, once [or area?] in extension [illegible, reads: 'conascations'?] from nw to se, to which i [illegible, reads: evned gain?]. no particular description; so i [illegible, reads: evirld?] another [illegible, reads: defined?] heavens or arch of any regular shapes",mno,casual_phenomena,155,296493,2612,2504
+135,Fort Rae,America/Yellowknife,0,1862-11-17 00:00:00,1862-11-17 00:00:00,the foregoing night phenomena followed by a very cloudy sky and a  strong wind,mno,casual_phenomena,155,296494,2612,2504
+136,Fort Rae,America/Yellowknife,0,1862-11-18 00:00:00,1862-11-18 00:00:00,"in day it snowed. at night wind blowing from se. (this remark made at 7am). the wind increased much and now blowing with such violence, that it is difficult to say whether it is really snowing or  not owing to the enormous amount of snow lifted up into the air by the wind.",mno,casual_phenomena,155,296495,2612,2504
+137,Fort Rae,America/Yellowknife,0,1862-11-19 00:00:00,1862-11-19 00:00:00,"at 10 1/2 [10:30]pm, 3 faint though distinct arches of the aurora visible, directions from nw to se, distinct apparently about 40 yards apart at '00033 degrees, the arch on the eastern section  of the horizon was the lowest and broadest, the fringes tinged with a faint 'rose colour'; the two others were hazy curves",mno,casual_phenomena,155,296496,2612,2504
+138,Fort Rae,America/Yellowknife,0,1862-11-20 00:00:00,1862-11-20 00:00:00,"at 8pm, a double arch of aurora right across te zenith, from nw to se. the horns at the se extremity nearly meeting; the northern ends widely separated, neither motion or color visible; a few hazy patches of white cumulus moving between the 2 arches, but entirely  separate",mno,casual_phenomena,155,296497,2612,2504
+139,Fort Rae,America/Yellowknife,0,1862-11-21 00:00:00,1862-11-21 00:00:00,"a faint arch (7 3/4 [7:45]pm) but regulatly formed formed from nw ti se extending at a rather low elevation in the west side of the zenith, and a nay single color black cloud in the  west immediately below it,  this small cloud of [illegible, possibly retracted] intense darkness  stands separate from all the other clouds. it is of  a circular shape with 2 small projections from the inward side. later the cloud has disappeared, and the arch is now right across the zenith of quick and vivid motion, a number of  fleecy clouds high in the heavens of no motion, tho[ugh]: it blows a fresh gale from the south east; there clouds cut right across  the zenith from e to w. 1/4 of an hour [15 minutes] later, the  arch formed a  horse-shoe, at apex right in the zenith and the two horns pointing to the ne and north west",mno,casual_phenomena,155,296498,2612,2504
+140,Fort Rae,America/Yellowknife,0,1862-11-22 00:00:00,1862-11-22 00:00:00,"before daylight this morning it began to rain heavily. i cannot say when the showers began, it ended about 6pm, having entirely washed off the snow on the roof of the houses.",mno,casual_phenomena,155,296499,2612,2504
+141,Fort Rae,America/Yellowknife,0,1862-11-23 00:00:00,1862-11-23 00:00:00,"11pm: an arch from nw to se at a low elevation and bent at each extremity like a hook; it gradually [illegible? reads: assended?] the horizon until it disappeared - but did not [illegible, possibly 'extend to'?] the zenith",mno,casual_phenomena,155,296500,2612,2504
+142,Fort Rae,America/Yellowknife,0,1862-11-24 00:00:00,1862-11-24 00:00:00,at 9pm. the aurora in 2 arches the one cutting the western hemisphere and the other the eastern fair and clear meeting each other in the east,mno,casual_phenomena,155,291051,2557,2503
+143,Fort Rae,America/Yellowknife,0,1862-11-29 00:00:00,1862-11-29 00:00:00,"about 9pm the aurora in [illegible, possibly: commotions?] lying chiefly to the south of the zenith, much more so than i have seen there on any [illegible, reads: accapons?] this season before. they were of very little motion and no vivid colours",mno,casual_phenomena,155,291052,2557,2503
+144,Fort Rae,America/Yellowknife,0,1862-12-05 00:00:00,1862-12-05 00:00:00,"a thrice greater eclipse of the moon tonight lasted 3/4 of an hour at at the same time formed arch of aurora from nw to se and from n to south. [illegibile, reads: lies?] in the one direction and two in the other on each side of the aurora. the aurora was of short duration, when it disappeard there fell a few flakes of snow, though the sky was, upon the whole, clear",mno,casual_phenomena,155,293697,2579,2505
+145,Fort Rae,America/Yellowknife,0,1862-12-06 00:00:00,1862-12-06 00:00:00,"aurora in a most brilliant arch tonight, in all part of the heavens, the grandest [illegibile, ink from bleed-through?] [illegible, reads: 'made' or 'was'? horizon in the north, where it formed a complete circle, and continued in this shape form some moments, only showing by slight vibrations its evanescent  motion. the curls had  deep fringes of a pale green colour, in the se, there were emmisions of an extraordinary quick motion, burned with fringes of vermilion and pink. these displays ceased about 11pm. a light haze from the north at the time",mno,casual_phenomena,155,293698,2579,2505
+146,Fort Rae,America/Yellowknife,0,1862-12-08 00:00:00,1862-12-08 00:00:00,a bright luminous arch from n to e. at its northern extremity it terminated like the point of an arrow forming an acute angle,mno,casual_phenomena,155,293699,2579,2505
+147,Fort Rae,America/Yellowknife,0,1862-12-12 00:00:00,1862-12-12 00:00:00,"a faint arch from nw to se extending from horizon  to horizon, a shooting star from e to west",mno,casual_phenomena,155,293700,2579,2505
+148,Fort Rae,America/Yellowknife,0,1862-12-13 00:00:00,1862-12-13 00:00:00,"today two parhelia kept pace with the sun in his course from 12 o'clock am until 2pm, resembling two pillars of fire equidistant from the sun",mno,casual_phenomena,155,293701,2579,2505
+149,Fort Rae,America/Yellowknife,0,1862-12-14 00:00:00,1862-12-14 00:00:00,"a half cloudy sky tonight for about one hours time, during which period the aurora appeared along the eastern horizon in beams, motion barely perceptible, later, sky totally overcast with a strong north wind",mno,casual_phenomena,155,293702,2579,2505
+150,Fort Rae,America/Yellowknife,0,1862-12-15 00:00:00,1862-12-15 00:00:00,"aurora covering the eastern parts of the heavens, very bright and of quick motion",mno,casual_phenomena,155,293703,2579,2505
+151,Fort Rae,America/Yellowknife,0,1862-12-16 00:00:00,1862-12-16 00:00:00,this morning 40 [degrees] below zero for the first time which compared with last years winter shows very favourably for this winter. the aurora  very brilliant tonight all  over the heavens,mno,casual_phenomena,155,293704,2579,2505
+152,Fort Rae,America/Yellowknife,0,1862-12-20 00:00:00,1862-12-20 00:00:00,"an arch of aurora from nw to se, south bright emanations all around it, aurora arc, when the sky is clear, of nightly occurrence with more or less display",mno,casual_phenomena,155,293705,2579,2505
+153,Fort Rae,America/Yellowknife,0,1862-12-21 00:00:00,1862-12-21 00:00:00,"two parhelia this morning at sunrise, [illegibile, inkblot, possibly: 'visible'?] like a part of a vanishing rainbow",mno,casual_phenomena,155,293706,2579,2505
+154,Fort Rae,America/Yellowknife,0,1862-12-22 00:00:00,1862-12-22 00:00:00,two parhelia followed the sun until he set,mno,casual_phenomena,155,293707,2579,2505
+155,Fort Rae,America/Yellowknife,0,1862-12-24 00:00:00,1862-12-24 00:00:00,parhelia almost every day just now. when the atmosphere is hazy,mno,casual_phenomena,155,293708,2579,2505
+156,Fort Rae,America/Yellowknife,0,1862-12-25 00:00:00,1862-12-25 00:00:00,"a grand display of aurora tonight, at first it formed like an incomplete circle, open in the  south east and after playing for a short time like a buring flame fringed with a beautiful pink colour, it draw its ends closer to each other, and assumed the shape of a  heart. it vanished towards the northwest. the emanations were still seen in the sky just after daylight.",mno,casual_phenomena,155,293709,2579,2505
+157,Fort Rae,America/Yellowknife,0,1863-03-06 00:00:00,1863-03-06 00:00:00,aurora tonight from nw @ se,mno,casual_phenomena,155,296475,2613,2508
+158,Fort Rae,America/Yellowknife,0,1863-03-11 00:00:00,1863-03-11 00:00:00,arch tonight nwn to ses,mno,casual_phenomena,155,296478,2613,2508
+159,Fort Rae,America/Yellowknife,0,1863-03-15 00:00:00,1863-03-15 00:00:00,arch from nw @ se,mno,casual_phenomena,155,296479,2613,2508
+160,Fort Rae,America/Yellowknife,0,1863-03-17 00:00:00,1863-03-17 00:00:00,arch extending above the eastern horizon,mno,casual_phenomena,155,296480,2613,2508
+161,Fort Rae,America/Yellowknife,0,1863-03-18 00:00:00,1863-03-18 00:00:00,light this morning,mno,casual_phenomena,155,296482,2613,2508
+162,Fort Rae,America/Yellowknife,0,1863-03-23 00:00:00,1863-03-23 00:00:00,arch from nw @ se,mno,casual_phenomena,155,296483,2613,2508
+163,Fort Rae,America/Yellowknife,0,1863-03-24 00:00:00,1863-03-24 00:00:00,arch rather further to the w then in former nights,mno,casual_phenomena,155,296485,2613,2508
+164,Fort Rae,America/Yellowknife,0,1863-03-25 00:00:00,1863-03-25 00:00:00,arch (illegible) through the zenith from n@s,mno,casual_phenomena,155,296488,2613,2508
+165,Fort Rae,America/Yellowknife,0,1863-04-09 00:00:00,1863-04-09 00:00:00,"a beautiful display of an aurora tonight in the form of an arch from east to west [illegible, possibly 'into'?] northern [illegible, reads: 'neage'?] and all now fringed with vermilion and immediately [illegible] this fringe tinted over with pale blue. motion quick and zigzag, around arch in all directions. concentrations of a very luminous appearance",mno,casual_phenomena,155,296991,2621,2510
+166,Fort Rae,America/Yellowknife,0,1863-04-21 00:00:00,1863-04-21 00:00:00,"[illegible, reads: parking?] crows seen",mno,casual_phenomena,155,296992,2621,2510
+167,Fort Rae,America/Yellowknife,0,1863-04-23 00:00:00,1863-04-23 00:00:00,"a [illegible, reads: strok?] duck seen",mno,casual_phenomena,155,296994,2621,2510
+168,Fort Rae,America/Yellowknife,0,1863-04-24 00:00:00,1863-04-24 00:00:00,1st geese sailed past the frost,mno,casual_phenomena,155,296995,2621,2510
+169,Fort Rae,America/Yellowknife,0,1863-04-25 00:00:00,1863-04-25 00:00:00,"a heavy fall of rain last night, which melted a vast quantity of snow",mno,casual_phenomena,155,296993,2621,2510
+170,Fort Rae,America/Yellowknife,0,1863-04-26 00:00:00,1863-04-26 00:00:00,bands of geese and ducks passed us today - extraordinary early for this hyperborean region,mno,casual_phenomena,155,296996,2621,2510
+171,Fort Rae,America/Yellowknife,0,1863-05-01 00:00:00,1863-05-01 00:00:00,robins seen. mosquitos also,mno,casual_phenomena,155,294410,2584,2512
+172,Fort Rae,America/Yellowknife,0,1863-05-02 00:00:00,1863-05-02 00:00:00,"[illegible, reads: junes hynabe] seen",mno,casual_phenomena,155,294411,2584,2512
+173,Fort Rae,America/Yellowknife,0,1863-05-03 00:00:00,1863-05-03 00:00:00,various summer birds seen,mno,casual_phenomena,155,294412,2584,2512
+174,Fort Rae,America/Yellowknife,0,1863-05-09 00:00:00,1863-05-09 00:00:00,"buds sprouting in the [illegible, reads dwarf?] bush. about 10 o'clock pm, a beautiful display of aurora, motion quick. the forms assumed various and diversified colour pale green and vermilion - the prevailing features were serpentine [illegibile, reads: maple?] with dark fringes",mno,casual_phenomena,155,294413,2584,2512
+175,Fort Rae,America/Yellowknife,0,1863-05-12 00:00:00,1863-05-12 00:00:00,band of laughing geese sailed past today - gulls also seen,mno,casual_phenomena,155,294414,2584,2512
+176,Fort Rae,America/Yellowknife,0,1863-05-14 00:00:00,1863-05-14 00:00:00,"a flock of [illegibile, reads 'cranes'?] and 2 swans seen",mno,casual_phenomena,155,294415,2584,2512
+177,Fort Rae,America/Yellowknife,0,1863-05-15 00:00:00,1863-05-15 00:00:00,"gooseberry bushes budding. [illegibile, first letter obscured, rest of word 'alkins'] in willows also pretty large",mno,casual_phenomena,155,294416,2584,2512
+178,Fort Rae,America/Yellowknife,0,1863-05-17 00:00:00,1863-05-17 00:00:00,"rained lightly, clearing last night",mno,casual_phenomena,155,294417,2584,2512
+179,Fort Rae,America/Yellowknife,0,1863-05-22 00:00:00,1863-05-22 00:00:00,"[illegible, ink blot] geese appearing",mno,casual_phenomena,155,294418,2584,2512
+180,Fort Rae,America/Yellowknife,0,1863-05-24 00:00:00,1863-05-24 00:00:00,"[4 words illegible, last possible 'hard'] last night. new ice fully 1/4 inch thick. black [illegible, ink blot] tail ducks seen today",mno,casual_phenomena,155,294419,2584,2512
+181,Fort Rae,America/Yellowknife,0,1863-05-29 00:00:00,1863-05-29 00:00:00,the ice broken up for about a mile in width along shore but  still impeding navigation,mno,casual_phenomena,155,294420,2584,2512
+182,Fort Rae,America/Yellowknife,0,1863-06-04 00:00:00,1863-06-04 00:00:00,rained lightly during the night and for about 10  minutes and early in the morning of the 5th,mno,casual_phenomena,155,294852,2593,2514
+183,Fort Rae,America/Yellowknife,0,1863-06-08 00:00:00,1863-06-08 00:00:00,"rained hourly from 8am to 2pm. this stopped for 1 1/2 [1.5] hours when it rained continuously the remainder of the day and [illegible, possibly: stopped] during the night. 'tis hard to say whether the ice in the lake is entirely broken up or not. and if it is, it still remains [illegible, possibly: stationary?]",mno,casual_phenomena,155,294853,2593,2514
+184,Fort Rae,America/Yellowknife,0,1863-06-11 00:00:00,1863-06-11 00:00:00,"ice entirely broken up, although [illegibile, possibly: covering?] the lake in vast quantity, so much so to impede navigation [illegible, reads: some] along shore. a good wind [illegible, reads: wile kowing?] - raining this",mno,casual_phenomena,155,294854,2593,2514
+185,Fort Rae,America/Yellowknife,0,1863-06-12 00:00:00,1863-06-12 00:00:00,lake clear of ice this morning as far as the eye can see,mno,casual_phenomena,155,294855,2593,2514
+186,Fort Rae,America/Yellowknife,0,1863-06-17 00:00:00,1863-06-17 00:00:00,tis now fairly summer here and i leave tomorrow. fort rae in all known probability for ever so,mno,casual_phenomena,155,294856,2593,2514
+187,Fort Rae,America/Yellowknife,0,1862-01-16 21:00:00,1862-01-16 21:00:00,5,Sm,wind_force_9pm,110,289646,2529,2433
+188,Fort Rae,America/Yellowknife,0,1862-01-17 21:00:00,1862-01-17 21:00:00,2,Sm,wind_force_9pm,110,289647,2529,2433
+189,Fort Rae,America/Yellowknife,0,1862-01-18 21:00:00,1862-01-18 21:00:00,4,Sm,wind_force_9pm,110,289648,2529,2433
+190,Fort Rae,America/Yellowknife,0,1862-01-19 21:00:00,1862-01-19 21:00:00,0,Sm,wind_force_9pm,110,289649,2529,2433
+191,Fort Rae,America/Yellowknife,0,1862-01-20 21:00:00,1862-01-20 21:00:00,0,Sm,wind_force_9pm,110,289650,2529,2433
+192,Fort Rae,America/Yellowknife,0,1862-01-21 21:00:00,1862-01-21 21:00:00,0,Sm,wind_force_9pm,110,289651,2529,2433
+193,Fort Rae,America/Yellowknife,0,1862-01-22 21:00:00,1862-01-22 21:00:00,2,Sm,wind_force_9pm,110,289652,2529,2433
+194,Fort Rae,America/Yellowknife,0,1862-01-23 21:00:00,1862-01-23 21:00:00,4,Sm,wind_force_9pm,110,289653,2529,2433
+195,Fort Rae,America/Yellowknife,0,1862-01-24 21:00:00,1862-01-24 21:00:00,0,Sm,wind_force_9pm,110,289654,2529,2433
+196,Fort Rae,America/Yellowknife,0,1862-01-25 21:00:00,1862-01-25 21:00:00,2,Sm,wind_force_9pm,110,289655,2529,2433
+197,Fort Rae,America/Yellowknife,0,1862-01-26 21:00:00,1862-01-26 21:00:00,4,Sm,wind_force_9pm,110,289656,2529,2433
+198,Fort Rae,America/Yellowknife,0,1862-01-27 21:00:00,1862-01-27 21:00:00,0,Sm,wind_force_9pm,110,289657,2529,2433
+199,Fort Rae,America/Yellowknife,0,1862-01-28 21:00:00,1862-01-28 21:00:00,0,Sm,wind_force_9pm,110,289658,2529,2433
+200,Fort Rae,America/Yellowknife,0,1862-01-29 21:00:00,1862-01-29 21:00:00,0,Sm,wind_force_9pm,110,289659,2529,2433
+201,Fort Rae,America/Yellowknife,0,1862-01-30 21:00:00,1862-01-30 21:00:00,1,Sm,wind_force_9pm,110,289660,2529,2433
+202,Fort Rae,America/Yellowknife,0,1862-01-31 21:00:00,1862-01-31 21:00:00,0,Sm,wind_force_9pm,110,289661,2529,2433
+203,Fort Rae,America/Yellowknife,0,1862-02-01 21:00:00,1862-02-01 21:00:00,1,Sm,wind_force_9pm,110,289305,2533,2432
+204,Fort Rae,America/Yellowknife,0,1862-02-02 21:00:00,1862-02-02 21:00:00,0,Sm,wind_force_9pm,110,289304,2533,2432
+205,Fort Rae,America/Yellowknife,0,1862-02-03 21:00:00,1862-02-03 21:00:00,2,Sm,wind_force_9pm,110,289303,2533,2432
+206,Fort Rae,America/Yellowknife,0,1862-02-04 21:00:00,1862-02-04 21:00:00,1,Sm,wind_force_9pm,110,289301,2533,2432
+207,Fort Rae,America/Yellowknife,0,1862-02-05 21:00:00,1862-02-05 21:00:00,0,Sm,wind_force_9pm,110,289298,2533,2432
+208,Fort Rae,America/Yellowknife,0,1862-02-06 21:00:00,1862-02-06 21:00:00,2,Sm,wind_force_9pm,110,289297,2533,2432
+209,Fort Rae,America/Yellowknife,0,1862-02-07 21:00:00,1862-02-07 21:00:00,6,Sm,wind_force_9pm,110,289296,2533,2432
+210,Fort Rae,America/Yellowknife,0,1862-02-08 21:00:00,1862-02-08 21:00:00,0,Sm,wind_force_9pm,110,289295,2533,2432
+211,Fort Rae,America/Yellowknife,0,1862-02-09 21:00:00,1862-02-09 21:00:00,0,Sm,wind_force_9pm,110,289294,2533,2432
+212,Fort Rae,America/Yellowknife,0,1862-02-10 21:00:00,1862-02-10 21:00:00,2,Sm,wind_force_9pm,110,289293,2533,2432
+213,Fort Rae,America/Yellowknife,0,1862-02-11 21:00:00,1862-02-11 21:00:00,2,Sm,wind_force_9pm,110,289291,2533,2432
+214,Fort Rae,America/Yellowknife,0,1862-02-12 21:00:00,1862-02-12 21:00:00,2,Sm,wind_force_9pm,110,289290,2533,2432
+215,Fort Rae,America/Yellowknife,0,1862-02-13 21:00:00,1862-02-13 21:00:00,0,Sm,wind_force_9pm,110,289289,2533,2432
+216,Fort Rae,America/Yellowknife,0,1862-02-14 21:00:00,1862-02-14 21:00:00,-888,Sm,wind_force_9pm,110,289288,2533,2432
+217,Fort Rae,America/Yellowknife,0,1862-02-15 21:00:00,1862-02-15 21:00:00,2,Sm,wind_force_9pm,110,289287,2533,2432
+218,Fort Rae,America/Yellowknife,0,1862-02-16 21:00:00,1862-02-16 21:00:00,0,Sm,wind_force_9pm,110,289285,2533,2432
+219,Fort Rae,America/Yellowknife,0,1862-02-17 21:00:00,1862-02-17 21:00:00,2,Sm,wind_force_9pm,110,289284,2533,2432
+220,Fort Rae,America/Yellowknife,0,1862-02-18 21:00:00,1862-02-18 21:00:00,2,Sm,wind_force_9pm,110,289282,2533,2432
+221,Fort Rae,America/Yellowknife,0,1862-02-19 21:00:00,1862-02-19 21:00:00,0,Sm,wind_force_9pm,110,289281,2533,2432
+222,Fort Rae,America/Yellowknife,0,1862-02-20 21:00:00,1862-02-20 21:00:00,6,Sm,wind_force_9pm,110,289280,2533,2432
+223,Fort Rae,America/Yellowknife,0,1862-02-21 21:00:00,1862-02-21 21:00:00,0,Sm,wind_force_9pm,110,289279,2533,2432
+224,Fort Rae,America/Yellowknife,0,1862-02-22 21:00:00,1862-02-22 21:00:00,2,Sm,wind_force_9pm,110,289278,2533,2432
+225,Fort Rae,America/Yellowknife,0,1862-02-23 21:00:00,1862-02-23 21:00:00,2,Sm,wind_force_9pm,110,289277,2533,2432
+226,Fort Rae,America/Yellowknife,0,1862-02-24 21:00:00,1862-02-24 21:00:00,0,Sm,wind_force_9pm,110,289276,2533,2432
+227,Fort Rae,America/Yellowknife,0,1862-02-25 21:00:00,1862-02-25 21:00:00,1,Sm,wind_force_9pm,110,289275,2533,2432
+228,Fort Rae,America/Yellowknife,0,1862-02-26 21:00:00,1862-02-26 21:00:00,1,Sm,wind_force_9pm,110,289274,2533,2432
+229,Fort Rae,America/Yellowknife,0,1862-02-27 21:00:00,1862-02-27 21:00:00,1,Sm,wind_force_9pm,110,289273,2533,2432
+230,Fort Rae,America/Yellowknife,0,1862-02-28 21:00:00,1862-02-28 21:00:00,1,Sm,wind_force_9pm,110,289272,2533,2432
+231,Fort Rae,America/Yellowknife,0,1862-03-01 21:00:00,1862-03-01 21:00:00,1,Sm,wind_force_9pm,110,289445,2535,2438
+232,Fort Rae,America/Yellowknife,0,1862-03-02 21:00:00,1862-03-02 21:00:00,0,Sm,wind_force_9pm,110,289444,2535,2438
+233,Fort Rae,America/Yellowknife,0,1862-03-03 21:00:00,1862-03-03 21:00:00,0,Sm,wind_force_9pm,110,289443,2535,2438
+234,Fort Rae,America/Yellowknife,0,1862-03-04 21:00:00,1862-03-04 21:00:00,0,Sm,wind_force_9pm,110,289442,2535,2438
+235,Fort Rae,America/Yellowknife,0,1862-03-05 21:00:00,1862-03-05 21:00:00,0,Sm,wind_force_9pm,110,289441,2535,2438
+236,Fort Rae,America/Yellowknife,0,1862-03-06 21:00:00,1862-03-06 21:00:00,0,Sm,wind_force_9pm,110,289440,2535,2438
+237,Fort Rae,America/Yellowknife,0,1862-03-07 21:00:00,1862-03-07 21:00:00,3,Sm,wind_force_9pm,110,289439,2535,2438
+238,Fort Rae,America/Yellowknife,0,1862-03-08 21:00:00,1862-03-08 21:00:00,4,Sm,wind_force_9pm,110,289438,2535,2438
+239,Fort Rae,America/Yellowknife,0,1862-03-09 21:00:00,1862-03-09 21:00:00,1,Sm,wind_force_9pm,110,289437,2535,2438
+240,Fort Rae,America/Yellowknife,0,1862-03-10 21:00:00,1862-03-10 21:00:00,0,Sm,wind_force_9pm,110,289436,2535,2438
+241,Fort Rae,America/Yellowknife,0,1862-03-11 21:00:00,1862-03-11 21:00:00,0,Sm,wind_force_9pm,110,289435,2535,2438
+242,Fort Rae,America/Yellowknife,0,1862-03-12 21:00:00,1862-03-12 21:00:00,0,Sm,wind_force_9pm,110,289434,2535,2438
+243,Fort Rae,America/Yellowknife,0,1862-03-13 21:00:00,1862-03-13 21:00:00,1,Sm,wind_force_9pm,110,289433,2535,2438
+244,Fort Rae,America/Yellowknife,0,1862-03-14 21:00:00,1862-03-14 21:00:00,2,Sm,wind_force_9pm,110,289432,2535,2438
+245,Fort Rae,America/Yellowknife,0,1862-03-15 21:00:00,1862-03-15 21:00:00,2,Sm,wind_force_9pm,110,289431,2535,2438
+246,Fort Rae,America/Yellowknife,0,1862-03-16 21:00:00,1862-03-16 21:00:00,0,Sm,wind_force_9pm,110,289430,2535,2438
+247,Fort Rae,America/Yellowknife,0,1862-03-17 21:00:00,1862-03-17 21:00:00,1,Sm,wind_force_9pm,110,289429,2535,2438
+248,Fort Rae,America/Yellowknife,0,1862-03-18 21:00:00,1862-03-18 21:00:00,1,Sm,wind_force_9pm,110,289428,2535,2438
+249,Fort Rae,America/Yellowknife,0,1862-03-19 21:00:00,1862-03-19 21:00:00,0,Sm,wind_force_9pm,110,289427,2535,2438
+250,Fort Rae,America/Yellowknife,0,1862-03-20 21:00:00,1862-03-20 21:00:00,1,Sm,wind_force_9pm,110,289426,2535,2438
+251,Fort Rae,America/Yellowknife,0,1862-03-21 21:00:00,1862-03-21 21:00:00,3,Sm,wind_force_9pm,110,289425,2535,2438
+252,Fort Rae,America/Yellowknife,0,1862-03-23 21:00:00,1862-03-23 21:00:00,1,Sm,wind_force_9pm,110,289423,2535,2438
+253,Fort Rae,America/Yellowknife,0,1862-03-24 21:00:00,1862-03-24 21:00:00,2,Sm,wind_force_9pm,110,289422,2535,2438
+254,Fort Rae,America/Yellowknife,0,1862-03-25 21:00:00,1862-03-25 21:00:00,1,Sm,wind_force_9pm,110,289421,2535,2438
+255,Fort Rae,America/Yellowknife,0,1862-03-26 21:00:00,1862-03-26 21:00:00,0,Sm,wind_force_9pm,110,289420,2535,2438
+256,Fort Rae,America/Yellowknife,0,1862-03-27 21:00:00,1862-03-27 21:00:00,1,Sm,wind_force_9pm,110,289419,2535,2438
+257,Fort Rae,America/Yellowknife,0,1862-03-28 21:00:00,1862-03-28 21:00:00,2,Sm,wind_force_9pm,110,289418,2535,2438
+258,Fort Rae,America/Yellowknife,0,1862-03-29 21:00:00,1862-03-29 21:00:00,0,Sm,wind_force_9pm,110,289417,2535,2438
+259,Fort Rae,America/Yellowknife,0,1862-03-30 21:00:00,1862-03-30 21:00:00,1,Sm,wind_force_9pm,110,289416,2535,2438
+260,Fort Rae,America/Yellowknife,0,1862-03-31 21:00:00,1862-03-31 21:00:00,1,Sm,wind_force_9pm,110,289415,2535,2438
+261,Fort Rae,America/Yellowknife,0,1862-04-01 21:00:00,1862-04-01 21:00:00,1,Sm,wind_force_9pm,110,292039,2543,2437
+262,Fort Rae,America/Yellowknife,0,1862-04-02 21:00:00,1862-04-02 21:00:00,0,Sm,wind_force_9pm,110,292040,2543,2437
+263,Fort Rae,America/Yellowknife,0,1862-04-03 21:00:00,1862-04-03 21:00:00,0,Sm,wind_force_9pm,110,292041,2543,2437
+264,Fort Rae,America/Yellowknife,0,1862-04-04 21:00:00,1862-04-04 21:00:00,4,Sm,wind_force_9pm,110,292042,2543,2437
+265,Fort Rae,America/Yellowknife,0,1862-04-05 21:00:00,1862-04-05 21:00:00,4,Sm,wind_force_9pm,110,292043,2543,2437
+266,Fort Rae,America/Yellowknife,0,1862-04-06 21:00:00,1862-04-06 21:00:00,0,Sm,wind_force_9pm,110,292044,2543,2437
+267,Fort Rae,America/Yellowknife,0,1862-04-07 21:00:00,1862-04-07 21:00:00,0,Sm,wind_force_9pm,110,292045,2543,2437
+268,Fort Rae,America/Yellowknife,0,1862-04-08 21:00:00,1862-04-08 21:00:00,0,Sm,wind_force_9pm,110,292046,2543,2437
+269,Fort Rae,America/Yellowknife,0,1862-04-09 21:00:00,1862-04-09 21:00:00,0,Sm,wind_force_9pm,110,292047,2543,2437
+270,Fort Rae,America/Yellowknife,0,1862-04-10 21:00:00,1862-04-10 21:00:00,1,Sm,wind_force_9pm,110,292048,2543,2437
+271,Fort Rae,America/Yellowknife,0,1862-04-11 21:00:00,1862-04-11 21:00:00,0,Sm,wind_force_9pm,110,292049,2543,2437
+272,Fort Rae,America/Yellowknife,0,1862-04-12 21:00:00,1862-04-12 21:00:00,3,Sm,wind_force_9pm,110,292050,2543,2437
+273,Fort Rae,America/Yellowknife,0,1862-04-13 21:00:00,1862-04-13 21:00:00,0,Sm,wind_force_9pm,110,292051,2543,2437
+274,Fort Rae,America/Yellowknife,0,1862-04-14 21:00:00,1862-04-14 21:00:00,1,Sm,wind_force_9pm,110,292052,2543,2437
+275,Fort Rae,America/Yellowknife,0,1862-04-15 21:00:00,1862-04-15 21:00:00,5,Sm,wind_force_9pm,110,292053,2543,2437
+276,Fort Rae,America/Yellowknife,0,1862-04-16 21:00:00,1862-04-16 21:00:00,1,Sm,wind_force_9pm,110,292054,2543,2437
+277,Fort Rae,America/Yellowknife,0,1862-04-17 21:00:00,1862-04-17 21:00:00,0,Sm,wind_force_9pm,110,292055,2543,2437
+278,Fort Rae,America/Yellowknife,0,1862-04-18 21:00:00,1862-04-18 21:00:00,0,Sm,wind_force_9pm,110,292056,2543,2437
+279,Fort Rae,America/Yellowknife,0,1862-04-19 21:00:00,1862-04-19 21:00:00,2,Sm,wind_force_9pm,110,292057,2543,2437
+280,Fort Rae,America/Yellowknife,0,1862-04-20 21:00:00,1862-04-20 21:00:00,1,Sm,wind_force_9pm,110,292058,2543,2437
+281,Fort Rae,America/Yellowknife,0,1862-04-21 21:00:00,1862-04-21 21:00:00,3,Sm,wind_force_9pm,110,292059,2543,2437
+282,Fort Rae,America/Yellowknife,0,1862-04-22 21:00:00,1862-04-22 21:00:00,0,Sm,wind_force_9pm,110,292060,2543,2437
+283,Fort Rae,America/Yellowknife,0,1862-04-23 21:00:00,1862-04-23 21:00:00,0,Sm,wind_force_9pm,110,292061,2543,2437
+284,Fort Rae,America/Yellowknife,0,1862-04-24 21:00:00,1862-04-24 21:00:00,3,Sm,wind_force_9pm,110,292062,2543,2437
+285,Fort Rae,America/Yellowknife,0,1862-04-25 21:00:00,1862-04-25 21:00:00,0,Sm,wind_force_9pm,110,292063,2543,2437
+286,Fort Rae,America/Yellowknife,0,1862-04-26 21:00:00,1862-04-26 21:00:00,0,Sm,wind_force_9pm,110,292064,2543,2437
+287,Fort Rae,America/Yellowknife,0,1862-04-27 21:00:00,1862-04-27 21:00:00,2,Sm,wind_force_9pm,110,292065,2543,2437
+288,Fort Rae,America/Yellowknife,0,1862-04-28 21:00:00,1862-04-28 21:00:00,2,Sm,wind_force_9pm,110,292066,2543,2437
+289,Fort Rae,America/Yellowknife,0,1862-04-29 21:00:00,1862-04-29 21:00:00,2,Sm,wind_force_9pm,110,292067,2543,2437
+290,Fort Rae,America/Yellowknife,0,1862-04-30 21:00:00,1862-04-30 21:00:00,1,Sm,wind_force_9pm,110,292068,2543,2437
+291,Fort Rae,America/Yellowknife,0,1862-05-01 21:00:00,1862-05-01 21:00:00,0,Sm,wind_force_9pm,110,289792,2542,2442
+292,Fort Rae,America/Yellowknife,0,1862-05-02 21:00:00,1862-05-02 21:00:00,1,Sm,wind_force_9pm,110,289793,2542,2442
+293,Fort Rae,America/Yellowknife,0,1862-05-03 21:00:00,1862-05-03 21:00:00,0,Sm,wind_force_9pm,110,289794,2542,2442
+294,Fort Rae,America/Yellowknife,0,1862-05-04 21:00:00,1862-05-04 21:00:00,2,Sm,wind_force_9pm,110,289795,2542,2442
+295,Fort Rae,America/Yellowknife,0,1862-05-05 21:00:00,1862-05-05 21:00:00,5,Sm,wind_force_9pm,110,289796,2542,2442
+296,Fort Rae,America/Yellowknife,0,1862-05-06 21:00:00,1862-05-06 21:00:00,0,Sm,wind_force_9pm,110,289797,2542,2442
+297,Fort Rae,America/Yellowknife,0,1862-05-07 21:00:00,1862-05-07 21:00:00,2,Sm,wind_force_9pm,110,289798,2542,2442
+298,Fort Rae,America/Yellowknife,0,1862-05-08 21:00:00,1862-05-08 21:00:00,5,Sm,wind_force_9pm,110,289799,2542,2442
+299,Fort Rae,America/Yellowknife,0,1862-05-09 21:00:00,1862-05-09 21:00:00,4,Sm,wind_force_9pm,110,289800,2542,2442
+300,Fort Rae,America/Yellowknife,0,1862-05-10 21:00:00,1862-05-10 21:00:00,1,Sm,wind_force_9pm,110,289802,2542,2442
+301,Fort Rae,America/Yellowknife,0,1862-05-11 21:00:00,1862-05-11 21:00:00,0,Sm,wind_force_9pm,110,289803,2542,2442
+302,Fort Rae,America/Yellowknife,0,1862-05-12 21:00:00,1862-05-12 21:00:00,2,Sm,wind_force_9pm,110,289804,2542,2442
+303,Fort Rae,America/Yellowknife,0,1862-05-13 21:00:00,1862-05-13 21:00:00,5,Sm,wind_force_9pm,110,289805,2542,2442
+304,Fort Rae,America/Yellowknife,0,1862-05-14 21:00:00,1862-05-14 21:00:00,0,Sm,wind_force_9pm,110,289806,2542,2442
+305,Fort Rae,America/Yellowknife,0,1862-05-15 21:00:00,1862-05-15 21:00:00,2,Sm,wind_force_9pm,110,289807,2542,2442
+306,Fort Rae,America/Yellowknife,0,1862-05-16 21:00:00,1862-05-16 21:00:00,1,Sm,wind_force_9pm,110,289808,2542,2442
+307,Fort Rae,America/Yellowknife,0,1862-05-17 21:00:00,1862-05-17 21:00:00,2,Sm,wind_force_9pm,110,289809,2542,2442
+308,Fort Rae,America/Yellowknife,0,1862-05-18 21:00:00,1862-05-18 21:00:00,0,Sm,wind_force_9pm,110,289810,2542,2442
+309,Fort Rae,America/Yellowknife,0,1862-05-19 21:00:00,1862-05-19 21:00:00,1,Sm,wind_force_9pm,110,289811,2542,2442
+310,Fort Rae,America/Yellowknife,0,1862-05-20 21:00:00,1862-05-20 21:00:00,0,Sm,wind_force_9pm,110,289812,2542,2442
+311,Fort Rae,America/Yellowknife,0,1862-05-21 21:00:00,1862-05-21 21:00:00,2,Sm,wind_force_9pm,110,289813,2542,2442
+312,Fort Rae,America/Yellowknife,0,1862-05-22 21:00:00,1862-05-22 21:00:00,1,Sm,wind_force_9pm,110,289814,2542,2442
+313,Fort Rae,America/Yellowknife,0,1862-05-23 21:00:00,1862-05-23 21:00:00,0,Sm,wind_force_9pm,110,289815,2542,2442
+314,Fort Rae,America/Yellowknife,0,1862-05-24 21:00:00,1862-05-24 21:00:00,0,Sm,wind_force_9pm,110,289816,2542,2442
+315,Fort Rae,America/Yellowknife,0,1862-05-25 21:00:00,1862-05-25 21:00:00,2,Sm,wind_force_9pm,110,289817,2542,2442
+316,Fort Rae,America/Yellowknife,0,1862-05-26 21:00:00,1862-05-26 21:00:00,0,Sm,wind_force_9pm,110,289818,2542,2442
+317,Fort Rae,America/Yellowknife,0,1862-05-27 21:00:00,1862-05-27 21:00:00,0,Sm,wind_force_9pm,110,289819,2542,2442
+318,Fort Rae,America/Yellowknife,0,1862-05-28 21:00:00,1862-05-28 21:00:00,2,Sm,wind_force_9pm,110,289820,2542,2442
+319,Fort Rae,America/Yellowknife,0,1862-05-29 21:00:00,1862-05-29 21:00:00,1,Sm,wind_force_9pm,110,289821,2542,2442
+320,Fort Rae,America/Yellowknife,0,1862-05-30 21:00:00,1862-05-30 21:00:00,0,Sm,wind_force_9pm,110,289822,2542,2442
+321,Fort Rae,America/Yellowknife,0,1862-05-31 21:00:00,1862-05-31 21:00:00,2,Sm,wind_force_9pm,110,289823,2542,2442
+322,Fort Rae,America/Yellowknife,0,1862-06-01 21:00:00,1862-06-01 21:00:00,0,Sm,wind_force_9pm,110,290074,2550,2440
+323,Fort Rae,America/Yellowknife,0,1862-06-02 21:00:00,1862-06-02 21:00:00,1,Sm,wind_force_9pm,110,290073,2550,2440
+324,Fort Rae,America/Yellowknife,0,1862-06-03 21:00:00,1862-06-03 21:00:00,4,Sm,wind_force_9pm,110,290072,2550,2440
+325,Fort Rae,America/Yellowknife,0,1862-06-04 21:00:00,1862-06-04 21:00:00,3,Sm,wind_force_9pm,110,290071,2550,2440
+326,Fort Rae,America/Yellowknife,0,1862-06-05 21:00:00,1862-06-05 21:00:00,4,Sm,wind_force_9pm,110,290070,2550,2440
+327,Fort Rae,America/Yellowknife,0,1862-06-06 21:00:00,1862-06-06 21:00:00,5,Sm,wind_force_9pm,110,290069,2550,2440
+328,Fort Rae,America/Yellowknife,0,1862-06-07 21:00:00,1862-06-07 21:00:00,1,Sm,wind_force_9pm,110,290068,2550,2440
+329,Fort Rae,America/Yellowknife,0,1862-06-08 21:00:00,1862-06-08 21:00:00,1,Sm,wind_force_9pm,110,290067,2550,2440
+330,Fort Rae,America/Yellowknife,0,1862-06-09 21:00:00,1862-06-09 21:00:00,0,Sm,wind_force_9pm,110,290066,2550,2440
+331,Fort Rae,America/Yellowknife,0,1862-06-10 21:00:00,1862-06-10 21:00:00,2,Sm,wind_force_9pm,110,290065,2550,2440
+332,Fort Rae,America/Yellowknife,0,1862-06-11 21:00:00,1862-06-11 21:00:00,0,Sm,wind_force_9pm,110,290064,2550,2440
+333,Fort Rae,America/Yellowknife,0,1862-06-12 21:00:00,1862-06-12 21:00:00,4,Sm,wind_force_9pm,110,290063,2550,2440
+334,Fort Rae,America/Yellowknife,0,1862-06-13 21:00:00,1862-06-13 21:00:00,2,Sm,wind_force_9pm,110,290062,2550,2440
+335,Fort Rae,America/Yellowknife,0,1862-09-18 21:00:00,1862-09-18 21:00:00,2,Sm,wind_force_9pm,110,289232,2531,2445
+336,Fort Rae,America/Yellowknife,0,1862-09-19 21:00:00,1862-09-19 21:00:00,3,Sm,wind_force_9pm,110,289233,2531,2445
+337,Fort Rae,America/Yellowknife,0,1862-09-20 21:00:00,1862-09-20 21:00:00,5,Sm,wind_force_9pm,110,289234,2531,2445
+338,Fort Rae,America/Yellowknife,0,1862-09-21 21:00:00,1862-09-21 21:00:00,2,Sm,wind_force_9pm,110,289239,2531,2445
+339,Fort Rae,America/Yellowknife,0,1862-09-22 21:00:00,1862-09-22 21:00:00,4,Sm,wind_force_9pm,110,289246,2531,2445
+340,Fort Rae,America/Yellowknife,0,1862-09-23 21:00:00,1862-09-23 21:00:00,3,Sm,wind_force_9pm,110,289252,2531,2445
+341,Fort Rae,America/Yellowknife,0,1862-09-24 21:00:00,1862-09-24 21:00:00,3,Sm,wind_force_9pm,110,289256,2531,2445
+342,Fort Rae,America/Yellowknife,0,1862-09-25 21:00:00,1862-09-25 21:00:00,3,Sm,wind_force_9pm,110,289261,2531,2445
+343,Fort Rae,America/Yellowknife,0,1862-09-26 21:00:00,1862-09-26 21:00:00,1,Sm,wind_force_9pm,110,289265,2531,2445
+344,Fort Rae,America/Yellowknife,0,1862-09-27 21:00:00,1862-09-27 21:00:00,3,Sm,wind_force_9pm,110,289266,2531,2445
+345,Fort Rae,America/Yellowknife,0,1862-09-28 21:00:00,1862-09-28 21:00:00,4,Sm,wind_force_9pm,110,289267,2531,2445
+346,Fort Rae,America/Yellowknife,0,1862-09-29 21:00:00,1862-09-29 21:00:00,3,Sm,wind_force_9pm,110,289268,2531,2445
+347,Fort Rae,America/Yellowknife,0,1862-09-30 21:00:00,1862-09-30 21:00:00,4,Sm,wind_force_9pm,110,289269,2531,2445
+348,Fort Rae,America/Yellowknife,0,1862-10-01 21:00:00,1862-10-01 21:00:00,5,Sm,wind_force_9pm,110,289997,2549,2443
+349,Fort Rae,America/Yellowknife,0,1862-10-02 21:00:00,1862-10-02 21:00:00,3,Sm,wind_force_9pm,110,289996,2549,2443
+350,Fort Rae,America/Yellowknife,0,1862-10-03 21:00:00,1862-10-03 21:00:00,2,Sm,wind_force_9pm,110,289995,2549,2443
+351,Fort Rae,America/Yellowknife,0,1862-10-04 21:00:00,1862-10-04 21:00:00,3,Sm,wind_force_9pm,110,289994,2549,2443
+352,Fort Rae,America/Yellowknife,0,1862-10-05 21:00:00,1862-10-05 21:00:00,2,Sm,wind_force_9pm,110,289993,2549,2443
+353,Fort Rae,America/Yellowknife,0,1862-10-06 21:00:00,1862-10-06 21:00:00,4,Sm,wind_force_9pm,110,289992,2549,2443
+354,Fort Rae,America/Yellowknife,0,1862-10-07 21:00:00,1862-10-07 21:00:00,1,Sm,wind_force_9pm,110,289991,2549,2443
+355,Fort Rae,America/Yellowknife,0,1862-10-08 21:00:00,1862-10-08 21:00:00,2,Sm,wind_force_9pm,110,289990,2549,2443
+356,Fort Rae,America/Yellowknife,0,1862-10-09 21:00:00,1862-10-09 21:00:00,2,Sm,wind_force_9pm,110,289989,2549,2443
+357,Fort Rae,America/Yellowknife,0,1862-10-10 21:00:00,1862-10-10 21:00:00,2,Sm,wind_force_9pm,110,289988,2549,2443
+358,Fort Rae,America/Yellowknife,0,1862-10-11 21:00:00,1862-10-11 21:00:00,1,Sm,wind_force_9pm,110,289987,2549,2443
+359,Fort Rae,America/Yellowknife,0,1862-10-12 21:00:00,1862-10-12 21:00:00,2,Sm,wind_force_9pm,110,289986,2549,2443
+360,Fort Rae,America/Yellowknife,0,1862-10-13 21:00:00,1862-10-13 21:00:00,4,Sm,wind_force_9pm,110,289985,2549,2443
+361,Fort Rae,America/Yellowknife,0,1862-10-14 21:00:00,1862-10-14 21:00:00,1,Sm,wind_force_9pm,110,289984,2549,2443
+362,Fort Rae,America/Yellowknife,0,1862-10-15 21:00:00,1862-10-15 21:00:00,2,Sm,wind_force_9pm,110,289983,2549,2443
+363,Fort Rae,America/Yellowknife,0,1862-10-16 21:00:00,1862-10-16 21:00:00,2,Sm,wind_force_9pm,110,289982,2549,2443
+364,Fort Rae,America/Yellowknife,0,1862-10-17 21:00:00,1862-10-17 21:00:00,3,Sm,wind_force_9pm,110,289980,2549,2443
+365,Fort Rae,America/Yellowknife,0,1862-10-18 21:00:00,1862-10-18 21:00:00,4,Sm,wind_force_9pm,110,289979,2549,2443
+366,Fort Rae,America/Yellowknife,0,1862-10-19 21:00:00,1862-10-19 21:00:00,3,Sm,wind_force_9pm,110,289978,2549,2443
+367,Fort Rae,America/Yellowknife,0,1862-10-20 21:00:00,1862-10-20 21:00:00,6,Sm,wind_force_9pm,110,289977,2549,2443
+368,Fort Rae,America/Yellowknife,0,1862-10-21 21:00:00,1862-10-21 21:00:00,3,Sm,wind_force_9pm,110,289976,2549,2443
+369,Fort Rae,America/Yellowknife,0,1862-10-22 21:00:00,1862-10-22 21:00:00,1,Sm,wind_force_9pm,110,289975,2549,2443
+370,Fort Rae,America/Yellowknife,0,1862-10-23 21:00:00,1862-10-23 21:00:00,1,Sm,wind_force_9pm,110,289974,2549,2443
+371,Fort Rae,America/Yellowknife,0,1862-10-24 21:00:00,1862-10-24 21:00:00,2,Sm,wind_force_9pm,110,289973,2549,2443
+372,Fort Rae,America/Yellowknife,0,1862-10-25 21:00:00,1862-10-25 21:00:00,2,Sm,wind_force_9pm,110,289972,2549,2443
+373,Fort Rae,America/Yellowknife,0,1862-10-26 21:00:00,1862-10-26 21:00:00,2,Sm,wind_force_9pm,110,289971,2549,2443
+374,Fort Rae,America/Yellowknife,0,1862-10-27 21:00:00,1862-10-27 21:00:00,2,Sm,wind_force_9pm,110,289970,2549,2443
+375,Fort Rae,America/Yellowknife,0,1862-10-28 21:00:00,1862-10-28 21:00:00,1,Sm,wind_force_9pm,110,289969,2549,2443
+376,Fort Rae,America/Yellowknife,0,1862-10-29 21:00:00,1862-10-29 21:00:00,1,Sm,wind_force_9pm,110,289968,2549,2443
+377,Fort Rae,America/Yellowknife,0,1862-10-30 21:00:00,1862-10-30 21:00:00,1,Sm,wind_force_9pm,110,289967,2549,2443
+378,Fort Rae,America/Yellowknife,0,1862-10-31 21:00:00,1862-10-31 21:00:00,4,Sm,wind_force_9pm,110,289966,2549,2443
+379,Fort Rae,America/Yellowknife,0,1862-11-01 21:00:00,1862-11-01 21:00:00,3,Sm,wind_force_9pm,110,290231,2551,2507
+380,Fort Rae,America/Yellowknife,0,1862-11-02 21:00:00,1862-11-02 21:00:00,1,Sm,wind_force_9pm,110,290230,2551,2507
+381,Fort Rae,America/Yellowknife,0,1862-11-03 21:00:00,1862-11-03 21:00:00,1,Sm,wind_force_9pm,110,290229,2551,2507
+382,Fort Rae,America/Yellowknife,0,1862-11-04 21:00:00,1862-11-04 21:00:00,1,Sm,wind_force_9pm,110,290228,2551,2507
+383,Fort Rae,America/Yellowknife,0,1862-11-05 21:00:00,1862-11-05 21:00:00,1,Sm,wind_force_9pm,110,290227,2551,2507
+384,Fort Rae,America/Yellowknife,0,1862-11-06 21:00:00,1862-11-06 21:00:00,3,Sm,wind_force_9pm,110,290226,2551,2507
+385,Fort Rae,America/Yellowknife,0,1862-11-07 21:00:00,1862-11-07 21:00:00,2,Sm,wind_force_9pm,110,290225,2551,2507
+386,Fort Rae,America/Yellowknife,0,1862-11-08 21:00:00,1862-11-08 21:00:00,1,Sm,wind_force_9pm,110,290224,2551,2507
+387,Fort Rae,America/Yellowknife,0,1862-11-09 21:00:00,1862-11-09 21:00:00,3,Sm,wind_force_9pm,110,290223,2551,2507
+388,Fort Rae,America/Yellowknife,0,1862-11-10 21:00:00,1862-11-10 21:00:00,2,Sm,wind_force_9pm,110,290222,2551,2507
+389,Fort Rae,America/Yellowknife,0,1862-11-11 21:00:00,1862-11-11 21:00:00,4,Sm,wind_force_9pm,110,290221,2551,2507
+390,Fort Rae,America/Yellowknife,0,1862-11-12 21:00:00,1862-11-12 21:00:00,3,Sm,wind_force_9pm,110,290220,2551,2507
+391,Fort Rae,America/Yellowknife,0,1862-11-13 21:00:00,1862-11-13 21:00:00,2,Sm,wind_force_9pm,110,290219,2551,2507
+392,Fort Rae,America/Yellowknife,0,1862-11-14 21:00:00,1862-11-14 21:00:00,1,Sm,wind_force_9pm,110,290218,2551,2507
+393,Fort Rae,America/Yellowknife,0,1862-11-15 21:00:00,1862-11-15 21:00:00,1,Sm,wind_force_9pm,110,290217,2551,2507
+394,Fort Rae,America/Yellowknife,0,1862-11-16 21:00:00,1862-11-16 21:00:00,2,Sm,wind_force_9pm,110,290216,2551,2507
+395,Fort Rae,America/Yellowknife,0,1862-11-17 21:00:00,1862-11-17 21:00:00,4,Sm,wind_force_9pm,110,290215,2551,2507
+396,Fort Rae,America/Yellowknife,0,1862-11-18 21:00:00,1862-11-18 21:00:00,1,Sm,wind_force_9pm,110,290214,2551,2507
+397,Fort Rae,America/Yellowknife,0,1862-11-19 21:00:00,1862-11-19 21:00:00,2,Sm,wind_force_9pm,110,290213,2551,2507
+398,Fort Rae,America/Yellowknife,0,1862-11-20 21:00:00,1862-11-20 21:00:00,1,Sm,wind_force_9pm,110,290212,2551,2507
+399,Fort Rae,America/Yellowknife,0,1862-11-21 21:00:00,1862-11-21 21:00:00,3,Sm,wind_force_9pm,110,290211,2551,2507
+400,Fort Rae,America/Yellowknife,0,1862-11-22 21:00:00,1862-11-22 21:00:00,1,Sm,wind_force_9pm,110,290210,2551,2507
+401,Fort Rae,America/Yellowknife,0,1862-11-23 21:00:00,1862-11-23 21:00:00,1,Sm,wind_force_9pm,110,290209,2551,2507
+402,Fort Rae,America/Yellowknife,0,1862-11-24 21:00:00,1862-11-24 21:00:00,1,Sm,wind_force_9pm,110,290208,2551,2507
+403,Fort Rae,America/Yellowknife,0,1862-11-25 21:00:00,1862-11-25 21:00:00,1,Sm,wind_force_9pm,110,290207,2551,2507
+404,Fort Rae,America/Yellowknife,0,1862-11-26 21:00:00,1862-11-26 21:00:00,3,Sm,wind_force_9pm,110,290206,2551,2507
+405,Fort Rae,America/Yellowknife,0,1862-11-27 21:00:00,1862-11-27 21:00:00,1,Sm,wind_force_9pm,110,290205,2551,2507
+406,Fort Rae,America/Yellowknife,0,1862-11-28 21:00:00,1862-11-28 21:00:00,2,Sm,wind_force_9pm,110,290204,2551,2507
+407,Fort Rae,America/Yellowknife,0,1862-11-29 21:00:00,1862-11-29 21:00:00,1,Sm,wind_force_9pm,110,290203,2551,2507
+408,Fort Rae,America/Yellowknife,0,1862-11-30 21:00:00,1862-11-30 21:00:00,1,Sm,wind_force_9pm,110,290202,2551,2507
+409,Fort Rae,America/Yellowknife,0,1862-12-01 21:00:00,1862-12-01 21:00:00,3,Sm,wind_force_9pm,110,290419,2552,2506
+410,Fort Rae,America/Yellowknife,0,1862-12-02 21:00:00,1862-12-02 21:00:00,4,Sm,wind_force_9pm,110,290418,2552,2506
+411,Fort Rae,America/Yellowknife,0,1862-12-03 21:00:00,1862-12-03 21:00:00,2,Sm,wind_force_9pm,110,290417,2552,2506
+412,Fort Rae,America/Yellowknife,0,1862-12-04 21:00:00,1862-12-04 21:00:00,5,Sm,wind_force_9pm,110,290416,2552,2506
+413,Fort Rae,America/Yellowknife,0,1862-12-05 21:00:00,1862-12-05 21:00:00,2,Sm,wind_force_9pm,110,290415,2552,2506
+414,Fort Rae,America/Yellowknife,0,1862-12-06 21:00:00,1862-12-06 21:00:00,1,Sm,wind_force_9pm,110,290414,2552,2506
+415,Fort Rae,America/Yellowknife,0,1862-12-07 21:00:00,1862-12-07 21:00:00,1,Sm,wind_force_9pm,110,290413,2552,2506
+416,Fort Rae,America/Yellowknife,0,1862-12-08 21:00:00,1862-12-08 21:00:00,1,Sm,wind_force_9pm,110,290412,2552,2506
+417,Fort Rae,America/Yellowknife,0,1862-12-09 21:00:00,1862-12-09 21:00:00,1,Sm,wind_force_9pm,110,290411,2552,2506
+418,Fort Rae,America/Yellowknife,0,1862-12-10 21:00:00,1862-12-10 21:00:00,4,Sm,wind_force_9pm,110,290410,2552,2506
+419,Fort Rae,America/Yellowknife,0,1862-12-11 21:00:00,1862-12-11 21:00:00,3,Sm,wind_force_9pm,110,290409,2552,2506
+420,Fort Rae,America/Yellowknife,0,1862-12-12 21:00:00,1862-12-12 21:00:00,3,Sm,wind_force_9pm,110,290408,2552,2506
+421,Fort Rae,America/Yellowknife,0,1862-12-13 21:00:00,1862-12-13 21:00:00,2,Sm,wind_force_9pm,110,290407,2552,2506
+422,Fort Rae,America/Yellowknife,0,1862-12-14 21:00:00,1862-12-14 21:00:00,5,Sm,wind_force_9pm,110,290406,2552,2506
+423,Fort Rae,America/Yellowknife,0,1862-12-15 21:00:00,1862-12-15 21:00:00,1,Sm,wind_force_9pm,110,290405,2552,2506
+424,Fort Rae,America/Yellowknife,0,1862-12-16 21:00:00,1862-12-16 21:00:00,1,Sm,wind_force_9pm,110,290404,2552,2506
+425,Fort Rae,America/Yellowknife,0,1862-12-17 21:00:00,1862-12-17 21:00:00,3,Sm,wind_force_9pm,110,290403,2552,2506
+426,Fort Rae,America/Yellowknife,0,1862-12-18 21:00:00,1862-12-18 21:00:00,2,Sm,wind_force_9pm,110,290402,2552,2506
+427,Fort Rae,America/Yellowknife,0,1862-12-19 21:00:00,1862-12-19 21:00:00,1,Sm,wind_force_9pm,110,290401,2552,2506
+428,Fort Rae,America/Yellowknife,0,1862-12-20 21:00:00,1862-12-20 21:00:00,1,Sm,wind_force_9pm,110,290400,2552,2506
+429,Fort Rae,America/Yellowknife,0,1862-12-21 21:00:00,1862-12-21 21:00:00,1,Sm,wind_force_9pm,110,290399,2552,2506
+430,Fort Rae,America/Yellowknife,0,1862-12-22 21:00:00,1862-12-22 21:00:00,1,Sm,wind_force_9pm,110,290398,2552,2506
+431,Fort Rae,America/Yellowknife,0,1862-12-23 21:00:00,1862-12-23 21:00:00,1,Sm,wind_force_9pm,110,290397,2552,2506
+432,Fort Rae,America/Yellowknife,0,1862-12-24 21:00:00,1862-12-24 21:00:00,3,Sm,wind_force_9pm,110,290396,2552,2506
+433,Fort Rae,America/Yellowknife,0,1862-12-25 21:00:00,1862-12-25 21:00:00,1,Sm,wind_force_9pm,110,290395,2552,2506
+434,Fort Rae,America/Yellowknife,0,1862-12-26 21:00:00,1862-12-26 21:00:00,1,Sm,wind_force_9pm,110,290394,2552,2506
+435,Fort Rae,America/Yellowknife,0,1862-12-27 21:00:00,1862-12-27 21:00:00,1,Sm,wind_force_9pm,110,290393,2552,2506
+436,Fort Rae,America/Yellowknife,0,1862-12-28 21:00:00,1862-12-28 21:00:00,2,Sm,wind_force_9pm,110,290392,2552,2506
+437,Fort Rae,America/Yellowknife,0,1862-12-29 21:00:00,1862-12-29 21:00:00,1,Sm,wind_force_9pm,110,290391,2552,2506
+438,Fort Rae,America/Yellowknife,0,1862-12-30 21:00:00,1862-12-30 21:00:00,1,Sm,wind_force_9pm,110,290390,2552,2506
+439,Fort Rae,America/Yellowknife,0,1862-12-31 21:00:00,1862-12-31 21:00:00,2,Sm,wind_force_9pm,110,290389,2552,2506
+440,Fort Rae,America/Yellowknife,0,1863-03-01 21:00:00,1863-03-01 21:00:00,2,Sm,wind_force_9pm,110,290577,2553,2509
+441,Fort Rae,America/Yellowknife,0,1863-03-02 21:00:00,1863-03-02 21:00:00,1,Sm,wind_force_9pm,110,290576,2553,2509
+442,Fort Rae,America/Yellowknife,0,1863-03-03 21:00:00,1863-03-03 21:00:00,3,Sm,wind_force_9pm,110,290575,2553,2509
+443,Fort Rae,America/Yellowknife,0,1863-03-04 21:00:00,1863-03-04 21:00:00,2,Sm,wind_force_9pm,110,290574,2553,2509
+444,Fort Rae,America/Yellowknife,0,1863-03-05 21:00:00,1863-03-05 21:00:00,4,Sm,wind_force_9pm,110,290573,2553,2509
+445,Fort Rae,America/Yellowknife,0,1863-03-06 21:00:00,1863-03-06 21:00:00,3,Sm,wind_force_9pm,110,290572,2553,2509
+446,Fort Rae,America/Yellowknife,0,1863-03-07 21:00:00,1863-03-07 21:00:00,2,Sm,wind_force_9pm,110,290571,2553,2509
+447,Fort Rae,America/Yellowknife,0,1863-03-08 21:00:00,1863-03-08 21:00:00,2,Sm,wind_force_9pm,110,290570,2553,2509
+448,Fort Rae,America/Yellowknife,0,1863-03-09 21:00:00,1863-03-09 21:00:00,1,Sm,wind_force_9pm,110,290569,2553,2509
+449,Fort Rae,America/Yellowknife,0,1863-03-10 21:00:00,1863-03-10 21:00:00,1,Sm,wind_force_9pm,110,290568,2553,2509
+450,Fort Rae,America/Yellowknife,0,1863-03-11 21:00:00,1863-03-11 21:00:00,1,Sm,wind_force_9pm,110,290567,2553,2509
+451,Fort Rae,America/Yellowknife,0,1863-03-12 21:00:00,1863-03-12 21:00:00,2,Sm,wind_force_9pm,110,290566,2553,2509
+452,Fort Rae,America/Yellowknife,0,1863-03-13 21:00:00,1863-03-13 21:00:00,2,Sm,wind_force_9pm,110,290565,2553,2509
+453,Fort Rae,America/Yellowknife,0,1863-03-14 21:00:00,1863-03-14 21:00:00,4,Sm,wind_force_9pm,110,290564,2553,2509
+454,Fort Rae,America/Yellowknife,0,1863-03-15 21:00:00,1863-03-15 21:00:00,4,Sm,wind_force_9pm,110,290563,2553,2509
+455,Fort Rae,America/Yellowknife,0,1863-03-16 21:00:00,1863-03-16 21:00:00,4,Sm,wind_force_9pm,110,290562,2553,2509
+456,Fort Rae,America/Yellowknife,0,1863-03-17 21:00:00,1863-03-17 21:00:00,2,Sm,wind_force_9pm,110,290561,2553,2509
+457,Fort Rae,America/Yellowknife,0,1863-03-18 21:00:00,1863-03-18 21:00:00,1,Sm,wind_force_9pm,110,290560,2553,2509
+458,Fort Rae,America/Yellowknife,0,1863-03-19 21:00:00,1863-03-19 21:00:00,1,Sm,wind_force_9pm,110,290559,2553,2509
+459,Fort Rae,America/Yellowknife,0,1863-03-20 21:00:00,1863-03-20 21:00:00,1,Sm,wind_force_9pm,110,290558,2553,2509
+460,Fort Rae,America/Yellowknife,0,1863-03-21 21:00:00,1863-03-21 21:00:00,1,Sm,wind_force_9pm,110,290557,2553,2509
+461,Fort Rae,America/Yellowknife,0,1863-03-22 21:00:00,1863-03-22 21:00:00,1,Sm,wind_force_9pm,110,290556,2553,2509
+462,Fort Rae,America/Yellowknife,0,1863-03-23 21:00:00,1863-03-23 21:00:00,2,Sm,wind_force_9pm,110,290555,2553,2509
+463,Fort Rae,America/Yellowknife,0,1863-03-24 21:00:00,1863-03-24 21:00:00,1,Sm,wind_force_9pm,110,290554,2553,2509
+464,Fort Rae,America/Yellowknife,0,1863-03-25 21:00:00,1863-03-25 21:00:00,1,Sm,wind_force_9pm,110,290553,2553,2509
+465,Fort Rae,America/Yellowknife,0,1863-03-26 21:00:00,1863-03-26 21:00:00,1,Sm,wind_force_9pm,110,290552,2553,2509
+466,Fort Rae,America/Yellowknife,0,1863-03-27 21:00:00,1863-03-27 21:00:00,5,Sm,wind_force_9pm,110,290551,2553,2509
+467,Fort Rae,America/Yellowknife,0,1863-03-28 21:00:00,1863-03-28 21:00:00,1,Sm,wind_force_9pm,110,290550,2553,2509
+468,Fort Rae,America/Yellowknife,0,1863-03-29 21:00:00,1863-03-29 21:00:00,3,Sm,wind_force_9pm,110,290549,2553,2509
+469,Fort Rae,America/Yellowknife,0,1863-03-30 21:00:00,1863-03-30 21:00:00,5,Sm,wind_force_9pm,110,290548,2553,2509
+470,Fort Rae,America/Yellowknife,0,1863-03-31 21:00:00,1863-03-31 21:00:00,2,Sm,wind_force_9pm,110,290547,2553,2509
+471,Fort Rae,America/Yellowknife,0,1863-04-01 21:00:00,1863-04-01 21:00:00,1,Sm,wind_force_9pm,110,290733,2554,2511
+472,Fort Rae,America/Yellowknife,0,1863-04-02 21:00:00,1863-04-02 21:00:00,4,Sm,wind_force_9pm,110,290732,2554,2511
+473,Fort Rae,America/Yellowknife,0,1863-04-03 21:00:00,1863-04-03 21:00:00,2,Sm,wind_force_9pm,110,290731,2554,2511
+474,Fort Rae,America/Yellowknife,0,1863-04-04 21:00:00,1863-04-04 21:00:00,3,Sm,wind_force_9pm,110,290730,2554,2511
+475,Fort Rae,America/Yellowknife,0,1863-04-05 21:00:00,1863-04-05 21:00:00,1,Sm,wind_force_9pm,110,290729,2554,2511
+476,Fort Rae,America/Yellowknife,0,1863-04-06 21:00:00,1863-04-06 21:00:00,2,Sm,wind_force_9pm,110,290727,2554,2511
+477,Fort Rae,America/Yellowknife,0,1863-04-07 21:00:00,1863-04-07 21:00:00,1,Sm,wind_force_9pm,110,290726,2554,2511
+478,Fort Rae,America/Yellowknife,0,1863-04-08 21:00:00,1863-04-08 21:00:00,1,Sm,wind_force_9pm,110,290725,2554,2511
+479,Fort Rae,America/Yellowknife,0,1863-04-09 21:00:00,1863-04-09 21:00:00,1,Sm,wind_force_9pm,110,290724,2554,2511
+480,Fort Rae,America/Yellowknife,0,1863-04-10 21:00:00,1863-04-10 21:00:00,1,Sm,wind_force_9pm,110,290723,2554,2511
+481,Fort Rae,America/Yellowknife,0,1863-04-11 21:00:00,1863-04-11 21:00:00,1,Sm,wind_force_9pm,110,290722,2554,2511
+482,Fort Rae,America/Yellowknife,0,1863-04-12 21:00:00,1863-04-12 21:00:00,2,Sm,wind_force_9pm,110,290721,2554,2511
+483,Fort Rae,America/Yellowknife,0,1863-04-13 21:00:00,1863-04-13 21:00:00,3,Sm,wind_force_9pm,110,290720,2554,2511
+484,Fort Rae,America/Yellowknife,0,1863-04-14 21:00:00,1863-04-14 21:00:00,1,Sm,wind_force_9pm,110,290719,2554,2511
+485,Fort Rae,America/Yellowknife,0,1863-04-15 21:00:00,1863-04-15 21:00:00,2,Sm,wind_force_9pm,110,290718,2554,2511
+486,Fort Rae,America/Yellowknife,0,1863-04-16 21:00:00,1863-04-16 21:00:00,1,Sm,wind_force_9pm,110,290717,2554,2511
+487,Fort Rae,America/Yellowknife,0,1863-04-17 21:00:00,1863-04-17 21:00:00,1,Sm,wind_force_9pm,110,290716,2554,2511
+488,Fort Rae,America/Yellowknife,0,1863-04-18 21:00:00,1863-04-18 21:00:00,2,Sm,wind_force_9pm,110,290715,2554,2511
+489,Fort Rae,America/Yellowknife,0,1863-04-19 21:00:00,1863-04-19 21:00:00,1,Sm,wind_force_9pm,110,290714,2554,2511
+490,Fort Rae,America/Yellowknife,0,1863-04-20 21:00:00,1863-04-20 21:00:00,1,Sm,wind_force_9pm,110,290713,2554,2511
+491,Fort Rae,America/Yellowknife,0,1863-04-21 21:00:00,1863-04-21 21:00:00,1,Sm,wind_force_9pm,110,290712,2554,2511
+492,Fort Rae,America/Yellowknife,0,1863-04-22 21:00:00,1863-04-22 21:00:00,1,Sm,wind_force_9pm,110,290711,2554,2511
+493,Fort Rae,America/Yellowknife,0,1863-04-23 21:00:00,1863-04-23 21:00:00,2,Sm,wind_force_9pm,110,290710,2554,2511
+494,Fort Rae,America/Yellowknife,0,1863-04-24 21:00:00,1863-04-24 21:00:00,1,Sm,wind_force_9pm,110,290709,2554,2511
+495,Fort Rae,America/Yellowknife,0,1863-04-26 21:00:00,1863-04-26 21:00:00,1,Sm,wind_force_9pm,110,290707,2554,2511
+496,Fort Rae,America/Yellowknife,0,1863-04-27 21:00:00,1863-04-27 21:00:00,1,Sm,wind_force_9pm,110,290706,2554,2511
+497,Fort Rae,America/Yellowknife,0,1863-04-28 21:00:00,1863-04-28 21:00:00,1,Sm,wind_force_9pm,110,290705,2554,2511
+498,Fort Rae,America/Yellowknife,0,1863-04-29 21:00:00,1863-04-29 21:00:00,2,Sm,wind_force_9pm,110,290704,2554,2511
+499,Fort Rae,America/Yellowknife,0,1863-04-30 21:00:00,1863-04-30 21:00:00,2,Sm,wind_force_9pm,110,290703,2554,2511
+500,Fort Rae,America/Yellowknife,0,1863-05-01 21:00:00,1863-05-01 21:00:00,1,Sm,wind_force_9pm,110,293839,2582,2513
+501,Fort Rae,America/Yellowknife,0,1863-05-02 21:00:00,1863-05-02 21:00:00,2,Sm,wind_force_9pm,110,293840,2582,2513
+502,Fort Rae,America/Yellowknife,0,1863-05-03 21:00:00,1863-05-03 21:00:00,2,Sm,wind_force_9pm,110,293841,2582,2513
+503,Fort Rae,America/Yellowknife,0,1863-05-04 21:00:00,1863-05-04 21:00:00,1,Sm,wind_force_9pm,110,293842,2582,2513
+504,Fort Rae,America/Yellowknife,0,1863-05-05 21:00:00,1863-05-05 21:00:00,3,Sm,wind_force_9pm,110,293843,2582,2513
+505,Fort Rae,America/Yellowknife,0,1863-05-06 21:00:00,1863-05-06 21:00:00,0,Sm,wind_force_9pm,110,293844,2582,2513
+506,Fort Rae,America/Yellowknife,0,1863-05-07 21:00:00,1863-05-07 21:00:00,6,Sm,wind_force_9pm,110,293845,2582,2513
+507,Fort Rae,America/Yellowknife,0,1863-05-08 21:00:00,1863-05-08 21:00:00,3,Sm,wind_force_9pm,110,293846,2582,2513
+508,Fort Rae,America/Yellowknife,0,1863-05-09 21:00:00,1863-05-09 21:00:00,1,Sm,wind_force_9pm,110,293847,2582,2513
+509,Fort Rae,America/Yellowknife,0,1863-05-10 21:00:00,1863-05-10 21:00:00,5,Sm,wind_force_9pm,110,293848,2582,2513
+510,Fort Rae,America/Yellowknife,0,1863-05-11 21:00:00,1863-05-11 21:00:00,0,Sm,wind_force_9pm,110,293849,2582,2513
+511,Fort Rae,America/Yellowknife,0,1863-05-12 21:00:00,1863-05-12 21:00:00,0,Sm,wind_force_9pm,110,293850,2582,2513
+512,Fort Rae,America/Yellowknife,0,1863-05-13 21:00:00,1863-05-13 21:00:00,3,Sm,wind_force_9pm,110,293851,2582,2513
+513,Fort Rae,America/Yellowknife,0,1863-05-14 21:00:00,1863-05-14 21:00:00,0,Sm,wind_force_9pm,110,293852,2582,2513
+514,Fort Rae,America/Yellowknife,0,1863-05-15 21:00:00,1863-05-15 21:00:00,2,Sm,wind_force_9pm,110,293853,2582,2513
+515,Fort Rae,America/Yellowknife,0,1863-05-16 21:00:00,1863-05-16 21:00:00,1,Sm,wind_force_9pm,110,293854,2582,2513
+516,Fort Rae,America/Yellowknife,0,1863-05-17 21:00:00,1863-05-17 21:00:00,0,Sm,wind_force_9pm,110,293855,2582,2513
+517,Fort Rae,America/Yellowknife,0,1863-05-18 21:00:00,1863-05-18 21:00:00,4,Sm,wind_force_9pm,110,293856,2582,2513
+518,Fort Rae,America/Yellowknife,0,1863-05-19 21:00:00,1863-05-19 21:00:00,0,Sm,wind_force_9pm,110,293857,2582,2513
+519,Fort Rae,America/Yellowknife,0,1863-05-20 21:00:00,1863-05-20 21:00:00,1,Sm,wind_force_9pm,110,293858,2582,2513
+520,Fort Rae,America/Yellowknife,0,1863-05-21 21:00:00,1863-05-21 21:00:00,1,Sm,wind_force_9pm,110,293859,2582,2513
+521,Fort Rae,America/Yellowknife,0,1863-05-22 21:00:00,1863-05-22 21:00:00,1,Sm,wind_force_9pm,110,293860,2582,2513
+522,Fort Rae,America/Yellowknife,0,1863-05-23 21:00:00,1863-05-23 21:00:00,4,Sm,wind_force_9pm,110,293861,2582,2513
+523,Fort Rae,America/Yellowknife,0,1863-05-24 21:00:00,1863-05-24 21:00:00,0,Sm,wind_force_9pm,110,293862,2582,2513
+524,Fort Rae,America/Yellowknife,0,1863-05-25 21:00:00,1863-05-25 21:00:00,3,Sm,wind_force_9pm,110,293863,2582,2513
+525,Fort Rae,America/Yellowknife,0,1863-05-26 21:00:00,1863-05-26 21:00:00,1,Sm,wind_force_9pm,110,293864,2582,2513
+526,Fort Rae,America/Yellowknife,0,1863-05-27 21:00:00,1863-05-27 21:00:00,0,Sm,wind_force_9pm,110,293865,2582,2513
+527,Fort Rae,America/Yellowknife,0,1863-05-28 21:00:00,1863-05-28 21:00:00,0,Sm,wind_force_9pm,110,293866,2582,2513
+528,Fort Rae,America/Yellowknife,0,1863-05-29 21:00:00,1863-05-29 21:00:00,6,Sm,wind_force_9pm,110,293867,2582,2513
+529,Fort Rae,America/Yellowknife,0,1863-05-30 21:00:00,1863-05-30 21:00:00,0,Sm,wind_force_9pm,110,293868,2582,2513
+530,Fort Rae,America/Yellowknife,0,1863-05-31 21:00:00,1863-05-31 21:00:00,1,Sm,wind_force_9pm,110,293869,2582,2513
+531,Fort Rae,America/Yellowknife,0,1863-06-01 21:00:00,1863-06-01 21:00:00,0,Sm,wind_force_9pm,110,294054,2583,2515
+532,Fort Rae,America/Yellowknife,0,1863-06-02 21:00:00,1863-06-02 21:00:00,0,Sm,wind_force_9pm,110,294053,2583,2515
+533,Fort Rae,America/Yellowknife,0,1863-06-03 21:00:00,1863-06-03 21:00:00,2,Sm,wind_force_9pm,110,294052,2583,2515
+534,Fort Rae,America/Yellowknife,0,1863-06-04 21:00:00,1863-06-04 21:00:00,0,Sm,wind_force_9pm,110,294045,2583,2515
+535,Fort Rae,America/Yellowknife,0,1863-06-05 21:00:00,1863-06-05 21:00:00,0,Sm,wind_force_9pm,110,294043,2583,2515
+536,Fort Rae,America/Yellowknife,0,1863-06-06 21:00:00,1863-06-06 21:00:00,0,Sm,wind_force_9pm,110,294041,2583,2515
+537,Fort Rae,America/Yellowknife,0,1863-06-07 21:00:00,1863-06-07 21:00:00,1,Sm,wind_force_9pm,110,294039,2583,2515
+538,Fort Rae,America/Yellowknife,0,1863-06-08 21:00:00,1863-06-08 21:00:00,0,Sm,wind_force_9pm,110,294037,2583,2515
+539,Fort Rae,America/Yellowknife,0,1863-06-09 21:00:00,1863-06-09 21:00:00,0,Sm,wind_force_9pm,110,294035,2583,2515
+540,Fort Rae,America/Yellowknife,0,1863-06-10 21:00:00,1863-06-10 21:00:00,0,Sm,wind_force_9pm,110,294034,2583,2515
+541,Fort Rae,America/Yellowknife,0,1863-06-11 21:00:00,1863-06-11 21:00:00,2,Sm,wind_force_9pm,110,294032,2583,2515
+542,Fort Rae,America/Yellowknife,0,1863-06-12 21:00:00,1863-06-12 21:00:00,3,Sm,wind_force_9pm,110,294031,2583,2515
+543,Fort Rae,America/Yellowknife,0,1863-06-13 21:00:00,1863-06-13 21:00:00,0,Sm,wind_force_9pm,110,294030,2583,2515
+544,Fort Rae,America/Yellowknife,0,1863-06-14 21:00:00,1863-06-14 21:00:00,4,Sm,wind_force_9pm,110,294028,2583,2515
+545,Fort Rae,America/Yellowknife,0,1863-06-15 21:00:00,1863-06-15 21:00:00,0,Sm,wind_force_9pm,110,294027,2583,2515
+546,Fort Rae,America/Yellowknife,0,1863-06-16 21:00:00,1863-06-16 21:00:00,3,Sm,wind_force_9pm,110,294025,2583,2515
+547,Fort Rae,America/Yellowknife,0,1863-06-15 14:00:00,1863-06-15 14:00:00,0,Sm,wind_force_2pm,109,294027,2583,2515
+548,Fort Rae,America/Yellowknife,0,1863-06-16 14:00:00,1863-06-16 14:00:00,2,Sm,wind_force_2pm,109,294025,2583,2515
+549,Fort Rae,America/Yellowknife,0,1863-06-12 21:00:00,1863-06-12 21:00:00,50,F,open_air_thermometer_9pm,97,293944,2583,2515
+550,Fort Rae,America/Yellowknife,0,1863-06-13 21:00:00,1863-06-13 21:00:00,49,F,open_air_thermometer_9pm,97,293946,2583,2515
+551,Fort Rae,America/Yellowknife,0,1863-06-14 21:00:00,1863-06-14 21:00:00,50,F,open_air_thermometer_9pm,97,293949,2583,2515
+552,Fort Rae,America/Yellowknife,0,1863-06-15 21:00:00,1863-06-15 21:00:00,54,F,open_air_thermometer_9pm,97,293950,2583,2515
+553,Fort Rae,America/Yellowknife,0,1863-06-16 21:00:00,1863-06-16 21:00:00,57,F,open_air_thermometer_9pm,97,293951,2583,2515

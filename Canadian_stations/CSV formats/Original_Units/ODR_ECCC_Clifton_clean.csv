@@ -1,0 +1,123 @@
+,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
+1,Clifton,America/Toronto,0,1868-03-01,1868-03-01,clear,mno,preceding_weather,249,257723,2256,2088
+2,Clifton,America/Toronto,0,1868-03-02,1868-03-02,violent gale moderate snow,mno,preceding_weather,249,257725,2256,2088
+3,Clifton,America/Toronto,0,1868-03-03,1868-03-03,clear,mno,preceding_weather,249,257726,2256,2088
+4,Clifton,America/Toronto,0,1868-03-04,1868-03-04,clear overcast,mno,preceding_weather,249,257727,2256,2088
+5,Clifton,America/Toronto,0,1868-03-05,1868-03-05,clear,mno,preceding_weather,249,257728,2256,2088
+6,Clifton,America/Toronto,0,1868-03-06,1868-03-06,overcast moderate rain,mno,preceding_weather,249,257729,2256,2088
+7,Clifton,America/Toronto,0,1868-03-07,1868-03-07,moderate rain,mno,preceding_weather,249,257730,2256,2088
+8,Clifton,America/Toronto,0,1868-03-08,1868-03-08,partly cloudy,mno,preceding_weather,249,257731,2256,2088
+9,Clifton,America/Toronto,0,1868-03-09,1868-03-09,clear,mno,preceding_weather,249,257732,2256,2088
+10,Clifton,America/Toronto,0,1868-03-10,1868-03-10,light rain,mno,preceding_weather,249,257733,2256,2088
+11,Clifton,America/Toronto,0,1868-03-11,1868-03-11,partly cloudy,mno,preceding_weather,249,257734,2256,2088
+12,Clifton,America/Toronto,0,1868-03-12,1868-03-12,clear partly cloudy,mno,preceding_weather,249,257735,2256,2088
+13,Clifton,America/Toronto,0,1868-03-13,1868-03-13,overcast,mno,preceding_weather,249,257736,2256,2088
+14,Clifton,America/Toronto,0,1868-03-14,1868-03-14,overcast,mno,preceding_weather,249,257737,2256,2088
+15,Clifton,America/Toronto,0,1868-03-15,1868-03-15,partly cloudy light rain,mno,preceding_weather,249,257738,2256,2088
+16,Clifton,America/Toronto,0,1868-03-16,1868-03-16,clear,mno,preceding_weather,249,257739,2256,2088
+17,Clifton,America/Toronto,0,1868-03-17,1868-03-17,light rain,mno,preceding_weather,249,257740,2256,2088
+18,Clifton,America/Toronto,0,1868-03-18,1868-03-18,partly cloudy,mno,preceding_weather,249,257741,2256,2088
+19,Clifton,America/Toronto,0,1868-03-19,1868-03-19,clear,mno,preceding_weather,249,257742,2256,2088
+20,Clifton,America/Toronto,0,1868-03-20,1868-03-20,light snow,mno,preceding_weather,249,257743,2256,2088
+21,Clifton,America/Toronto,0,1868-03-21,1868-03-21,overcast,mno,preceding_weather,249,257744,2256,2088
+22,Clifton,America/Toronto,0,1868-03-22,1868-03-22,clear,mno,preceding_weather,249,257745,2256,2088
+23,Clifton,America/Toronto,0,1868-03-23,1868-03-23,clear,mno,preceding_weather,249,257746,2256,2088
+24,Clifton,America/Toronto,0,1868-03-24,1868-03-24,clear,mno,preceding_weather,249,257747,2256,2088
+25,Clifton,America/Toronto,0,1868-03-25,1868-03-25,clear,mno,preceding_weather,249,257748,2256,2088
+26,Clifton,America/Toronto,0,1868-03-26,1868-03-26,clear,mno,preceding_weather,249,257749,2256,2088
+27,Clifton,America/Toronto,0,1868-03-27,1868-03-27,clear,mno,preceding_weather,249,257750,2256,2088
+28,Clifton,America/Toronto,0,1868-03-28,1868-03-28,clear,mno,preceding_weather,249,257751,2256,2088
+29,Clifton,America/Toronto,0,1868-03-29,1868-03-29,clear,mno,preceding_weather,249,257752,2256,2088
+30,Clifton,America/Toronto,0,1868-03-30,1868-03-30,clear,mno,preceding_weather,249,257753,2256,2088
+31,Clifton,America/Toronto,0,1868-03-31,1868-03-31,clear,mno,preceding_weather,249,257754,2256,2088
+32,Clifton,America/Toronto,0,1868-04-01,1868-04-01,clear,mno,preceding_weather,249,257979,2257,2270
+33,Clifton,America/Toronto,0,1868-04-02,1868-04-02,partly cloudy,mno,preceding_weather,249,257980,2257,2270
+34,Clifton,America/Toronto,0,1868-04-03,1868-04-03,partly cloudy,mno,preceding_weather,249,257981,2257,2270
+35,Clifton,America/Toronto,0,1868-04-04,1868-04-04,overcast,mno,preceding_weather,249,257982,2257,2270
+36,Clifton,America/Toronto,0,1868-04-05,1868-04-05,light snow,mno,preceding_weather,249,257983,2257,2270
+37,Clifton,America/Toronto,0,1868-04-06,1868-04-06,clear,mno,preceding_weather,249,257985,2257,2270
+38,Clifton,America/Toronto,0,1868-04-07,1868-04-07,light snow,mno,preceding_weather,249,257986,2257,2270
+39,Clifton,America/Toronto,0,1868-04-08,1868-04-08,clear partly cloudy,mno,preceding_weather,249,257987,2257,2270
+40,Clifton,America/Toronto,0,1868-04-09,1868-04-09,clear,mno,preceding_weather,249,257988,2257,2270
+41,Clifton,America/Toronto,0,1868-04-10,1868-04-10,partly cloudy light snow,mno,preceding_weather,249,257989,2257,2270
+42,Clifton,America/Toronto,0,1868-04-11,1868-04-11,clear,mno,preceding_weather,249,257990,2257,2270
+43,Clifton,America/Toronto,0,1868-04-12,1868-04-12,light rain moderate snow,mno,preceding_weather,249,257991,2257,2270
+44,Clifton,America/Toronto,0,1868-04-13,1868-04-13,clear,mno,preceding_weather,249,257992,2257,2270
+45,Clifton,America/Toronto,0,1868-04-14,1868-04-14,clear,mno,preceding_weather,249,257993,2257,2270
+46,Clifton,America/Toronto,0,1868-04-15,1868-04-15,light rain,mno,preceding_weather,249,257994,2257,2270
+47,Clifton,America/Toronto,0,1868-04-16,1868-04-16,clear moderate rain,mno,preceding_weather,249,257995,2257,2270
+48,Clifton,America/Toronto,0,1868-04-17,1868-04-17,clear,mno,preceding_weather,249,257996,2257,2270
+49,Clifton,America/Toronto,0,1868-04-18,1868-04-18,overcast,mno,preceding_weather,249,257997,2257,2270
+50,Clifton,America/Toronto,0,1868-04-19,1868-04-19,clear,mno,preceding_weather,249,257998,2257,2270
+51,Clifton,America/Toronto,0,1868-04-20,1868-04-20,overcast,mno,preceding_weather,249,257999,2257,2270
+52,Clifton,America/Toronto,0,1868-04-21,1868-04-21,clear partly cloudy,mno,preceding_weather,249,258000,2257,2270
+53,Clifton,America/Toronto,0,1868-04-22,1868-04-22,clear,mno,preceding_weather,249,258001,2257,2270
+54,Clifton,America/Toronto,0,1868-04-23,1868-04-23,overcast moderate snow,mno,preceding_weather,249,258003,2257,2270
+55,Clifton,America/Toronto,0,1868-04-24,1868-04-24,clear,mno,preceding_weather,249,258004,2257,2270
+56,Clifton,America/Toronto,0,1868-04-25,1868-04-25,overcast light rain,mno,preceding_weather,249,258005,2257,2270
+57,Clifton,America/Toronto,0,1868-04-26,1868-04-26,clear,mno,preceding_weather,249,258006,2257,2270
+58,Clifton,America/Toronto,0,1868-04-27,1868-04-27,overcast,mno,preceding_weather,249,258007,2257,2270
+59,Clifton,America/Toronto,0,1868-04-28,1868-04-28,clear partly cloudy,mno,preceding_weather,249,258008,2257,2270
+60,Clifton,America/Toronto,0,1868-04-29,1868-04-29,partly cloudy overcast,mno,preceding_weather,249,258009,2257,2270
+61,Clifton,America/Toronto,0,1868-04-30,1868-04-30,clear partly cloudy moderate rain,mno,preceding_weather,249,258010,2257,2270
+62,Clifton,America/Toronto,0,1868-05-01,1868-05-01,partly cloudy overcast,mno,preceding_weather,249,257318,2248,2269
+63,Clifton,America/Toronto,0,1868-05-02,1868-05-02,overcast light rain moderate rain,mno,preceding_weather,249,257461,2248,2269
+64,Clifton,America/Toronto,0,1868-05-03,1868-05-03,partly cloudy,mno,preceding_weather,249,257462,2248,2269
+65,Clifton,America/Toronto,0,1868-05-04,1868-05-04,clear,mno,preceding_weather,249,257463,2248,2269
+66,Clifton,America/Toronto,0,1868-05-05,1868-05-05,partly cloudy overcast,mno,preceding_weather,249,257464,2248,2269
+67,Clifton,America/Toronto,0,1868-05-06,1868-05-06,overcast,mno,preceding_weather,249,257465,2248,2269
+68,Clifton,America/Toronto,0,1868-05-07,1868-05-07,clear overcast,mno,preceding_weather,249,257466,2248,2269
+69,Clifton,America/Toronto,0,1868-05-08,1868-05-08,partly cloudy,mno,preceding_weather,249,257467,2248,2269
+70,Clifton,America/Toronto,0,1868-05-09,1868-05-09,clear,mno,preceding_weather,249,257468,2248,2269
+71,Clifton,America/Toronto,0,1868-05-10,1868-05-10,clear,mno,preceding_weather,249,257469,2248,2269
+72,Clifton,America/Toronto,0,1868-05-11,1868-05-11,clear,mno,preceding_weather,249,257470,2248,2269
+73,Clifton,America/Toronto,0,1868-05-12,1868-05-12,clear,mno,preceding_weather,249,257472,2248,2269
+74,Clifton,America/Toronto,0,1868-05-13,1868-05-13,partly cloudy overcast,mno,preceding_weather,249,257473,2248,2269
+75,Clifton,America/Toronto,0,1868-05-14,1868-05-14,overcast,mno,preceding_weather,249,257474,2248,2269
+76,Clifton,America/Toronto,0,1868-05-15,1868-05-15,overcast,mno,preceding_weather,249,257475,2248,2269
+77,Clifton,America/Toronto,0,1868-05-16,1868-05-16,partly cloudy,mno,preceding_weather,249,257476,2248,2269
+78,Clifton,America/Toronto,0,1868-05-17,1868-05-17,overcast,mno,preceding_weather,249,257477,2248,2269
+79,Clifton,America/Toronto,0,1868-05-18,1868-05-18,light rain,mno,preceding_weather,249,257478,2248,2269
+80,Clifton,America/Toronto,0,1868-05-19,1868-05-19,clear,mno,preceding_weather,249,257480,2248,2269
+81,Clifton,America/Toronto,0,1868-05-20,1868-05-20,overcast,mno,preceding_weather,249,257481,2248,2269
+82,Clifton,America/Toronto,0,1868-05-21,1868-05-21,partly cloudy,mno,preceding_weather,249,257482,2248,2269
+83,Clifton,America/Toronto,0,1868-05-22,1868-05-22,light rain,mno,preceding_weather,249,257483,2248,2269
+84,Clifton,America/Toronto,0,1868-05-23,1868-05-23,overcast,mno,preceding_weather,249,257484,2248,2269
+85,Clifton,America/Toronto,0,1868-05-24,1868-05-24,clear,mno,preceding_weather,249,257485,2248,2269
+86,Clifton,America/Toronto,0,1868-05-25,1868-05-25,clear,mno,preceding_weather,249,257486,2248,2269
+87,Clifton,America/Toronto,0,1868-05-26,1868-05-26,clear,mno,preceding_weather,249,257487,2248,2269
+88,Clifton,America/Toronto,0,1868-05-27,1868-05-27,clear,mno,preceding_weather,249,257488,2248,2269
+89,Clifton,America/Toronto,0,1868-05-28,1868-05-28,partly cloudy,mno,preceding_weather,249,257489,2248,2269
+90,Clifton,America/Toronto,0,1868-05-29,1868-05-29,overcast,mno,preceding_weather,249,257490,2248,2269
+91,Clifton,America/Toronto,0,1868-05-30,1868-05-30,overcast,mno,preceding_weather,249,257491,2248,2269
+92,Clifton,America/Toronto,0,1868-05-31,1868-05-31,overcast,mno,preceding_weather,249,257492,2248,2269
+93,Clifton,America/Toronto,0,1868-06-01,1868-06-01,clear,mno,preceding_weather,249,258579,2259,2271
+94,Clifton,America/Toronto,0,1868-06-02,1868-06-02,clear,mno,preceding_weather,249,258580,2259,2271
+95,Clifton,America/Toronto,0,1868-06-03,1868-06-03,clear,mno,preceding_weather,249,258581,2259,2271
+96,Clifton,America/Toronto,0,1868-06-04,1868-06-04,overcast,mno,preceding_weather,249,258582,2259,2271
+97,Clifton,America/Toronto,0,1868-06-05,1868-06-05,partly cloudy moderate rain,mno,preceding_weather,249,258583,2259,2271
+98,Clifton,America/Toronto,0,1868-06-06,1868-06-06,partly cloudy heavy rain,mno,preceding_weather,249,258584,2259,2271
+99,Clifton,America/Toronto,0,1868-06-07,1868-06-07,overcast moderate rain,mno,preceding_weather,249,258585,2259,2271
+100,Clifton,America/Toronto,0,1868-06-08,1868-06-08,clear,mno,preceding_weather,249,258586,2259,2271
+101,Clifton,America/Toronto,0,1868-06-09,1868-06-09,overcast moderate rain,mno,preceding_weather,249,258587,2259,2271
+102,Clifton,America/Toronto,0,1868-06-10,1868-06-10,clear,mno,preceding_weather,249,258588,2259,2271
+103,Clifton,America/Toronto,0,1868-06-11,1868-06-11,clear,mno,preceding_weather,249,258589,2259,2271
+104,Clifton,America/Toronto,0,1868-06-12,1868-06-12,clear,mno,preceding_weather,249,258590,2259,2271
+105,Clifton,America/Toronto,0,1868-06-13,1868-06-13,clear,mno,preceding_weather,249,258591,2259,2271
+106,Clifton,America/Toronto,0,1868-06-14,1868-06-14,partly cloudy,mno,preceding_weather,249,258592,2259,2271
+107,Clifton,America/Toronto,0,1868-06-15,1868-06-15,partly cloudy,mno,preceding_weather,249,258595,2259,2271
+108,Clifton,America/Toronto,0,1868-06-16,1868-06-16,overcast moderate rain,mno,preceding_weather,249,258598,2259,2271
+109,Clifton,America/Toronto,0,1868-06-17,1868-06-17,clear,mno,preceding_weather,249,258601,2259,2271
+110,Clifton,America/Toronto,0,1868-06-18,1868-06-18,clear,mno,preceding_weather,249,258604,2259,2271
+111,Clifton,America/Toronto,0,1868-06-19,1868-06-19,clear,mno,preceding_weather,249,258607,2259,2271
+112,Clifton,America/Toronto,0,1868-06-20,1868-06-20,clear,mno,preceding_weather,249,258609,2259,2271
+113,Clifton,America/Toronto,0,1868-06-21,1868-06-21,overcast light rain,mno,preceding_weather,249,258613,2259,2271
+114,Clifton,America/Toronto,0,1868-06-22,1868-06-22,overcast light rain,mno,preceding_weather,249,258617,2259,2271
+115,Clifton,America/Toronto,0,1868-06-23,1868-06-23,partly cloudy,mno,preceding_weather,249,258626,2259,2271
+116,Clifton,America/Toronto,0,1868-06-24,1868-06-24,clear,mno,preceding_weather,249,258629,2259,2271
+117,Clifton,America/Toronto,0,1868-06-25,1868-06-25,clear,mno,preceding_weather,249,258633,2259,2271
+118,Clifton,America/Toronto,0,1868-06-26,1868-06-26,clear,mno,preceding_weather,249,258635,2259,2271
+119,Clifton,America/Toronto,0,1868-06-27,1868-06-27,clear,mno,preceding_weather,249,258636,2259,2271
+120,Clifton,America/Toronto,0,1868-06-28,1868-06-28,clear,mno,preceding_weather,249,258637,2259,2271
+121,Clifton,America/Toronto,0,1868-06-29,1868-06-29,clear,mno,preceding_weather,249,258638,2259,2271
+122,Clifton,America/Toronto,0,1868-06-30,1868-06-30,clear,mno,preceding_weather,249,258639,2259,2271

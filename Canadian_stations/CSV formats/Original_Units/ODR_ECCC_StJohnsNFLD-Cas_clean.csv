@@ -1,0 +1,121 @@
+,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
+1,St Johns Caswell,America/St_Johns,0,1868-12-20 00:00:00,1868-12-20 00:00:00,no arch : no shooting rays : only considerable brightness,mno,casual_phenomena_line_3,200,189926,1680,1577
+2,St Johns Caswell,America/St_Johns,0,1868-12-20 00:00:00,1868-12-20 00:00:00,dark cloud underneath,mno,casual_phenomena_line_2,199,189926,1680,1577
+3,St Johns Caswell,America/St_Johns,0,1869-02-01 00:00:00,1869-02-01 00:00:00,sea,mno,casual_phenomena_line_2,199,191189,1693,1584
+4,St Johns Caswell,America/St_Johns,0,1869-02-15 00:00:00,1869-02-15 00:00:00,"anytime this winter. i walked out [] the monthly mail steamer from halifax, n. s. she put on full presence of steam and charged the ice, advancing about 2 1/2 ship lengths each time. the ice was quite firm right up to the ship's side, whoch i could touch with my hand - the steamer had received some damage from the severe weather.",mno,casual_phenomena_line_2,199,191167,1693,1584
+5,St Johns Caswell,America/St_Johns,0,1868-12-20 00:00:00,1868-12-20 00:00:00,9 pm slight aurora,mno,casual_phenomena,155,189926,1680,1577
+6,St Johns Caswell,America/St_Johns,0,1869-01-07 00:00:00,1869-01-07 00:00:00,slight aurora in evening. stars very bright,mno,casual_phenomena,155,191091,1692,1581
+7,St Johns Caswell,America/St_Johns,0,1869-01-09 00:00:00,1869-01-09 00:00:00,ground only about a quarter covered with snow - opening of the new skating rink postponed on account of the thaw,mno,casual_phenomena,155,191092,1692,1581
+8,St Johns Caswell,America/St_Johns,0,1869-01-10 00:00:00,1869-01-10 00:00:00,ground only about a quarter covered with snow - opening of the new skating rink postponed on account of the thaw,mno,casual_phenomena,155,191093,1692,1581
+9,St Johns Caswell,America/St_Johns,0,1869-01-11 00:00:00,1869-01-11 00:00:00,ground only about a quarter covered with snow - opening of the new skating rink postponed on account of the thaw,mno,casual_phenomena,155,191097,1692,1581
+10,St Johns Caswell,America/St_Johns,0,1869-02-01 00:00:00,1869-02-01 00:00:00,"about the beginning of the month a small brig left here for oporto, and was telegraphed as having arrived there on the 12th day after her departure from here - even 21 days is considered a good passage generally. - at the end of the month a brig arrived here 90 days out from sicily. - this will give some idea of the weather of late on the atlantic",mno,casual_phenomena,155,191189,1693,1584
+11,St Johns Caswell,America/St_Johns,0,1869-02-08 00:00:00,1869-02-08 00:00:00,"3 pm mock sun, northern side of sun",mno,casual_phenomena,155,191121,1693,1584
+12,St Johns Caswell,America/St_Johns,0,1869-02-11 00:00:00,1869-02-11 00:00:00,2:30 pm - halo round sun,mno,casual_phenomena,155,191124,1693,1584
+13,St Johns Caswell,America/St_Johns,0,1869-02-15 00:00:00,1869-02-15 00:00:00,"the harbour, (landlocked) has been frozen over for some time: but at this date, the ice about a foot thick, thicker than",mno,casual_phenomena,155,191167,1693,1584
+14,St Johns Caswell,America/St_Johns,0,1869-02-23 00:00:00,1869-02-23 00:00:00,very brilliant sunrise,mno,casual_phenomena,155,191115,1693,1584
+15,St Johns Caswell,America/St_Johns,0,1869-02-24 00:00:00,1869-02-24 00:00:00,brilliant sunset,mno,casual_phenomena,155,191125,1693,1584
+16,St Johns Caswell,America/St_Johns,0,1869-02-26 00:00:00,1869-02-26 00:00:00,and morning of the 27th the fire glowed very much,mno,casual_phenomena,155,191109,1693,1584
+17,St Johns Caswell,America/St_Johns,0,1869-02-28 00:00:00,1869-02-28 00:00:00,snow still on ground every day of the month,mno,casual_phenomena,155,191205,1693,1584
+18,St Johns Caswell,America/St_Johns,0,1868-12-21 00:00:00,1868-12-21 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193914,1678,1578
+19,St Johns Caswell,America/St_Johns,0,1868-12-22 00:00:00,1868-12-22 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193915,1678,1578
+20,St Johns Caswell,America/St_Johns,0,1868-12-23 00:00:00,1868-12-23 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193917,1678,1578
+21,St Johns Caswell,America/St_Johns,0,1868-12-25 00:00:00,1868-12-25 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193919,1678,1578
+22,St Johns Caswell,America/St_Johns,0,1868-12-26 00:00:00,1868-12-26 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193920,1678,1578
+23,St Johns Caswell,America/St_Johns,0,1868-12-27 00:00:00,1868-12-27 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193922,1678,1578
+24,St Johns Caswell,America/St_Johns,0,1868-12-28 00:00:00,1868-12-28 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193924,1678,1578
+25,St Johns Caswell,America/St_Johns,0,1868-12-29 00:00:00,1868-12-29 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193926,1678,1578
+26,St Johns Caswell,America/St_Johns,0,1868-12-30 00:00:00,1868-12-30 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193927,1678,1578
+27,St Johns Caswell,America/St_Johns,0,1868-12-31 00:00:00,1868-12-31 00:00:00,snow still on the ground,mno,daily_weather_remarks,129,193928,1678,1578
+28,St Johns Caswell,America/St_Johns,0,1868-11-28 21:00:00,1868-11-28 21:00:00,1,Bf,wind_force_9pm,110,190326,1684,1579
+29,St Johns Caswell,America/St_Johns,0,1868-11-29 21:00:00,1868-11-29 21:00:00,2,Bf,wind_force_9pm,110,190325,1684,1579
+30,St Johns Caswell,America/St_Johns,0,1868-11-30 21:00:00,1868-11-30 21:00:00,1,Bf,wind_force_9pm,110,190324,1684,1579
+31,St Johns Caswell,America/St_Johns,0,1868-12-01 21:00:00,1868-12-01 21:00:00,6,Bf,wind_force_9pm,110,193934,1678,1578
+32,St Johns Caswell,America/St_Johns,0,1868-12-02 21:00:00,1868-12-02 21:00:00,1,Bf,wind_force_9pm,110,193937,1678,1578
+33,St Johns Caswell,America/St_Johns,0,1868-12-03 21:00:00,1868-12-03 21:00:00,1,Bf,wind_force_9pm,110,193939,1678,1578
+34,St Johns Caswell,America/St_Johns,0,1868-12-04 21:00:00,1868-12-04 21:00:00,1,Bf,wind_force_9pm,110,193941,1678,1578
+35,St Johns Caswell,America/St_Johns,0,1868-12-05 21:00:00,1868-12-05 21:00:00,1,Bf,wind_force_9pm,110,193944,1678,1578
+36,St Johns Caswell,America/St_Johns,0,1868-12-06 21:00:00,1868-12-06 21:00:00,1,Bf,wind_force_9pm,110,193945,1678,1578
+37,St Johns Caswell,America/St_Johns,0,1868-12-07 21:00:00,1868-12-07 21:00:00,1,Bf,wind_force_9pm,110,193947,1678,1578
+38,St Johns Caswell,America/St_Johns,0,1868-12-08 21:00:00,1868-12-08 21:00:00,7,Bf,wind_force_9pm,110,193950,1678,1578
+39,St Johns Caswell,America/St_Johns,0,1868-12-09 21:00:00,1868-12-09 21:00:00,1,Bf,wind_force_9pm,110,193957,1678,1578
+40,St Johns Caswell,America/St_Johns,0,1868-12-10 21:00:00,1868-12-10 21:00:00,1,Bf,wind_force_9pm,110,193962,1678,1578
+41,St Johns Caswell,America/St_Johns,0,1868-12-11 21:00:00,1868-12-11 21:00:00,1,Bf,wind_force_9pm,110,193969,1678,1578
+42,St Johns Caswell,America/St_Johns,0,1868-12-12 21:00:00,1868-12-12 21:00:00,4,Bf,wind_force_9pm,110,193973,1678,1578
+43,St Johns Caswell,America/St_Johns,0,1868-12-13 21:00:00,1868-12-13 21:00:00,2,Bf,wind_force_9pm,110,193983,1678,1578
+44,St Johns Caswell,America/St_Johns,0,1868-12-14 21:00:00,1868-12-14 21:00:00,1,Bf,wind_force_9pm,110,193987,1678,1578
+45,St Johns Caswell,America/St_Johns,0,1868-12-15 21:00:00,1868-12-15 21:00:00,1,Bf,wind_force_9pm,110,193997,1678,1578
+46,St Johns Caswell,America/St_Johns,0,1868-12-16 21:00:00,1868-12-16 21:00:00,1,Bf,wind_force_9pm,110,194001,1678,1578
+47,St Johns Caswell,America/St_Johns,0,1868-12-17 21:00:00,1868-12-17 21:00:00,1,Bf,wind_force_9pm,110,194004,1678,1578
+48,St Johns Caswell,America/St_Johns,0,1868-12-18 21:00:00,1868-12-18 21:00:00,1,Bf,wind_force_9pm,110,194010,1678,1578
+49,St Johns Caswell,America/St_Johns,0,1868-12-19 21:00:00,1868-12-19 21:00:00,2,Bf,wind_force_9pm,110,194012,1678,1578
+50,St Johns Caswell,America/St_Johns,0,1868-12-20 21:00:00,1868-12-20 21:00:00,1,Bf,wind_force_9pm,110,194013,1678,1578
+51,St Johns Caswell,America/St_Johns,0,1868-12-21 21:00:00,1868-12-21 21:00:00,3,Bf,wind_force_9pm,110,194014,1678,1578
+52,St Johns Caswell,America/St_Johns,0,1868-12-22 21:00:00,1868-12-22 21:00:00,1,Bf,wind_force_9pm,110,194015,1678,1578
+53,St Johns Caswell,America/St_Johns,0,1868-12-23 21:00:00,1868-12-23 21:00:00,1,Bf,wind_force_9pm,110,194016,1678,1578
+54,St Johns Caswell,America/St_Johns,0,1868-12-24 21:00:00,1868-12-24 21:00:00,1,Bf,wind_force_9pm,110,194017,1678,1578
+55,St Johns Caswell,America/St_Johns,0,1868-12-25 21:00:00,1868-12-25 21:00:00,1,Bf,wind_force_9pm,110,194018,1678,1578
+56,St Johns Caswell,America/St_Johns,0,1868-12-26 21:00:00,1868-12-26 21:00:00,1,Bf,wind_force_9pm,110,194019,1678,1578
+57,St Johns Caswell,America/St_Johns,0,1868-12-27 21:00:00,1868-12-27 21:00:00,1,Bf,wind_force_9pm,110,194020,1678,1578
+58,St Johns Caswell,America/St_Johns,0,1868-12-28 21:00:00,1868-12-28 21:00:00,4,Bf,wind_force_9pm,110,194021,1678,1578
+59,St Johns Caswell,America/St_Johns,0,1868-12-29 21:00:00,1868-12-29 21:00:00,1,Bf,wind_force_9pm,110,194022,1678,1578
+60,St Johns Caswell,America/St_Johns,0,1868-12-30 21:00:00,1868-12-30 21:00:00,5,Bf,wind_force_9pm,110,194023,1678,1578
+61,St Johns Caswell,America/St_Johns,0,1868-12-31 21:00:00,1868-12-31 21:00:00,1,Bf,wind_force_9pm,110,194024,1678,1578
+62,St Johns Caswell,America/St_Johns,0,1869-01-01 21:00:00,1869-01-01 21:00:00,1,Bf,wind_force_9pm,110,190542,1685,1580
+63,St Johns Caswell,America/St_Johns,0,1869-01-02 21:00:00,1869-01-02 21:00:00,1,Bf,wind_force_9pm,110,190541,1685,1580
+64,St Johns Caswell,America/St_Johns,0,1869-01-03 21:00:00,1869-01-03 21:00:00,1,Bf,wind_force_9pm,110,190540,1685,1580
+65,St Johns Caswell,America/St_Johns,0,1869-01-04 21:00:00,1869-01-04 21:00:00,1,Bf,wind_force_9pm,110,190539,1685,1580
+66,St Johns Caswell,America/St_Johns,0,1869-01-05 21:00:00,1869-01-05 21:00:00,6,Bf,wind_force_9pm,110,190538,1685,1580
+67,St Johns Caswell,America/St_Johns,0,1869-01-06 21:00:00,1869-01-06 21:00:00,5,Bf,wind_force_9pm,110,190537,1685,1580
+68,St Johns Caswell,America/St_Johns,0,1869-01-07 21:00:00,1869-01-07 21:00:00,1,Bf,wind_force_9pm,110,190536,1685,1580
+69,St Johns Caswell,America/St_Johns,0,1869-01-08 21:00:00,1869-01-08 21:00:00,4,Bf,wind_force_9pm,110,190535,1685,1580
+70,St Johns Caswell,America/St_Johns,0,1869-01-09 21:00:00,1869-01-09 21:00:00,1,Bf,wind_force_9pm,110,190534,1685,1580
+71,St Johns Caswell,America/St_Johns,0,1869-01-10 21:00:00,1869-01-10 21:00:00,3,Bf,wind_force_9pm,110,190533,1685,1580
+72,St Johns Caswell,America/St_Johns,0,1869-01-11 21:00:00,1869-01-11 21:00:00,1,Bf,wind_force_9pm,110,190532,1685,1580
+73,St Johns Caswell,America/St_Johns,0,1869-01-12 21:00:00,1869-01-12 21:00:00,1,Bf,wind_force_9pm,110,190531,1685,1580
+74,St Johns Caswell,America/St_Johns,0,1869-01-13 21:00:00,1869-01-13 21:00:00,1,Bf,wind_force_9pm,110,190530,1685,1580
+75,St Johns Caswell,America/St_Johns,0,1869-01-14 21:00:00,1869-01-14 21:00:00,1,Bf,wind_force_9pm,110,190529,1685,1580
+76,St Johns Caswell,America/St_Johns,0,1869-01-15 21:00:00,1869-01-15 21:00:00,1,Bf,wind_force_9pm,110,190528,1685,1580
+77,St Johns Caswell,America/St_Johns,0,1869-01-16 21:00:00,1869-01-16 21:00:00,2,Bf,wind_force_9pm,110,190527,1685,1580
+78,St Johns Caswell,America/St_Johns,0,1869-01-17 21:00:00,1869-01-17 21:00:00,1,Bf,wind_force_9pm,110,190526,1685,1580
+79,St Johns Caswell,America/St_Johns,0,1869-01-18 21:00:00,1869-01-18 21:00:00,1,Bf,wind_force_9pm,110,190525,1685,1580
+80,St Johns Caswell,America/St_Johns,0,1869-01-19 21:00:00,1869-01-19 21:00:00,7,Bf,wind_force_9pm,110,190524,1685,1580
+81,St Johns Caswell,America/St_Johns,0,1869-01-20 21:00:00,1869-01-20 21:00:00,6,Bf,wind_force_9pm,110,190523,1685,1580
+82,St Johns Caswell,America/St_Johns,0,1869-01-21 21:00:00,1869-01-21 21:00:00,1,Bf,wind_force_9pm,110,190522,1685,1580
+83,St Johns Caswell,America/St_Johns,0,1869-01-22 21:00:00,1869-01-22 21:00:00,3,Bf,wind_force_9pm,110,190521,1685,1580
+84,St Johns Caswell,America/St_Johns,0,1869-01-23 21:00:00,1869-01-23 21:00:00,1,Bf,wind_force_9pm,110,190520,1685,1580
+85,St Johns Caswell,America/St_Johns,0,1869-01-24 21:00:00,1869-01-24 21:00:00,4,Bf,wind_force_9pm,110,190519,1685,1580
+86,St Johns Caswell,America/St_Johns,0,1869-01-25 21:00:00,1869-01-25 21:00:00,2,Bf,wind_force_9pm,110,190518,1685,1580
+87,St Johns Caswell,America/St_Johns,0,1869-01-26 21:00:00,1869-01-26 21:00:00,1,Bf,wind_force_9pm,110,190517,1685,1580
+88,St Johns Caswell,America/St_Johns,0,1869-01-27 21:00:00,1869-01-27 21:00:00,3,Bf,wind_force_9pm,110,190516,1685,1580
+89,St Johns Caswell,America/St_Johns,0,1869-01-28 21:00:00,1869-01-28 21:00:00,1,Bf,wind_force_9pm,110,190515,1685,1580
+90,St Johns Caswell,America/St_Johns,0,1869-01-29 21:00:00,1869-01-29 21:00:00,1,Bf,wind_force_9pm,110,190512,1685,1580
+91,St Johns Caswell,America/St_Johns,0,1869-01-30 21:00:00,1869-01-30 21:00:00,2,Bf,wind_force_9pm,110,190511,1685,1580
+92,St Johns Caswell,America/St_Johns,0,1869-01-31 21:00:00,1869-01-31 21:00:00,3,Bf,wind_force_9pm,110,190510,1685,1580
+93,St Johns Caswell,America/St_Johns,0,1869-02-01 21:00:00,1869-02-01 21:00:00,2,Bf,wind_force_9pm,110,190889,1686,1583
+94,St Johns Caswell,America/St_Johns,0,1869-02-02 21:00:00,1869-02-02 21:00:00,5,Bf,wind_force_9pm,110,190887,1686,1583
+95,St Johns Caswell,America/St_Johns,0,1869-02-03 21:00:00,1869-02-03 21:00:00,2,Bf,wind_force_9pm,110,190884,1686,1583
+96,St Johns Caswell,America/St_Johns,0,1869-02-04 21:00:00,1869-02-04 21:00:00,6,Bf,wind_force_9pm,110,190883,1686,1583
+97,St Johns Caswell,America/St_Johns,0,1869-02-05 21:00:00,1869-02-05 21:00:00,1,Bf,wind_force_9pm,110,190880,1686,1583
+98,St Johns Caswell,America/St_Johns,0,1869-02-06 21:00:00,1869-02-06 21:00:00,3,Bf,wind_force_9pm,110,190878,1686,1583
+99,St Johns Caswell,America/St_Johns,0,1869-02-07 21:00:00,1869-02-07 21:00:00,1,Bf,wind_force_9pm,110,190873,1686,1583
+100,St Johns Caswell,America/St_Johns,0,1869-02-08 21:00:00,1869-02-08 21:00:00,1,Bf,wind_force_9pm,110,190871,1686,1583
+101,St Johns Caswell,America/St_Johns,0,1869-02-09 21:00:00,1869-02-09 21:00:00,1,Bf,wind_force_9pm,110,190869,1686,1583
+102,St Johns Caswell,America/St_Johns,0,1869-02-10 21:00:00,1869-02-10 21:00:00,1,Bf,wind_force_9pm,110,190867,1686,1583
+103,St Johns Caswell,America/St_Johns,0,1869-02-11 21:00:00,1869-02-11 21:00:00,1,Bf,wind_force_9pm,110,190863,1686,1583
+104,St Johns Caswell,America/St_Johns,0,1869-02-12 21:00:00,1869-02-12 21:00:00,3,Bf,wind_force_9pm,110,190861,1686,1583
+105,St Johns Caswell,America/St_Johns,0,1869-02-13 21:00:00,1869-02-13 21:00:00,1,Bf,wind_force_9pm,110,190858,1686,1583
+106,St Johns Caswell,America/St_Johns,0,1869-02-14 21:00:00,1869-02-14 21:00:00,6,Bf,wind_force_9pm,110,190854,1686,1583
+107,St Johns Caswell,America/St_Johns,0,1869-02-15 21:00:00,1869-02-15 21:00:00,2,Bf,wind_force_9pm,110,190834,1686,1583
+108,St Johns Caswell,America/St_Johns,0,1869-02-16 21:00:00,1869-02-16 21:00:00,8,Bf,wind_force_9pm,110,190829,1686,1583
+109,St Johns Caswell,America/St_Johns,0,1869-02-17 21:00:00,1869-02-17 21:00:00,5,Bf,wind_force_9pm,110,190828,1686,1583
+110,St Johns Caswell,America/St_Johns,0,1869-02-18 21:00:00,1869-02-18 21:00:00,2,Bf,wind_force_9pm,110,190821,1686,1583
+111,St Johns Caswell,America/St_Johns,0,1869-02-19 21:00:00,1869-02-19 21:00:00,0,Bf,wind_force_9pm,110,190819,1686,1583
+112,St Johns Caswell,America/St_Johns,0,1869-02-20 21:00:00,1869-02-20 21:00:00,5,Bf,wind_force_9pm,110,190817,1686,1583
+113,St Johns Caswell,America/St_Johns,0,1869-02-21 21:00:00,1869-02-21 21:00:00,1,Bf,wind_force_9pm,110,190813,1686,1583
+114,St Johns Caswell,America/St_Johns,0,1869-02-22 21:00:00,1869-02-22 21:00:00,1,Bf,wind_force_9pm,110,190811,1686,1583
+115,St Johns Caswell,America/St_Johns,0,1869-02-23 21:00:00,1869-02-23 21:00:00,7,Bf,wind_force_9pm,110,190798,1686,1583
+116,St Johns Caswell,America/St_Johns,0,1869-02-24 21:00:00,1869-02-24 21:00:00,2,Bf,wind_force_9pm,110,190797,1686,1583
+117,St Johns Caswell,America/St_Johns,0,1869-02-25 21:00:00,1869-02-25 21:00:00,1,Bf,wind_force_9pm,110,190793,1686,1583
+118,St Johns Caswell,America/St_Johns,0,1869-02-26 21:00:00,1869-02-26 21:00:00,1,Bf,wind_force_9pm,110,190791,1686,1583
+119,St Johns Caswell,America/St_Johns,0,1869-02-27 21:00:00,1869-02-27 21:00:00,1,Bf,wind_force_9pm,110,190788,1686,1583
+120,St Johns Caswell,America/St_Johns,0,1869-02-28 21:00:00,1869-02-28 21:00:00,2,Bf,wind_force_9pm,110,190786,1686,1583

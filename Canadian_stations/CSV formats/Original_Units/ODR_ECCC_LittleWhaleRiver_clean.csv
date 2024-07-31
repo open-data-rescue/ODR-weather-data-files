@@ -1,0 +1,397 @@
+,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
+1,Little Whale River,America/Montreal,0,1861-11-01,1861-11-01,cloudy. strong breeze. squally.,mno,daily_weather_remarks,129,383939,3019,2893
+2,Little Whale River,America/Montreal,0,1861-11-02,1861-11-02,cloudy; light breeze,mno,daily_weather_remarks,129,384155,3019,2893
+3,Little Whale River,America/Montreal,0,1861-11-03,1861-11-03,cloudy; light breeze,mno,daily_weather_remarks,129,384156,3019,2893
+4,Little Whale River,America/Montreal,0,1861-11-04,1861-11-04,cloudy; light breeze,mno,daily_weather_remarks,129,384157,3019,2893
+5,Little Whale River,America/Montreal,0,1861-11-05,1861-11-05,cloudy; light breeze,mno,daily_weather_remarks,129,384158,3019,2893
+6,Little Whale River,America/Montreal,0,1861-11-06,1861-11-06,cloudy; light breeze,mno,daily_weather_remarks,129,384159,3019,2893
+7,Little Whale River,America/Montreal,0,1861-11-07,1861-11-07,cloudy; light breeze,mno,daily_weather_remarks,129,384160,3019,2893
+8,Little Whale River,America/Montreal,0,1861-11-08,1861-11-08,cloudy; light breeze,mno,daily_weather_remarks,129,384161,3019,2893
+9,Little Whale River,America/Montreal,0,1861-11-09,1861-11-09,cloudy; light breeze,mno,daily_weather_remarks,129,384162,3019,2893
+10,Little Whale River,America/Montreal,0,1861-11-10,1861-11-10,cloudy; light breeze,mno,daily_weather_remarks,129,384163,3019,2893
+11,Little Whale River,America/Montreal,0,1861-11-11,1861-11-11,cloudy; light breeze,mno,daily_weather_remarks,129,384164,3019,2893
+12,Little Whale River,America/Montreal,0,1861-11-12,1861-11-12,cloudy; light breeze,mno,daily_weather_remarks,129,384165,3019,2893
+13,Little Whale River,America/Montreal,0,1861-11-13,1861-11-13,cloudy; light breeze,mno,daily_weather_remarks,129,384166,3019,2893
+14,Little Whale River,America/Montreal,0,1861-11-14,1861-11-14,cloudy; light breeze,mno,daily_weather_remarks,129,384167,3019,2893
+15,Little Whale River,America/Montreal,0,1861-11-15,1861-11-15,cloudy; light breeze,mno,daily_weather_remarks,129,384168,3019,2893
+16,Little Whale River,America/Montreal,0,1861-11-16,1861-11-16,cloudy; strong breeze,mno,daily_weather_remarks,129,384169,3019,2893
+17,Little Whale River,America/Montreal,0,1861-11-17,1861-11-17,cloudy; light breeze,mno,daily_weather_remarks,129,384170,3019,2893
+18,Little Whale River,America/Montreal,0,1861-11-18,1861-11-18,cloudy; light breeze,mno,daily_weather_remarks,129,384171,3019,2893
+19,Little Whale River,America/Montreal,0,1861-11-19,1861-11-19,cloudy; light breeze,mno,daily_weather_remarks,129,384172,3019,2893
+20,Little Whale River,America/Montreal,0,1861-11-20,1861-11-20,cloudy; strong breeze,mno,daily_weather_remarks,129,384173,3019,2893
+21,Little Whale River,America/Montreal,0,1861-11-21,1861-11-21,clear; strong breeze,mno,daily_weather_remarks,129,384174,3019,2893
+22,Little Whale River,America/Montreal,0,1861-11-22,1861-11-22,cloudy; light breeze,mno,daily_weather_remarks,129,384175,3019,2893
+23,Little Whale River,America/Montreal,0,1861-11-23,1861-11-23,cloudy; very strong breeze,mno,daily_weather_remarks,129,384176,3019,2893
+24,Little Whale River,America/Montreal,0,1861-11-24,1861-11-24,cloudy; very strong breeze,mno,daily_weather_remarks,129,384177,3019,2893
+25,Little Whale River,America/Montreal,0,1861-11-25,1861-11-25,cloudy; very strong breeze,mno,daily_weather_remarks,129,384178,3019,2893
+26,Little Whale River,America/Montreal,0,1861-11-26,1861-11-26,clear; light breeze,mno,daily_weather_remarks,129,384179,3019,2893
+27,Little Whale River,America/Montreal,0,1861-11-27,1861-11-27,clear; light breeze,mno,daily_weather_remarks,129,384180,3019,2893
+28,Little Whale River,America/Montreal,0,1861-11-28,1861-11-28,clear; light breeze,mno,daily_weather_remarks,129,384181,3019,2893
+29,Little Whale River,America/Montreal,0,1861-11-29,1861-11-29,cloudy; strong breeze,mno,daily_weather_remarks,129,384182,3019,2893
+30,Little Whale River,America/Montreal,0,1861-11-30,1861-11-30,cloudy; strong breeze,mno,daily_weather_remarks,129,384183,3019,2893
+31,Little Whale River,America/Montreal,0,1861-12-01,1861-12-01,"cloudy, light breeze",mno,daily_weather_remarks,129,385766,3029,2896
+32,Little Whale River,America/Montreal,0,1861-12-02,1861-12-02,"cloudy, light breeze",mno,daily_weather_remarks,129,385768,3029,2896
+33,Little Whale River,America/Montreal,0,1861-12-03,1861-12-03,cloudy. squally. strong breeze.,mno,daily_weather_remarks,129,385770,3029,2896
+34,Little Whale River,America/Montreal,0,1861-12-04,1861-12-04,cloudy. squally. very strong breeze.,mno,daily_weather_remarks,129,385773,3029,2896
+35,Little Whale River,America/Montreal,0,1861-12-05,1861-12-05,cloudy. squally. very strong breeze.,mno,daily_weather_remarks,129,385775,3029,2896
+36,Little Whale River,America/Montreal,0,1861-12-06,1861-12-06,cloudy. light breeze.,mno,daily_weather_remarks,129,385777,3029,2896
+37,Little Whale River,America/Montreal,0,1861-12-07,1861-12-07,cloudy. strong breeze.,mno,daily_weather_remarks,129,385778,3029,2896
+38,Little Whale River,America/Montreal,0,1861-12-08,1861-12-08,cloudy. light breeze.,mno,daily_weather_remarks,129,385779,3029,2896
+39,Little Whale River,America/Montreal,0,1861-12-09,1861-12-09,cloudy. light breeze.,mno,daily_weather_remarks,129,385780,3029,2896
+40,Little Whale River,America/Montreal,0,1861-12-10,1861-12-10,cloudy. strong gale.,mno,daily_weather_remarks,129,385781,3029,2896
+41,Little Whale River,America/Montreal,0,1861-12-11,1861-12-11,"cloudy, strong gale.",mno,daily_weather_remarks,129,385782,3029,2896
+42,Little Whale River,America/Montreal,0,1861-12-12,1861-12-12,cloudy. strong gale.,mno,daily_weather_remarks,129,385783,3029,2896
+43,Little Whale River,America/Montreal,0,1861-12-13,1861-12-13,"cloudy, light breeze",mno,daily_weather_remarks,129,385784,3029,2896
+44,Little Whale River,America/Montreal,0,1861-12-14,1861-12-14,cloudy. a gale.,mno,daily_weather_remarks,129,385785,3029,2896
+45,Little Whale River,America/Montreal,0,1861-12-15,1861-12-15,cloudy. light breeze.,mno,daily_weather_remarks,129,385786,3029,2896
+46,Little Whale River,America/Montreal,0,1861-12-16,1861-12-16,cloudy. smart breeze.,mno,daily_weather_remarks,129,385801,3029,2896
+47,Little Whale River,America/Montreal,0,1861-12-17,1861-12-17,cloudy. smart breeze.,mno,daily_weather_remarks,129,385802,3029,2896
+48,Little Whale River,America/Montreal,0,1861-12-18,1861-12-18,clear. light breeze.,mno,daily_weather_remarks,129,385787,3029,2896
+49,Little Whale River,America/Montreal,0,1861-12-19,1861-12-19,cloudy. light breeze,mno,daily_weather_remarks,129,385788,3029,2896
+50,Little Whale River,America/Montreal,0,1861-12-20,1861-12-20,"cloudy, light breeze",mno,daily_weather_remarks,129,385789,3029,2896
+51,Little Whale River,America/Montreal,0,1861-12-21,1861-12-21,"clear, light breeze",mno,daily_weather_remarks,129,385790,3029,2896
+52,Little Whale River,America/Montreal,0,1861-12-22,1861-12-22,"clear, light breeze",mno,daily_weather_remarks,129,385791,3029,2896
+53,Little Whale River,America/Montreal,0,1861-12-23,1861-12-23,"cloudy, light breeze",mno,daily_weather_remarks,129,385792,3029,2896
+54,Little Whale River,America/Montreal,0,1861-12-24,1861-12-24,"clear, light breeze",mno,daily_weather_remarks,129,385793,3029,2896
+55,Little Whale River,America/Montreal,0,1861-12-25,1861-12-25,"cloudy, strong breeze",mno,daily_weather_remarks,129,385794,3029,2896
+56,Little Whale River,America/Montreal,0,1861-12-26,1861-12-26,"cloudy, light breeze",mno,daily_weather_remarks,129,385795,3029,2896
+57,Little Whale River,America/Montreal,0,1861-12-27,1861-12-27,"cloudy, light breeze",mno,daily_weather_remarks,129,385796,3029,2896
+58,Little Whale River,America/Montreal,0,1861-12-28,1861-12-28,"cloudy, light breeze",mno,daily_weather_remarks,129,385797,3029,2896
+59,Little Whale River,America/Montreal,0,1861-12-29,1861-12-29,"cloudy, very strong breeze",mno,daily_weather_remarks,129,385798,3029,2896
+60,Little Whale River,America/Montreal,0,1861-12-30,1861-12-30,"cloudy, light breeze",mno,daily_weather_remarks,129,385799,3029,2896
+61,Little Whale River,America/Montreal,0,1861-12-31,1861-12-31,"cloudy, strong breeze",mno,daily_weather_remarks,129,385800,3029,2896
+62,Little Whale River,America/Montreal,0,1862-01-01,1862-01-01,cloudy. light wind.,mno,daily_weather_remarks,129,385463,3028,2895
+63,Little Whale River,America/Montreal,0,1862-01-02,1862-01-02,cloudy. light wind.,mno,daily_weather_remarks,129,385467,3028,2895
+64,Little Whale River,America/Montreal,0,1862-01-03,1862-01-03,clear. light wind.,mno,daily_weather_remarks,129,385471,3028,2895
+65,Little Whale River,America/Montreal,0,1862-01-04,1862-01-04,"cloudy, light wind.",mno,daily_weather_remarks,129,385475,3028,2895
+66,Little Whale River,America/Montreal,0,1862-01-05,1862-01-05,"cloudy, light wind",mno,daily_weather_remarks,129,385537,3028,2895
+67,Little Whale River,America/Montreal,0,1862-01-06,1862-01-06,"cloudy, light wind",mno,daily_weather_remarks,129,385538,3028,2895
+68,Little Whale River,America/Montreal,0,1862-01-07,1862-01-07,"cloudy, strong wind",mno,daily_weather_remarks,129,385539,3028,2895
+69,Little Whale River,America/Montreal,0,1862-01-08,1862-01-08,cloudy. strong wind,mno,daily_weather_remarks,129,385540,3028,2895
+70,Little Whale River,America/Montreal,0,1862-01-09,1862-01-09,cloudy. a gale.,mno,daily_weather_remarks,129,385541,3028,2895
+71,Little Whale River,America/Montreal,0,1862-01-10,1862-01-10,clear. light breeze,mno,daily_weather_remarks,129,385542,3028,2895
+72,Little Whale River,America/Montreal,0,1862-01-11,1862-01-11,"clear, light breeze",mno,daily_weather_remarks,129,385543,3028,2895
+73,Little Whale River,America/Montreal,0,1862-01-12,1862-01-12,"clear, light breeze",mno,daily_weather_remarks,129,385544,3028,2895
+74,Little Whale River,America/Montreal,0,1862-01-13,1862-01-13,"cloudy, very strong winds",mno,daily_weather_remarks,129,385545,3028,2895
+75,Little Whale River,America/Montreal,0,1862-01-14,1862-01-14,cloudy. very stong wind.,mno,daily_weather_remarks,129,385546,3028,2895
+76,Little Whale River,America/Montreal,0,1862-01-15,1862-01-15,cloudy. light breeze.,mno,daily_weather_remarks,129,385547,3028,2895
+77,Little Whale River,America/Montreal,0,1862-01-16,1862-01-16,"cloudy, light breeze",mno,daily_weather_remarks,129,385549,3028,2895
+78,Little Whale River,America/Montreal,0,1862-01-17,1862-01-17,cloudy. strong breeze.,mno,daily_weather_remarks,129,385550,3028,2895
+79,Little Whale River,America/Montreal,0,1862-01-18,1862-01-18,"cloudy, very strong wind",mno,daily_weather_remarks,129,385551,3028,2895
+80,Little Whale River,America/Montreal,0,1862-01-19,1862-01-19,"clear, light wind.",mno,daily_weather_remarks,129,385552,3028,2895
+81,Little Whale River,America/Montreal,0,1862-01-20,1862-01-20,"clear, light wind",mno,daily_weather_remarks,129,385553,3028,2895
+82,Little Whale River,America/Montreal,0,1862-01-21,1862-01-21,"cloudy, strong wind",mno,daily_weather_remarks,129,385554,3028,2895
+83,Little Whale River,America/Montreal,0,1862-01-22,1862-01-22,"cloudy, light wind",mno,daily_weather_remarks,129,385555,3028,2895
+84,Little Whale River,America/Montreal,0,1862-01-23,1862-01-23,"cloudy, light wind",mno,daily_weather_remarks,129,385556,3028,2895
+85,Little Whale River,America/Montreal,0,1862-01-24,1862-01-24,cloudy. a gale.,mno,daily_weather_remarks,129,385557,3028,2895
+86,Little Whale River,America/Montreal,0,1862-01-25,1862-01-25,cloud. strong breeze.,mno,daily_weather_remarks,129,385558,3028,2895
+87,Little Whale River,America/Montreal,0,1862-01-26,1862-01-26,"cloudy, light breeze",mno,daily_weather_remarks,129,385559,3028,2895
+88,Little Whale River,America/Montreal,0,1862-01-27,1862-01-27,cloudy. light breeze,mno,daily_weather_remarks,129,385560,3028,2895
+89,Little Whale River,America/Montreal,0,1862-01-28,1862-01-28,"clear, light breeze",mno,daily_weather_remarks,129,385561,3028,2895
+90,Little Whale River,America/Montreal,0,1862-01-29,1862-01-29,"cloudy, strong breeze",mno,daily_weather_remarks,129,385562,3028,2895
+91,Little Whale River,America/Montreal,0,1862-01-30,1862-01-30,"cloudy, light breeze",mno,daily_weather_remarks,129,385563,3028,2895
+92,Little Whale River,America/Montreal,0,1862-01-31,1862-01-31,"cloudy, strong breeze",mno,daily_weather_remarks,129,385564,3028,2895
+93,Little Whale River,America/Montreal,0,1862-02-01,1862-02-01,"cloudy, strong wind",mno,daily_weather_remarks,129,385998,3030,2894
+94,Little Whale River,America/Montreal,0,1862-02-02,1862-02-02,"cloudy, strong wind",mno,daily_weather_remarks,129,385996,3030,2894
+95,Little Whale River,America/Montreal,0,1862-02-03,1862-02-03,"cloudy, light wind",mno,daily_weather_remarks,129,386000,3030,2894
+96,Little Whale River,America/Montreal,0,1862-02-04,1862-02-04,"cloudy, light wind",mno,daily_weather_remarks,129,386001,3030,2894
+97,Little Whale River,America/Montreal,0,1862-02-05,1862-02-05,"clear, light wind",mno,daily_weather_remarks,129,386003,3030,2894
+98,Little Whale River,America/Montreal,0,1862-02-06,1862-02-06,"cloudy, light wind",mno,daily_weather_remarks,129,386004,3030,2894
+99,Little Whale River,America/Montreal,0,1862-02-07,1862-02-07,"clear, light wind",mno,daily_weather_remarks,129,386006,3030,2894
+100,Little Whale River,America/Montreal,0,1862-02-08,1862-02-08,"clear, light wind",mno,daily_weather_remarks,129,386008,3030,2894
+101,Little Whale River,America/Montreal,0,1862-02-09,1862-02-09,"clear, light wind",mno,daily_weather_remarks,129,386009,3030,2894
+102,Little Whale River,America/Montreal,0,1862-02-10,1862-02-10,"clear, light wind",mno,daily_weather_remarks,129,386010,3030,2894
+103,Little Whale River,America/Montreal,0,1862-02-11,1862-02-11,"cloudy, strong wind",mno,daily_weather_remarks,129,386012,3030,2894
+104,Little Whale River,America/Montreal,0,1862-02-12,1862-02-12,"cloudy, strong wind",mno,daily_weather_remarks,129,386013,3030,2894
+105,Little Whale River,America/Montreal,0,1862-02-13,1862-02-13,"clear, stiff breeze in the evening",mno,daily_weather_remarks,129,386014,3030,2894
+106,Little Whale River,America/Montreal,0,1862-02-14,1862-02-14,"cloudy, strong breeze",mno,daily_weather_remarks,129,386015,3030,2894
+107,Little Whale River,America/Montreal,0,1862-02-15,1862-02-15,"cloudy, strong breeze",mno,daily_weather_remarks,129,386016,3030,2894
+108,Little Whale River,America/Montreal,0,1862-02-16,1862-02-16,"cloudy, strong breeze",mno,daily_weather_remarks,129,386017,3030,2894
+109,Little Whale River,America/Montreal,0,1862-02-17,1862-02-17,"clear, light breeze",mno,daily_weather_remarks,129,386018,3030,2894
+110,Little Whale River,America/Montreal,0,1862-02-18,1862-02-18,"clear, light breeze",mno,daily_weather_remarks,129,386019,3030,2894
+111,Little Whale River,America/Montreal,0,1862-02-19,1862-02-19,"clear, light breeze",mno,daily_weather_remarks,129,386020,3030,2894
+112,Little Whale River,America/Montreal,0,1862-02-20,1862-02-20,"clear, light breeze",mno,daily_weather_remarks,129,386021,3030,2894
+113,Little Whale River,America/Montreal,0,1862-02-21,1862-02-21,"clear, light breeze",mno,daily_weather_remarks,129,386022,3030,2894
+114,Little Whale River,America/Montreal,0,1862-02-22,1862-02-22,"clear, light breeze",mno,daily_weather_remarks,129,386024,3030,2894
+115,Little Whale River,America/Montreal,0,1862-02-23,1862-02-23,"clear, light breeze",mno,daily_weather_remarks,129,386025,3030,2894
+116,Little Whale River,America/Montreal,0,1862-02-24,1862-02-24,"clear, light breeze",mno,daily_weather_remarks,129,386026,3030,2894
+117,Little Whale River,America/Montreal,0,1862-02-25,1862-02-25,"clear, light breeze",mno,daily_weather_remarks,129,386027,3030,2894
+118,Little Whale River,America/Montreal,0,1862-02-26,1862-02-26,"clear, strong breeze",mno,daily_weather_remarks,129,386028,3030,2894
+119,Little Whale River,America/Montreal,0,1862-02-27,1862-02-27,"cloudy, light breeze",mno,daily_weather_remarks,129,386030,3030,2894
+120,Little Whale River,America/Montreal,0,1862-02-28,1862-02-28,"cloudy, light breeze",mno,daily_weather_remarks,129,386031,3030,2894
+121,Little Whale River,America/Montreal,0,1862-03-01,1862-03-01,"cloudy, light breeze",mno,daily_weather_remarks,129,385968,3031,2897
+122,Little Whale River,America/Montreal,0,1862-03-02,1862-03-02,"cloudy, light breeze",mno,daily_weather_remarks,129,385969,3031,2897
+123,Little Whale River,America/Montreal,0,1862-03-03,1862-03-03,"cloudy, light breeze",mno,daily_weather_remarks,129,385970,3031,2897
+124,Little Whale River,America/Montreal,0,1862-03-04,1862-03-04,"cloudy, strong breeze",mno,daily_weather_remarks,129,385971,3031,2897
+125,Little Whale River,America/Montreal,0,1862-03-05,1862-03-05,"clear, strong breeze",mno,daily_weather_remarks,129,385973,3031,2897
+126,Little Whale River,America/Montreal,0,1862-03-06,1862-03-06,"cloudy, light breeze",mno,daily_weather_remarks,129,385974,3031,2897
+127,Little Whale River,America/Montreal,0,1862-03-07,1862-03-07,"cloudy, light breeze",mno,daily_weather_remarks,129,385976,3031,2897
+128,Little Whale River,America/Montreal,0,1862-03-08,1862-03-08,"cloudy, light breeze",mno,daily_weather_remarks,129,385977,3031,2897
+129,Little Whale River,America/Montreal,0,1862-03-09,1862-03-09,"clear, light breeze",mno,daily_weather_remarks,129,385978,3031,2897
+130,Little Whale River,America/Montreal,0,1862-03-10,1862-03-10,"cloudy, light breeze",mno,daily_weather_remarks,129,385979,3031,2897
+131,Little Whale River,America/Montreal,0,1862-03-11,1862-03-11,"cloudy, very strong breeze",mno,daily_weather_remarks,129,385980,3031,2897
+132,Little Whale River,America/Montreal,0,1862-03-12,1862-03-12,"clear, light breeze",mno,daily_weather_remarks,129,385981,3031,2897
+133,Little Whale River,America/Montreal,0,1862-03-13,1862-03-13,"clear, light breeze",mno,daily_weather_remarks,129,385982,3031,2897
+134,Little Whale River,America/Montreal,0,1862-03-14,1862-03-14,"clear, light breeze",mno,daily_weather_remarks,129,385983,3031,2897
+135,Little Whale River,America/Montreal,0,1862-03-15,1862-03-15,"clear, light breeze",mno,daily_weather_remarks,129,385984,3031,2897
+136,Little Whale River,America/Montreal,0,1862-03-16,1862-03-16,"clear, light breeze",mno,daily_weather_remarks,129,385985,3031,2897
+137,Little Whale River,America/Montreal,0,1862-03-17,1862-03-17,"clear, light breeze",mno,daily_weather_remarks,129,385986,3031,2897
+138,Little Whale River,America/Montreal,0,1862-03-18,1862-03-18,"clear, light breeze",mno,daily_weather_remarks,129,385987,3031,2897
+139,Little Whale River,America/Montreal,0,1862-03-19,1862-03-19,"cloudy, light breeze",mno,daily_weather_remarks,129,385988,3031,2897
+140,Little Whale River,America/Montreal,0,1862-03-20,1862-03-20,cloudy. calm all day,mno,daily_weather_remarks,129,385989,3031,2897
+141,Little Whale River,America/Montreal,0,1862-03-21,1862-03-21,"cloudy, light breeze",mno,daily_weather_remarks,129,385990,3031,2897
+142,Little Whale River,America/Montreal,0,1862-03-22,1862-03-22,"cloudy, light breeze",mno,daily_weather_remarks,129,385991,3031,2897
+143,Little Whale River,America/Montreal,0,1862-03-23,1862-03-23,"cloudy, strong breeze",mno,daily_weather_remarks,129,385992,3031,2897
+144,Little Whale River,America/Montreal,0,1862-03-24,1862-03-24,"cloudy, strong breeze",mno,daily_weather_remarks,129,385993,3031,2897
+145,Little Whale River,America/Montreal,0,1862-03-25,1862-03-25,"cloudy, light breeze",mno,daily_weather_remarks,129,385994,3031,2897
+146,Little Whale River,America/Montreal,0,1862-03-26,1862-03-26,"cloudy, light breeze",mno,daily_weather_remarks,129,385995,3031,2897
+147,Little Whale River,America/Montreal,0,1862-03-27,1862-03-27,"cloudy, light breeze",mno,daily_weather_remarks,129,385997,3031,2897
+148,Little Whale River,America/Montreal,0,1862-03-28,1862-03-28,"cloudy, light breeze",mno,daily_weather_remarks,129,386550,3031,2897
+149,Little Whale River,America/Montreal,0,1862-03-29,1862-03-29,"cloudy, light breeze",mno,daily_weather_remarks,129,386551,3031,2897
+150,Little Whale River,America/Montreal,0,1862-03-30,1862-03-30,"cloudy, light breeze",mno,daily_weather_remarks,129,386552,3031,2897
+151,Little Whale River,America/Montreal,0,1862-03-31,1862-03-31,"cloudy, light breeze",mno,daily_weather_remarks,129,386553,3031,2897
+152,Little Whale River,America/Montreal,0,1862-04-01,1862-04-01,"cloudy, light breeze",mno,daily_weather_remarks,129,386095,3032,2898
+153,Little Whale River,America/Montreal,0,1862-04-02,1862-04-02,"cloudy, light breeze",mno,daily_weather_remarks,129,386096,3032,2898
+154,Little Whale River,America/Montreal,0,1862-04-03,1862-04-03,"cloudy, a gale",mno,daily_weather_remarks,129,386097,3032,2898
+155,Little Whale River,America/Montreal,0,1862-04-04,1862-04-04,"clear, light breeze",mno,daily_weather_remarks,129,386098,3032,2898
+156,Little Whale River,America/Montreal,0,1862-04-05,1862-04-05,"cloudy, a gale",mno,daily_weather_remarks,129,386099,3032,2898
+157,Little Whale River,America/Montreal,0,1862-04-06,1862-04-06,"cloudy, squally, strong breeze",mno,daily_weather_remarks,129,386100,3032,2898
+158,Little Whale River,America/Montreal,0,1862-04-07,1862-04-07,"cloudy, light breeze",mno,daily_weather_remarks,129,386101,3032,2898
+159,Little Whale River,America/Montreal,0,1862-04-08,1862-04-08,"cloudy, light breeze",mno,daily_weather_remarks,129,386102,3032,2898
+160,Little Whale River,America/Montreal,0,1862-04-09,1862-04-09,"clear, light breeze",mno,daily_weather_remarks,129,386103,3032,2898
+161,Little Whale River,America/Montreal,0,1862-04-10,1862-04-10,"clear, light breeze",mno,daily_weather_remarks,129,386104,3032,2898
+162,Little Whale River,America/Montreal,0,1862-04-11,1862-04-11,"clear, light breeze",mno,daily_weather_remarks,129,386105,3032,2898
+163,Little Whale River,America/Montreal,0,1862-04-12,1862-04-12,"cloudy, light breeze",mno,daily_weather_remarks,129,386106,3032,2898
+164,Little Whale River,America/Montreal,0,1862-04-13,1862-04-13,"cloudy, light breeze",mno,daily_weather_remarks,129,386107,3032,2898
+165,Little Whale River,America/Montreal,0,1862-04-14,1862-04-14,"cloudy, light breeze",mno,daily_weather_remarks,129,386108,3032,2898
+166,Little Whale River,America/Montreal,0,1862-04-15,1862-04-15,"cloudy, light breeze",mno,daily_weather_remarks,129,386109,3032,2898
+167,Little Whale River,America/Montreal,0,1862-04-16,1862-04-16,"cloudy, light breeze",mno,daily_weather_remarks,129,386110,3032,2898
+168,Little Whale River,America/Montreal,0,1862-04-17,1862-04-17,"cloudy, showery, breeze",mno,daily_weather_remarks,129,386111,3032,2898
+169,Little Whale River,America/Montreal,0,1862-04-18,1862-04-18,"cloudy, light breeze",mno,daily_weather_remarks,129,386112,3032,2898
+170,Little Whale River,America/Montreal,0,1862-04-19,1862-04-19,"cloudy, light breeze",mno,daily_weather_remarks,129,386113,3032,2898
+171,Little Whale River,America/Montreal,0,1862-04-20,1862-04-20,"cloudy, very strong breeze",mno,daily_weather_remarks,129,386114,3032,2898
+172,Little Whale River,America/Montreal,0,1862-04-21,1862-04-21,"cloudy, light breeze",mno,daily_weather_remarks,129,386115,3032,2898
+173,Little Whale River,America/Montreal,0,1862-04-22,1862-04-22,"cloudy, light breeze",mno,daily_weather_remarks,129,386116,3032,2898
+174,Little Whale River,America/Montreal,0,1862-04-23,1862-04-23,"cloudy, strong breeze",mno,daily_weather_remarks,129,386117,3032,2898
+175,Little Whale River,America/Montreal,0,1862-04-24,1862-04-24,"cloudy, light breeze",mno,daily_weather_remarks,129,386118,3032,2898
+176,Little Whale River,America/Montreal,0,1862-04-25,1862-04-25,"clear, light breeze",mno,daily_weather_remarks,129,386119,3032,2898
+177,Little Whale River,America/Montreal,0,1862-04-26,1862-04-26,"clear, light breeze",mno,daily_weather_remarks,129,386120,3032,2898
+178,Little Whale River,America/Montreal,0,1862-04-27,1862-04-27,"clear, light breeze",mno,daily_weather_remarks,129,386121,3032,2898
+179,Little Whale River,America/Montreal,0,1862-04-28,1862-04-28,"clear, light breeze",mno,daily_weather_remarks,129,386122,3032,2898
+180,Little Whale River,America/Montreal,0,1862-04-29,1862-04-29,"clear, light breeze",mno,daily_weather_remarks,129,386123,3032,2898
+181,Little Whale River,America/Montreal,0,1862-04-30,1862-04-30,"cloudy, fog, light breeze",mno,daily_weather_remarks,129,386124,3032,2898
+182,Little Whale River,America/Montreal,0,1862-05-01,1862-05-01,"clear, light breeze",mno,daily_weather_remarks,129,386271,3033,2901
+183,Little Whale River,America/Montreal,0,1862-05-02,1862-05-02,"clear, light breeze",mno,daily_weather_remarks,129,386272,3033,2901
+184,Little Whale River,America/Montreal,0,1862-05-03,1862-05-03,"cloudy, light breeze",mno,daily_weather_remarks,129,386273,3033,2901
+185,Little Whale River,America/Montreal,0,1862-05-04,1862-05-04,"clear, light breeze",mno,daily_weather_remarks,129,386274,3033,2901
+186,Little Whale River,America/Montreal,0,1862-05-05,1862-05-05,"cloudy, light breeze",mno,daily_weather_remarks,129,386275,3033,2901
+187,Little Whale River,America/Montreal,0,1862-05-06,1862-05-06,"cloudy, light breeze",mno,daily_weather_remarks,129,386276,3033,2901
+188,Little Whale River,America/Montreal,0,1862-05-07,1862-05-07,"cloudy, light breeze",mno,daily_weather_remarks,129,386277,3033,2901
+189,Little Whale River,America/Montreal,0,1862-05-08,1862-05-08,"cloudy, foggy, light breeze",mno,daily_weather_remarks,129,386278,3033,2901
+190,Little Whale River,America/Montreal,0,1862-05-09,1862-05-09,"cloudy, foggy, light breeze",mno,daily_weather_remarks,129,386279,3033,2901
+191,Little Whale River,America/Montreal,0,1862-05-10,1862-05-10,"cloudy, foggy, light breeze",mno,daily_weather_remarks,129,386280,3033,2901
+192,Little Whale River,America/Montreal,0,1862-05-11,1862-05-11,"cloudy, showery, light breeze",mno,daily_weather_remarks,129,386281,3033,2901
+193,Little Whale River,America/Montreal,0,1862-05-12,1862-05-12,"cloudy, a gale",mno,daily_weather_remarks,129,386282,3033,2901
+194,Little Whale River,America/Montreal,0,1862-05-13,1862-05-13,"cloudy, light breeze",mno,daily_weather_remarks,129,386283,3033,2901
+195,Little Whale River,America/Montreal,0,1862-05-14,1862-05-14,"cloudy, light breeze",mno,daily_weather_remarks,129,386284,3033,2901
+196,Little Whale River,America/Montreal,0,1862-05-15,1862-05-15,"cloudy, light breeze",mno,daily_weather_remarks,129,386285,3033,2901
+197,Little Whale River,America/Montreal,0,1862-05-16,1862-05-16,"cloudy, light breeze",mno,daily_weather_remarks,129,386286,3033,2901
+198,Little Whale River,America/Montreal,0,1862-05-17,1862-05-17,"cloudy, light breeze",mno,daily_weather_remarks,129,386287,3033,2901
+199,Little Whale River,America/Montreal,0,1862-05-18,1862-05-18,"cloudy, light breeze",mno,daily_weather_remarks,129,386288,3033,2901
+200,Little Whale River,America/Montreal,0,1862-05-19,1862-05-19,"clear, light breeze",mno,daily_weather_remarks,129,386289,3033,2901
+201,Little Whale River,America/Montreal,0,1862-05-20,1862-05-20,"cloudy, light breeze",mno,daily_weather_remarks,129,386290,3033,2901
+202,Little Whale River,America/Montreal,0,1862-05-21,1862-05-21,"cloudy, light breeze",mno,daily_weather_remarks,129,386291,3033,2901
+203,Little Whale River,America/Montreal,0,1862-05-22,1862-05-22,"clear, then foggy, light breeze",mno,daily_weather_remarks,129,386292,3033,2901
+204,Little Whale River,America/Montreal,0,1862-05-23,1862-05-23,"cloudy, light breeze",mno,daily_weather_remarks,129,386293,3033,2901
+205,Little Whale River,America/Montreal,0,1862-05-24,1862-05-24,"cloudy, light breeze",mno,daily_weather_remarks,129,386294,3033,2901
+206,Little Whale River,America/Montreal,0,1862-05-25,1862-05-25,"cloudy, light breeze",mno,daily_weather_remarks,129,386295,3033,2901
+207,Little Whale River,America/Montreal,0,1862-05-26,1862-05-26,"cloudy, light breeze",mno,daily_weather_remarks,129,386296,3033,2901
+208,Little Whale River,America/Montreal,0,1862-05-27,1862-05-27,"cloudy, light breeze",mno,daily_weather_remarks,129,386297,3033,2901
+209,Little Whale River,America/Montreal,0,1862-05-28,1862-05-28,"cloudy, light breeze",mno,daily_weather_remarks,129,386298,3033,2901
+210,Little Whale River,America/Montreal,0,1862-05-29,1862-05-29,"cloudy, light breeze",mno,daily_weather_remarks,129,386299,3033,2901
+211,Little Whale River,America/Montreal,0,1862-05-30,1862-05-30,"cloudy, light breeze",mno,daily_weather_remarks,129,386300,3033,2901
+212,Little Whale River,America/Montreal,0,1862-05-31,1862-05-31,"cloudy, light breeze",mno,daily_weather_remarks,129,386301,3033,2901
+213,Little Whale River,America/Montreal,0,1862-06-01,1862-06-01,"cloudy, light breeze",mno,daily_weather_remarks,129,386394,3034,2900
+214,Little Whale River,America/Montreal,0,1862-06-02,1862-06-02,"cloudy, light breeze",mno,daily_weather_remarks,129,386395,3034,2900
+215,Little Whale River,America/Montreal,0,1862-06-03,1862-06-03,"cloudy, foggy, light breeze",mno,daily_weather_remarks,129,386396,3034,2900
+216,Little Whale River,America/Montreal,0,1862-06-04,1862-06-04,"clear, light breeze",mno,daily_weather_remarks,129,386397,3034,2900
+217,Little Whale River,America/Montreal,0,1862-06-05,1862-06-05,"clear, light breeze",mno,daily_weather_remarks,129,386398,3034,2900
+218,Little Whale River,America/Montreal,0,1862-06-06,1862-06-06,"cloudy, light breeze",mno,daily_weather_remarks,129,386399,3034,2900
+219,Little Whale River,America/Montreal,0,1862-06-07,1862-06-07,"clear, light breeze",mno,daily_weather_remarks,129,386400,3034,2900
+220,Little Whale River,America/Montreal,0,1862-06-08,1862-06-08,"cloudy, a gale",mno,daily_weather_remarks,129,386402,3034,2900
+221,Little Whale River,America/Montreal,0,1862-06-09,1862-06-09,"cloudy, foggy, light breeze",mno,daily_weather_remarks,129,386403,3034,2900
+222,Little Whale River,America/Montreal,0,1862-06-10,1862-06-10,"cloudy, foggy, light breeze",mno,daily_weather_remarks,129,386404,3034,2900
+223,Little Whale River,America/Montreal,0,1862-06-11,1862-06-11,"cloudy, light breeze",mno,daily_weather_remarks,129,386405,3034,2900
+224,Little Whale River,America/Montreal,0,1862-06-12,1862-06-12,"cloudy, light breeze",mno,daily_weather_remarks,129,386406,3034,2900
+225,Little Whale River,America/Montreal,0,1862-06-13,1862-06-13,"cloudy, light breeze",mno,daily_weather_remarks,129,386407,3034,2900
+226,Little Whale River,America/Montreal,0,1862-06-14,1862-06-14,"cloudy, light breeze",mno,daily_weather_remarks,129,386408,3034,2900
+227,Little Whale River,America/Montreal,0,1862-06-15,1862-06-15,"cloudy, light breeze",mno,daily_weather_remarks,129,386409,3034,2900
+228,Little Whale River,America/Montreal,0,1862-06-16,1862-06-16,"cloudy, a gale",mno,daily_weather_remarks,129,386410,3034,2900
+229,Little Whale River,America/Montreal,0,1862-06-17,1862-06-17,"cloudy, light breeze",mno,daily_weather_remarks,129,386411,3034,2900
+230,Little Whale River,America/Montreal,0,1862-06-18,1862-06-18,"cloudy, light breeze",mno,daily_weather_remarks,129,386412,3034,2900
+231,Little Whale River,America/Montreal,0,1862-06-19,1862-06-19,"cloudy, light breeze",mno,daily_weather_remarks,129,386413,3034,2900
+232,Little Whale River,America/Montreal,0,1862-06-20,1862-06-20,"cloudy, light breeze",mno,daily_weather_remarks,129,386414,3034,2900
+233,Little Whale River,America/Montreal,0,1862-06-21,1862-06-21,"cloudy, light breeze",mno,daily_weather_remarks,129,386415,3034,2900
+234,Little Whale River,America/Montreal,0,1862-06-22,1862-06-22,"cloudy, light breeze",mno,daily_weather_remarks,129,386416,3034,2900
+235,Little Whale River,America/Montreal,0,1862-06-23,1862-06-23,"cloudy, light breeze",mno,daily_weather_remarks,129,386417,3034,2900
+236,Little Whale River,America/Montreal,0,1862-06-24,1862-06-24,"cloudy, foggy, light breeze",mno,daily_weather_remarks,129,386418,3034,2900
+237,Little Whale River,America/Montreal,0,1862-06-25,1862-06-25,"cloudy, light breeze",mno,daily_weather_remarks,129,386419,3034,2900
+238,Little Whale River,America/Montreal,0,1862-06-26,1862-06-26,"clear, light breeze",mno,daily_weather_remarks,129,386420,3034,2900
+239,Little Whale River,America/Montreal,0,1862-06-27,1862-06-27,"claer then foggy, light breeze",mno,daily_weather_remarks,129,386421,3034,2900
+240,Little Whale River,America/Montreal,0,1862-06-28,1862-06-28,"clear, light breeze",mno,daily_weather_remarks,129,386422,3034,2900
+241,Little Whale River,America/Montreal,0,1862-06-29,1862-06-29,"cloudy, light breeze",mno,daily_weather_remarks,129,386423,3034,2900
+242,Little Whale River,America/Montreal,0,1862-06-30,1862-06-30,"cloudy, showery, light breeze",mno,daily_weather_remarks,129,386424,3034,2900
+243,Little Whale River,America/Montreal,0,1862-07-01,1862-07-01,7am cloudy and foggy. 2pm light breeze.,mno,daily_weather_remarks,129,383483,3017,2899
+244,Little Whale River,America/Montreal,0,1862-07-02,1862-07-02,7am cloudy and foggy. 2pm light breeze.,mno,daily_weather_remarks,129,383485,3017,2899
+245,Little Whale River,America/Montreal,0,1862-07-03,1862-07-03,7am clear. 2pm light breeze.,mno,daily_weather_remarks,129,383488,3017,2899
+246,Little Whale River,America/Montreal,0,1862-07-04,1862-07-04,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383490,3017,2899
+247,Little Whale River,America/Montreal,0,1862-07-05,1862-07-05,7am cloudy. 2pm strong breeze.,mno,daily_weather_remarks,129,383495,3017,2899
+248,Little Whale River,America/Montreal,0,1862-07-06,1862-07-06,7am cloudy. 2pm a strong gale.,mno,daily_weather_remarks,129,383520,3017,2899
+249,Little Whale River,America/Montreal,0,1862-07-07,1862-07-07,7am cloudy. 2pm strong breeze.,mno,daily_weather_remarks,129,383525,3017,2899
+250,Little Whale River,America/Montreal,0,1862-07-08,1862-07-08,7am cloudy. 2pm strong breeze.,mno,daily_weather_remarks,129,383528,3017,2899
+251,Little Whale River,America/Montreal,0,1862-07-09,1862-07-09,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383531,3017,2899
+252,Little Whale River,America/Montreal,0,1862-07-10,1862-07-10,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383537,3017,2899
+253,Little Whale River,America/Montreal,0,1862-07-11,1862-07-11,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383540,3017,2899
+254,Little Whale River,America/Montreal,0,1862-07-12,1862-07-12,7am cloudy and foggy. 2pm light breeze.,mno,daily_weather_remarks,129,383544,3017,2899
+255,Little Whale River,America/Montreal,0,1862-07-13,1862-07-13,7am cloudy and foggy. 2pm light breeze.,mno,daily_weather_remarks,129,383547,3017,2899
+256,Little Whale River,America/Montreal,0,1862-07-14,1862-07-14,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383549,3017,2899
+257,Little Whale River,America/Montreal,0,1862-07-15,1862-07-15,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383550,3017,2899
+258,Little Whale River,America/Montreal,0,1862-07-16,1862-07-16,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383553,3017,2899
+259,Little Whale River,America/Montreal,0,1862-07-17,1862-07-17,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383556,3017,2899
+260,Little Whale River,America/Montreal,0,1862-07-18,1862-07-18,7am cloudy and foggy. 2pm light breeze.,mno,daily_weather_remarks,129,383564,3017,2899
+261,Little Whale River,America/Montreal,0,1862-07-19,1862-07-19,7am cloudy and foggy. 2pm light breeze.,mno,daily_weather_remarks,129,383567,3017,2899
+262,Little Whale River,America/Montreal,0,1862-07-20,1862-07-20,7am clear. 2pm light breeze.,mno,daily_weather_remarks,129,383570,3017,2899
+263,Little Whale River,America/Montreal,0,1862-07-21,1862-07-21,7am clear. 2pm light breeze.,mno,daily_weather_remarks,129,383573,3017,2899
+264,Little Whale River,America/Montreal,0,1862-07-22,1862-07-22,7am clear. 2pm light breeze.,mno,daily_weather_remarks,129,383576,3017,2899
+265,Little Whale River,America/Montreal,0,1862-07-23,1862-07-23,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383579,3017,2899
+266,Little Whale River,America/Montreal,0,1862-07-24,1862-07-24,7am cloudy and foggy. 2pm strong gale.,mno,daily_weather_remarks,129,383582,3017,2899
+267,Little Whale River,America/Montreal,0,1862-07-25,1862-07-25,7am cloudy and foggy. 2pm light breeze.,mno,daily_weather_remarks,129,383584,3017,2899
+268,Little Whale River,America/Montreal,0,1862-07-26,1862-07-26,7am cloudy. 2pm light breeze.,mno,daily_weather_remarks,129,383600,3017,2899
+269,Little Whale River,America/Montreal,0,1862-07-27,1862-07-27,7am clear. 2pm light breeze.,mno,daily_weather_remarks,129,383604,3017,2899
+270,Little Whale River,America/Montreal,0,1862-07-28,1862-07-28,7am clear. 2pm light breeze.,mno,daily_weather_remarks,129,383606,3017,2899
+271,Little Whale River,America/Montreal,0,1862-07-29,1862-07-29,7am clear. 2pm light breeze.,mno,daily_weather_remarks,129,383620,3017,2899
+272,Little Whale River,America/Montreal,0,1862-07-30,1862-07-30,7am clear. 2pm light breeze.,mno,daily_weather_remarks,129,383626,3017,2899
+273,Little Whale River,America/Montreal,0,1862-07-31,1862-07-31,7am clear. 2pm light breeze.,mno,daily_weather_remarks,129,383628,3017,2899
+274,Little Whale River,America/Montreal,0,1862-08-01,1862-08-01,"cloudy, light breeze",mno,daily_weather_remarks,129,386519,3035,2905
+275,Little Whale River,America/Montreal,0,1862-08-02,1862-08-02,"cloudy, light breeze",mno,daily_weather_remarks,129,386520,3035,2905
+276,Little Whale River,America/Montreal,0,1862-08-03,1862-08-03,"cloudy, light breeze",mno,daily_weather_remarks,129,386521,3035,2905
+277,Little Whale River,America/Montreal,0,1862-08-04,1862-08-04,"cloudy, strong breeze",mno,daily_weather_remarks,129,386522,3035,2905
+278,Little Whale River,America/Montreal,0,1862-08-05,1862-08-05,"cloudy, strong breeze",mno,daily_weather_remarks,129,386523,3035,2905
+279,Little Whale River,America/Montreal,0,1862-08-06,1862-08-06,"cloudy, strong breeze",mno,daily_weather_remarks,129,386524,3035,2905
+280,Little Whale River,America/Montreal,0,1862-08-07,1862-08-07,"cloudy, strong breeze",mno,daily_weather_remarks,129,386525,3035,2905
+281,Little Whale River,America/Montreal,0,1862-08-08,1862-08-08,"cloudy, strong breeze",mno,daily_weather_remarks,129,386526,3035,2905
+282,Little Whale River,America/Montreal,0,1862-08-09,1862-08-09,"cloudy, a gale",mno,daily_weather_remarks,129,386527,3035,2905
+283,Little Whale River,America/Montreal,0,1862-08-10,1862-08-10,"cloudy, calm",mno,daily_weather_remarks,129,386528,3035,2905
+284,Little Whale River,America/Montreal,0,1862-08-11,1862-08-11,"cloudy, calm",mno,daily_weather_remarks,129,386529,3035,2905
+285,Little Whale River,America/Montreal,0,1862-08-12,1862-08-12,"cloudy, light breeze",mno,daily_weather_remarks,129,386530,3035,2905
+286,Little Whale River,America/Montreal,0,1862-08-13,1862-08-13,"cloudy, a gale",mno,daily_weather_remarks,129,386531,3035,2905
+287,Little Whale River,America/Montreal,0,1862-08-14,1862-08-14,"cloudy, strong breeze",mno,daily_weather_remarks,129,386532,3035,2905
+288,Little Whale River,America/Montreal,0,1862-08-15,1862-08-15,"cloudy, light breeze",mno,daily_weather_remarks,129,386533,3035,2905
+289,Little Whale River,America/Montreal,0,1862-08-16,1862-08-16,"cloudy, light breeze",mno,daily_weather_remarks,129,386534,3035,2905
+290,Little Whale River,America/Montreal,0,1862-08-17,1862-08-17,"cloudy, strong breeze",mno,daily_weather_remarks,129,386535,3035,2905
+291,Little Whale River,America/Montreal,0,1862-08-18,1862-08-18,"cloudy, very strong breeze",mno,daily_weather_remarks,129,386536,3035,2905
+292,Little Whale River,America/Montreal,0,1862-08-19,1862-08-19,"cloudy, very strong breeze",mno,daily_weather_remarks,129,386537,3035,2905
+293,Little Whale River,America/Montreal,0,1862-08-20,1862-08-20,"cloudy, very strong breeze",mno,daily_weather_remarks,129,386538,3035,2905
+294,Little Whale River,America/Montreal,0,1862-08-21,1862-08-21,"cloudy, very strong breeze",mno,daily_weather_remarks,129,386539,3035,2905
+295,Little Whale River,America/Montreal,0,1862-08-22,1862-08-22,"cloudy, light breeze",mno,daily_weather_remarks,129,386540,3035,2905
+296,Little Whale River,America/Montreal,0,1862-08-23,1862-08-23,"cloudy, strong breeze",mno,daily_weather_remarks,129,386541,3035,2905
+297,Little Whale River,America/Montreal,0,1862-08-24,1862-08-24,"cloudy, gale",mno,daily_weather_remarks,129,386542,3035,2905
+298,Little Whale River,America/Montreal,0,1862-08-25,1862-08-25,"cloudy, strong breeze",mno,daily_weather_remarks,129,386543,3035,2905
+299,Little Whale River,America/Montreal,0,1862-08-26,1862-08-26,"cloudy, light breeze",mno,daily_weather_remarks,129,386544,3035,2905
+300,Little Whale River,America/Montreal,0,1862-08-27,1862-08-27,"cloudy, a gale",mno,daily_weather_remarks,129,386545,3035,2905
+301,Little Whale River,America/Montreal,0,1862-08-28,1862-08-28,"cloudy, a gale",mno,daily_weather_remarks,129,386546,3035,2905
+302,Little Whale River,America/Montreal,0,1862-08-29,1862-08-29,"cloudy, a gale",mno,daily_weather_remarks,129,386547,3035,2905
+303,Little Whale River,America/Montreal,0,1862-08-30,1862-08-30,"cloudy, a gale",mno,daily_weather_remarks,129,386548,3035,2905
+304,Little Whale River,America/Montreal,0,1862-08-31,1862-08-31,"cloudy, strong breeze",mno,daily_weather_remarks,129,386549,3035,2905
+305,Little Whale River,America/Montreal,0,1862-10-01,1862-10-01,"clear, strong breeze",mno,daily_weather_remarks,129,386740,3037,2903
+306,Little Whale River,America/Montreal,0,1862-10-02,1862-10-02,"cloudy, light breeze",mno,daily_weather_remarks,129,386741,3037,2903
+307,Little Whale River,America/Montreal,0,1862-10-03,1862-10-03,"cloudy, light breeze",mno,daily_weather_remarks,129,386742,3037,2903
+308,Little Whale River,America/Montreal,0,1862-10-04,1862-10-04,"cloudy, strong breeze",mno,daily_weather_remarks,129,386743,3037,2903
+309,Little Whale River,America/Montreal,0,1862-10-05,1862-10-05,"cloudy, strong breeze",mno,daily_weather_remarks,129,386744,3037,2903
+310,Little Whale River,America/Montreal,0,1862-10-06,1862-10-06,"cloudy, strong breeze",mno,daily_weather_remarks,129,386745,3037,2903
+311,Little Whale River,America/Montreal,0,1862-10-07,1862-10-07,"cloudy, strong breeze",mno,daily_weather_remarks,129,386746,3037,2903
+312,Little Whale River,America/Montreal,0,1862-10-08,1862-10-08,"cloudy, calm",mno,daily_weather_remarks,129,386747,3037,2903
+313,Little Whale River,America/Montreal,0,1862-10-09,1862-10-09,"cloudy, calm",mno,daily_weather_remarks,129,386748,3037,2903
+314,Little Whale River,America/Montreal,0,1862-10-10,1862-10-10,"cloudy, light breeze",mno,daily_weather_remarks,129,386749,3037,2903
+315,Little Whale River,America/Montreal,0,1862-10-11,1862-10-11,"cloudy, strong breeze",mno,daily_weather_remarks,129,386750,3037,2903
+316,Little Whale River,America/Montreal,0,1862-10-12,1862-10-12,"cloudy, strong breeze",mno,daily_weather_remarks,129,386751,3037,2903
+317,Little Whale River,America/Montreal,0,1862-10-13,1862-10-13,"clear, strong breeze",mno,daily_weather_remarks,129,386752,3037,2903
+318,Little Whale River,America/Montreal,0,1862-10-14,1862-10-14,"clear, strong breeze",mno,daily_weather_remarks,129,386753,3037,2903
+319,Little Whale River,America/Montreal,0,1862-10-15,1862-10-15,"clear, strong breeze",mno,daily_weather_remarks,129,386754,3037,2903
+320,Little Whale River,America/Montreal,0,1862-10-16,1862-10-16,"cloudy, strong breeze",mno,daily_weather_remarks,129,386755,3037,2903
+321,Little Whale River,America/Montreal,0,1862-10-17,1862-10-17,"clear, strong breeze",mno,daily_weather_remarks,129,386756,3037,2903
+322,Little Whale River,America/Montreal,0,1862-10-18,1862-10-18,"cloudy, light breeze",mno,daily_weather_remarks,129,386757,3037,2903
+323,Little Whale River,America/Montreal,0,1862-10-19,1862-10-19,"clear, light breeze",mno,daily_weather_remarks,129,386758,3037,2903
+324,Little Whale River,America/Montreal,0,1862-10-20,1862-10-20,"clear, strong breeze",mno,daily_weather_remarks,129,386759,3037,2903
+325,Little Whale River,America/Montreal,0,1862-10-21,1862-10-21,"clear, light breeze",mno,daily_weather_remarks,129,386760,3037,2903
+326,Little Whale River,America/Montreal,0,1862-10-22,1862-10-22,"clear, light breeze",mno,daily_weather_remarks,129,386761,3037,2903
+327,Little Whale River,America/Montreal,0,1862-10-23,1862-10-23,"clear, light breeze",mno,daily_weather_remarks,129,386762,3037,2903
+328,Little Whale River,America/Montreal,0,1862-10-24,1862-10-24,"cloudy, light breeze",mno,daily_weather_remarks,129,386763,3037,2903
+329,Little Whale River,America/Montreal,0,1862-10-25,1862-10-25,"cloudy, light breeze",mno,daily_weather_remarks,129,386764,3037,2903
+330,Little Whale River,America/Montreal,0,1862-10-26,1862-10-26,"clear, strong breeze",mno,daily_weather_remarks,129,386765,3037,2903
+331,Little Whale River,America/Montreal,0,1862-10-27,1862-10-27,"clear, calm",mno,daily_weather_remarks,129,386766,3037,2903
+332,Little Whale River,America/Montreal,0,1862-10-28,1862-10-28,"cloudy, calm",mno,daily_weather_remarks,129,386767,3037,2903
+333,Little Whale River,America/Montreal,0,1862-10-29,1862-10-29,"cloudy, light breeze",mno,daily_weather_remarks,129,386768,3037,2903
+334,Little Whale River,America/Montreal,0,1862-10-30,1862-10-30,"cloudy, strong breeze",mno,daily_weather_remarks,129,386769,3037,2903
+335,Little Whale River,America/Montreal,0,1862-10-31,1862-10-31,"cloudy, light breeze",mno,daily_weather_remarks,129,386770,3037,2903
+336,Little Whale River,America/Montreal,0,1862-11-01,1862-11-01,cloudy. strong breeze.,mno,daily_weather_remarks,129,384060,3018,2904
+337,Little Whale River,America/Montreal,0,1862-11-02,1862-11-02,cloudy. strong breeze.,mno,daily_weather_remarks,129,384061,3018,2904
+338,Little Whale River,America/Montreal,0,1862-11-03,1862-11-03,cloudy. strong breeze.,mno,daily_weather_remarks,129,384063,3018,2904
+339,Little Whale River,America/Montreal,0,1862-11-04,1862-11-04,clear. light breeze.,mno,daily_weather_remarks,129,384065,3018,2904
+340,Little Whale River,America/Montreal,0,1862-11-05,1862-11-05,clear. light breeze.,mno,daily_weather_remarks,129,384067,3018,2904
+341,Little Whale River,America/Montreal,0,1862-11-06,1862-11-06,clear. light breeze.,mno,daily_weather_remarks,129,384068,3018,2904
+342,Little Whale River,America/Montreal,0,1862-11-07,1862-11-07,cloudy. strong breeze.,mno,daily_weather_remarks,129,384070,3018,2904
+343,Little Whale River,America/Montreal,0,1862-11-08,1862-11-08,breeze.,mno,daily_weather_remarks,129,384071,3018,2904
+344,Little Whale River,America/Montreal,0,1862-11-09,1862-11-09,clear. light breeze.,mno,daily_weather_remarks,129,384072,3018,2904
+345,Little Whale River,America/Montreal,0,1862-11-10,1862-11-10,breeze,mno,daily_weather_remarks,129,384074,3018,2904
+346,Little Whale River,America/Montreal,0,1862-11-11,1862-11-11,cloudy. strong breeze.,mno,daily_weather_remarks,129,384076,3018,2904
+347,Little Whale River,America/Montreal,0,1862-11-12,1862-11-12,cloudy. breeze.,mno,daily_weather_remarks,129,384078,3018,2904
+348,Little Whale River,America/Montreal,0,1862-11-13,1862-11-13,cloudy. a gale.,mno,daily_weather_remarks,129,388099,3018,2904
+349,Little Whale River,America/Montreal,0,1862-11-14,1862-11-14,cloudy. a gale.,mno,daily_weather_remarks,129,388103,3018,2904
+350,Little Whale River,America/Montreal,0,1862-11-15,1862-11-15,cloudy. a gale.,mno,daily_weather_remarks,129,388106,3018,2904
+351,Little Whale River,America/Montreal,0,1862-11-16,1862-11-16,cloudy. a gale.,mno,daily_weather_remarks,129,388108,3018,2904
+352,Little Whale River,America/Montreal,0,1862-11-17,1862-11-17,cloudy. a gale.,mno,daily_weather_remarks,129,388109,3018,2904
+353,Little Whale River,America/Montreal,0,1862-11-18,1862-11-18,cloudy. a gale.,mno,daily_weather_remarks,129,388112,3018,2904
+354,Little Whale River,America/Montreal,0,1862-11-19,1862-11-19,cloudy. a gale.,mno,daily_weather_remarks,129,388114,3018,2904
+355,Little Whale River,America/Montreal,0,1862-11-20,1862-11-20,cloudy. a gale.,mno,daily_weather_remarks,129,388117,3018,2904
+356,Little Whale River,America/Montreal,0,1862-11-21,1862-11-21,cloudy. light gale.,mno,daily_weather_remarks,129,388121,3018,2904
+357,Little Whale River,America/Montreal,0,1862-11-22,1862-11-22,clear. light gale.,mno,daily_weather_remarks,129,388125,3018,2904
+358,Little Whale River,America/Montreal,0,1862-11-23,1862-11-23,clear. light gale.,mno,daily_weather_remarks,129,388127,3018,2904
+359,Little Whale River,America/Montreal,0,1862-11-24,1862-11-24,cloudy. light gale.,mno,daily_weather_remarks,129,388137,3018,2904
+360,Little Whale River,America/Montreal,0,1862-11-25,1862-11-25,cloudy. strong gale.,mno,daily_weather_remarks,129,388145,3018,2904
+361,Little Whale River,America/Montreal,0,1862-11-26,1862-11-26,cloudy. strong gale.,mno,daily_weather_remarks,129,388146,3018,2904
+362,Little Whale River,America/Montreal,0,1862-11-27,1862-11-27,cloudy. light gale.,mno,daily_weather_remarks,129,388147,3018,2904
+363,Little Whale River,America/Montreal,0,1862-11-28,1862-11-28,cloudy. light gale.,mno,daily_weather_remarks,129,388150,3018,2904
+364,Little Whale River,America/Montreal,0,1862-11-29,1862-11-29,clear. strong gale.,mno,daily_weather_remarks,129,388152,3018,2904
+365,Little Whale River,America/Montreal,0,1862-11-30,1862-11-30,clear. light gale.,mno,daily_weather_remarks,129,388155,3018,2904
+366,Little Whale River,America/Montreal,0,1862-12-01,1862-12-01,"cloudy, light breeze",mno,daily_weather_remarks,129,386864,3038,2902
+367,Little Whale River,America/Montreal,0,1862-12-02,1862-12-02,"cloudy, light breeze",mno,daily_weather_remarks,129,386865,3038,2902
+368,Little Whale River,America/Montreal,0,1862-12-03,1862-12-03,"clear, strong breeze",mno,daily_weather_remarks,129,386866,3038,2902
+369,Little Whale River,America/Montreal,0,1862-12-04,1862-12-04,"clear, strong breeze",mno,daily_weather_remarks,129,386867,3038,2902
+370,Little Whale River,America/Montreal,0,1862-12-05,1862-12-05,"cloudy, strong breeze",mno,daily_weather_remarks,129,386868,3038,2902
+371,Little Whale River,America/Montreal,0,1862-12-06,1862-12-06,"cloudy, strong breeze",mno,daily_weather_remarks,129,386869,3038,2902
+372,Little Whale River,America/Montreal,0,1862-12-07,1862-12-07,"cloudy, light  breeze",mno,daily_weather_remarks,129,386870,3038,2902
+373,Little Whale River,America/Montreal,0,1862-12-08,1862-12-08,"cloudy, light  breeze",mno,daily_weather_remarks,129,386871,3038,2902
+374,Little Whale River,America/Montreal,0,1862-12-09,1862-12-09,"cloudy, light  breeze",mno,daily_weather_remarks,129,386872,3038,2902
+375,Little Whale River,America/Montreal,0,1862-12-10,1862-12-10,"clear, light  breeze",mno,daily_weather_remarks,129,386873,3038,2902
+376,Little Whale River,America/Montreal,0,1862-12-11,1862-12-11,"cloudy, strong breeze",mno,daily_weather_remarks,129,386874,3038,2902
+377,Little Whale River,America/Montreal,0,1862-12-12,1862-12-12,"cloudy, strong breeze",mno,daily_weather_remarks,129,386875,3038,2902
+378,Little Whale River,America/Montreal,0,1862-12-13,1862-12-13,"clear, strong breeze",mno,daily_weather_remarks,129,386876,3038,2902
+379,Little Whale River,America/Montreal,0,1862-12-14,1862-12-14,"clear, light breeze",mno,daily_weather_remarks,129,386877,3038,2902
+380,Little Whale River,America/Montreal,0,1862-12-15,1862-12-15,"clear, light breeze",mno,daily_weather_remarks,129,386878,3038,2902
+381,Little Whale River,America/Montreal,0,1862-12-16,1862-12-16,"clear, light breeze",mno,daily_weather_remarks,129,386879,3038,2902
+382,Little Whale River,America/Montreal,0,1862-12-17,1862-12-17,"cloudy, light breeze",mno,daily_weather_remarks,129,386880,3038,2902
+383,Little Whale River,America/Montreal,0,1862-12-18,1862-12-18,"cloudy, light breeze",mno,daily_weather_remarks,129,386881,3038,2902
+384,Little Whale River,America/Montreal,0,1862-12-19,1862-12-19,"clear, calm",mno,daily_weather_remarks,129,386882,3038,2902
+385,Little Whale River,America/Montreal,0,1862-12-20,1862-12-20,"clear, calm",mno,daily_weather_remarks,129,386883,3038,2902
+386,Little Whale River,America/Montreal,0,1862-12-21,1862-12-21,"clear, calm",mno,daily_weather_remarks,129,386884,3038,2902
+387,Little Whale River,America/Montreal,0,1862-12-22,1862-12-22,"cloudy, strong breeze",mno,daily_weather_remarks,129,386885,3038,2902
+388,Little Whale River,America/Montreal,0,1862-12-23,1862-12-23,"cloudy, strong breeze",mno,daily_weather_remarks,129,386886,3038,2902
+389,Little Whale River,America/Montreal,0,1862-12-24,1862-12-24,"clear, light breeze",mno,daily_weather_remarks,129,386887,3038,2902
+390,Little Whale River,America/Montreal,0,1862-12-25,1862-12-25,"cloudy, light breeze",mno,daily_weather_remarks,129,386888,3038,2902
+391,Little Whale River,America/Montreal,0,1862-12-26,1862-12-26,"cloudy, light breeze",mno,daily_weather_remarks,129,386889,3038,2902
+392,Little Whale River,America/Montreal,0,1862-12-27,1862-12-27,"cloudy, light breeze",mno,daily_weather_remarks,129,386890,3038,2902
+393,Little Whale River,America/Montreal,0,1862-12-28,1862-12-28,"cloudy, light breeze",mno,daily_weather_remarks,129,386891,3038,2902
+394,Little Whale River,America/Montreal,0,1862-12-29,1862-12-29,"cloudy, light breeze",mno,daily_weather_remarks,129,386892,3038,2902
+395,Little Whale River,America/Montreal,0,1862-12-30,1862-12-30,"cloudy, light breeze",mno,daily_weather_remarks,129,386893,3038,2902
+396,Little Whale River,America/Montreal,0,1862-12-31,1862-12-31,"clear, strong breeze",mno,daily_weather_remarks,129,386894,3038,2902

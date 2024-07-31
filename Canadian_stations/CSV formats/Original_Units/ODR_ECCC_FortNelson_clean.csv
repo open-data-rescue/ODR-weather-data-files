@@ -1,0 +1,93 @@
+,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
+1,Fort Nelson,America/Fort_Nelson,0,1821-10-07,1821-10-07,rainy,mno,daily_weather_remarks,129,252354,2203,2085
+2,Fort Nelson,America/Fort_Nelson,0,1821-10-08,1821-10-08,heavy rain all the day,mno,daily_weather_remarks,129,252358,2203,2085
+3,Fort Nelson,America/Fort_Nelson,0,1821-10-09,1821-10-09,misty rain,mno,daily_weather_remarks,129,252361,2203,2085
+4,Fort Nelson,America/Fort_Nelson,0,1821-10-12,1821-10-12,heavy rain at 2 o'clock pm [2pm] and at 9pm,mno,daily_weather_remarks,129,252367,2203,2085
+5,Fort Nelson,America/Fort_Nelson,0,1821-10-20,1821-10-20,white frost,mno,daily_weather_remarks,129,252369,2203,2085
+6,Fort Nelson,America/Fort_Nelson,0,1821-10-21,1821-10-21,frost,mno,daily_weather_remarks,129,252371,2203,2085
+7,Fort Nelson,America/Fort_Nelson,0,1821-10-27,1821-10-27,rain this day at 2 o'clock pm [2pm],mno,daily_weather_remarks,129,252374,2203,2085
+8,Fort Nelson,America/Fort_Nelson,0,1821-11-03,1821-11-03,rain at 8 o'clock pm [8pm],mno,daily_weather_remarks,129,249989,2204,2086
+9,Fort Nelson,America/Fort_Nelson,0,1821-11-04,1821-11-04,heavy rain all the day,mno,daily_weather_remarks,129,249990,2204,2086
+10,Fort Nelson,America/Fort_Nelson,0,1821-11-05,1821-11-05,misty and rain all the day,mno,daily_weather_remarks,129,249991,2204,2086
+11,Fort Nelson,America/Fort_Nelson,0,1821-11-06,1821-11-06,heavy rain at 9 o'clock pm [9pm],mno,daily_weather_remarks,129,249992,2204,2086
+12,Fort Nelson,America/Fort_Nelson,0,1821-11-09,1821-11-09,thunder and lightning with rain at 9 o'clock pm [9pm],mno,daily_weather_remarks,129,249993,2204,2086
+13,Fort Nelson,America/Fort_Nelson,0,1821-11-23,1821-11-23,continual rain all day,mno,daily_weather_remarks,129,249994,2204,2086
+14,Fort Nelson,America/Fort_Nelson,0,1821-11-24,1821-11-24,heavy rain all day,mno,daily_weather_remarks,129,249995,2204,2086
+15,Fort Nelson,America/Fort_Nelson,0,1821-11-30,1821-11-30,rain at 9pm,mno,daily_weather_remarks,129,249996,2204,2086
+16,Fort Nelson,America/Fort_Nelson,0,1821-12-01,1821-12-01,rain at 4 pm,mno,daily_weather_remarks,129,251526,2214,2087
+17,Fort Nelson,America/Fort_Nelson,0,1821-12-02,1821-12-02,heavy fog with rain,mno,daily_weather_remarks,129,251530,2214,2087
+18,Fort Nelson,America/Fort_Nelson,0,1821-12-05,1821-12-05,continual rain all this day,mno,daily_weather_remarks,129,251540,2214,2087
+19,Fort Nelson,America/Fort_Nelson,0,1821-12-13,1821-12-13,heavy rain all this day,mno,daily_weather_remarks,129,251567,2214,2087
+20,Fort Nelson,America/Fort_Nelson,0,1821-12-17,1821-12-17,rain at 5 oclock pm,mno,daily_weather_remarks,129,251580,2214,2087
+21,Fort Nelson,America/Fort_Nelson,0,1821-12-18,1821-12-18,rain from 7 am to 2 pm,mno,daily_weather_remarks,129,251584,2214,2087
+22,Fort Nelson,America/Fort_Nelson,0,1821-12-21,1821-12-21,hail at 8 oclock pm,mno,daily_weather_remarks,129,251594,2214,2087
+23,Fort Nelson,America/Fort_Nelson,0,1821-12-30,1821-12-30,heavy rain all this day,mno,daily_weather_remarks,129,251622,2214,2087
+24,Fort Nelson,America/Fort_Nelson,0,1821-10-24,1821-10-24,cloudy,mno,weather_0,18,252339,2203,2085
+25,Fort Nelson,America/Fort_Nelson,0,1821-10-25,1821-10-25,clear,mno,weather_0,18,252340,2203,2085
+26,Fort Nelson,America/Fort_Nelson,0,1821-10-26,1821-10-26,clear,mno,weather_0,18,252341,2203,2085
+27,Fort Nelson,America/Fort_Nelson,0,1821-10-27,1821-10-27,cloudy,mno,weather_0,18,252342,2203,2085
+28,Fort Nelson,America/Fort_Nelson,0,1821-10-28,1821-10-28,clear,mno,weather_0,18,252343,2203,2085
+29,Fort Nelson,America/Fort_Nelson,0,1821-10-29,1821-10-29,clear,mno,weather_0,18,252345,2203,2085
+30,Fort Nelson,America/Fort_Nelson,0,1821-10-30,1821-10-30,clear,mno,weather_0,18,252348,2203,2085
+31,Fort Nelson,America/Fort_Nelson,0,1821-10-31,1821-10-31,cloudy,mno,weather_0,18,252350,2203,2085
+32,Fort Nelson,America/Fort_Nelson,0,1821-11-01,1821-11-01,cloudy,mno,weather_0,18,249959,2204,2086
+33,Fort Nelson,America/Fort_Nelson,0,1821-11-02,1821-11-02,clear,mno,weather_0,18,249960,2204,2086
+34,Fort Nelson,America/Fort_Nelson,0,1821-11-03,1821-11-03,cloudy,mno,weather_0,18,249961,2204,2086
+35,Fort Nelson,America/Fort_Nelson,0,1821-11-04,1821-11-04,cloudy,mno,weather_0,18,249962,2204,2086
+36,Fort Nelson,America/Fort_Nelson,0,1821-11-05,1821-11-05,cloudy,mno,weather_0,18,249963,2204,2086
+37,Fort Nelson,America/Fort_Nelson,0,1821-11-06,1821-11-06,cloudy,mno,weather_0,18,249964,2204,2086
+38,Fort Nelson,America/Fort_Nelson,0,1821-11-07,1821-11-07,clear,mno,weather_0,18,249965,2204,2086
+39,Fort Nelson,America/Fort_Nelson,0,1821-11-08,1821-11-08,clear,mno,weather_0,18,249966,2204,2086
+40,Fort Nelson,America/Fort_Nelson,0,1821-11-09,1821-11-09,clear,mno,weather_0,18,249967,2204,2086
+41,Fort Nelson,America/Fort_Nelson,0,1821-11-10,1821-11-10,clear,mno,weather_0,18,249968,2204,2086
+42,Fort Nelson,America/Fort_Nelson,0,1821-11-11,1821-11-11,clear,mno,weather_0,18,249969,2204,2086
+43,Fort Nelson,America/Fort_Nelson,0,1821-11-12,1821-11-12,clear,mno,weather_0,18,249970,2204,2086
+44,Fort Nelson,America/Fort_Nelson,0,1821-11-13,1821-11-13,clear,mno,weather_0,18,249971,2204,2086
+45,Fort Nelson,America/Fort_Nelson,0,1821-11-14,1821-11-14,clear,mno,weather_0,18,249972,2204,2086
+46,Fort Nelson,America/Fort_Nelson,0,1821-11-15,1821-11-15,clear,mno,weather_0,18,249973,2204,2086
+47,Fort Nelson,America/Fort_Nelson,0,1821-11-16,1821-11-16,clear,mno,weather_0,18,249974,2204,2086
+48,Fort Nelson,America/Fort_Nelson,0,1821-11-17,1821-11-17,clear,mno,weather_0,18,249975,2204,2086
+49,Fort Nelson,America/Fort_Nelson,0,1821-11-18,1821-11-18,clear,mno,weather_0,18,249976,2204,2086
+50,Fort Nelson,America/Fort_Nelson,0,1821-11-19,1821-11-19,clear,mno,weather_0,18,249977,2204,2086
+51,Fort Nelson,America/Fort_Nelson,0,1821-11-20,1821-11-20,clear,mno,weather_0,18,249978,2204,2086
+52,Fort Nelson,America/Fort_Nelson,0,1821-11-21,1821-11-21,clear,mno,weather_0,18,249979,2204,2086
+53,Fort Nelson,America/Fort_Nelson,0,1821-11-22,1821-11-22,cloudy,mno,weather_0,18,249980,2204,2086
+54,Fort Nelson,America/Fort_Nelson,0,1821-11-23,1821-11-23,cloudy,mno,weather_0,18,249981,2204,2086
+55,Fort Nelson,America/Fort_Nelson,0,1821-11-24,1821-11-24,cloudy,mno,weather_0,18,249982,2204,2086
+56,Fort Nelson,America/Fort_Nelson,0,1821-11-25,1821-11-25,clear,mno,weather_0,18,249983,2204,2086
+57,Fort Nelson,America/Fort_Nelson,0,1821-11-26,1821-11-26,clear,mno,weather_0,18,249984,2204,2086
+58,Fort Nelson,America/Fort_Nelson,0,1821-11-27,1821-11-27,clear,mno,weather_0,18,249985,2204,2086
+59,Fort Nelson,America/Fort_Nelson,0,1821-11-28,1821-11-28,clear,mno,weather_0,18,249986,2204,2086
+60,Fort Nelson,America/Fort_Nelson,0,1821-11-29,1821-11-29,clear,mno,weather_0,18,249987,2204,2086
+61,Fort Nelson,America/Fort_Nelson,0,1821-11-30,1821-11-30,clear,mno,weather_0,18,249988,2204,2086
+62,Fort Nelson,America/Fort_Nelson,0,1821-12-01,1821-12-01,cloudy,mno,weather_0,18,251525,2214,2087
+63,Fort Nelson,America/Fort_Nelson,0,1821-12-02,1821-12-02,cloudy,mno,weather_0,18,251529,2214,2087
+64,Fort Nelson,America/Fort_Nelson,0,1821-12-03,1821-12-03,clear,mno,weather_0,18,251533,2214,2087
+65,Fort Nelson,America/Fort_Nelson,0,1821-12-04,1821-12-04,cloudy,mno,weather_0,18,251536,2214,2087
+66,Fort Nelson,America/Fort_Nelson,0,1821-12-05,1821-12-05,cloudy,mno,weather_0,18,251539,2214,2087
+67,Fort Nelson,America/Fort_Nelson,0,1821-12-06,1821-12-06,clear,mno,weather_0,18,251543,2214,2087
+68,Fort Nelson,America/Fort_Nelson,0,1821-12-07,1821-12-07,clear,mno,weather_0,18,251547,2214,2087
+69,Fort Nelson,America/Fort_Nelson,0,1821-12-08,1821-12-08,cloudy,mno,weather_0,18,251550,2214,2087
+70,Fort Nelson,America/Fort_Nelson,0,1821-12-09,1821-12-09,clear,mno,weather_0,18,251554,2214,2087
+71,Fort Nelson,America/Fort_Nelson,0,1821-12-10,1821-12-10,clear,mno,weather_0,18,251557,2214,2087
+72,Fort Nelson,America/Fort_Nelson,0,1821-12-11,1821-12-11,clear,mno,weather_0,18,251560,2214,2087
+73,Fort Nelson,America/Fort_Nelson,0,1821-12-12,1821-12-12,clear,mno,weather_0,18,251563,2214,2087
+74,Fort Nelson,America/Fort_Nelson,0,1821-12-13,1821-12-13,cloudy,mno,weather_0,18,251566,2214,2087
+75,Fort Nelson,America/Fort_Nelson,0,1821-12-14,1821-12-14,clear,mno,weather_0,18,251570,2214,2087
+76,Fort Nelson,America/Fort_Nelson,0,1821-12-15,1821-12-15,clear,mno,weather_0,18,251573,2214,2087
+77,Fort Nelson,America/Fort_Nelson,0,1821-12-16,1821-12-16,clear,mno,weather_0,18,251576,2214,2087
+78,Fort Nelson,America/Fort_Nelson,0,1821-12-17,1821-12-17,cloudy,mno,weather_0,18,251579,2214,2087
+79,Fort Nelson,America/Fort_Nelson,0,1821-12-18,1821-12-18,cloudy,mno,weather_0,18,251583,2214,2087
+80,Fort Nelson,America/Fort_Nelson,0,1821-12-19,1821-12-19,clear,mno,weather_0,18,251587,2214,2087
+81,Fort Nelson,America/Fort_Nelson,0,1821-12-20,1821-12-20,clear,mno,weather_0,18,251590,2214,2087
+82,Fort Nelson,America/Fort_Nelson,0,1821-12-21,1821-12-21,cloudy,mno,weather_0,18,251593,2214,2087
+83,Fort Nelson,America/Fort_Nelson,0,1821-12-22,1821-12-22,clear,mno,weather_0,18,251597,2214,2087
+84,Fort Nelson,America/Fort_Nelson,0,1821-12-23,1821-12-23,clear,mno,weather_0,18,251600,2214,2087
+85,Fort Nelson,America/Fort_Nelson,0,1821-12-24,1821-12-24,clear,mno,weather_0,18,251603,2214,2087
+86,Fort Nelson,America/Fort_Nelson,0,1821-12-25,1821-12-25,clear,mno,weather_0,18,251606,2214,2087
+87,Fort Nelson,America/Fort_Nelson,0,1821-12-26,1821-12-26,clear,mno,weather_0,18,251609,2214,2087
+88,Fort Nelson,America/Fort_Nelson,0,1821-12-27,1821-12-27,clear,mno,weather_0,18,251612,2214,2087
+89,Fort Nelson,America/Fort_Nelson,0,1821-12-28,1821-12-28,clear,mno,weather_0,18,251615,2214,2087
+90,Fort Nelson,America/Fort_Nelson,0,1821-12-29,1821-12-29,clear,mno,weather_0,18,251618,2214,2087
+91,Fort Nelson,America/Fort_Nelson,0,1821-12-30,1821-12-30,cloudy,mno,weather_0,18,251621,2214,2087
+92,Fort Nelson,America/Fort_Nelson,0,1821-12-31,1821-12-31,clear,mno,weather_0,18,251625,2214,2087
