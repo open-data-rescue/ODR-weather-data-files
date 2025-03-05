@@ -1,0 +1,166 @@
+SEF	1.0.0
+ID	MountForestCanada
+Name	MountForest
+Lat	44.01
+Lon	279.11
+Alt	137.16
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	au
+Stat	point
+Unit	none
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1872	05	01	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	01	00	00	24	1	|	orig=1 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	01	00	00	24	12 point. north east to west = 135 degrees north north west = 30 degrees.	|	orig=12 point. North East to West = 135 degrees North North West = 30 degrees. text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	02	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	02	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	02	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	02	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	03	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	03	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	03	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	03	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	04	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	04	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	04	00	00	24	1	|	orig=1 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	04	00	00	24	4 point. north north west to west north west = 45 degrees. north west = 12 degrees.	|	orig=4 point. North North West to West North West = 45 degrees. North West = 12 degrees. text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	05	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	05	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	05	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	05	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	06	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	06	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	06	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	06	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	07	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	07	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	07	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	07	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	08	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	08	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	08	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	08	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	09	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	09	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	09	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	09	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	10	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	10	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	10	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	10	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	11	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	11	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	11	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	11	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	12	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	12	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	12	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	12	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	13	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	13	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	13	00	00	24	1	|	orig=1 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	13	00	00	24	8 point. west north west to north north east = 90 degrees. north north west = 25 degrees.	|	orig=8 point. West North West to North North East = 90 degrees. North North West = 25 degrees. text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	14	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	14	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	14	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	14	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	15	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	15	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	15	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	15	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	16	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	16	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	16	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	16	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	17	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	17	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	17	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	17	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	18	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	18	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	18	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	18	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	19	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	19	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	19	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	19	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	20	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	20	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	20	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	20	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	21	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	21	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	21	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	21	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	22	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	22	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	22	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	22	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	23	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	23	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	23	00	00	24	1	|	orig=1 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	23	00	00	24	7 point north north east to north west by west = 78 degrees 45	|	orig=7 point North North East to North West by West = 78 degrees 45 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	24	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	24	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	24	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	24	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	25	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	25	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	25	00	00	24	1	|	orig=1 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	25	00	00	24	8 point west to north = 90 degrees north west = 16 degrees	|	orig=8 point West to North = 90 degrees North West = 16 degrees text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	26	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	26	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	26	00	00	24	1	|	orig=1 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	26	00	00	24	8 point north north west to east north east = 90 degrees north north east = 20 degrees	|	orig=8 point North North West to East North East = 90 degrees North North East = 20 degrees text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	27	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	27	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	27	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	27	00	00	24	empty	|	orig=Empty text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	28	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	28	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	28	00	00	24	1	|	orig=1 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	28	00	00	24	8 point north north east to west north west = 90 degrees north north west = 18 degrees	|	orig=8 point North North East to West North West = 90 degrees North North West = 18 degrees text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	29	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	29	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	29	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	29	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	30	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	30	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	30	00	00	24	1	|	orig=1 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	30	00	00	24	5 point north to north west by west = 56 degrees 15 north north west by west = 15 degrees	|	orig=5 point North to North West by West = 56 degrees 15 North North West by West = 15 degrees text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	31	00	00	24	-999	|	orig=- text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	31	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	31	00	00	24	1	|	orig=1 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	05	31	00	00	24	north north east  north west = 67 degrees 30 north by west = 20 degrees	|	orig=North North East  North West = 67 degrees 30 North by West = 20 degrees text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-05-01_EXT.jpg
+1872	06	01	00	00	24	1 of 2nd class un-favourable for dimensions	|	orig=1 of 2nd class un-favourable for dimensions text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	02	00	00	24	1 of 2nd class also obstructing a cloud	|	orig=1 of 2nd class also obstructing a cloud text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	03	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	04	00	00	24	1 of 2nd class span 67 degrees 30. apex north by west east west = 30 degrees altitude	|	orig=1 of 2nd class span 67 degrees 30. Apex North by West East West = 30 degrees altitude text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	05	00	00	24	-999	|	orig=None text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	06	00	00	24	-999	|	orig=None text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	07	00	00	24	-999	|	orig=None text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	08	00	00	24	lightning in the south east	|	orig=Lightning in the South East text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	09	00	00	24	auroral radiance from north east to west north west	|	orig=Auroral radiance from North East to West North West text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	10	00	00	24	aurora 1st class span 11 1/2 degrees 30 and height q apex 35	|	orig=Aurora 1st class span 11 1/2 degrees 30 and height q apex 35 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	11	00	00	24	bearing north by west	|	orig=Bearing North by West text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	12	00	00	24	empty	|	orig=Empty text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	13	00	00	24	empty	|	orig=Empty text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	14	00	00	24	auroral radiance intervined by clouds	|	orig=Auroral radiance intervined by clouds text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	15	00	00	24	zodiacal radiance	|	orig=Zodiacal radiance text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	16	00	00	24	auroral radiance	|	orig=Auroral radiance text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	17	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	18	00	00	24	-999	|	orig=None text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	19	00	00	24	-999	|	orig=None text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	20	00	00	24	-999	|	orig=None text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	21	00	00	24	-999	|	orig=None text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	22	00	00	24	1st class aurora span 56.15 and altitude 15	|	orig=1st class aurora span 56.15 and altitude 15 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	23	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	24	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	25	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	26	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	27	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	28	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	29	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
+1872	06	30	00	00	24	0	|	orig=0 text|Local time: mean|QC flag: None|Image File: MountForest_USSI-401_M1958_1872-06-01_EXT.jpg
