@@ -1,0 +1,146 @@
+SEF	1.0.0
+ID	MontrealCanada
+Name	Montreal
+Lat	45.5
+Lon	286.4
+Alt	17.4
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ww
+Stat	point
+Unit	manual observation
+Meta		UTCOffset=Applied	UTCOffset=5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1855	09	01	00	00	24	AU	|	orig=faint auroral arch mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	02	00	00	24	HALO	|	orig=lunar halo 3:30am, 7am mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	03	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	04	00	00	24	HZ	|	orig=hazy until 8:30am mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	05	00	00	24	-999	|	orig=Light thin clouds mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	06	00	00	24	RA	|	orig=slight rain PM mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	07	00	00	24	RA	|	orig=slight rain at intervals [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	08	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	09	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	10	00	00	24	-999	|	orig=Retracted mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	11	00	00	24	AU	|	orig=faint auroral light mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	12	00	00	24	AU	|	orig=faint auroral light mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	13	00	00	24	AU	|	orig=faint auroral light mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	14	00	00	24	HZ	|	orig=Haz[e] AM, Auroral [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	15	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	16	00	00	24	RA	|	orig=rain [illegible] 45 pm mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	17	00	00	24	RA	|	orig=rained heavily ding [during?] night of 17 mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	18	00	00	24	RA	|	orig=inappreciable rain @ 11.15am mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	19	00	00	24	AU	|	orig=hoar frost in am aurora faint mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	20	00	00	24	AU	|	orig=hoar frost faint aurora mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	21	00	00	24	FRST	|	orig=slight hoar frost within [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	22	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	23	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	24	00	00	24	FG	|	orig=dense fog mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	25	00	00	24	RA	|	orig=slight rain mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	26	00	00	24	RA	|	orig=rain mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	27	00	00	24	RA	|	orig=rain at intervals & [illegible], auroral arch [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	28	00	00	24	AU	|	orig=faint auroral arch mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	29	00	00	24	RA	|	orig=slight rain mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	09	30	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-09-01_OBS-F.jpg
+1855	11	01	00	00	24	RA	|	orig=Rain during day ceasing at 4:30 mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	02	00	00	24	-999	|	orig=Fair day modestly bright auror[a] mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	03	00	00	24	AU	|	orig=Fair day auroral [illegible] visible a[?] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	04	00	00	24	AU	|	orig=Fair day Aurora not visible @ 9 mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	05	00	00	24	FG	|	orig=Fair day, Fog and Hoarfrost early AM mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	06	00	00	24	AU	|	orig=fair day brilliant aurora mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	07	00	00	24	RA	|	orig=fair day evening cloudy, rain [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	08	00	00	24	SH	|	orig=fair [illegible] light showers at [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	09	00	00	24	missing	|	orig=Faint zodiacal light, Faint [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	10	00	00	24	FRST	|	orig=Hoar frost early AM, Cloudy PM mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	11	00	00	24	BKN	|	orig=Fair day but cloudy, cleared up abou[t] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	12	00	00	24	RA	|	orig=Light rain @ 8:30am and 11:30am [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	13	00	00	24	missing	|	orig=Clouds [illegible] @ 9am, Faint zodiacal mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	14	00	00	24	AU	|	orig=Faint auroral [illegible], Faint [zodiacal] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	15	00	00	24	RA	|	orig=Rain began 10pm ceasing 10am mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	16	00	00	24	AU	|	orig=Brilliant auroras with [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	17	00	00	24	SN	|	orig=Dull day, Snow began to fall @ mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	18	00	00	24	SN	|	orig=Snow [illegible] @ 7am, Slight rain [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	19	00	00	24	SN	|	orig=Squally with snow, Aurora [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	20	00	00	24	missing	|	orig=Diffused light in N. @ 10pm. [Illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	21	00	00	24	SN	|	orig=Dull day, Snowing mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	22	00	00	24	missing	|	orig=Cleared up @ 8am, Again [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	23	00	00	24	SN	|	orig=Snow began @ 4:30pm, changing to mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	24	00	00	24	missing	|	orig=Fair day. [Illegible] from the NW @ mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	25	00	00	24	SN	|	orig=Snow began 2PM ceasing @ 5PM mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	26	00	00	24	RA	|	orig=Rain @ 1:45pm changed to sleet @ 2 mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	27	00	00	24	SN	|	orig=Snow 8am ceasing at 11am. Rain mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	28	00	00	24	RA	|	orig=Slight rain @ 10am. Heavier @ [PM] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	29	00	00	24	SN	|	orig=Slight snow from 10am to noon mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	11	30	00	00	24	-999	|	orig=Diffused light in the N. Faint [zodiacal] mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-11-01_OBS-F.jpg
+1855	12	01	00	00	24	OVC	|	orig=Fair day - overcast @ 10 mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	02	00	00	24	RA	|	orig=Rain began 4:30pm and [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	03	00	00	24	SN	|	orig=Snow inappreciable @ mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	04	00	00	24	AU	|	orig=Auroras invariable. [Zodiacal] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	05	00	00	24	AU	|	orig=Faint zodiacal light. [Aurora] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	06	00	00	24	RA	|	orig=Dull day. Rain began 5 PM mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	07	00	00	24	AU	|	orig=Faint zodiacal light. [Aurora] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	08	00	00	24	AU	|	orig=Faint zodiacal light. [Aurora] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	09	00	00	24	SN	|	orig=Snow @ 8am changed to [sleet] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	10	00	00	24	-999	|	orig=High wind beginning 7am mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	11	00	00	24	AU	|	orig=Faint zodiacal light. [Aurora] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	12	00	00	24	AU	|	orig=Aurora bright mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	13	00	00	24	AU	|	orig=Aurora invisible [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	14	00	00	24	HALO	|	orig=Solar halo 9PM mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	15	00	00	24	SN	|	orig=Snow 8:30am, mild 4pm mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	16	00	00	24	RA	|	orig=Rain began 12.5 PM ... mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	17	00	00	24	-999	|	orig=Warm Heavy day ... mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	18	00	00	24	-999	|	orig=18 meteors from Capella mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	19	00	00	24	AU	|	orig=Faint auroral [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	20	00	00	24	FG	|	orig=Fog in morning. Lunar mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	21	00	00	24	BKN	|	orig=Cloudy in evening mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	22	00	00	24	SN	|	orig=Snow began 8:30pm and [ceased] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	23	00	00	24	SKC	|	orig=Cleared up at 10pm. Sky [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	24	00	00	24	SKC	|	orig=Fine morning, Cloudy mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	25	00	00	24	SN	|	orig=Snow began 8am and [ended] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	26	00	00	24	SN	|	orig=Snow storm ceased @ 11:30 mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	27	00	00	24	SN	|	orig=Snowing during night mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	28	00	00	24	-999	|	orig=Zodiacal light, Fair mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	29	00	00	24	-999	|	orig=Cold day, clouded over mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	30	00	00	24	AU	|	orig=Faint zodiacal and [aurora] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1855	12	31	00	00	24	-999	|	orig=Clouded during night mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1855-12-01_OBS-F.jpg
+1856	01	01	00	00	24	missing	|	orig=Zodiacal light - [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	02	00	00	24	-999	|	orig=Clouded in evening mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	03	00	00	24	BKN	|	orig=cloudy at night [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	04	00	00	24	-999	|	orig=zodiacal light bright mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	05	00	00	24	-999	|	orig=clouded during night mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	06	00	00	24	-999	|	orig=stormy night - zodiacal mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	07	00	00	24	BKN	|	orig=cloudy at night mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	08	00	00	24	SN	|	orig=slight snow at 9am - 3 mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	09	00	00	24	-999	|	orig=zodiacal light bright mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	10	00	00	24	SKC	|	orig=sky cleared early AM mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	11	00	00	24	AU	|	orig=faint auroral light mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	12	00	00	24	BKN	|	orig=cloudy at night mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	13	00	00	24	SN	|	orig=Snowing throughout [day] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	14	00	00	24	BKN	|	orig=cloudy night mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	15	00	00	24	AU	|	orig=faint auroral mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	16	00	00	24	-999	|	orig=Clouded throughout mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	17	00	00	24	CORONA	|	orig=lunar corona mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	18	00	00	24	-999	|	orig=clouded at night mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	19	00	00	24	SKC	|	orig=Fine clear night. [Faint] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	20	00	00	24	AU	|	orig=clear night, no [auroras] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	21	00	00	24	CORONA	|	orig=faint lunar corona mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	22	00	00	24	missing	|	orig=clouded during [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	23	00	00	24	SKC	|	orig=Fine moonlight [night] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	24	00	00	24	SKC	|	orig=Sky cleared about [1] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	25	00	00	24	-999	|	orig=Zodiacal light bright, extra mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	26	00	00	24	-999	|	orig=Zodiacal light bright mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	27	00	00	24	-999	|	orig=Zodiacal light bright mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	28	00	00	24	-999	|	orig=Zodiacal light bright mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	29	00	00	24	-999	|	orig=clouded during mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	30	00	00	24	-999	|	orig=clouded during mno|Local time: daily|QC flag: missing|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1856	01	31	00	00	24	AU	|	orig=Faint auroral [illegible] mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-101_M1958_1856-01-01_OBS-F.jpg
+1857	11	12	00	00	24	FG	|	orig=Fog mno|Local time: daily|QC flag: None|Image File: Montreal_USSI-203_M1958_1857-11-01_OBS-R.jpg
+1880	01	07	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: MontrealGazette_NP-100_PQ_1880-01-07_NP.png
+1880	01	07	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: MontrealGazette_NP-100_PQ_1880-01-07_NP.png
+1880	01	07	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: MontrealGazette_NP-100_PQ_1880-01-07_NP.png
+1880	01	07	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: MontrealGazette_NP-100_PQ_1880-01-07_NP.png
+1880	01	07	00	00	24	SN	|	orig=The ice bridge has formed and crossing is now made with safety. The roads between the city and St. Lambert, Laprairie and Longueuil are in good condition, but in some places still a little rough, though not so much so as in former years. A good fall of snow would make them perfect and render crossing more a pleasure than a task. mno|Local time: daily|QC flag: None|Image File: MontrealGazette_NP-100_PQ_1880-01-07_NP.png
+1882	01	24	00	00	24	-999	|	orig=Empty mno|Local time: daily|QC flag: missing|Image File: MontrealGazette_NP-100_PQ_1882-01-24_NP.png
+1882	01	24	00	00	24	-999	|	orig=The Cold Wave – Quebec. mno|Local time: daily|QC flag: missing|Image File: MontrealGazette_NP-100_PQ_1882-01-24_NP.png
+1882	01	24	00	00	24	SN	|	orig=Coulonge, January 23 - One foot of snow fell here on Saturday night and Sunday. Roads very heavy. Thermometer 26° below-zero. mno|Local time: daily|QC flag: None|Image File: MontrealGazette_NP-100_PQ_1882-01-24_NP.png
+1882	01	24	00	00	24	SN	|	orig=Quebec, January 23 - The snow is drifting here very hard, and it is very cold to-day. mno|Local time: daily|QC flag: None|Image File: MontrealGazette_NP-100_PQ_1882-01-24_NP.png
+1882	01	24	00	00	24	SN	|	orig=Sorrel, January 23 - The weather last night and today has been the coldest we have had this winter. Thermometer this morning stood 25° below zero. There was a slight fall of snow yesterday. Roads very heavy. mno|Local time: daily|QC flag: None|Image File: MontrealGazette_NP-100_PQ_1882-01-24_NP.png

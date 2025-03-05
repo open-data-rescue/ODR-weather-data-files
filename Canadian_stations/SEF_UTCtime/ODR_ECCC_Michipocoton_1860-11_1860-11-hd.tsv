@@ -1,0 +1,20 @@
+SEF	1.0.0
+ID	MichipocotonCanada
+Name	Michipocoton
+Lat	47.99
+Lon	275.23
+Alt	201
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	hd
+Stat	point
+Unit	deg
+Meta		UTCOffset=Applied	UTCOffset=5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1860	11	01	12	00	0	0	|	orig=North dir|Local time: 0700|QC flag: None|Image File: Michipocoton_USSI-206_M1958_1860-11-01_OBS-F.jpg
+1860	11	01	19	00	0	0	|	orig=North dir|Local time: 1400|QC flag: None|Image File: Michipocoton_USSI-206_M1958_1860-11-01_OBS-F.jpg
+1860	11	02	12	00	0	0	|	orig=North dir|Local time: 0700|QC flag: None|Image File: Michipocoton_USSI-206_M1958_1860-11-01_OBS-F.jpg
+1860	11	02	19	00	0	0	|	orig=North dir|Local time: 1400|QC flag: None|Image File: Michipocoton_USSI-206_M1958_1860-11-01_OBS-F.jpg
+1860	11	04	12	00	0	0	|	orig=North dir|Local time: 0700|QC flag: None|Image File: Michipocoton_USSI-206_M1958_1860-11-01_OBS-F.jpg
+1860	11	07	12	00	0	225	|	orig=South-West dir|Local time: 0700|QC flag: None|Image File: Michipocoton_USSI-206_M1958_1860-11-01_OBS-F.jpg
+1860	11	07	19	00	0	225	|	orig=South-West dir|Local time: 1400|QC flag: None|Image File: Michipocoton_USSI-206_M1958_1860-11-01_OBS-F.jpg

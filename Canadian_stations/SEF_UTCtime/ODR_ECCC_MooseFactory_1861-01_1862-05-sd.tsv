@@ -1,0 +1,84 @@
+SEF	1.0.0
+ID	MooseFactoryCanada
+Name	MooseFactory
+Lat	51.24
+Lon	279.24
+Alt	276
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	sd
+Stat	point
+Unit	mm
+Meta		UTCOffset=Applied	UTCOffset=5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1861	01	27	00	00	24	0.23	|	orig=Inap. in|Local time: daily|QC flag: trace|Image File: MooseFactory_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	04	01	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	02	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	03	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	04	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	05	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	06	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	07	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	08	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	09	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	10	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	11	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	12	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	13	00	00	24	0.20	|	orig=0.008 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	14	00	00	24	0.23	|	orig=Inap. 0.000 in|Local time: daily|QC flag: trace|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	15	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	16	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	17	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	18	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	19	00	00	24	0.23	|	orig=Inap 0.000 in|Local time: daily|QC flag: trace|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	20	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	21	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	22	00	00	24	6.15	|	orig=0.242 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	23	00	00	24	3.28	|	orig=0.129 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	24	00	00	24	1.24	|	orig=0.049 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	25	00	00	24	1.52	|	orig=0.060 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	26	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	27	00	00	24	12.04	|	orig=0.474 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	28	00	00	24	3.38	|	orig=0.133 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	29	00	00	24	2.39	|	orig=0.094 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	04	30	00	00	24	1.40	|	orig=0.055 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	05	30	00	00	24	0.00	|	orig=Empty in|Local time: daily|QC flag: empty|Image File: MooseFactory_USSI-401_M1958_1861-05-01_OBS-L.jpg
+1861	06	26	00	00	24	0.00	|	orig=Empty in|Local time: daily|QC flag: empty|Image File: MooseFactory_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	10	31	00	00	24	0.00	|	orig=Empty in|Local time: daily|QC flag: empty|Image File: MooseFactory_USSI-401_M1958_1861-10-01_OBS-L.jpg
+1861	11	10	00	00	24	-999	|	orig=- in|Local time: daily|QC flag: missing|Image File: MooseFactory_USSI-401_M1958_1861-11-01_OBS-L.jpg
+1861	11	27	00	00	24	0.00	|	orig=Empty in|Local time: daily|QC flag: empty|Image File: MooseFactory_USSI-401_M1958_1861-11-01_OBS-L.jpg
+1862	02	12	00	00	24	0.23	|	orig=inap in|Local time: daily|QC flag: trace|Image File: MooseFactory_USSI-401_M1958_1862-02-01_OBS-L.jpg
+1862	02	26	00	00	24	0.00	|	orig=Empty in|Local time: daily|QC flag: empty|Image File: MooseFactory_USSI-401_M1958_1862-02-01_OBS-L.jpg
+1862	04	03	00	00	24	0.23	|	orig=Inap in|Local time: daily|QC flag: trace|Image File: MooseFactory_USSI-401_M1958_1862-04-01_OBS-L.jpg
+1862	04	19	00	00	24	0.23	|	orig=Inap in|Local time: daily|QC flag: trace|Image File: MooseFactory_USSI-401_M1958_1862-04-01_OBS-L.jpg
+1862	05	01	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	02	00	00	24	2.41	|	orig=0.095 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	03	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	04	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	05	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	06	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	07	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	08	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	09	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	10	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	11	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	12	00	00	24	3.43	|	orig=0.135 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	13	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	14	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	15	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	16	00	00	24	7.75	|	orig=0.305 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	17	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	18	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	19	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	20	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	21	00	00	24	12.12	|	orig=0.477 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	22	00	00	24	5.05	|	orig=0.199 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	23	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	24	00	00	24	2.51	|	orig=0.099 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	25	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	26	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	27	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	28	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	29	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	30	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
+1862	05	31	00	00	24	0.00	|	orig=0.000 in|Local time: daily|QC flag: None|Image File: MooseFactory_USSI-401_M1958_1862-05-01_OBS-L.jpg
