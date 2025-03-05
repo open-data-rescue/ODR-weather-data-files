@@ -1,0 +1,30 @@
+SEF	1.0.0
+ID	KinogumisseeCanada
+Name	Kinogumissee
+Lat	49.83
+Lon	276.0
+Alt	84
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ww
+Stat	point
+Unit	manual observation
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1862	08	31	00	00	24	FRST	|	orig=First frost was on the night of the 24th, the thermometer fell to 30 at 6 am mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1862-08-01_CP.jpg
+1862	08	31	00	00	24	RA	|	orig=During the month August there were seventeen days rain, tho not continual mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1862-08-01_CP.jpg
+1862	09	30	00	00	24	RA	|	orig=During September there twelve days rain mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1862-09-01_CP.jpg
+1862	09	30	00	00	24	SN	|	orig=the scond fall of snow remained for a few hours. mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1862-09-01_CP.jpg
+1862	09	30	00	00	24	SN	|	orig=two days snow on 2nd and 30th, the first was only perceptible while falling, melted away in an instant mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1862-09-01_CP.jpg
+1862	10	31	00	00	24	-999	|	orig=the first white geese, commonly called in this part of the country Wavies, passed on 15th in their flight southward mno|Local time: daily|QC flag: missing|Image File: Kinogumissee_USSI-206_M1958_1862-10-01_CPjpg.jpg
+1862	10	31	00	00	24	-999	|	orig=the small lakes & some of the little rivers were frozen over on 26th mno|Local time: daily|QC flag: missing|Image File: Kinogumissee_USSI-206_M1958_1862-10-01_CPjpg.jpg
+1862	10	31	00	00	24	RA	|	orig=the weather was very changeable, blew a hurricane on 4th with thunder, lightning and heavy rain which lasted for 13 hours mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1862-10-01_CPjpg.jpg
+1862	10	31	00	00	24	SN	|	orig=During October there were nine days snow mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1862-10-01_CPjpg.jpg
+1862	11	01	00	00	24	SN	|	orig=[Undated general note for month] During November there were thirteen days snow. On the fifteenth all the lakes and rivers were frozen over mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1862-11-01_CP.jpg
+1862	12	01	00	00	24	SN	|	orig=During December there were seventeen days snow mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1862-12-01_CP.jpg
+1863	03	01	00	00	24	SN	|	orig=During this month there were sixteen days snow. Snow birds were first seen on 16th. Little rivers begin to open on 30th mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-03-01_CP.jpg
+1863	04	01	00	00	24	-999	|	orig=Search being made none of it ravages among threes [misspelling of ‘trees’?] or any other object could be discovered. It [went?] in a westerly direction from this place, Say six miles and passed within a mile of where I was. mno|Local time: daily|QC flag: missing|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_CP.jpg
+1863	04	01	00	00	24	-999	|	orig=The ice in the lakes began to shift about with the wind on the 27th. I heard a whirlwind on 28th. I was not close enough to see it but the noise it made was tremendous, something resembling the noise of a large fall of water. It came from north and went in a southerly direction. mno|Local time: daily|QC flag: missing|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_CP.jpg
+1863	04	01	00	00	24	SKC	|	orig=Saw the first ducks on the 10th. First thaw 4th. Summer birds seen on 14th. Rivers all clear on the 16th. First appearance of buds on the trees and willows on the 23rd. Geese were first seen on the 24th in their flight northward. mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_CP.jpg
+1863	04	01	00	00	24	SN	|	orig=During this month there were seven days of snow. The average depth of snow which fell during intervals was 3 1/2 feet. mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_CP.jpg
+1863	04	01	00	00	24	missing	|	orig=No agitation could be discovered as I was in a canoe and on the water at the time. It passed me at 7am. On the 30th [illegible, reads: int] there was only small pieces of ice remaining in the Lakes mno|Local time: daily|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_CP.jpg
