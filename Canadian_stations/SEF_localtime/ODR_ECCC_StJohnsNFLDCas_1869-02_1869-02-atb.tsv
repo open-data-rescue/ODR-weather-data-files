@@ -1,0 +1,51 @@
+SEF	1.0.0
+ID	StJohnsCanada
+Name	StJohnsNFLDCas
+Lat	47.55
+Lon	307.28
+Alt	37.6
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	atb
+Stat	point
+Unit	C
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1869	02	16	14	00	0	1.11	|	orig=34.0 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	16	21	00	0	4.17	|	orig=39.5 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	17	07	00	0	6.11	|	orig=43.0 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	17	14	00	0	9.17	|	orig=48.5 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	17	21	00	0	10.56	|	orig=51.0 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	18	07	00	0	6.11	|	orig=43.0 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	18	14	00	0	10.17	|	orig=50.3 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	18	21	00	0	8.50	|	orig=47.3 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	19	07	00	0	8.33	|	orig=47.0 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	19	14	00	0	18.50	|	orig=65.3 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	19	21	00	0	10.00	|	orig=50.0 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	20	07	00	0	6.39	|	orig=43.5 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	20	14	00	0	7.22	|	orig=45.0 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	20	21	00	0	5.00	|	orig=41.0 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	21	07	00	0	2.78	|	orig=37.0 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	21	14	00	0	6.67	|	orig=44.0 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	21	21	00	0	7.22	|	orig=45.0 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	22	07	00	0	4.72	|	orig=40.5 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	22	14	00	0	7.50	|	orig=45.5 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	22	21	00	0	6.39	|	orig=43.5 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	23	07	00	0	4.72	|	orig=40.5 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	23	14	00	0	7.22	|	orig=45.0 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	23	21	00	0	7.22	|	orig=45.0 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	24	07	00	0	10.56	|	orig=51.0 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	24	14	00	0	11.94	|	orig=53.5 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	24	21	00	0	10.00	|	orig=50.0 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	25	07	00	0	7.78	|	orig=46.0 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	25	14	00	0	4.44	|	orig=40.0 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	25	21	00	0	2.50	|	orig=36.5 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	26	07	00	0	-0.56	|	orig=31.0 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	26	14	00	0	5.00	|	orig=41.0 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	26	21	00	0	5.00	|	orig=41.0 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	27	07	00	0	4.44	|	orig=40.0 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	27	14	00	0	5.00	|	orig=41.0 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	27	21	00	0	8.33	|	orig=47.0 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	28	07	00	0	5.00	|	orig=41.0 F|Local time: 0700|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	28	14	00	0	11.67	|	orig=53.0 F|Local time: 1400|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
+1869	02	28	21	00	0	6.39	|	orig=43.5 F|Local time: 2100|QC flag: None|Image File: StJohnsNFLDCas_USSI-401_M1958_1869-02-01_OBS-R.jpg
