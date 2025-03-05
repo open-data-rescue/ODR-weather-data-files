@@ -1,0 +1,46 @@
+SEF	1.0.0
+ID	FortRaeCanada
+Name	FortRae
+Lat	62.81
+Lon	244
+Alt	unknown
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	pr
+Stat	point
+Unit	mm
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1859	10	01	00	00	0	0.00	|	orig=Empty in|Local time: 0000|QC flag: empty|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	02	00	00	0	152.40	|	orig=6 in|Local time: 0000|QC flag: high value|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	03	00	00	0	25.40	|	orig=1 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	04	00	00	0	0.00	|	orig=Empty in|Local time: 0000|QC flag: empty|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	05	00	00	0	0.00	|	orig=Empty in|Local time: 0000|QC flag: empty|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	06	00	00	0	0.00	|	orig=Empty in|Local time: 0000|QC flag: empty|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	07	00	00	0	-999	|	orig=- in|Local time: 0000|QC flag: missing|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	08	00	00	0	50.80	|	orig=2 in|Local time: 0000|QC flag: high value|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	09	00	00	0	50.80	|	orig=2 in|Local time: 0000|QC flag: high value|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	10	00	00	0	0.00	|	orig=Empty in|Local time: 0000|QC flag: empty|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	15	00	00	0	50.80	|	orig=2 in|Local time: 0000|QC flag: high value|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	16	00	00	0	50.80	|	orig=2 in|Local time: 0000|QC flag: high value|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	17	00	00	0	-999	|	orig=1/2 in|Local time: 0000|QC flag: missing|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	24	00	00	0	152.40	|	orig=6 in|Local time: 0000|QC flag: high value|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1861	12	11	00	00	0	0.00	|	orig=Empty in|Local time: 0000|QC flag: empty|Image File: FortRae_USSI-206_M1958_1861-12-01_OBS-F.jpg
+1862	02	15	00	00	0	-999	|	orig=1/4 in|Local time: 0000|QC flag: missing|Image File: FortRae_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	17	00	00	0	-999	|	orig=1/16 in|Local time: 0000|QC flag: missing|Image File: FortRae_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	19	00	00	0	25.40	|	orig=1 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	20	00	00	0	228.60	|	orig=9 in|Local time: 0000|QC flag: high value|Image File: FortRae_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	03	07	00	00	0	101.60	|	orig=4 in|Local time: 0000|QC flag: high value|Image File: FortRae_USSI-206_M1958_1862-03-01_OBS-F.jpg
+1862	09	18	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	19	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	20	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	21	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	22	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	23	00	00	0	26.01	|	orig=1.024 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	24	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	25	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	26	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	27	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	28	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	29	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	30	00	00	0	0.00	|	orig=0 in|Local time: 0000|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg

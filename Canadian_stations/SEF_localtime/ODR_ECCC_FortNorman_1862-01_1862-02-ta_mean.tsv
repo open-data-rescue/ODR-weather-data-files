@@ -1,0 +1,51 @@
+SEF	1.0.0
+ID	FortNormanCanada
+Name	FortNorman
+Lat	64.92
+Lon	234.5
+Alt	unknown
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ta
+Stat	mean
+Unit	C
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1862	01	01	00	00	24	-9.63	|	orig=14.667 F|Local time: mean|QC flag: None|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	02	00	00	24	-10.18	|	orig=13.667 F|Local time: mean|QC flag: None|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	03	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	04	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	05	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	06	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	07	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	08	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	09	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	10	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	11	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	12	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	13	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	14	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	15	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	16	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	17	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	18	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	19	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	20	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	21	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	22	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	23	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	24	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	25	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	26	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	27	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	28	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	29	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	30	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	01	31	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	02	01	00	00	24	-33.33	|	orig=-28.0 F|Local time: mean|QC flag: None|Image File: FortNorman_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	02	00	00	24	-999	|	orig=- F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	03	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	04	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	05	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	06	00	00	24	-999	|	orig=Empty F|Local time: mean|QC flag: missing|Image File: FortNorman_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	07	00	00	24	-19.63	|	orig=-3.33 F|Local time: mean|QC flag: None|Image File: FortNorman_USSI-206_M1958_1862-02-01_OBS-F.jpg

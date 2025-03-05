@@ -1,0 +1,105 @@
+SEF	1.0.0
+ID	FortNelsonCanada
+Name	FortNelson
+Lat	58.8
+Lon	237.3
+Alt	400
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	dd
+Stat	point
+Unit	deg
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1821	10	01	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	02	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	03	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	04	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	05	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	06	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	07	12	00	0	135	|	orig=South-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	08	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	09	12	00	0	135	|	orig=South-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	10	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	11	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	12	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	13	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	14	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	15	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	16	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	17	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	18	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	19	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	20	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	21	12	00	0	180	|	orig=South dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	22	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	23	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	24	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	25	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	26	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	27	12	00	0	135	|	orig=South-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	28	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	29	12	00	0	135	|	orig=South-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	30	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	31	12	00	0	135	|	orig=South-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	11	01	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	02	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	03	12	00	0	180	|	orig=South dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	04	12	00	0	180	|	orig=South dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	05	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	06	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	07	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	08	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	09	12	00	0	180	|	orig=South dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	10	12	00	0	270	|	orig=West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	11	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	12	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	13	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	14	12	00	0	270	|	orig=West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	15	12	00	0	270	|	orig=West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	16	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	17	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	18	12	00	0	270	|	orig=West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	19	12	00	0	270	|	orig=West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	20	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	21	12	00	0	270	|	orig=West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	22	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	23	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	24	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	25	12	00	0	270	|	orig=West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	26	12	00	0	-999	|	orig=Calm dir|Local time: 1200|QC flag: missing|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	27	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	28	12	00	0	90	|	orig=East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	29	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	30	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	12	01	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	02	12	00	0	-999	|	orig=Calm dir|Local time: 1200|QC flag: missing|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	03	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	04	12	00	0	-999	|	orig=Calm dir|Local time: 1200|QC flag: missing|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	05	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	06	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	07	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	08	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	09	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	10	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	11	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	12	12	00	0	45	|	orig=North-East dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	13	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	14	12	00	0	225	|	orig=South-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	15	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	16	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	17	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	18	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	19	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	20	12	00	0	180	|	orig=South dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	21	12	00	0	180	|	orig=South dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	22	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	23	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	24	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	25	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	26	12	00	0	315	|	orig=North-West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	27	12	00	0	270	|	orig=West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	28	12	00	0	180	|	orig=South dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	29	12	00	0	270	|	orig=West dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	30	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	31	12	00	0	0	|	orig=North dir|Local time: 1200|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg

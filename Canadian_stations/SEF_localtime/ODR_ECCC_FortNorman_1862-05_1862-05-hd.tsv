@@ -1,0 +1,14 @@
+SEF	1.0.0
+ID	FortNormanCanada
+Name	FortNorman
+Lat	64.92
+Lon	234.5
+Alt	unknown
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	hd
+Stat	point
+Unit	deg
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1862	05	03	14	00	0	270	|	orig=West dir|Local time: 1400|QC flag: None|Image File: FortNorman_USSI-206_M1958_1862-05-01_OBS-F.jpg

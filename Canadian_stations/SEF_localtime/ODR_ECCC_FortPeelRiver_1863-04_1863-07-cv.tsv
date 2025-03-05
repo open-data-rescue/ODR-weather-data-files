@@ -1,0 +1,121 @@
+SEF	1.0.0
+ID	FortPeelRiverCanada
+Name	FortPeelRiver
+Lat	67.43
+Lon	225
+Alt	32
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	cv
+Stat	point
+Unit	0-10
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1863	04	09	07	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	16	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	17	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	17	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	22	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	29	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	05	01	07	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	01	14	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	01	21	00	0	2	|	orig=2 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	02	07	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	02	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	02	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	03	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	03	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	03	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	04	07	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	04	14	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	04	21	00	0	2	|	orig=2 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	05	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	05	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	05	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	06	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	06	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	06	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	07	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	07	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	07	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	08	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	08	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	08	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	09	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	09	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	09	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	10	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	10	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	10	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	11	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	11	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	11	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	12	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	12	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	12	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	13	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	13	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	13	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	14	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	14	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	14	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	15	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	15	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	15	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	16	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	16	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	16	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	17	07	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	17	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	17	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	18	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	18	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	18	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	19	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	19	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	19	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	20	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	20	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	20	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	21	07	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	21	14	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	21	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	22	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	22	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	22	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	23	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	23	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	23	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	24	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	24	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	24	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	25	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	25	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	25	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	26	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	26	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	26	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	27	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	27	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	27	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	28	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	28	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	28	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	29	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	29	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	29	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	30	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	30	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	30	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	31	07	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	31	14	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	31	21	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	06	01	07	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-06-01_OBS-F.jpg
+1863	06	01	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-06-01_OBS-F.jpg
+1863	06	01	21	00	0	-999	|	orig=- cloudvel|Local time: 2100|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-06-01_OBS-F.jpg
+1863	07	01	07	00	0	-999	|	orig=- cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-07-01_OBS-F.jpg
+1863	07	01	14	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-07-01_OBS-F.jpg
+1863	07	01	21	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-07-01_OBS-F.jpg
+1863	07	02	07	00	0	-999	|	orig=- cloudvel|Local time: 0700|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-07-01_OBS-F.jpg
+1863	07	02	14	00	0	-999	|	orig=- cloudvel|Local time: 1400|QC flag: missing|Image File: FortPeelRiver_USSI-206_M1958_1863-07-01_OBS-F.jpg
+1863	07	02	21	00	0	3	|	orig=3 cloudvel|Local time: 2100|QC flag: None|Image File: FortPeelRiver_USSI-206_M1958_1863-07-01_OBS-F.jpg

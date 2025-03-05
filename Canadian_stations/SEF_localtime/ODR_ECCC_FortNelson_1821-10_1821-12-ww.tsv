@@ -1,0 +1,128 @@
+SEF	1.0.0
+ID	FortNelsonCanada
+Name	FortNelson
+Lat	58.8
+Lon	237.3
+Alt	400
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ww
+Stat	point
+Unit	manual observation
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1821	10	01	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	02	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	03	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	04	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	05	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	06	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	07	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	07	00	00	24	RA	|	orig=Rainy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	08	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	08	00	00	24	RA	|	orig=Heavy rain all the day mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	09	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	09	00	00	24	RA	|	orig=Misty rain mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	10	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	11	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	12	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	12	00	00	24	RA	|	orig=Heavy rain at 2 o'clock pm [2pm] and at 9pm mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	13	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	14	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	15	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	16	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	17	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	18	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	19	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	20	00	00	24	FRST	|	orig=White frost mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	20	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	21	00	00	24	FRST	|	orig=Frost mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	21	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	22	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	23	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	24	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	25	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	26	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	27	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	27	00	00	24	RA	|	orig=Rain this day at 2 o'clock pm [2pm] mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	28	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	29	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	30	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	10	31	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-10-01_OBS-F.jpg
+1821	11	01	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	02	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	03	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	03	00	00	24	RA	|	orig=Rain at 8 o'clock pm [8pm] mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	04	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	04	00	00	24	RA	|	orig=Heavy rain all the day mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	05	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	05	00	00	24	RA	|	orig=Misty and rain all the day mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	06	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	06	00	00	24	RA	|	orig=Heavy rain at 9 o'clock PM [9pm] mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	07	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	08	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	09	00	00	24	RA	|	orig=Thunder and lightning with Rain at 9 o'clock PM [9pm] mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	09	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	10	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	11	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	12	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	13	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	14	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	15	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	16	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	17	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	18	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	19	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	20	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	21	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	22	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	23	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	23	00	00	24	RA	|	orig=Continual rain all day mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	24	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	24	00	00	24	RA	|	orig=Heavy rain all day mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	25	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	26	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	27	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	28	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	29	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	30	00	00	24	RA	|	orig=Rain at 9pm mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	11	30	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-11-01_OBS-F.jpg
+1821	12	01	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	01	00	00	24	RA	|	orig=Rain at 4 PM mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	02	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	02	00	00	24	RA	|	orig=Heavy fog with rain mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	03	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	04	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	05	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	05	00	00	24	RA	|	orig=Continual rain all this day mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	06	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	07	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	08	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	09	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	10	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	11	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	12	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	13	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	13	00	00	24	RA	|	orig=Heavy rain all this day mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	14	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	15	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	16	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	17	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	17	00	00	24	RA	|	orig=Rain at 5 oclock PM mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	18	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	18	00	00	24	RA	|	orig=Rain from 7 AM to 2 PM mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	19	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	20	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	21	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	21	00	00	24	GR	|	orig=Hail at 8 oclock PM mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	22	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	23	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	24	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	25	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	26	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	27	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	28	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	29	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	30	00	00	24	BKN	|	orig=Cloudy mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	30	00	00	24	RA	|	orig=Heavy rain all this day mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
+1821	12	31	00	00	24	SKC	|	orig=Clear mno|Local time: daily|QC flag: None|Image File: FortNelson_CUS-100_M1958_1821-12-01_OBS-F.jpg
