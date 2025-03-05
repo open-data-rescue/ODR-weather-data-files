@@ -1,0 +1,99 @@
+SEF	1.0.0
+ID	YorkFactoryCanada
+Name	YorkFactoryWW
+Lat	57.03
+Lon	267.5
+Alt	16.75
+Source	ACRE-Canada
+Link	https://opendatarescue.org
+Vbl	cv
+Stat	point
+Unit	0-10
+Meta		UTCOffset=Applied	UTCOffset=6
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1884	02	01	20	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	02	03	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	02	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	02	20	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	03	03	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	03	13	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	03	20	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	04	03	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	04	13	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	04	20	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	05	03	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	05	13	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	05	20	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	06	03	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	06	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	06	20	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	07	03	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	07	13	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	07	20	00	0	3	|	orig=3 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	08	03	00	0	3	|	orig=3 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	08	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	08	20	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	09	03	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	09	13	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	09	20	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	10	03	00	0	2	|	orig=2 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	10	13	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	10	20	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	11	03	00	0	2	|	orig=2 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	11	13	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	11	20	00	0	4	|	orig=4 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	12	03	00	0	3	|	orig=3 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	12	13	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	12	20	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	13	03	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	13	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	13	20	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	14	03	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	14	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	14	20	00	0	4	|	orig=4 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	15	03	00	0	5	|	orig=5 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	15	13	00	0	5	|	orig=5 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	15	20	00	0	4	|	orig=4 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	16	03	00	0	2	|	orig=2 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	16	13	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	16	20	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	17	03	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	17	13	00	0	1	|	orig=1 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	17	20	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	18	03	00	0	2	|	orig=2 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	18	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	18	20	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	19	03	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	19	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	19	20	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	20	03	00	0	2	|	orig=2 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	20	13	00	0	3	|	orig=3 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	20	20	00	0	4	|	orig=4 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	21	03	00	0	10	|	orig=10 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	21	13	00	0	10	|	orig=10 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	21	20	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	22	03	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	22	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	22	20	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	23	03	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	23	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	23	20	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	24	03	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	24	13	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	24	20	00	0	6	|	orig=6 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	25	03	00	0	6	|	orig=6 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	25	13	00	0	5	|	orig=5 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	25	20	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	26	03	00	0	2	|	orig=2 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	26	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	26	20	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	27	03	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	27	13	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	27	20	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	28	03	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	28	13	00	0	2	|	orig=2 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	28	20	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	29	03	00	0	1	|	orig=1 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	29	13	00	0	3	|	orig=3 cloudvel|Local time: 0700|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	02	29	20	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
+1884	03	01	03	00	0	2	|	orig=2 cloudvel|Local time: 2100|QC flag: None|Image File: YorkFactory_USSS-314_M1958_1884-02-01_OBS-1.jpg
