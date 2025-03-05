@@ -1,0 +1,121 @@
+SEF	1.0.0
+ID	SteAnneCanada
+Name	SteAnne
+Lat	47.4
+Lon	289.92
+Alt	53.3
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	p
+Stat	mean
+Unit	hPa
+Meta		UTCOffset=Applied	UTCOffset=5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1866	11	13	00	00	24	1015.24	|	orig=29.980 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	14	00	00	24	1016.42	|	orig=30.015 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	15	00	00	24	1007.82	|	orig=29.761 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	16	00	00	24	989.13	|	orig=29.209 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	17	00	00	24	988.69	|	orig=29.196 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	18	00	00	24	998.61	|	orig=29.489 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	19	00	00	24	1004.67	|	orig=29.668 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	20	00	00	24	993.53	|	orig=29.339 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	21	00	00	24	986.15	|	orig=29.121 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	22	00	00	24	997.60	|	orig=29.459 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	23	00	00	24	1002.71	|	orig=29.610 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	24	00	00	24	999.80	|	orig=29.524 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	25	00	00	24	1006.74	|	orig=29.729 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	26	00	00	24	1011.24	|	orig=29.862 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	27	00	00	24	1012.06	|	orig=29.886 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	28	00	00	24	1005.93	|	orig=29.705 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	29	00	00	24	996.28	|	orig=29.420 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	11	30	00	00	24	987.00	|	orig=29.146 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-Ra.jpg
+1866	12	01	00	00	24	997.09	|	orig=29.444 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	02	00	00	24	1010.43	|	orig=29.838 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	03	00	00	24	1014.02	|	orig=29.944 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	04	00	00	24	1006.43	|	orig=29.720 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	05	00	00	24	999.19	|	orig=29.506 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	06	00	00	24	1011.18	|	orig=29.860 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	07	00	00	24	1004.81	|	orig=29.672 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	08	00	00	24	1001.76	|	orig=29.582 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	09	00	00	24	992.28	|	orig=29.302 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	10	00	00	24	995.09	|	orig=29.385 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	11	00	00	24	1002.71	|	orig=29.610 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	12	00	00	24	1004.91	|	orig=29.675 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	13	00	00	24	1006.10	|	orig=29.710 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	14	00	00	24	1007.82	|	orig=29.761 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	15	00	00	24	1015.92	|	orig=30.000 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	16	00	00	24	1014.16	|	orig=29.948 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	17	00	00	24	1000.91	|	orig=29.557 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	18	00	00	24	1007.45	|	orig=29.750 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	19	00	00	24	1005.35	|	orig=29.688 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	20	00	00	24	1022.18	|	orig=30.185 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	21	00	00	24	1025.13	|	orig=30.272 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	22	00	00	24	1011.95	|	orig=29.883 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	23	00	00	24	997.43	|	orig=29.454 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	24	00	00	24	985.74	|	orig=29.109 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	25	00	00	24	995.60	|	orig=29.400 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	26	00	00	24	1003.83	|	orig=29.643 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	27	00	00	24	1002.03	|	orig=29.590 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	28	00	00	24	976.06	|	orig=28.823 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	29	00	00	24	992.79	|	orig=29.317 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	30	00	00	24	1011.11	|	orig=29.858 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1866	12	31	00	00	24	1021.17	|	orig=30.155 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-Ra.jpg
+1867	01	01	00	00	24	1012.60	|	orig=29.902 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	02	00	00	24	1012.12	|	orig=29.888 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	03	00	00	24	1009.82	|	orig=29.820 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	04	00	00	24	1008.03	|	orig=29.767 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	05	00	00	24	1012.63	|	orig=29.903 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	06	00	00	24	1001.52	|	orig=29.575 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	07	00	00	24	990.55	|	orig=29.251 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	08	00	00	24	984.76	|	orig=29.080 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	09	00	00	24	984.76	|	orig=29.080 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	10	00	00	24	990.21	|	orig=29.241 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	11	00	00	24	996.34	|	orig=29.422 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	12	00	00	24	1003.35	|	orig=29.629 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	13	00	00	24	1004.50	|	orig=29.663 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	14	00	00	24	1001.22	|	orig=29.566 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	15	00	00	24	1004.78	|	orig=29.671 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	16	00	00	24	1010.77	|	orig=29.848 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	17	00	00	24	1007.21	|	orig=29.743 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	18	00	00	24	994.75	|	orig=29.375 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	19	00	00	24	994.35	|	orig=29.363 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	20	00	00	24	1010.06	|	orig=29.827 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	21	00	00	24	1007.79	|	orig=29.760 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	22	00	00	24	998.48	|	orig=29.485 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	23	00	00	24	1004.44	|	orig=29.661 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	24	00	00	24	1011.07	|	orig=29.857 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	25	00	00	24	1009.11	|	orig=29.799 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	26	00	00	24	995.53	|	orig=29.398 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	27	00	00	24	986.12	|	orig=29.120 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	28	00	00	24	996.85	|	orig=29.437 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	29	00	00	24	999.49	|	orig=29.515 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	30	00	00	24	1016.63	|	orig=30.021 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	01	31	00	00	24	1008.26	|	orig=29.774 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-Ra.jpg
+1867	02	01	00	00	24	986.29	|	orig=29.125 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	02	00	00	24	1009.38	|	orig=29.807 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	03	00	00	24	988.79	|	orig=29.199 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	04	00	00	24	994.72	|	orig=29.374 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	05	00	00	24	1002.20	|	orig=29.595 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	06	00	00	24	1005.49	|	orig=29.692 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	07	00	00	24	1014.73	|	orig=29.965 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	08	00	00	24	1012.56	|	orig=29.901 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	09	00	00	24	990.86	|	orig=29.260 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	10	00	00	24	995.19	|	orig=29.388 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	11	00	00	24	1027.77	|	orig=30.350 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	12	00	00	24	1020.76	|	orig=30.143 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	13	00	00	24	1009.62	|	orig=29.814 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	14	00	00	24	1011.07	|	orig=29.857 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	15	00	00	24	1024.52	|	orig=30.254 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	16	00	00	24	1008.87	|	orig=29.792 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	17	00	00	24	993.70	|	orig=29.344 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	18	00	00	24	1010.09	|	orig=29.828 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	19	00	00	24	1013.17	|	orig=29.919 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	20	00	00	24	1017.71	|	orig=30.053 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	21	00	00	24	1015.41	|	orig=29.985 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	22	00	00	24	1013.65	|	orig=29.933 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	23	00	00	24	1009.58	|	orig=29.813 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	24	00	00	24	992.62	|	orig=29.312 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	25	00	00	24	1014.12	|	orig=29.947 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	26	00	00	24	1010.97	|	orig=29.854 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	27	00	00	24	1014.39	|	orig=29.955 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
+1867	02	28	00	00	24	1015.65	|	orig=29.992 inHg|Local time: mean|QC flag: none|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-Ra.jpg
