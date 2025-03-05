@@ -1,0 +1,70 @@
+SEF	1.0.0
+ID	NewWestminsterCanada
+Name	NewWestminster
+Lat	49.213
+Lon	237.1
+Alt	10.36
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	rr
+Stat	point
+Unit	mm
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1865	01	28	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1859-11-01_OBS-F.jpg
+1865	02	02	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	03	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	04	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	05	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	06	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	07	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	08	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	09	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	10	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	11	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	12	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	13	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	14	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	15	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	16	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	17	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	18	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	19	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	20	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	21	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	22	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	23	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	24	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	26	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	27	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	02	28	09	00	0	0.00	|	orig=Empty in|Local time: 0900|QC flag: empty|Image File: NewWestminster_RE-101_UKMO_1865-02-01_OBS-F.jpg
+1865	04	01	09	00	0	9.14	|	orig=0.36 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	02	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	03	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	04	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	05	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	06	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	07	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	08	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	09	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	10	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	11	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	12	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	13	09	00	0	6.86	|	orig=0.27 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	14	09	00	0	3.81	|	orig=0.15 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	15	09	00	0	7.87	|	orig=0.31 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	16	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	17	09	00	0	5.33	|	orig=0.21 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	18	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	19	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	20	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	21	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	22	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	23	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	24	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	25	09	00	0	0.00	|	orig=0.00 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	26	09	00	0	2.03	|	orig=0.08 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	27	09	00	0	6.35	|	orig=0.25 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	28	09	00	0	0.51	|	orig=0.02 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	29	09	00	0	6.35	|	orig=0.25 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
+1865	04	30	09	00	0	2.29	|	orig=0.09 in|Local time: 0900|QC flag: None|Image File: NewWestminster_RE-101_UKMO_1865-04-01_OBS-F.jpg
