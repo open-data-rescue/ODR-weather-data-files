@@ -1,0 +1,14 @@
+SEF	1.0.0
+ID	StanbridgeCanada
+Name	Stanbridge
+Lat	45.13
+Lon	287.1
+Alt	67.7
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	cv
+Stat	point
+Unit	0-10
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1857	04	25	07	00	0	5	|	orig=5 cloudvel|Local time: 0700|QC flag: None|Image File: Stanbridge_USSI-201_M1958_1857-04-01_OBS-F.jpg

@@ -1,0 +1,95 @@
+SEF	1.0.0
+ID	SteAnneCanada
+Name	SteAnne
+Lat	47.4
+Lon	289.92
+Alt	53.3
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ww
+Stat	point
+Unit	manual observation
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1866	11	10	00	00	24	SN	|	orig=snow last night 10am hail + rain mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	11	00	00	24	SN	|	orig=snow + soft rain mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	12	00	00	24	SN	|	orig="snow last night 10am + drizzling rain noon, rain 6pm" mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	29	00	00	24	SN	|	orig="R[ain] last night, S[now]&R[ain] 8pm, 10am fog, sort of frozen sleet [3]pm, snow 8pm, snow mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	12	05	00	00	24	-999	|	orig=The motion of the clouds is from a point N. of W. to a point S of E. without passing over this place mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1866-12-01_CP.jpg
+1866	12	08	00	00	24	-999	|	orig=Some native grasses and herbs continue green in favourable situations, but there is scarcely any growth since the date of my last remark the 7th November mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1866-12-01_CP.jpg
+1866	12	08	00	00	24	-999	|	orig=Vegetation may be said to have ceased altogether. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1866-12-01_CP.jpg
+1866	12	18	00	00	24	-999	|	orig=3-30 pm There are two bows in the west about 20 degrees at either side of the sun, and stretching perpendicularly from the horizon to an altitude equal that of the sun. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1866-12-01_CP.jpg
+1866	12	18	00	00	24	SKC	|	orig=The one south of the sun is the best defined mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_CP.jpg
+1866	12	28	00	00	24	-999	|	orig=The clouds move from S to N and then veer off towards the east mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1866-12-01_CP.jpg
+1867	01	14	00	00	24	-999	|	orig=4pm A murky cloud about the sun consisting of the most beautiful black shades imagineable mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-01-01_CP.jpg
+1867	01	14	00	00	24	-999	|	orig=A bow in the SW about 20" from the sun mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-01-01_CP.jpg
+1867	01	16	00	00	24	-999	|	orig=4:30PM the whole sky nearly studded with the most beautiful red clouds intermingled with light grey clouds in the S and W horizon and black clouds in the N. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-01-01_CP.jpg
+1867	01	16	00	00	24	-999	|	orig=The direction of the densest clouds is from NW to SE mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-01-01_CP.jpg
+1867	01	25	00	00	24	-999	|	orig=7:15AM Red clouds cover the northern verge of the horizon mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-01-01_CP.jpg
+1867	01	26	00	00	24	-999	|	orig=7:15am the whole sky except a small portion to the West enveloped in red mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-01-01_CP.jpg
+1867	01	27	00	00	24	-999	|	orig=5pm clouds moving along the Western edge of the horizon from a point N of W to a point S of E mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-01-01_CP.jpg
+1867	02	01	00	00	24	-999	|	orig=Flying clouds in the south with the clouds thickening in the NE mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	01	00	00	24	SKC	|	orig=Noon clearing off. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	02	00	00	24	-999	|	orig=The barometer falling at the 2pm observation; it was higher than it read then mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	03	00	00	24	-999	|	orig=barometer variable mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	04	00	00	24	-999	|	orig=Cumulus clouds in the Southern horizon with light fleecy clouds crossing between them and the earth with great rapidity from W to E mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	04	00	00	24	SKC	|	orig=0h:30m pm black thick clouds to the N over a narrow streak of clear blue with white fleecy clouds flying across the black clouds from W to E. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	07	00	00	24	SKC	|	orig=noon cumulus in the N and S with a clear sky in the zenith caught a few flying white clouds passing from W to E with great rapidity. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	11	00	00	24	-999	|	orig=12:30pm white fleecy transparent clouds that do not obscure the sun or upper strata of clouds moving from W to E south of the zenith. Maximum height of the barometer 30.595 mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	11	00	00	24	-999	|	orig=7h:30m AM two (weather dogs) bows in the form of truncated cones not rising a great deal above the horizon about 12" on each side of the sun. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	14	00	00	24	-999	|	orig=7h20m wind veered round suddenly to the NW mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	15	00	00	24	SKC	|	orig=the river which is 21miles broad here is clear of ice in the channel mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	16	00	00	24	-999	|	orig=the river for four miles from its southern bank is one frozen mass; floating ice in the channel mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	17	00	00	24	-999	|	orig=6h:15m pm wind NE mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	18	00	00	24	-999	|	orig=floating ice in the river channel. River a frozen mass for 3miles out into the channel from its south bank mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	20	00	00	24	-999	|	orig=A weather dog or bow about 20" (towards the south point of the horizon) from the sun at rising mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	26	00	00	24	SN	|	orig=7h10m AM a considerable part of the Eastern hemisphere is covered by a red sky. The horizon to the north and west on the north side of the river is bounded by a mountain range rising abruptly from the river. And in vanishing (clearing off); this red sky throws a light yellow sulphuric or phosphoric shadow on the mountain which no scenic representation of an unearthly visitant can equal  on the stage. It is very interesting to watch the retreating shadow on the snow follow the direction of the cloud mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	27	00	00	24	-999	|	orig=9:15pm streamers separated by black clouds emitting from the bow mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	27	00	00	24	AU	|	orig=8h:15m PM an aurora forming a complete (bow) semicircle round the north pole of the horizon mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	02	28	00	00	24	-999	|	orig=A stunted (sickly) vegetation sets in next week. The sun in the open air is very hot. The hottest time of the day is formed (12) noon to 1pm and never extends to 2pm here at least in winter mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-02-01_CP.jpg
+1867	03	02	00	00	24	-999	|	orig=11am wind W velocity 6 Bar 28.87 inches mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	02	00	00	24	-999	|	orig=12 noon A sudden gale from the west accompanied mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	02	00	00	24	-999	|	orig=4.25 PM Thermometer 21 mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	05	00	00	24	-999	|	orig=Observer from home mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	06	00	00	24	-999	|	orig=Observer from home mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	07	00	00	24	-999	|	orig=Observer from home mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	08	00	00	24	-999	|	orig=Observer from home mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	11	00	00	24	-999	|	orig=Noon a very red sky along the north eastern horizon mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	14	00	00	24	SKC	|	orig=8 am clearing off; cir cu 3 mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	18	00	00	24	-999	|	orig=The slow stunted vegetation mentioned in the remark of the 28 of February sets in to day mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	21	00	00	24	-999	|	orig=Ice in the river St. Lawrence breaking up. Crow begin to return. I saw two day mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	23	00	00	24	-999	|	orig=Large masses of floating ice in the channel. These were detached from the sheet of stationary ice along the S. bank and did not come down the river. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	26	00	00	24	AU	|	orig=8:30 PM an Aurora Borealis mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	27	00	00	24	-999	|	orig=6 PM wind N mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	28	00	00	24	-999	|	orig=A great deal of floating ice going slowly down the river mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	03	31	00	00	24	SKC	|	orig=It froze last night and the night before. River except along the south bank pretty clear of ice. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_CP.jpg
+1867	04	01	00	00	24	FRST	|	orig=Frost sank from one foot seven to one foot nine inches only in some places here this year. greatest depth to which frost sinks in the ground is from two feet six to two feet eight inches. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	02	00	00	24	-999	|	orig=ice detached from the shore ice is floating down the river mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	03	00	00	24	-999	|	orig=a quite distinct yellow streak in the sky along the horizon due West from this mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	03	00	00	24	SKC	|	orig=10am wind SW river clear of ice (below) outside of low water mark. large crumbling sheets of ice still intact between high and low water marks. 4:30pm wind NW mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	04	00	00	24	-999	|	orig=ice from above floating down the river. Noon wind N mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	04	00	00	24	FRST	|	orig=the ground is hard from last night's frost. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	06	00	00	24	-999	|	orig=Ice from above going down the river this morning mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	07	00	00	24	-999	|	orig=A harbour on a bold coast having a depth of three fathoms at low water and protected from the NW and NE winds would no doubt form a good winter port. Such a place is not so difficult to find on the north as on the south shore. Trees are commencing to bud mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	07	00	00	24	-999	|	orig=The only ice remaining in the river here are the large blocks strewn along the shore at high water mark. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	07	00	00	24	SKC	|	orig=The ice on the space between high and low water marks is formed from the rapid freezing of the water left by the ebb tides. This ice forms a perfect and impenetrable barrier to both tide and river and confines the river (within) to its bed at low water. Hence the real difficulty of keeping navigation open in winter on the St. Lawrence. It is not altogether its cold but the rapidity with which this strong ice forms between  high and low water on a flat coast that causes the scarcity of harbors on its shore which could be permanently kept opened for winter navigation. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	08	00	00	24	-999	|	orig=those blocks of ice at high water mark are from 8 to 10 feet high. ice going down the river from above. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	09	00	00	24	FRST	|	orig=night frosts every night. the river fairly open to navigation from the Island of Orleans to the gulf but there is no commence and a sail whitens its surface mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	10	00	00	24	-999	|	orig=10:30pm the wind has changed mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	12	00	00	24	-999	|	orig=noon wind SW. 6pm wind NW mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	14	00	00	24	OVC	|	orig=6pm sky overcast with clouds. The clouds move from NW to SE. Long rays of light issuing from a clouded suns surround its upper limb. A yellow streak along the eastern horizon mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	15	00	00	24	-999	|	orig=4pm clouded with a slow motion of the clouds from W to E. Air dry with a apparent moisture mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	16	00	00	24	RA	|	orig=11am dry fog and exhalation. 7pm fog and clouds clearing off. The air notwithstanding the rain and fog is dry mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	17	00	00	24	FG	|	orig=wheeled vehicles running. 7am day foggy. noon not so foggy as in the morning. 6pm clouds moving from the NE. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	17	00	00	24	FRST	|	orig=The late night frosts have much retarded the leafing of trees. A small flock of wild geese was seen flying northward today mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	22	00	00	24	-999	|	orig=A strong healthy vegetation sets in. Roads nearly impassable mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	23	00	00	24	RA	|	orig=Buds are beginning to open. 8:30pm a clear streak of blue and a pale yellow sky in the NW horizon with a murky dark cloud across its breadth. From 3:30pm to 6pm, small rain drops falling. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	24	00	00	24	-999	|	orig=Two years ago it rose 4feet above its usual height and about thirty years ago several feet. But this may be owing to atmospheric causes. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	24	00	00	24	-999	|	orig=neap tides rise 8 feet and spring tides about 16 feet here. Freshets have no perceptible influence on the (height) depth of water in the river at this place. It perhaps overflows a portion of the valley three or four times in a century to a greater extent than usual. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	25	00	00	24	SN	|	orig=high well drained lands fit for ploughing. A red sky in the West after sunset . The snow this morning disappeared as fast as it fell 8pm. An auroral arch with its west and brighter than its east end mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	27	00	00	24	-999	|	orig=Noon clouds high and move from W to E. South of the zenith mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	27	00	00	24	BLSN	|	orig=6pm wind. NW 5. Very cloudy and dark. A blue and light yellow space in the NW horizon. The point from which the wind blows mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	29	00	00	24	-999	|	orig=In the absence of commerce, it may be tolerated but a commercial enterprise would have swept it away a month ago. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	29	00	00	24	-999	|	orig=Through navigation is now opened for nearly the last three weeks but one vessel has passed this place from below. The ice bridge at Quebec which has been kept from breaking up by carefully closing [ruts] and air holes in it and watering. The crumbling ice particles at night becomes at length a nuisance and a real impediment to navigation. mno|Local time: daily|QC flag: missing|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	30	00	00	24	BR	|	orig=8am a mist which ceased at 9am mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg
+1867	04	30	00	00	24	SN	|	orig=Trees have not put forth their leaves. Frost in wet lowlands only remains still in the ground. The snow is nearly all gone. The roads are not wholly passable but are becoming drier. mno|Local time: daily|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_CP.jpg

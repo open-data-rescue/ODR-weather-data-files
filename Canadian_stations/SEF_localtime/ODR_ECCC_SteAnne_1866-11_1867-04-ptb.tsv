@@ -1,0 +1,91 @@
+SEF	1.0.0
+ID	SteAnneCanada
+Name	SteAnne
+Lat	47.4
+Lon	289.92
+Alt	53.3
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ptb
+Stat	point
+Unit	hour
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1866	11	10	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	12	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	15	00	00	24	2pm, 5pm	|	orig=2pm, 5pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	16	00	00	24	10am, 1pm	|	orig=10am, 1pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	17	00	00	24	2pm	|	orig=2pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	19	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	20	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	21	00	00	24	7am, 6pm	|	orig=7am, 6pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	24	00	00	24	1pm	|	orig=1pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	29	00	00	24	8pm	|	orig=8pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	12	05	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	07	00	00	24	11:20am	|	orig=11:20am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	08	00	00	24	10:30pm	|	orig=10:30pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	09	00	00	24	this morning	|	orig=this morning hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	12	00	00	24	2am	|	orig=2am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	13	00	00	24	11am	|	orig=11am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	17	00	00	24	6am, 10am	|	orig=6am, 10am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	19	00	00	24	6am	|	orig=6am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	22	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	23	00	00	24	11am	|	orig=11am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	27	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	28	00	00	24	2am	|	orig=2am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	29	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1867	01	01	00	00	24	11am	|	orig=11am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	04	00	00	24	11:15am	|	orig=11:15am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	06	00	00	24	7am	|	orig=7am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	07	00	00	24	1pm	|	orig=1pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	08	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	09	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	18	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	19	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	21	00	00	24	2pm	|	orig=2pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	26	00	00	24	2pm	|	orig=2pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	29	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	02	01	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	03	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	04	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	05	00	00	24	2:30pm	|	orig=2:30pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	09	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	10	00	00	24	last night (10 or 11 o'clock)	|	orig=last night (10 or 11 o'clock) hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	13	00	00	24	7am	|	orig=7am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	14	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	16	00	00	24	2:45pm	|	orig=2:45pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	17	00	00	24	4:30pm	|	orig=4:30pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	18	00	00	24	8pm	|	orig=8pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	19	00	00	24	this morning	|	orig=this morning hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	22	00	00	24	7am	|	orig=7am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	24	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	28	00	00	24	1:45pm	|	orig=1:45pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	03	01	00	00	24	5pm	|	orig=5pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	02	00	00	24	6am, 10pm	|	orig=6am, 10pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	04	00	00	24	9am	|	orig=9am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	07	00	00	24	5am	|	orig=5am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	10	00	00	24	11pm	|	orig=11pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	12	00	00	24	1pm	|	orig=1pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	13	00	00	24	3pm	|	orig=3pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	14	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	18	00	00	24	6:30am	|	orig=6:30am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	19	00	00	24	this morning	|	orig=this morning hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	25	00	00	24	7am	|	orig=7am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	26	00	00	24	snow last night, rain 10am	|	orig=snow last night, rain 10am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	04	01	00	00	24	5:30pm	|	orig=5:30pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	02	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	04	00	00	24	10am, 1:45pm	|	orig=10am, 1:45pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	05	00	00	24	4pm. slight snow during 6:30pm	|	orig=4pm. slight snow during 6:30pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	06	00	00	24	9am	|	orig=9am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	07	00	00	24	10:30am	|	orig=10:30am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	08	00	00	24	rain 3:15pm, snow 6pm	|	orig=rain 3:15pm, snow 6pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	11	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	12	00	00	24	1pm	|	orig=1pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	15	00	00	24	7pm	|	orig=7pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	16	00	00	24	7am, it rained during the night, 10:30am, 2pm	|	orig=7am, it rained during the night, 10:30am, 2pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	18	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	21	00	00	24	last night	|	orig=last night hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	22	00	00	24	3pm	|	orig=3pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	25	00	00	24	this morning	|	orig=this morning hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	27	00	00	24	r 11:15am, 5:30pm	|	orig=R 11:15am, 5:30pm hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	30	00	00	24	10:30am	|	orig=10:30am hr|Local time: mean|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg

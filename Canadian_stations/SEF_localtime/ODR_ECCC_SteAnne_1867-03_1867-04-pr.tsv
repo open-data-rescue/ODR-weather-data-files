@@ -1,0 +1,21 @@
+SEF	1.0.0
+ID	SteAnneCanada
+Name	SteAnne
+Lat	47.4
+Lon	289.92
+Alt	53.3
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	pr
+Stat	point
+Unit	mm
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1867	03	25	00	00	0	0.00	|	orig=Empty in|Local time: 0000|QC flag: empty|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	26	00	00	0	11.43	|	orig=0.45 in|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	04	02	00	00	0	8.38	|	orig=0.33 in|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	08	00	00	0	2.54	|	orig=0.10 in|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	16	00	00	0	7.62	|	orig=0.30 in|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	21	00	00	0	8.89	|	orig=0.35 in|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	23	00	00	0	12.70	|	orig=0.50 in|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	27	00	00	0	7.62	|	orig=0.30 in|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg

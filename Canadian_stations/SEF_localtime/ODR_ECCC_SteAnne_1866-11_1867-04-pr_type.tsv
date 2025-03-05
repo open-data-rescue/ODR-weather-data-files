@@ -1,0 +1,98 @@
+SEF	1.0.0
+ID	SteAnneCanada
+Name	SteAnne
+Lat	47.4
+Lon	289.92
+Alt	53.3
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	pr
+Stat	point
+Unit	none
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1866	11	10	00	00	0	snow + rain	|	orig=snow + rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	12	00	00	0	snow + rain	|	orig=snow + rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	15	00	00	0	mist + rain	|	orig=mist + rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	16	00	00	0	rain+snow	|	orig=rain+snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	17	00	00	0	rain+snow	|	orig=rain+snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	18	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	19	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	20	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	21	00	00	0	rain+snow	|	orig=rain+snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	24	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	11	29	00	00	0	snow+rain	|	orig=snow+rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-11-01_OBS-L.jpg
+1866	12	01	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	05	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	07	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	08	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	09	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	12	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	13	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	17	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	19	00	00	0	sleet	|	orig=sleet text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	22	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	23	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	27	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	28	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1866	12	29	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1866-12-01_OBS-L.jpg
+1867	01	01	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	04	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	06	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	07	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	08	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	09	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	10	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	18	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	19	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	21	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	26	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	27	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	01	29	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-01-01_OBS-L.jpg
+1867	02	01	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	03	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	04	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	06	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	09	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	10	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	13	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	14	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	16	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	17	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	18	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	19	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	22	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	24	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	02	28	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-02-01_OBS-L.jpg
+1867	03	01	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	02	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	04	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	07	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	10	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	11	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	12	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	13	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	14	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	18	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	19	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	25	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	03	26	00	00	0	rain+snow	|	orig=rain+snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-03-01_OBS-L.jpg
+1867	04	01	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	02	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	03	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	04	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	05	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	06	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	07	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	08	00	00	0	rain+snow	|	orig=rain+snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	11	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	12	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	15	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	16	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	18	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	21	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	22	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	23	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	25	00	00	0	snow	|	orig=snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	27	00	00	0	rain+snow	|	orig=rain+snow text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
+1867	04	30	00	00	0	rain	|	orig=rain text|Local time: 0000|QC flag: None|Image File: SteAnne_USSI-401_M1958_1867-04-01_OBS-L.jpg
