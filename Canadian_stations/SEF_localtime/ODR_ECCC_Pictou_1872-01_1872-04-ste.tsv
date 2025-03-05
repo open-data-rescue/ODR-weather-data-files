@@ -1,0 +1,85 @@
+SEF	1.0.0
+ID	PictouCanada
+Name	Pictou
+Lat	45.678
+Lon	297.294
+Alt	39.624
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ste
+Stat	point
+Unit	hour
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1872	01	06	00	00	24	4pm	|	orig=4pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	10	00	00	24	4pm	|	orig=4pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	17	00	00	24	3pm	|	orig=3pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	19	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	20	00	00	24	11am	|	orig=11am hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	24	00	00	24	10pm	|	orig=10pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	29	00	00	24	12pm	|	orig=12pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	02	01	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	02	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	03	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	04	00	00	24	7 am	|	orig=7 am hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	05	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	06	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	07	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	08	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	09	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	10	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	11	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	12	00	00	24	6 pm | 3:30	|	orig=6 pm | 3:30 hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	13	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	14	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	15	00	00	24	12 pm	|	orig=12 pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	16	00	00	24	11 pm | 12 pm	|	orig=11 pm | 12 pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	17	00	00	24	12 pm	|	orig=12 pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	18	00	00	24	4.00 pm	|	orig=4.00 pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	19	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	20	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	21	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	22	00	00	24	2.00 pm	|	orig=2.00 pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	23	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	24	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	25	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	26	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	27	00	00	24	12 am	|	orig=12 am hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	28	00	00	24	1 pm | 11 pm	|	orig=1 pm | 11 pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	29	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	03	01	00	00	24	11:00 pm	|	orig=11:00 PM hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	02	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	03	00	00	24	6:00 pm	|	orig=6:00 PM hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	04	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	05	00	00	24	6:00 pm	|	orig=6:00 PM hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	06	00	00	24	4:00 pm	|	orig=4:00 PM hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	07	00	00	24	9:30 pm	|	orig=9:30 PM hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	08	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	09	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	10	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	11	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	12	00	00	24	12:00 pm	|	orig=12:00 PM hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	13	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	14	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	15	00	00	24	12:00 pm	|	orig=12:00 PM hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	16	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	17	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	18	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	19	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	20	00	00	24	8:00 am	|	orig=8:00 AM hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	21	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	22	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	23	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	24	00	00	24	3:00 pm	|	orig=3:00 PM hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	25	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	26	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	27	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	28	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	29	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	30	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	31	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	04	02	00	00	24	12:00pm	|	orig=12:00pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
+1872	04	03	00	00	24	7.30	|	orig=7.30 hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
+1872	04	14	00	00	24	12:00pm	|	orig=12:00pm hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
+1872	04	15	00	00	24	6:30am	|	orig=6:30am hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
+1872	04	17	00	00	24	5:00am	|	orig=5:00am hr|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
