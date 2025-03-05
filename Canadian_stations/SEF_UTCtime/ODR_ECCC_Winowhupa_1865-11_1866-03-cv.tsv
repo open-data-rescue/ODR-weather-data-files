@@ -1,0 +1,49 @@
+SEF	1.0.0
+ID	WinowhupaCanada
+Name	Winowhupa
+Lat	45.13
+Lon	297.25
+Alt	112
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	cv
+Stat	point
+Unit	0-10
+Meta		UTCOffset=Applied	UTCOffset=4
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1865	11	27	18	00	0	south	|	orig=South cloudvel|Local time: 1400|QC flag: None|Image File: Winowhupa_USSI-401_M1958_1865-11-01_OBS-L.jpg
+1866	01	19	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-01-01_OBS-L.jpg
+1866	03	01	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	01	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	02	01	00	0	-999	|	orig=- cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	02	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	03	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	05	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	05	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	05	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	06	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	06	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	07	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	09	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	10	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	11	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	11	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	11	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	12	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	12	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	13	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	13	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	14	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	14	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	14	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	15	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	15	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	16	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	16	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	17	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	17	18	00	0	-999	|	orig=Empty cloudvel|Local time: 1400|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	18	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	18	11	00	0	-999	|	orig=Empty cloudvel|Local time: 0700|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	19	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	20	01	00	0	-999	|	orig=Empty cloudvel|Local time: 2100|QC flag: missing|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
+1866	03	20	11	00	0	0	|	orig=0 cloudvel|Local time: 0700|QC flag: None|Image File: Winowhupa_USSI-401_M1958_1866-03-01_OBS-L.jpg
