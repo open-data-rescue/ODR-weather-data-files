@@ -1,0 +1,14 @@
+SEF	1.0.0
+ID	FortAndersonCanada
+Name	FortAnderson
+Lat	68.5
+Lon	231.5
+Alt	unknown
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ptb
+Stat	point
+Unit	hour
+Meta		UTCOffset=NO
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1863	06	16	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortAnderson_USSI-401_M1958_1863-06-01_OBS-L.jpg
