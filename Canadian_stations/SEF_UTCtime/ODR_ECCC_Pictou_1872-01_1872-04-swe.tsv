@@ -1,0 +1,85 @@
+SEF	1.0.0
+ID	PictouCanada
+Name	Pictou
+Lat	45.678
+Lon	297.294
+Alt	39.624
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	swe
+Stat	point
+Unit	mm
+Meta		UTCOffset=Applied	UTCOffset=4
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1872	01	06	00	00	24	1.78	|	orig=0.07 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	10	00	00	24	2.29	|	orig=0.09 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	17	00	00	24	8.89	|	orig=0.35 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	19	00	00	24	9.14	|	orig=0.36 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	20	00	00	24	5.84	|	orig=0.23 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	24	00	00	24	10.16	|	orig=0.40 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	01	29	00	00	24	2.54	|	orig=0.10 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-01-01_OBS-2.jpg
+1872	02	01	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	02	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	03	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	04	00	00	24	24.13	|	orig=0.95 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	05	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	06	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	07	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	08	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	09	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	10	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	11	00	00	24	9.14	|	orig=.36 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	12	00	00	24	4.83	|	orig=.19 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	13	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	14	00	00	24	4.57	|	orig=.18 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	15	00	00	24	17.78	|	orig=.70 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	16	00	00	24	5.84	|	orig=.23 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	17	00	00	24	2.54	|	orig=.10 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	18	00	00	24	0.76	|	orig=.03 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	19	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	20	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	21	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	22	00	00	24	0.76	|	orig=.03 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	23	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	24	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	25	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	26	00	00	24	0.64	|	orig=0.025 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	27	00	00	24	-999	|	orig=0.040 | 0.115 in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	28	00	00	24	14.73	|	orig=0.580 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	02	29	00	00	24	-999	|	orig=- in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-02-01_OBS-2.jpg
+1872	03	01	00	00	24	2.67	|	orig=0.105 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	02	00	00	24	8.89	|	orig=0.350 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	03	00	00	24	11.18	|	orig=0.440 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	04	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	05	00	00	24	13.72	|	orig=0.540 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	06	00	00	24	0.38	|	orig=0.015 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	07	00	00	24	-999	|	orig=0.100 | 4.400 in|Local time: mean|QC flag: missing|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	08	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	09	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	10	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	11	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	12	00	00	24	19.81	|	orig=0.780 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	13	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	14	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	15	00	00	24	72.14	|	orig=2.840 in|Local time: mean|QC flag: high value|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	16	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	17	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	18	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	19	00	00	24	2.79	|	orig=0.110 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	20	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	21	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	22	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	23	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	24	00	00	24	20.32	|	orig=0.800 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	25	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	26	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	27	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	28	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	29	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	30	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	03	31	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-03-01_OBS-2.jpg
+1872	04	02	00	00	24	7.62	|	orig=0.30 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
+1872	04	03	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
+1872	04	14	00	00	24	4.32	|	orig=0.17 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
+1872	04	15	00	00	24	0.00	|	orig=Empty in|Local time: mean|QC flag: empty|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
+1872	04	17	00	00	24	2.03	|	orig=0.08 in|Local time: mean|QC flag: None|Image File: Pictou_TMO-100_M1958_1872-04-01_OBS-2.jpg
