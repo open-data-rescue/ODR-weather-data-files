@@ -1,123 +1,1082 @@
 ,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
-1,Clifton,America/Toronto,0,1868-03-01,1868-03-01,clear,mno,preceding_weather,249,257723,2256,2088
-2,Clifton,America/Toronto,0,1868-03-02,1868-03-02,violent gale moderate snow,mno,preceding_weather,249,257725,2256,2088
-3,Clifton,America/Toronto,0,1868-03-03,1868-03-03,clear,mno,preceding_weather,249,257726,2256,2088
-4,Clifton,America/Toronto,0,1868-03-04,1868-03-04,clear overcast,mno,preceding_weather,249,257727,2256,2088
-5,Clifton,America/Toronto,0,1868-03-05,1868-03-05,clear,mno,preceding_weather,249,257728,2256,2088
-6,Clifton,America/Toronto,0,1868-03-06,1868-03-06,overcast moderate rain,mno,preceding_weather,249,257729,2256,2088
-7,Clifton,America/Toronto,0,1868-03-07,1868-03-07,moderate rain,mno,preceding_weather,249,257730,2256,2088
-8,Clifton,America/Toronto,0,1868-03-08,1868-03-08,partly cloudy,mno,preceding_weather,249,257731,2256,2088
-9,Clifton,America/Toronto,0,1868-03-09,1868-03-09,clear,mno,preceding_weather,249,257732,2256,2088
-10,Clifton,America/Toronto,0,1868-03-10,1868-03-10,light rain,mno,preceding_weather,249,257733,2256,2088
-11,Clifton,America/Toronto,0,1868-03-11,1868-03-11,partly cloudy,mno,preceding_weather,249,257734,2256,2088
-12,Clifton,America/Toronto,0,1868-03-12,1868-03-12,clear partly cloudy,mno,preceding_weather,249,257735,2256,2088
-13,Clifton,America/Toronto,0,1868-03-13,1868-03-13,overcast,mno,preceding_weather,249,257736,2256,2088
-14,Clifton,America/Toronto,0,1868-03-14,1868-03-14,overcast,mno,preceding_weather,249,257737,2256,2088
-15,Clifton,America/Toronto,0,1868-03-15,1868-03-15,partly cloudy light rain,mno,preceding_weather,249,257738,2256,2088
-16,Clifton,America/Toronto,0,1868-03-16,1868-03-16,clear,mno,preceding_weather,249,257739,2256,2088
-17,Clifton,America/Toronto,0,1868-03-17,1868-03-17,light rain,mno,preceding_weather,249,257740,2256,2088
-18,Clifton,America/Toronto,0,1868-03-18,1868-03-18,partly cloudy,mno,preceding_weather,249,257741,2256,2088
-19,Clifton,America/Toronto,0,1868-03-19,1868-03-19,clear,mno,preceding_weather,249,257742,2256,2088
-20,Clifton,America/Toronto,0,1868-03-20,1868-03-20,light snow,mno,preceding_weather,249,257743,2256,2088
-21,Clifton,America/Toronto,0,1868-03-21,1868-03-21,overcast,mno,preceding_weather,249,257744,2256,2088
-22,Clifton,America/Toronto,0,1868-03-22,1868-03-22,clear,mno,preceding_weather,249,257745,2256,2088
-23,Clifton,America/Toronto,0,1868-03-23,1868-03-23,clear,mno,preceding_weather,249,257746,2256,2088
-24,Clifton,America/Toronto,0,1868-03-24,1868-03-24,clear,mno,preceding_weather,249,257747,2256,2088
-25,Clifton,America/Toronto,0,1868-03-25,1868-03-25,clear,mno,preceding_weather,249,257748,2256,2088
-26,Clifton,America/Toronto,0,1868-03-26,1868-03-26,clear,mno,preceding_weather,249,257749,2256,2088
-27,Clifton,America/Toronto,0,1868-03-27,1868-03-27,clear,mno,preceding_weather,249,257750,2256,2088
-28,Clifton,America/Toronto,0,1868-03-28,1868-03-28,clear,mno,preceding_weather,249,257751,2256,2088
-29,Clifton,America/Toronto,0,1868-03-29,1868-03-29,clear,mno,preceding_weather,249,257752,2256,2088
-30,Clifton,America/Toronto,0,1868-03-30,1868-03-30,clear,mno,preceding_weather,249,257753,2256,2088
-31,Clifton,America/Toronto,0,1868-03-31,1868-03-31,clear,mno,preceding_weather,249,257754,2256,2088
-32,Clifton,America/Toronto,0,1868-04-01,1868-04-01,clear,mno,preceding_weather,249,257979,2257,2270
-33,Clifton,America/Toronto,0,1868-04-02,1868-04-02,partly cloudy,mno,preceding_weather,249,257980,2257,2270
-34,Clifton,America/Toronto,0,1868-04-03,1868-04-03,partly cloudy,mno,preceding_weather,249,257981,2257,2270
-35,Clifton,America/Toronto,0,1868-04-04,1868-04-04,overcast,mno,preceding_weather,249,257982,2257,2270
-36,Clifton,America/Toronto,0,1868-04-05,1868-04-05,light snow,mno,preceding_weather,249,257983,2257,2270
-37,Clifton,America/Toronto,0,1868-04-06,1868-04-06,clear,mno,preceding_weather,249,257985,2257,2270
-38,Clifton,America/Toronto,0,1868-04-07,1868-04-07,light snow,mno,preceding_weather,249,257986,2257,2270
-39,Clifton,America/Toronto,0,1868-04-08,1868-04-08,clear partly cloudy,mno,preceding_weather,249,257987,2257,2270
-40,Clifton,America/Toronto,0,1868-04-09,1868-04-09,clear,mno,preceding_weather,249,257988,2257,2270
-41,Clifton,America/Toronto,0,1868-04-10,1868-04-10,partly cloudy light snow,mno,preceding_weather,249,257989,2257,2270
-42,Clifton,America/Toronto,0,1868-04-11,1868-04-11,clear,mno,preceding_weather,249,257990,2257,2270
-43,Clifton,America/Toronto,0,1868-04-12,1868-04-12,light rain moderate snow,mno,preceding_weather,249,257991,2257,2270
-44,Clifton,America/Toronto,0,1868-04-13,1868-04-13,clear,mno,preceding_weather,249,257992,2257,2270
-45,Clifton,America/Toronto,0,1868-04-14,1868-04-14,clear,mno,preceding_weather,249,257993,2257,2270
-46,Clifton,America/Toronto,0,1868-04-15,1868-04-15,light rain,mno,preceding_weather,249,257994,2257,2270
-47,Clifton,America/Toronto,0,1868-04-16,1868-04-16,clear moderate rain,mno,preceding_weather,249,257995,2257,2270
-48,Clifton,America/Toronto,0,1868-04-17,1868-04-17,clear,mno,preceding_weather,249,257996,2257,2270
-49,Clifton,America/Toronto,0,1868-04-18,1868-04-18,overcast,mno,preceding_weather,249,257997,2257,2270
-50,Clifton,America/Toronto,0,1868-04-19,1868-04-19,clear,mno,preceding_weather,249,257998,2257,2270
-51,Clifton,America/Toronto,0,1868-04-20,1868-04-20,overcast,mno,preceding_weather,249,257999,2257,2270
-52,Clifton,America/Toronto,0,1868-04-21,1868-04-21,clear partly cloudy,mno,preceding_weather,249,258000,2257,2270
-53,Clifton,America/Toronto,0,1868-04-22,1868-04-22,clear,mno,preceding_weather,249,258001,2257,2270
-54,Clifton,America/Toronto,0,1868-04-23,1868-04-23,overcast moderate snow,mno,preceding_weather,249,258003,2257,2270
-55,Clifton,America/Toronto,0,1868-04-24,1868-04-24,clear,mno,preceding_weather,249,258004,2257,2270
-56,Clifton,America/Toronto,0,1868-04-25,1868-04-25,overcast light rain,mno,preceding_weather,249,258005,2257,2270
-57,Clifton,America/Toronto,0,1868-04-26,1868-04-26,clear,mno,preceding_weather,249,258006,2257,2270
-58,Clifton,America/Toronto,0,1868-04-27,1868-04-27,overcast,mno,preceding_weather,249,258007,2257,2270
-59,Clifton,America/Toronto,0,1868-04-28,1868-04-28,clear partly cloudy,mno,preceding_weather,249,258008,2257,2270
-60,Clifton,America/Toronto,0,1868-04-29,1868-04-29,partly cloudy overcast,mno,preceding_weather,249,258009,2257,2270
-61,Clifton,America/Toronto,0,1868-04-30,1868-04-30,clear partly cloudy moderate rain,mno,preceding_weather,249,258010,2257,2270
-62,Clifton,America/Toronto,0,1868-05-01,1868-05-01,partly cloudy overcast,mno,preceding_weather,249,257318,2248,2269
-63,Clifton,America/Toronto,0,1868-05-02,1868-05-02,overcast light rain moderate rain,mno,preceding_weather,249,257461,2248,2269
-64,Clifton,America/Toronto,0,1868-05-03,1868-05-03,partly cloudy,mno,preceding_weather,249,257462,2248,2269
-65,Clifton,America/Toronto,0,1868-05-04,1868-05-04,clear,mno,preceding_weather,249,257463,2248,2269
-66,Clifton,America/Toronto,0,1868-05-05,1868-05-05,partly cloudy overcast,mno,preceding_weather,249,257464,2248,2269
-67,Clifton,America/Toronto,0,1868-05-06,1868-05-06,overcast,mno,preceding_weather,249,257465,2248,2269
-68,Clifton,America/Toronto,0,1868-05-07,1868-05-07,clear overcast,mno,preceding_weather,249,257466,2248,2269
-69,Clifton,America/Toronto,0,1868-05-08,1868-05-08,partly cloudy,mno,preceding_weather,249,257467,2248,2269
-70,Clifton,America/Toronto,0,1868-05-09,1868-05-09,clear,mno,preceding_weather,249,257468,2248,2269
-71,Clifton,America/Toronto,0,1868-05-10,1868-05-10,clear,mno,preceding_weather,249,257469,2248,2269
-72,Clifton,America/Toronto,0,1868-05-11,1868-05-11,clear,mno,preceding_weather,249,257470,2248,2269
-73,Clifton,America/Toronto,0,1868-05-12,1868-05-12,clear,mno,preceding_weather,249,257472,2248,2269
-74,Clifton,America/Toronto,0,1868-05-13,1868-05-13,partly cloudy overcast,mno,preceding_weather,249,257473,2248,2269
-75,Clifton,America/Toronto,0,1868-05-14,1868-05-14,overcast,mno,preceding_weather,249,257474,2248,2269
-76,Clifton,America/Toronto,0,1868-05-15,1868-05-15,overcast,mno,preceding_weather,249,257475,2248,2269
-77,Clifton,America/Toronto,0,1868-05-16,1868-05-16,partly cloudy,mno,preceding_weather,249,257476,2248,2269
-78,Clifton,America/Toronto,0,1868-05-17,1868-05-17,overcast,mno,preceding_weather,249,257477,2248,2269
-79,Clifton,America/Toronto,0,1868-05-18,1868-05-18,light rain,mno,preceding_weather,249,257478,2248,2269
-80,Clifton,America/Toronto,0,1868-05-19,1868-05-19,clear,mno,preceding_weather,249,257480,2248,2269
-81,Clifton,America/Toronto,0,1868-05-20,1868-05-20,overcast,mno,preceding_weather,249,257481,2248,2269
-82,Clifton,America/Toronto,0,1868-05-21,1868-05-21,partly cloudy,mno,preceding_weather,249,257482,2248,2269
-83,Clifton,America/Toronto,0,1868-05-22,1868-05-22,light rain,mno,preceding_weather,249,257483,2248,2269
-84,Clifton,America/Toronto,0,1868-05-23,1868-05-23,overcast,mno,preceding_weather,249,257484,2248,2269
-85,Clifton,America/Toronto,0,1868-05-24,1868-05-24,clear,mno,preceding_weather,249,257485,2248,2269
-86,Clifton,America/Toronto,0,1868-05-25,1868-05-25,clear,mno,preceding_weather,249,257486,2248,2269
-87,Clifton,America/Toronto,0,1868-05-26,1868-05-26,clear,mno,preceding_weather,249,257487,2248,2269
-88,Clifton,America/Toronto,0,1868-05-27,1868-05-27,clear,mno,preceding_weather,249,257488,2248,2269
-89,Clifton,America/Toronto,0,1868-05-28,1868-05-28,partly cloudy,mno,preceding_weather,249,257489,2248,2269
-90,Clifton,America/Toronto,0,1868-05-29,1868-05-29,overcast,mno,preceding_weather,249,257490,2248,2269
-91,Clifton,America/Toronto,0,1868-05-30,1868-05-30,overcast,mno,preceding_weather,249,257491,2248,2269
-92,Clifton,America/Toronto,0,1868-05-31,1868-05-31,overcast,mno,preceding_weather,249,257492,2248,2269
-93,Clifton,America/Toronto,0,1868-06-01,1868-06-01,clear,mno,preceding_weather,249,258579,2259,2271
-94,Clifton,America/Toronto,0,1868-06-02,1868-06-02,clear,mno,preceding_weather,249,258580,2259,2271
-95,Clifton,America/Toronto,0,1868-06-03,1868-06-03,clear,mno,preceding_weather,249,258581,2259,2271
-96,Clifton,America/Toronto,0,1868-06-04,1868-06-04,overcast,mno,preceding_weather,249,258582,2259,2271
-97,Clifton,America/Toronto,0,1868-06-05,1868-06-05,partly cloudy moderate rain,mno,preceding_weather,249,258583,2259,2271
-98,Clifton,America/Toronto,0,1868-06-06,1868-06-06,partly cloudy heavy rain,mno,preceding_weather,249,258584,2259,2271
-99,Clifton,America/Toronto,0,1868-06-07,1868-06-07,overcast moderate rain,mno,preceding_weather,249,258585,2259,2271
-100,Clifton,America/Toronto,0,1868-06-08,1868-06-08,clear,mno,preceding_weather,249,258586,2259,2271
-101,Clifton,America/Toronto,0,1868-06-09,1868-06-09,overcast moderate rain,mno,preceding_weather,249,258587,2259,2271
-102,Clifton,America/Toronto,0,1868-06-10,1868-06-10,clear,mno,preceding_weather,249,258588,2259,2271
-103,Clifton,America/Toronto,0,1868-06-11,1868-06-11,clear,mno,preceding_weather,249,258589,2259,2271
-104,Clifton,America/Toronto,0,1868-06-12,1868-06-12,clear,mno,preceding_weather,249,258590,2259,2271
-105,Clifton,America/Toronto,0,1868-06-13,1868-06-13,clear,mno,preceding_weather,249,258591,2259,2271
-106,Clifton,America/Toronto,0,1868-06-14,1868-06-14,partly cloudy,mno,preceding_weather,249,258592,2259,2271
-107,Clifton,America/Toronto,0,1868-06-15,1868-06-15,partly cloudy,mno,preceding_weather,249,258595,2259,2271
-108,Clifton,America/Toronto,0,1868-06-16,1868-06-16,overcast moderate rain,mno,preceding_weather,249,258598,2259,2271
-109,Clifton,America/Toronto,0,1868-06-17,1868-06-17,clear,mno,preceding_weather,249,258601,2259,2271
-110,Clifton,America/Toronto,0,1868-06-18,1868-06-18,clear,mno,preceding_weather,249,258604,2259,2271
-111,Clifton,America/Toronto,0,1868-06-19,1868-06-19,clear,mno,preceding_weather,249,258607,2259,2271
-112,Clifton,America/Toronto,0,1868-06-20,1868-06-20,clear,mno,preceding_weather,249,258609,2259,2271
-113,Clifton,America/Toronto,0,1868-06-21,1868-06-21,overcast light rain,mno,preceding_weather,249,258613,2259,2271
-114,Clifton,America/Toronto,0,1868-06-22,1868-06-22,overcast light rain,mno,preceding_weather,249,258617,2259,2271
-115,Clifton,America/Toronto,0,1868-06-23,1868-06-23,partly cloudy,mno,preceding_weather,249,258626,2259,2271
-116,Clifton,America/Toronto,0,1868-06-24,1868-06-24,clear,mno,preceding_weather,249,258629,2259,2271
-117,Clifton,America/Toronto,0,1868-06-25,1868-06-25,clear,mno,preceding_weather,249,258633,2259,2271
-118,Clifton,America/Toronto,0,1868-06-26,1868-06-26,clear,mno,preceding_weather,249,258635,2259,2271
-119,Clifton,America/Toronto,0,1868-06-27,1868-06-27,clear,mno,preceding_weather,249,258636,2259,2271
-120,Clifton,America/Toronto,0,1868-06-28,1868-06-28,clear,mno,preceding_weather,249,258637,2259,2271
-121,Clifton,America/Toronto,0,1868-06-29,1868-06-29,clear,mno,preceding_weather,249,258638,2259,2271
-122,Clifton,America/Toronto,0,1868-06-30,1868-06-30,clear,mno,preceding_weather,249,258639,2259,2271
+0,Clifton,America/Toronto,0,1868-03-01 07:00:00,1868-03-01 07:00:00,20,F,open_air_thermometer_7am,95,257691,2256,2088
+1,Clifton,America/Toronto,0,1868-03-02 07:00:00,1868-03-02 07:00:00,12,F,open_air_thermometer_7am,95,257692,2256,2088
+2,Clifton,America/Toronto,0,1868-03-03 07:00:00,1868-03-03 07:00:00,-5,F,open_air_thermometer_7am,95,257693,2256,2088
+3,Clifton,America/Toronto,0,1868-03-04 07:00:00,1868-03-04 07:00:00,8,F,open_air_thermometer_7am,95,257694,2256,2088
+4,Clifton,America/Toronto,0,1868-03-05 07:00:00,1868-03-05 07:00:00,16,F,open_air_thermometer_7am,95,257695,2256,2088
+5,Clifton,America/Toronto,0,1868-03-06 07:00:00,1868-03-06 07:00:00,38,F,open_air_thermometer_7am,95,257696,2256,2088
+6,Clifton,America/Toronto,0,1868-03-07 07:00:00,1868-03-07 07:00:00,40,F,open_air_thermometer_7am,95,257697,2256,2088
+7,Clifton,America/Toronto,0,1868-03-08 07:00:00,1868-03-08 07:00:00,40,F,open_air_thermometer_7am,95,257698,2256,2088
+8,Clifton,America/Toronto,0,1868-03-09 07:00:00,1868-03-09 07:00:00,38,F,open_air_thermometer_7am,95,257699,2256,2088
+9,Clifton,America/Toronto,0,1868-03-10 07:00:00,1868-03-10 07:00:00,36,F,open_air_thermometer_7am,95,257700,2256,2088
+10,Clifton,America/Toronto,0,1868-03-11 07:00:00,1868-03-11 07:00:00,27,F,open_air_thermometer_7am,95,257701,2256,2088
+11,Clifton,America/Toronto,0,1868-03-12 07:00:00,1868-03-12 07:00:00,30,F,open_air_thermometer_7am,95,257702,2256,2088
+12,Clifton,America/Toronto,0,1868-03-13 07:00:00,1868-03-13 07:00:00,40,F,open_air_thermometer_7am,95,257703,2256,2088
+13,Clifton,America/Toronto,0,1868-03-14 07:00:00,1868-03-14 07:00:00,35,F,open_air_thermometer_7am,95,257704,2256,2088
+14,Clifton,America/Toronto,0,1868-03-15 07:00:00,1868-03-15 07:00:00,48,F,open_air_thermometer_7am,95,257705,2256,2088
+15,Clifton,America/Toronto,0,1868-03-16 07:00:00,1868-03-16 07:00:00,46,F,open_air_thermometer_7am,95,257706,2256,2088
+16,Clifton,America/Toronto,0,1868-03-17 07:00:00,1868-03-17 07:00:00,54,F,open_air_thermometer_7am,95,257707,2256,2088
+17,Clifton,America/Toronto,0,1868-03-18 07:00:00,1868-03-18 07:00:00,34,F,open_air_thermometer_7am,95,257708,2256,2088
+18,Clifton,America/Toronto,0,1868-03-19 07:00:00,1868-03-19 07:00:00,28,F,open_air_thermometer_7am,95,257709,2256,2088
+19,Clifton,America/Toronto,0,1868-03-20 07:00:00,1868-03-20 07:00:00,32,F,open_air_thermometer_7am,95,257710,2256,2088
+20,Clifton,America/Toronto,0,1868-03-21 07:00:00,1868-03-21 07:00:00,24,F,open_air_thermometer_7am,95,257711,2256,2088
+21,Clifton,America/Toronto,0,1868-03-22 07:00:00,1868-03-22 07:00:00,24,F,open_air_thermometer_7am,95,257712,2256,2088
+22,Clifton,America/Toronto,0,1868-03-23 07:00:00,1868-03-23 07:00:00,36,F,open_air_thermometer_7am,95,257713,2256,2088
+23,Clifton,America/Toronto,0,1868-03-24 07:00:00,1868-03-24 07:00:00,36,F,open_air_thermometer_7am,95,257714,2256,2088
+24,Clifton,America/Toronto,0,1868-03-25 07:00:00,1868-03-25 07:00:00,36,F,open_air_thermometer_7am,95,257715,2256,2088
+25,Clifton,America/Toronto,0,1868-03-26 07:00:00,1868-03-26 07:00:00,36,F,open_air_thermometer_7am,95,257716,2256,2088
+26,Clifton,America/Toronto,0,1868-03-27 07:00:00,1868-03-27 07:00:00,40,F,open_air_thermometer_7am,95,257717,2256,2088
+27,Clifton,America/Toronto,0,1868-03-28 07:00:00,1868-03-28 07:00:00,42,F,open_air_thermometer_7am,95,257718,2256,2088
+28,Clifton,America/Toronto,0,1868-03-29 07:00:00,1868-03-29 07:00:00,44,F,open_air_thermometer_7am,95,257719,2256,2088
+29,Clifton,America/Toronto,0,1868-03-30 07:00:00,1868-03-30 07:00:00,52,F,open_air_thermometer_7am,95,257721,2256,2088
+30,Clifton,America/Toronto,0,1868-03-31 07:00:00,1868-03-31 07:00:00,51,F,open_air_thermometer_7am,95,257722,2256,2088
+31,Clifton,America/Toronto,0,1868-04-01 07:00:00,1868-04-01 07:00:00,50,F,open_air_thermometer_7am,95,257949,2257,2270
+32,Clifton,America/Toronto,0,1868-04-02 07:00:00,1868-04-02 07:00:00,38,F,open_air_thermometer_7am,95,257950,2257,2270
+33,Clifton,America/Toronto,0,1868-04-03 07:00:00,1868-04-03 07:00:00,32,F,open_air_thermometer_7am,95,257951,2257,2270
+34,Clifton,America/Toronto,0,1868-04-04 07:00:00,1868-04-04 07:00:00,34,F,open_air_thermometer_7am,95,257952,2257,2270
+35,Clifton,America/Toronto,0,1868-04-05 07:00:00,1868-04-05 07:00:00,26,F,open_air_thermometer_7am,95,257953,2257,2270
+36,Clifton,America/Toronto,0,1868-04-06 07:00:00,1868-04-06 07:00:00,24,F,open_air_thermometer_7am,95,257954,2257,2270
+37,Clifton,America/Toronto,0,1868-04-07 07:00:00,1868-04-07 07:00:00,34,F,open_air_thermometer_7am,95,257955,2257,2270
+38,Clifton,America/Toronto,0,1868-04-08 07:00:00,1868-04-08 07:00:00,32,F,open_air_thermometer_7am,95,257956,2257,2270
+39,Clifton,America/Toronto,0,1868-04-09 07:00:00,1868-04-09 07:00:00,22,F,open_air_thermometer_7am,95,257957,2257,2270
+40,Clifton,America/Toronto,0,1868-04-10 07:00:00,1868-04-10 07:00:00,28,F,open_air_thermometer_7am,95,257958,2257,2270
+41,Clifton,America/Toronto,0,1868-04-11 07:00:00,1868-04-11 07:00:00,34,F,open_air_thermometer_7am,95,257959,2257,2270
+42,Clifton,America/Toronto,0,1868-04-12 07:00:00,1868-04-12 07:00:00,22,F,open_air_thermometer_7am,95,257960,2257,2270
+43,Clifton,America/Toronto,0,1868-04-13 07:00:00,1868-04-13 07:00:00,34,F,open_air_thermometer_7am,95,257961,2257,2270
+44,Clifton,America/Toronto,0,1868-04-14 07:00:00,1868-04-14 07:00:00,38,F,open_air_thermometer_7am,95,257962,2257,2270
+45,Clifton,America/Toronto,0,1868-04-15 07:00:00,1868-04-15 07:00:00,50,F,open_air_thermometer_7am,95,257963,2257,2270
+46,Clifton,America/Toronto,0,1868-04-16 07:00:00,1868-04-16 07:00:00,53,F,open_air_thermometer_7am,95,257964,2257,2270
+47,Clifton,America/Toronto,0,1868-04-17 07:00:00,1868-04-17 07:00:00,48,F,open_air_thermometer_7am,95,257965,2257,2270
+48,Clifton,America/Toronto,0,1868-04-18 07:00:00,1868-04-18 07:00:00,32,F,open_air_thermometer_7am,95,257966,2257,2270
+49,Clifton,America/Toronto,0,1868-04-19 07:00:00,1868-04-19 07:00:00,45,F,open_air_thermometer_7am,95,257967,2257,2270
+50,Clifton,America/Toronto,0,1868-04-20 07:00:00,1868-04-20 07:00:00,48,F,open_air_thermometer_7am,95,257968,2257,2270
+51,Clifton,America/Toronto,0,1868-04-21 07:00:00,1868-04-21 07:00:00,44,F,open_air_thermometer_7am,95,257969,2257,2270
+52,Clifton,America/Toronto,0,1868-04-22 07:00:00,1868-04-22 07:00:00,40,F,open_air_thermometer_7am,95,257970,2257,2270
+53,Clifton,America/Toronto,0,1868-04-23 07:00:00,1868-04-23 07:00:00,32,F,open_air_thermometer_7am,95,257971,2257,2270
+54,Clifton,America/Toronto,0,1868-04-24 07:00:00,1868-04-24 07:00:00,38,F,open_air_thermometer_7am,95,257972,2257,2270
+55,Clifton,America/Toronto,0,1868-04-25 07:00:00,1868-04-25 07:00:00,40,F,open_air_thermometer_7am,95,257973,2257,2270
+56,Clifton,America/Toronto,0,1868-04-26 07:00:00,1868-04-26 07:00:00,44,F,open_air_thermometer_7am,95,257974,2257,2270
+57,Clifton,America/Toronto,0,1868-04-27 07:00:00,1868-04-27 07:00:00,50,F,open_air_thermometer_7am,95,257975,2257,2270
+58,Clifton,America/Toronto,0,1868-04-28 07:00:00,1868-04-28 07:00:00,34,F,open_air_thermometer_7am,95,257976,2257,2270
+59,Clifton,America/Toronto,0,1868-04-29 07:00:00,1868-04-29 07:00:00,54,F,open_air_thermometer_7am,95,257977,2257,2270
+60,Clifton,America/Toronto,0,1868-04-30 07:00:00,1868-04-30 07:00:00,54,F,open_air_thermometer_7am,95,257978,2257,2270
+61,Clifton,America/Toronto,0,1868-05-01 07:00:00,1868-05-01 07:00:00,38,F,open_air_thermometer_7am,95,257077,2248,2269
+62,Clifton,America/Toronto,0,1868-05-02 07:00:00,1868-05-02 07:00:00,40,F,open_air_thermometer_7am,95,257078,2248,2269
+63,Clifton,America/Toronto,0,1868-05-03 07:00:00,1868-05-03 07:00:00,50,F,open_air_thermometer_7am,95,257079,2248,2269
+64,Clifton,America/Toronto,0,1868-05-04 07:00:00,1868-05-04 07:00:00,54,F,open_air_thermometer_7am,95,257080,2248,2269
+65,Clifton,America/Toronto,0,1868-05-05 07:00:00,1868-05-05 07:00:00,56,F,open_air_thermometer_7am,95,257081,2248,2269
+66,Clifton,America/Toronto,0,1868-05-06 07:00:00,1868-05-06 07:00:00,40,F,open_air_thermometer_7am,95,257082,2248,2269
+67,Clifton,America/Toronto,0,1868-05-07 07:00:00,1868-05-07 07:00:00,40,F,open_air_thermometer_7am,95,257083,2248,2269
+68,Clifton,America/Toronto,0,1868-05-08 07:00:00,1868-05-08 07:00:00,40,F,open_air_thermometer_7am,95,257084,2248,2269
+69,Clifton,America/Toronto,0,1868-05-09 07:00:00,1868-05-09 07:00:00,44,F,open_air_thermometer_7am,95,257085,2248,2269
+70,Clifton,America/Toronto,0,1868-05-10 07:00:00,1868-05-10 07:00:00,46,F,open_air_thermometer_7am,95,257086,2248,2269
+71,Clifton,America/Toronto,0,1868-05-11 07:00:00,1868-05-11 07:00:00,52,F,open_air_thermometer_7am,95,257493,2248,2269
+72,Clifton,America/Toronto,0,1868-05-12 07:00:00,1868-05-12 07:00:00,50,F,open_air_thermometer_7am,95,257494,2248,2269
+73,Clifton,America/Toronto,0,1868-05-13 07:00:00,1868-05-13 07:00:00,40,F,open_air_thermometer_7am,95,257495,2248,2269
+74,Clifton,America/Toronto,0,1868-05-14 07:00:00,1868-05-14 07:00:00,50,F,open_air_thermometer_7am,95,257496,2248,2269
+75,Clifton,America/Toronto,0,1868-05-15 07:00:00,1868-05-15 07:00:00,52,F,open_air_thermometer_7am,95,257497,2248,2269
+76,Clifton,America/Toronto,0,1868-05-16 07:00:00,1868-05-16 07:00:00,60,F,open_air_thermometer_7am,95,257498,2248,2269
+77,Clifton,America/Toronto,0,1868-05-17 07:00:00,1868-05-17 07:00:00,56,F,open_air_thermometer_7am,95,257499,2248,2269
+78,Clifton,America/Toronto,0,1868-05-18 07:00:00,1868-05-18 07:00:00,40,F,open_air_thermometer_7am,95,257500,2248,2269
+79,Clifton,America/Toronto,0,1868-05-19 07:00:00,1868-05-19 07:00:00,46,F,open_air_thermometer_7am,95,257501,2248,2269
+80,Clifton,America/Toronto,0,1868-05-20 07:00:00,1868-05-20 07:00:00,44,F,open_air_thermometer_7am,95,257502,2248,2269
+81,Clifton,America/Toronto,0,1868-05-21 07:00:00,1868-05-21 07:00:00,54,F,open_air_thermometer_7am,95,257504,2248,2269
+82,Clifton,America/Toronto,0,1868-05-22 07:00:00,1868-05-22 07:00:00,52,F,open_air_thermometer_7am,95,257505,2248,2269
+83,Clifton,America/Toronto,0,1868-05-23 07:00:00,1868-05-23 07:00:00,54,F,open_air_thermometer_7am,95,257506,2248,2269
+84,Clifton,America/Toronto,0,1868-05-24 07:00:00,1868-05-24 07:00:00,56,F,open_air_thermometer_7am,95,257507,2248,2269
+85,Clifton,America/Toronto,0,1868-05-25 07:00:00,1868-05-25 07:00:00,60,F,open_air_thermometer_7am,95,257508,2248,2269
+86,Clifton,America/Toronto,0,1868-05-26 07:00:00,1868-05-26 07:00:00,63,F,open_air_thermometer_7am,95,257509,2248,2269
+87,Clifton,America/Toronto,0,1868-05-27 07:00:00,1868-05-27 07:00:00,72,F,open_air_thermometer_7am,95,257510,2248,2269
+88,Clifton,America/Toronto,0,1868-05-28 07:00:00,1868-05-28 07:00:00,64,F,open_air_thermometer_7am,95,257511,2248,2269
+89,Clifton,America/Toronto,0,1868-05-29 07:00:00,1868-05-29 07:00:00,60,F,open_air_thermometer_7am,95,257512,2248,2269
+90,Clifton,America/Toronto,0,1868-05-30 07:00:00,1868-05-30 07:00:00,68,F,open_air_thermometer_7am,95,257513,2248,2269
+91,Clifton,America/Toronto,0,1868-05-31 07:00:00,1868-05-31 07:00:00,58,F,open_air_thermometer_7am,95,257514,2248,2269
+92,Clifton,America/Toronto,0,1868-06-01 07:00:00,1868-06-01 07:00:00,52,F,open_air_thermometer_7am,95,258536,2259,2271
+93,Clifton,America/Toronto,0,1868-06-02 07:00:00,1868-06-02 07:00:00,50,F,open_air_thermometer_7am,95,258539,2259,2271
+94,Clifton,America/Toronto,0,1868-06-03 07:00:00,1868-06-03 07:00:00,50,F,open_air_thermometer_7am,95,258542,2259,2271
+95,Clifton,America/Toronto,0,1868-06-04 07:00:00,1868-06-04 07:00:00,56,F,open_air_thermometer_7am,95,258545,2259,2271
+96,Clifton,America/Toronto,0,1868-06-05 07:00:00,1868-06-05 07:00:00,58,F,open_air_thermometer_7am,95,258547,2259,2271
+97,Clifton,America/Toronto,0,1868-06-06 07:00:00,1868-06-06 07:00:00,63,F,open_air_thermometer_7am,95,258550,2259,2271
+98,Clifton,America/Toronto,0,1868-06-07 07:00:00,1868-06-07 07:00:00,48,F,open_air_thermometer_7am,95,258554,2259,2271
+99,Clifton,America/Toronto,0,1868-06-08 07:00:00,1868-06-08 07:00:00,50,F,open_air_thermometer_7am,95,258555,2259,2271
+100,Clifton,America/Toronto,0,1868-06-09 07:00:00,1868-06-09 07:00:00,46,F,open_air_thermometer_7am,95,258556,2259,2271
+101,Clifton,America/Toronto,0,1868-06-10 07:00:00,1868-06-10 07:00:00,42,F,open_air_thermometer_7am,95,258557,2259,2271
+102,Clifton,America/Toronto,0,1868-06-11 07:00:00,1868-06-11 07:00:00,44,F,open_air_thermometer_7am,95,258558,2259,2271
+103,Clifton,America/Toronto,0,1868-06-12 07:00:00,1868-06-12 07:00:00,50,F,open_air_thermometer_7am,95,258559,2259,2271
+104,Clifton,America/Toronto,0,1868-06-13 07:00:00,1868-06-13 07:00:00,58,F,open_air_thermometer_7am,95,258560,2259,2271
+105,Clifton,America/Toronto,0,1868-06-14 07:00:00,1868-06-14 07:00:00,65,F,open_air_thermometer_7am,95,258561,2259,2271
+106,Clifton,America/Toronto,0,1868-06-15 07:00:00,1868-06-15 07:00:00,66,F,open_air_thermometer_7am,95,258562,2259,2271
+107,Clifton,America/Toronto,0,1868-06-16 07:00:00,1868-06-16 07:00:00,63,F,open_air_thermometer_7am,95,258563,2259,2271
+108,Clifton,America/Toronto,0,1868-06-17 07:00:00,1868-06-17 07:00:00,64,F,open_air_thermometer_7am,95,258564,2259,2271
+109,Clifton,America/Toronto,0,1868-06-18 07:00:00,1868-06-18 07:00:00,65,F,open_air_thermometer_7am,95,258565,2259,2271
+110,Clifton,America/Toronto,0,1868-06-19 07:00:00,1868-06-19 07:00:00,70,F,open_air_thermometer_7am,95,258566,2259,2271
+111,Clifton,America/Toronto,0,1868-06-20 07:00:00,1868-06-20 07:00:00,68,F,open_air_thermometer_7am,95,258567,2259,2271
+112,Clifton,America/Toronto,0,1868-06-21 07:00:00,1868-06-21 07:00:00,57,F,open_air_thermometer_7am,95,258568,2259,2271
+113,Clifton,America/Toronto,0,1868-06-22 07:00:00,1868-06-22 07:00:00,56,F,open_air_thermometer_7am,95,258569,2259,2271
+114,Clifton,America/Toronto,0,1868-06-23 07:00:00,1868-06-23 07:00:00,58,F,open_air_thermometer_7am,95,258570,2259,2271
+115,Clifton,America/Toronto,0,1868-06-24 07:00:00,1868-06-24 07:00:00,52,F,open_air_thermometer_7am,95,258571,2259,2271
+116,Clifton,America/Toronto,0,1868-06-25 07:00:00,1868-06-25 07:00:00,57,F,open_air_thermometer_7am,95,258572,2259,2271
+117,Clifton,America/Toronto,0,1868-06-26 07:00:00,1868-06-26 07:00:00,60,F,open_air_thermometer_7am,95,258573,2259,2271
+118,Clifton,America/Toronto,0,1868-06-27 07:00:00,1868-06-27 07:00:00,66,F,open_air_thermometer_7am,95,258574,2259,2271
+119,Clifton,America/Toronto,0,1868-06-28 07:00:00,1868-06-28 07:00:00,62,F,open_air_thermometer_7am,95,258575,2259,2271
+120,Clifton,America/Toronto,0,1868-06-29 07:00:00,1868-06-29 07:00:00,58,F,open_air_thermometer_7am,95,258577,2259,2271
+121,Clifton,America/Toronto,0,1868-06-30 07:00:00,1868-06-30 07:00:00,64,F,open_air_thermometer_7am,95,258578,2259,2271
+122,Clifton,America/Toronto,0,1868-03-01 14:00:00,1868-03-01 14:00:00,24,F,open_air_thermometer_2pm,96,257691,2256,2088
+123,Clifton,America/Toronto,0,1868-03-02 14:00:00,1868-03-02 14:00:00,12,F,open_air_thermometer_2pm,96,257692,2256,2088
+124,Clifton,America/Toronto,0,1868-03-03 14:00:00,1868-03-03 14:00:00,8,F,open_air_thermometer_2pm,96,257693,2256,2088
+125,Clifton,America/Toronto,0,1868-03-04 14:00:00,1868-03-04 14:00:00,30,F,open_air_thermometer_2pm,96,257694,2256,2088
+126,Clifton,America/Toronto,0,1868-03-05 14:00:00,1868-03-05 14:00:00,38,F,open_air_thermometer_2pm,96,257695,2256,2088
+127,Clifton,America/Toronto,0,1868-03-06 14:00:00,1868-03-06 14:00:00,41,F,open_air_thermometer_2pm,96,257696,2256,2088
+128,Clifton,America/Toronto,0,1868-03-07 14:00:00,1868-03-07 14:00:00,44,F,open_air_thermometer_2pm,96,257697,2256,2088
+129,Clifton,America/Toronto,0,1868-03-08 14:00:00,1868-03-08 14:00:00,44,F,open_air_thermometer_2pm,96,257698,2256,2088
+130,Clifton,America/Toronto,0,1868-03-09 14:00:00,1868-03-09 14:00:00,48,F,open_air_thermometer_2pm,96,257699,2256,2088
+131,Clifton,America/Toronto,0,1868-03-10 14:00:00,1868-03-10 14:00:00,46,F,open_air_thermometer_2pm,96,257700,2256,2088
+132,Clifton,America/Toronto,0,1868-03-11 14:00:00,1868-03-11 14:00:00,34,F,open_air_thermometer_2pm,96,257701,2256,2088
+133,Clifton,America/Toronto,0,1868-03-12 14:00:00,1868-03-12 14:00:00,44,F,open_air_thermometer_2pm,96,257702,2256,2088
+134,Clifton,America/Toronto,0,1868-03-13 14:00:00,1868-03-13 14:00:00,46,F,open_air_thermometer_2pm,96,257703,2256,2088
+135,Clifton,America/Toronto,0,1868-03-14 14:00:00,1868-03-14 14:00:00,55,F,open_air_thermometer_2pm,96,257704,2256,2088
+136,Clifton,America/Toronto,0,1868-03-15 14:00:00,1868-03-15 14:00:00,58,F,open_air_thermometer_2pm,96,257705,2256,2088
+137,Clifton,America/Toronto,0,1868-03-16 14:00:00,1868-03-16 14:00:00,55,F,open_air_thermometer_2pm,96,257706,2256,2088
+138,Clifton,America/Toronto,0,1868-03-17 14:00:00,1868-03-17 14:00:00,64,F,open_air_thermometer_2pm,96,257707,2256,2088
+139,Clifton,America/Toronto,0,1868-03-18 14:00:00,1868-03-18 14:00:00,36,F,open_air_thermometer_2pm,96,257708,2256,2088
+140,Clifton,America/Toronto,0,1868-03-19 14:00:00,1868-03-19 14:00:00,40,F,open_air_thermometer_2pm,96,257709,2256,2088
+141,Clifton,America/Toronto,0,1868-03-20 14:00:00,1868-03-20 14:00:00,40,F,open_air_thermometer_2pm,96,257710,2256,2088
+142,Clifton,America/Toronto,0,1868-03-21 14:00:00,1868-03-21 14:00:00,28,F,open_air_thermometer_2pm,96,257711,2256,2088
+143,Clifton,America/Toronto,0,1868-03-22 14:00:00,1868-03-22 14:00:00,36,F,open_air_thermometer_2pm,96,257712,2256,2088
+144,Clifton,America/Toronto,0,1868-03-23 14:00:00,1868-03-23 14:00:00,54,F,open_air_thermometer_2pm,96,257713,2256,2088
+145,Clifton,America/Toronto,0,1868-03-24 14:00:00,1868-03-24 14:00:00,40,F,open_air_thermometer_2pm,96,257714,2256,2088
+146,Clifton,America/Toronto,0,1868-03-25 14:00:00,1868-03-25 14:00:00,44,F,open_air_thermometer_2pm,96,257715,2256,2088
+147,Clifton,America/Toronto,0,1868-03-26 14:00:00,1868-03-26 14:00:00,44,F,open_air_thermometer_2pm,96,257716,2256,2088
+148,Clifton,America/Toronto,0,1868-03-27 14:00:00,1868-03-27 14:00:00,54,F,open_air_thermometer_2pm,96,257717,2256,2088
+149,Clifton,America/Toronto,0,1868-03-28 14:00:00,1868-03-28 14:00:00,56,F,open_air_thermometer_2pm,96,257718,2256,2088
+150,Clifton,America/Toronto,0,1868-03-29 14:00:00,1868-03-29 14:00:00,58,F,open_air_thermometer_2pm,96,257719,2256,2088
+151,Clifton,America/Toronto,0,1868-03-30 14:00:00,1868-03-30 14:00:00,62,F,open_air_thermometer_2pm,96,257721,2256,2088
+152,Clifton,America/Toronto,0,1868-03-31 14:00:00,1868-03-31 14:00:00,60,F,open_air_thermometer_2pm,96,257722,2256,2088
+153,Clifton,America/Toronto,0,1868-04-01 14:00:00,1868-04-01 14:00:00,65,F,open_air_thermometer_2pm,96,257949,2257,2270
+154,Clifton,America/Toronto,0,1868-04-02 14:00:00,1868-04-02 14:00:00,38,F,open_air_thermometer_2pm,96,257950,2257,2270
+155,Clifton,America/Toronto,0,1868-04-03 14:00:00,1868-04-03 14:00:00,48,F,open_air_thermometer_2pm,96,257951,2257,2270
+156,Clifton,America/Toronto,0,1868-04-04 14:00:00,1868-04-04 14:00:00,48,F,open_air_thermometer_2pm,96,257952,2257,2270
+157,Clifton,America/Toronto,0,1868-04-05 14:00:00,1868-04-05 14:00:00,34,F,open_air_thermometer_2pm,96,257953,2257,2270
+158,Clifton,America/Toronto,0,1868-04-06 14:00:00,1868-04-06 14:00:00,36,F,open_air_thermometer_2pm,96,257954,2257,2270
+159,Clifton,America/Toronto,0,1868-04-07 14:00:00,1868-04-07 14:00:00,34,F,open_air_thermometer_2pm,96,257955,2257,2270
+160,Clifton,America/Toronto,0,1868-04-08 14:00:00,1868-04-08 14:00:00,26,F,open_air_thermometer_2pm,96,257956,2257,2270
+161,Clifton,America/Toronto,0,1868-04-09 14:00:00,1868-04-09 14:00:00,32,F,open_air_thermometer_2pm,96,257957,2257,2270
+162,Clifton,America/Toronto,0,1868-04-10 14:00:00,1868-04-10 14:00:00,36,F,open_air_thermometer_2pm,96,257958,2257,2270
+163,Clifton,America/Toronto,0,1868-04-11 14:00:00,1868-04-11 14:00:00,41,F,open_air_thermometer_2pm,96,257959,2257,2270
+164,Clifton,America/Toronto,0,1868-04-12 14:00:00,1868-04-12 14:00:00,36,F,open_air_thermometer_2pm,96,257960,2257,2270
+165,Clifton,America/Toronto,0,1868-04-13 14:00:00,1868-04-13 14:00:00,38,F,open_air_thermometer_2pm,96,257961,2257,2270
+166,Clifton,America/Toronto,0,1868-04-14 14:00:00,1868-04-14 14:00:00,50,F,open_air_thermometer_2pm,96,257962,2257,2270
+167,Clifton,America/Toronto,0,1868-04-15 14:00:00,1868-04-15 14:00:00,52,F,open_air_thermometer_2pm,96,257963,2257,2270
+168,Clifton,America/Toronto,0,1868-04-16 14:00:00,1868-04-16 14:00:00,56,F,open_air_thermometer_2pm,96,257964,2257,2270
+169,Clifton,America/Toronto,0,1868-04-17 14:00:00,1868-04-17 14:00:00,52,F,open_air_thermometer_2pm,96,257965,2257,2270
+170,Clifton,America/Toronto,0,1868-04-18 14:00:00,1868-04-18 14:00:00,40,F,open_air_thermometer_2pm,96,257966,2257,2270
+171,Clifton,America/Toronto,0,1868-04-19 14:00:00,1868-04-19 14:00:00,42,F,open_air_thermometer_2pm,96,257967,2257,2270
+172,Clifton,America/Toronto,0,1868-04-20 14:00:00,1868-04-20 14:00:00,52,F,open_air_thermometer_2pm,96,257968,2257,2270
+173,Clifton,America/Toronto,0,1868-04-21 14:00:00,1868-04-21 14:00:00,60,F,open_air_thermometer_2pm,96,257969,2257,2270
+174,Clifton,America/Toronto,0,1868-04-22 14:00:00,1868-04-22 14:00:00,50,F,open_air_thermometer_2pm,96,257970,2257,2270
+175,Clifton,America/Toronto,0,1868-04-23 14:00:00,1868-04-23 14:00:00,35,F,open_air_thermometer_2pm,96,257971,2257,2270
+176,Clifton,America/Toronto,0,1868-04-24 14:00:00,1868-04-24 14:00:00,48,F,open_air_thermometer_2pm,96,257972,2257,2270
+177,Clifton,America/Toronto,0,1868-04-25 14:00:00,1868-04-25 14:00:00,50,F,open_air_thermometer_2pm,96,257973,2257,2270
+178,Clifton,America/Toronto,0,1868-04-26 14:00:00,1868-04-26 14:00:00,58,F,open_air_thermometer_2pm,96,257974,2257,2270
+179,Clifton,America/Toronto,0,1868-04-27 14:00:00,1868-04-27 14:00:00,68,F,open_air_thermometer_2pm,96,257975,2257,2270
+180,Clifton,America/Toronto,0,1868-04-28 14:00:00,1868-04-28 14:00:00,54,F,open_air_thermometer_2pm,96,257976,2257,2270
+181,Clifton,America/Toronto,0,1868-04-29 14:00:00,1868-04-29 14:00:00,56,F,open_air_thermometer_2pm,96,257977,2257,2270
+182,Clifton,America/Toronto,0,1868-04-30 14:00:00,1868-04-30 14:00:00,56,F,open_air_thermometer_2pm,96,257978,2257,2270
+183,Clifton,America/Toronto,0,1868-05-01 14:00:00,1868-05-01 14:00:00,46,F,open_air_thermometer_2pm,96,257077,2248,2269
+184,Clifton,America/Toronto,0,1868-05-02 14:00:00,1868-05-02 14:00:00,54,F,open_air_thermometer_2pm,96,257078,2248,2269
+185,Clifton,America/Toronto,0,1868-05-03 14:00:00,1868-05-03 14:00:00,58,F,open_air_thermometer_2pm,96,257079,2248,2269
+186,Clifton,America/Toronto,0,1868-05-04 14:00:00,1868-05-04 14:00:00,63,F,open_air_thermometer_2pm,96,257080,2248,2269
+187,Clifton,America/Toronto,0,1868-05-05 14:00:00,1868-05-05 14:00:00,76,F,open_air_thermometer_2pm,96,257081,2248,2269
+188,Clifton,America/Toronto,0,1868-05-06 14:00:00,1868-05-06 14:00:00,50,F,open_air_thermometer_2pm,96,257082,2248,2269
+189,Clifton,America/Toronto,0,1868-05-07 14:00:00,1868-05-07 14:00:00,40,F,open_air_thermometer_2pm,96,257083,2248,2269
+190,Clifton,America/Toronto,0,1868-05-08 14:00:00,1868-05-08 14:00:00,55,F,open_air_thermometer_2pm,96,257084,2248,2269
+191,Clifton,America/Toronto,0,1868-05-09 14:00:00,1868-05-09 14:00:00,60,F,open_air_thermometer_2pm,96,257085,2248,2269
+192,Clifton,America/Toronto,0,1868-05-10 14:00:00,1868-05-10 14:00:00,54,F,open_air_thermometer_2pm,96,257086,2248,2269
+193,Clifton,America/Toronto,0,1868-05-11 14:00:00,1868-05-11 14:00:00,58,F,open_air_thermometer_2pm,96,257493,2248,2269
+194,Clifton,America/Toronto,0,1868-05-12 14:00:00,1868-05-12 14:00:00,60,F,open_air_thermometer_2pm,96,257494,2248,2269
+195,Clifton,America/Toronto,0,1868-05-13 14:00:00,1868-05-13 14:00:00,42,F,open_air_thermometer_2pm,96,257495,2248,2269
+196,Clifton,America/Toronto,0,1868-05-14 14:00:00,1868-05-14 14:00:00,58,F,open_air_thermometer_2pm,96,257496,2248,2269
+197,Clifton,America/Toronto,0,1868-05-15 14:00:00,1868-05-15 14:00:00,62,F,open_air_thermometer_2pm,96,257497,2248,2269
+198,Clifton,America/Toronto,0,1868-05-16 14:00:00,1868-05-16 14:00:00,60,F,open_air_thermometer_2pm,96,257498,2248,2269
+199,Clifton,America/Toronto,0,1868-05-17 14:00:00,1868-05-17 14:00:00,62,F,open_air_thermometer_2pm,96,257499,2248,2269
+200,Clifton,America/Toronto,0,1868-05-18 14:00:00,1868-05-18 14:00:00,50,F,open_air_thermometer_2pm,96,257500,2248,2269
+201,Clifton,America/Toronto,0,1868-05-19 14:00:00,1868-05-19 14:00:00,56,F,open_air_thermometer_2pm,96,257501,2248,2269
+202,Clifton,America/Toronto,0,1868-05-20 14:00:00,1868-05-20 14:00:00,54,F,open_air_thermometer_2pm,96,257502,2248,2269
+203,Clifton,America/Toronto,0,1868-05-21 14:00:00,1868-05-21 14:00:00,56,F,open_air_thermometer_2pm,96,257504,2248,2269
+204,Clifton,America/Toronto,0,1868-05-22 14:00:00,1868-05-22 14:00:00,54,F,open_air_thermometer_2pm,96,257505,2248,2269
+205,Clifton,America/Toronto,0,1868-05-23 14:00:00,1868-05-23 14:00:00,60,F,open_air_thermometer_2pm,96,257506,2248,2269
+206,Clifton,America/Toronto,0,1868-05-24 14:00:00,1868-05-24 14:00:00,65,F,open_air_thermometer_2pm,96,257507,2248,2269
+207,Clifton,America/Toronto,0,1868-05-25 14:00:00,1868-05-25 14:00:00,68,F,open_air_thermometer_2pm,96,257508,2248,2269
+208,Clifton,America/Toronto,0,1868-05-26 14:00:00,1868-05-26 14:00:00,78,F,open_air_thermometer_2pm,96,257509,2248,2269
+209,Clifton,America/Toronto,0,1868-05-27 14:00:00,1868-05-27 14:00:00,80,F,open_air_thermometer_2pm,96,257510,2248,2269
+210,Clifton,America/Toronto,0,1868-05-28 14:00:00,1868-05-28 14:00:00,74,F,open_air_thermometer_2pm,96,257511,2248,2269
+211,Clifton,America/Toronto,0,1868-05-29 14:00:00,1868-05-29 14:00:00,67,F,open_air_thermometer_2pm,96,257512,2248,2269
+212,Clifton,America/Toronto,0,1868-05-30 14:00:00,1868-05-30 14:00:00,74,F,open_air_thermometer_2pm,96,257513,2248,2269
+213,Clifton,America/Toronto,0,1868-05-31 14:00:00,1868-05-31 14:00:00,70,F,open_air_thermometer_2pm,96,257514,2248,2269
+214,Clifton,America/Toronto,0,1868-06-01 14:00:00,1868-06-01 14:00:00,empty,F,open_air_thermometer_2pm,96,258536,2259,2271
+215,Clifton,America/Toronto,0,1868-06-02 14:00:00,1868-06-02 14:00:00,empty,F,open_air_thermometer_2pm,96,258539,2259,2271
+216,Clifton,America/Toronto,0,1868-06-03 14:00:00,1868-06-03 14:00:00,empty,F,open_air_thermometer_2pm,96,258542,2259,2271
+217,Clifton,America/Toronto,0,1868-06-04 14:00:00,1868-06-04 14:00:00,empty,F,open_air_thermometer_2pm,96,258545,2259,2271
+218,Clifton,America/Toronto,0,1868-06-05 14:00:00,1868-06-05 14:00:00,empty,F,open_air_thermometer_2pm,96,258547,2259,2271
+219,Clifton,America/Toronto,0,1868-06-06 14:00:00,1868-06-06 14:00:00,empty,F,open_air_thermometer_2pm,96,258550,2259,2271
+220,Clifton,America/Toronto,0,1868-06-07 14:00:00,1868-06-07 14:00:00,empty,F,open_air_thermometer_2pm,96,258554,2259,2271
+221,Clifton,America/Toronto,0,1868-06-08 14:00:00,1868-06-08 14:00:00,empty,F,open_air_thermometer_2pm,96,258555,2259,2271
+222,Clifton,America/Toronto,0,1868-06-09 14:00:00,1868-06-09 14:00:00,empty,F,open_air_thermometer_2pm,96,258556,2259,2271
+223,Clifton,America/Toronto,0,1868-06-10 14:00:00,1868-06-10 14:00:00,empty,F,open_air_thermometer_2pm,96,258557,2259,2271
+224,Clifton,America/Toronto,0,1868-06-11 14:00:00,1868-06-11 14:00:00,empty,F,open_air_thermometer_2pm,96,258558,2259,2271
+225,Clifton,America/Toronto,0,1868-06-12 14:00:00,1868-06-12 14:00:00,empty,F,open_air_thermometer_2pm,96,258559,2259,2271
+226,Clifton,America/Toronto,0,1868-06-13 14:00:00,1868-06-13 14:00:00,empty,F,open_air_thermometer_2pm,96,258560,2259,2271
+227,Clifton,America/Toronto,0,1868-06-14 14:00:00,1868-06-14 14:00:00,empty,F,open_air_thermometer_2pm,96,258561,2259,2271
+228,Clifton,America/Toronto,0,1868-06-15 14:00:00,1868-06-15 14:00:00,empty,F,open_air_thermometer_2pm,96,258562,2259,2271
+229,Clifton,America/Toronto,0,1868-06-16 14:00:00,1868-06-16 14:00:00,empty,F,open_air_thermometer_2pm,96,258563,2259,2271
+230,Clifton,America/Toronto,0,1868-06-17 14:00:00,1868-06-17 14:00:00,empty,F,open_air_thermometer_2pm,96,258564,2259,2271
+231,Clifton,America/Toronto,0,1868-06-18 14:00:00,1868-06-18 14:00:00,empty,F,open_air_thermometer_2pm,96,258565,2259,2271
+232,Clifton,America/Toronto,0,1868-06-19 14:00:00,1868-06-19 14:00:00,empty,F,open_air_thermometer_2pm,96,258566,2259,2271
+233,Clifton,America/Toronto,0,1868-06-20 14:00:00,1868-06-20 14:00:00,empty,F,open_air_thermometer_2pm,96,258567,2259,2271
+234,Clifton,America/Toronto,0,1868-06-21 14:00:00,1868-06-21 14:00:00,empty,F,open_air_thermometer_2pm,96,258568,2259,2271
+235,Clifton,America/Toronto,0,1868-06-22 14:00:00,1868-06-22 14:00:00,empty,F,open_air_thermometer_2pm,96,258569,2259,2271
+236,Clifton,America/Toronto,0,1868-06-23 14:00:00,1868-06-23 14:00:00,empty,F,open_air_thermometer_2pm,96,258570,2259,2271
+237,Clifton,America/Toronto,0,1868-06-24 14:00:00,1868-06-24 14:00:00,empty,F,open_air_thermometer_2pm,96,258571,2259,2271
+238,Clifton,America/Toronto,0,1868-06-25 14:00:00,1868-06-25 14:00:00,empty,F,open_air_thermometer_2pm,96,258572,2259,2271
+239,Clifton,America/Toronto,0,1868-06-26 14:00:00,1868-06-26 14:00:00,empty,F,open_air_thermometer_2pm,96,258573,2259,2271
+240,Clifton,America/Toronto,0,1868-06-27 14:00:00,1868-06-27 14:00:00,empty,F,open_air_thermometer_2pm,96,258574,2259,2271
+241,Clifton,America/Toronto,0,1868-06-28 14:00:00,1868-06-28 14:00:00,empty,F,open_air_thermometer_2pm,96,258575,2259,2271
+242,Clifton,America/Toronto,0,1868-06-29 14:00:00,1868-06-29 14:00:00,empty,F,open_air_thermometer_2pm,96,258577,2259,2271
+243,Clifton,America/Toronto,0,1868-06-30 14:00:00,1868-06-30 14:00:00,empty,F,open_air_thermometer_2pm,96,258578,2259,2271
+244,Clifton,America/Toronto,0,1868-03-01 21:00:00,1868-03-01 21:00:00,24,F,open_air_thermometer_9pm,97,257691,2256,2088
+245,Clifton,America/Toronto,0,1868-03-02 21:00:00,1868-03-02 21:00:00,12,F,open_air_thermometer_9pm,97,257692,2256,2088
+246,Clifton,America/Toronto,0,1868-03-03 21:00:00,1868-03-03 21:00:00,9,F,open_air_thermometer_9pm,97,257693,2256,2088
+247,Clifton,America/Toronto,0,1868-03-04 21:00:00,1868-03-04 21:00:00,20,F,open_air_thermometer_9pm,97,257694,2256,2088
+248,Clifton,America/Toronto,0,1868-03-05 21:00:00,1868-03-05 21:00:00,30,F,open_air_thermometer_9pm,97,257695,2256,2088
+249,Clifton,America/Toronto,0,1868-03-06 21:00:00,1868-03-06 21:00:00,38,F,open_air_thermometer_9pm,97,257696,2256,2088
+250,Clifton,America/Toronto,0,1868-03-07 21:00:00,1868-03-07 21:00:00,42,F,open_air_thermometer_9pm,97,257697,2256,2088
+251,Clifton,America/Toronto,0,1868-03-08 21:00:00,1868-03-08 21:00:00,38,F,open_air_thermometer_9pm,97,257698,2256,2088
+252,Clifton,America/Toronto,0,1868-03-09 21:00:00,1868-03-09 21:00:00,36,F,open_air_thermometer_9pm,97,257699,2256,2088
+253,Clifton,America/Toronto,0,1868-03-10 21:00:00,1868-03-10 21:00:00,36,F,open_air_thermometer_9pm,97,257700,2256,2088
+254,Clifton,America/Toronto,0,1868-03-11 21:00:00,1868-03-11 21:00:00,31,F,open_air_thermometer_9pm,97,257701,2256,2088
+255,Clifton,America/Toronto,0,1868-03-12 21:00:00,1868-03-12 21:00:00,44,F,open_air_thermometer_9pm,97,257702,2256,2088
+256,Clifton,America/Toronto,0,1868-03-13 21:00:00,1868-03-13 21:00:00,43,F,open_air_thermometer_9pm,97,257703,2256,2088
+257,Clifton,America/Toronto,0,1868-03-14 21:00:00,1868-03-14 21:00:00,47,F,open_air_thermometer_9pm,97,257704,2256,2088
+258,Clifton,America/Toronto,0,1868-03-15 21:00:00,1868-03-15 21:00:00,45,F,open_air_thermometer_9pm,97,257705,2256,2088
+259,Clifton,America/Toronto,0,1868-03-16 21:00:00,1868-03-16 21:00:00,51,F,open_air_thermometer_9pm,97,257706,2256,2088
+260,Clifton,America/Toronto,0,1868-03-17 21:00:00,1868-03-17 21:00:00,48,F,open_air_thermometer_9pm,97,257707,2256,2088
+261,Clifton,America/Toronto,0,1868-03-18 21:00:00,1868-03-18 21:00:00,31,F,open_air_thermometer_9pm,97,257708,2256,2088
+262,Clifton,America/Toronto,0,1868-03-19 21:00:00,1868-03-19 21:00:00,34,F,open_air_thermometer_9pm,97,257709,2256,2088
+263,Clifton,America/Toronto,0,1868-03-20 21:00:00,1868-03-20 21:00:00,34,F,open_air_thermometer_9pm,97,257710,2256,2088
+264,Clifton,America/Toronto,0,1868-03-21 21:00:00,1868-03-21 21:00:00,24,F,open_air_thermometer_9pm,97,257711,2256,2088
+265,Clifton,America/Toronto,0,1868-03-22 21:00:00,1868-03-22 21:00:00,28,F,open_air_thermometer_9pm,97,257712,2256,2088
+266,Clifton,America/Toronto,0,1868-03-23 21:00:00,1868-03-23 21:00:00,46,F,open_air_thermometer_9pm,97,257713,2256,2088
+267,Clifton,America/Toronto,0,1868-03-24 21:00:00,1868-03-24 21:00:00,40,F,open_air_thermometer_9pm,97,257714,2256,2088
+268,Clifton,America/Toronto,0,1868-03-25 21:00:00,1868-03-25 21:00:00,40,F,open_air_thermometer_9pm,97,257715,2256,2088
+269,Clifton,America/Toronto,0,1868-03-26 21:00:00,1868-03-26 21:00:00,40,F,open_air_thermometer_9pm,97,257716,2256,2088
+270,Clifton,America/Toronto,0,1868-03-27 21:00:00,1868-03-27 21:00:00,44,F,open_air_thermometer_9pm,97,257717,2256,2088
+271,Clifton,America/Toronto,0,1868-03-28 21:00:00,1868-03-28 21:00:00,46,F,open_air_thermometer_9pm,97,257718,2256,2088
+272,Clifton,America/Toronto,0,1868-03-29 21:00:00,1868-03-29 21:00:00,50,F,open_air_thermometer_9pm,97,257719,2256,2088
+273,Clifton,America/Toronto,0,1868-03-30 21:00:00,1868-03-30 21:00:00,50,F,open_air_thermometer_9pm,97,257721,2256,2088
+274,Clifton,America/Toronto,0,1868-03-31 21:00:00,1868-03-31 21:00:00,52,F,open_air_thermometer_9pm,97,257722,2256,2088
+275,Clifton,America/Toronto,0,1868-04-01 21:00:00,1868-04-01 21:00:00,52,F,open_air_thermometer_9pm,97,257949,2257,2270
+276,Clifton,America/Toronto,0,1868-04-02 21:00:00,1868-04-02 21:00:00,32,F,open_air_thermometer_9pm,97,257950,2257,2270
+277,Clifton,America/Toronto,0,1868-04-03 21:00:00,1868-04-03 21:00:00,40,F,open_air_thermometer_9pm,97,257951,2257,2270
+278,Clifton,America/Toronto,0,1868-04-04 21:00:00,1868-04-04 21:00:00,30,F,open_air_thermometer_9pm,97,257952,2257,2270
+279,Clifton,America/Toronto,0,1868-04-05 21:00:00,1868-04-05 21:00:00,22,F,open_air_thermometer_9pm,97,257953,2257,2270
+280,Clifton,America/Toronto,0,1868-04-06 21:00:00,1868-04-06 21:00:00,32,F,open_air_thermometer_9pm,97,257954,2257,2270
+281,Clifton,America/Toronto,0,1868-04-07 21:00:00,1868-04-07 21:00:00,32,F,open_air_thermometer_9pm,97,257955,2257,2270
+282,Clifton,America/Toronto,0,1868-04-08 21:00:00,1868-04-08 21:00:00,22,F,open_air_thermometer_9pm,97,257956,2257,2270
+283,Clifton,America/Toronto,0,1868-04-09 21:00:00,1868-04-09 21:00:00,26,F,open_air_thermometer_9pm,97,257957,2257,2270
+284,Clifton,America/Toronto,0,1868-04-10 21:00:00,1868-04-10 21:00:00,30,F,open_air_thermometer_9pm,97,257958,2257,2270
+285,Clifton,America/Toronto,0,1868-04-11 21:00:00,1868-04-11 21:00:00,34,F,open_air_thermometer_9pm,97,257959,2257,2270
+286,Clifton,America/Toronto,0,1868-04-12 21:00:00,1868-04-12 21:00:00,34,F,open_air_thermometer_9pm,97,257960,2257,2270
+287,Clifton,America/Toronto,0,1868-04-13 21:00:00,1868-04-13 21:00:00,34,F,open_air_thermometer_9pm,97,257961,2257,2270
+288,Clifton,America/Toronto,0,1868-04-14 21:00:00,1868-04-14 21:00:00,40,F,open_air_thermometer_9pm,97,257962,2257,2270
+289,Clifton,America/Toronto,0,1868-04-15 21:00:00,1868-04-15 21:00:00,52,F,open_air_thermometer_9pm,97,257963,2257,2270
+290,Clifton,America/Toronto,0,1868-04-16 21:00:00,1868-04-16 21:00:00,50,F,open_air_thermometer_9pm,97,257964,2257,2270
+291,Clifton,America/Toronto,0,1868-04-17 21:00:00,1868-04-17 21:00:00,42,F,open_air_thermometer_9pm,97,257965,2257,2270
+292,Clifton,America/Toronto,0,1868-04-18 21:00:00,1868-04-18 21:00:00,38,F,open_air_thermometer_9pm,97,257966,2257,2270
+293,Clifton,America/Toronto,0,1868-04-19 21:00:00,1868-04-19 21:00:00,44,F,open_air_thermometer_9pm,97,257967,2257,2270
+294,Clifton,America/Toronto,0,1868-04-20 21:00:00,1868-04-20 21:00:00,46,F,open_air_thermometer_9pm,97,257968,2257,2270
+295,Clifton,America/Toronto,0,1868-04-21 21:00:00,1868-04-21 21:00:00,50,F,open_air_thermometer_9pm,97,257969,2257,2270
+296,Clifton,America/Toronto,0,1868-04-22 21:00:00,1868-04-22 21:00:00,37,F,open_air_thermometer_9pm,97,257970,2257,2270
+297,Clifton,America/Toronto,0,1868-04-23 21:00:00,1868-04-23 21:00:00,33,F,open_air_thermometer_9pm,97,257971,2257,2270
+298,Clifton,America/Toronto,0,1868-04-24 21:00:00,1868-04-24 21:00:00,40,F,open_air_thermometer_9pm,97,257972,2257,2270
+299,Clifton,America/Toronto,0,1868-04-25 21:00:00,1868-04-25 21:00:00,44,F,open_air_thermometer_9pm,97,257973,2257,2270
+300,Clifton,America/Toronto,0,1868-04-26 21:00:00,1868-04-26 21:00:00,47,F,open_air_thermometer_9pm,97,257974,2257,2270
+301,Clifton,America/Toronto,0,1868-04-27 21:00:00,1868-04-27 21:00:00,56,F,open_air_thermometer_9pm,97,257975,2257,2270
+302,Clifton,America/Toronto,0,1868-04-28 21:00:00,1868-04-28 21:00:00,48,F,open_air_thermometer_9pm,97,257976,2257,2270
+303,Clifton,America/Toronto,0,1868-04-29 21:00:00,1868-04-29 21:00:00,56,F,open_air_thermometer_9pm,97,257977,2257,2270
+304,Clifton,America/Toronto,0,1868-04-30 21:00:00,1868-04-30 21:00:00,52,F,open_air_thermometer_9pm,97,257978,2257,2270
+305,Clifton,America/Toronto,0,1868-05-01 21:00:00,1868-05-01 21:00:00,42,F,open_air_thermometer_9pm,97,257077,2248,2269
+306,Clifton,America/Toronto,0,1868-05-02 21:00:00,1868-05-02 21:00:00,44,F,open_air_thermometer_9pm,97,257078,2248,2269
+307,Clifton,America/Toronto,0,1868-05-03 21:00:00,1868-05-03 21:00:00,54,F,open_air_thermometer_9pm,97,257079,2248,2269
+308,Clifton,America/Toronto,0,1868-05-04 21:00:00,1868-05-04 21:00:00,60,F,open_air_thermometer_9pm,97,257080,2248,2269
+309,Clifton,America/Toronto,0,1868-05-05 21:00:00,1868-05-05 21:00:00,54,F,open_air_thermometer_9pm,97,257081,2248,2269
+310,Clifton,America/Toronto,0,1868-05-06 21:00:00,1868-05-06 21:00:00,48,F,open_air_thermometer_9pm,97,257082,2248,2269
+311,Clifton,America/Toronto,0,1868-05-07 21:00:00,1868-05-07 21:00:00,40,F,open_air_thermometer_9pm,97,257083,2248,2269
+312,Clifton,America/Toronto,0,1868-05-08 21:00:00,1868-05-08 21:00:00,46,F,open_air_thermometer_9pm,97,257084,2248,2269
+313,Clifton,America/Toronto,0,1868-05-09 21:00:00,1868-05-09 21:00:00,52,F,open_air_thermometer_9pm,97,257085,2248,2269
+314,Clifton,America/Toronto,0,1868-05-10 21:00:00,1868-05-10 21:00:00,54,F,open_air_thermometer_9pm,97,257086,2248,2269
+315,Clifton,America/Toronto,0,1868-05-11 21:00:00,1868-05-11 21:00:00,56,F,open_air_thermometer_9pm,97,257493,2248,2269
+316,Clifton,America/Toronto,0,1868-05-12 21:00:00,1868-05-12 21:00:00,58,F,open_air_thermometer_9pm,97,257494,2248,2269
+317,Clifton,America/Toronto,0,1868-05-13 21:00:00,1868-05-13 21:00:00,43,F,open_air_thermometer_9pm,97,257495,2248,2269
+318,Clifton,America/Toronto,0,1868-05-14 21:00:00,1868-05-14 21:00:00,52,F,open_air_thermometer_9pm,97,257496,2248,2269
+319,Clifton,America/Toronto,0,1868-05-15 21:00:00,1868-05-15 21:00:00,58,F,open_air_thermometer_9pm,97,257497,2248,2269
+320,Clifton,America/Toronto,0,1868-05-16 21:00:00,1868-05-16 21:00:00,55,F,open_air_thermometer_9pm,97,257498,2248,2269
+321,Clifton,America/Toronto,0,1868-05-17 21:00:00,1868-05-17 21:00:00,52,F,open_air_thermometer_9pm,97,257499,2248,2269
+322,Clifton,America/Toronto,0,1868-05-18 21:00:00,1868-05-18 21:00:00,52,F,open_air_thermometer_9pm,97,257500,2248,2269
+323,Clifton,America/Toronto,0,1868-05-19 21:00:00,1868-05-19 21:00:00,56,F,open_air_thermometer_9pm,97,257501,2248,2269
+324,Clifton,America/Toronto,0,1868-05-20 21:00:00,1868-05-20 21:00:00,54,F,open_air_thermometer_9pm,97,257502,2248,2269
+325,Clifton,America/Toronto,0,1868-05-21 21:00:00,1868-05-21 21:00:00,52,F,open_air_thermometer_9pm,97,257504,2248,2269
+326,Clifton,America/Toronto,0,1868-05-22 21:00:00,1868-05-22 21:00:00,56,F,open_air_thermometer_9pm,97,257505,2248,2269
+327,Clifton,America/Toronto,0,1868-05-23 21:00:00,1868-05-23 21:00:00,56,F,open_air_thermometer_9pm,97,257506,2248,2269
+328,Clifton,America/Toronto,0,1868-05-24 21:00:00,1868-05-24 21:00:00,58,F,open_air_thermometer_9pm,97,257507,2248,2269
+329,Clifton,America/Toronto,0,1868-05-25 21:00:00,1868-05-25 21:00:00,62,F,open_air_thermometer_9pm,97,257508,2248,2269
+330,Clifton,America/Toronto,0,1868-05-26 21:00:00,1868-05-26 21:00:00,76,F,open_air_thermometer_9pm,97,257509,2248,2269
+331,Clifton,America/Toronto,0,1868-05-27 21:00:00,1868-05-27 21:00:00,70,F,open_air_thermometer_9pm,97,257510,2248,2269
+332,Clifton,America/Toronto,0,1868-05-28 21:00:00,1868-05-28 21:00:00,66,F,open_air_thermometer_9pm,97,257511,2248,2269
+333,Clifton,America/Toronto,0,1868-05-29 21:00:00,1868-05-29 21:00:00,62,F,open_air_thermometer_9pm,97,257512,2248,2269
+334,Clifton,America/Toronto,0,1868-05-30 21:00:00,1868-05-30 21:00:00,64,F,open_air_thermometer_9pm,97,257513,2248,2269
+335,Clifton,America/Toronto,0,1868-05-31 21:00:00,1868-05-31 21:00:00,60,F,open_air_thermometer_9pm,97,257514,2248,2269
+336,Clifton,America/Toronto,0,1868-06-01 21:00:00,1868-06-01 21:00:00,54,F,open_air_thermometer_9pm,97,258536,2259,2271
+337,Clifton,America/Toronto,0,1868-06-02 21:00:00,1868-06-02 21:00:00,56,F,open_air_thermometer_9pm,97,258539,2259,2271
+338,Clifton,America/Toronto,0,1868-06-03 21:00:00,1868-06-03 21:00:00,56,F,open_air_thermometer_9pm,97,258542,2259,2271
+339,Clifton,America/Toronto,0,1868-06-04 21:00:00,1868-06-04 21:00:00,70,F,open_air_thermometer_9pm,97,258545,2259,2271
+340,Clifton,America/Toronto,0,1868-06-05 21:00:00,1868-06-05 21:00:00,72,F,open_air_thermometer_9pm,97,258547,2259,2271
+341,Clifton,America/Toronto,0,1868-06-06 21:00:00,1868-06-06 21:00:00,60,F,open_air_thermometer_9pm,97,258550,2259,2271
+342,Clifton,America/Toronto,0,1868-06-07 21:00:00,1868-06-07 21:00:00,60,F,open_air_thermometer_9pm,97,258554,2259,2271
+343,Clifton,America/Toronto,0,1868-06-08 21:00:00,1868-06-08 21:00:00,60,F,open_air_thermometer_9pm,97,258555,2259,2271
+344,Clifton,America/Toronto,0,1868-06-09 21:00:00,1868-06-09 21:00:00,60,F,open_air_thermometer_9pm,97,258556,2259,2271
+345,Clifton,America/Toronto,0,1868-06-10 21:00:00,1868-06-10 21:00:00,58,F,open_air_thermometer_9pm,97,258557,2259,2271
+346,Clifton,America/Toronto,0,1868-06-11 21:00:00,1868-06-11 21:00:00,60,F,open_air_thermometer_9pm,97,258558,2259,2271
+347,Clifton,America/Toronto,0,1868-06-12 21:00:00,1868-06-12 21:00:00,60,F,open_air_thermometer_9pm,97,258559,2259,2271
+348,Clifton,America/Toronto,0,1868-06-13 21:00:00,1868-06-13 21:00:00,75,F,open_air_thermometer_9pm,97,258560,2259,2271
+349,Clifton,America/Toronto,0,1868-06-14 21:00:00,1868-06-14 21:00:00,68,F,open_air_thermometer_9pm,97,258561,2259,2271
+350,Clifton,America/Toronto,0,1868-06-15 21:00:00,1868-06-15 21:00:00,65,F,open_air_thermometer_9pm,97,258562,2259,2271
+351,Clifton,America/Toronto,0,1868-06-16 21:00:00,1868-06-16 21:00:00,75,F,open_air_thermometer_9pm,97,258563,2259,2271
+352,Clifton,America/Toronto,0,1868-06-17 21:00:00,1868-06-17 21:00:00,86,F,open_air_thermometer_9pm,97,258564,2259,2271
+353,Clifton,America/Toronto,0,1868-06-18 21:00:00,1868-06-18 21:00:00,84,F,open_air_thermometer_9pm,97,258565,2259,2271
+354,Clifton,America/Toronto,0,1868-06-19 21:00:00,1868-06-19 21:00:00,84,F,open_air_thermometer_9pm,97,258566,2259,2271
+355,Clifton,America/Toronto,0,1868-06-20 21:00:00,1868-06-20 21:00:00,68,F,open_air_thermometer_9pm,97,258567,2259,2271
+356,Clifton,America/Toronto,0,1868-06-21 21:00:00,1868-06-21 21:00:00,64,F,open_air_thermometer_9pm,97,258568,2259,2271
+357,Clifton,America/Toronto,0,1868-06-22 21:00:00,1868-06-22 21:00:00,64,F,open_air_thermometer_9pm,97,258569,2259,2271
+358,Clifton,America/Toronto,0,1868-06-23 21:00:00,1868-06-23 21:00:00,67,F,open_air_thermometer_9pm,97,258570,2259,2271
+359,Clifton,America/Toronto,0,1868-06-24 21:00:00,1868-06-24 21:00:00,70,F,open_air_thermometer_9pm,97,258571,2259,2271
+360,Clifton,America/Toronto,0,1868-06-25 21:00:00,1868-06-25 21:00:00,70,F,open_air_thermometer_9pm,97,258572,2259,2271
+361,Clifton,America/Toronto,0,1868-06-26 21:00:00,1868-06-26 21:00:00,68,F,open_air_thermometer_9pm,97,258573,2259,2271
+362,Clifton,America/Toronto,0,1868-06-27 21:00:00,1868-06-27 21:00:00,70,F,open_air_thermometer_9pm,97,258574,2259,2271
+363,Clifton,America/Toronto,0,1868-06-28 21:00:00,1868-06-28 21:00:00,74,F,open_air_thermometer_9pm,97,258575,2259,2271
+364,Clifton,America/Toronto,0,1868-06-29 21:00:00,1868-06-29 21:00:00,74,F,open_air_thermometer_9pm,97,258577,2259,2271
+365,Clifton,America/Toronto,0,1868-06-30 21:00:00,1868-06-30 21:00:00,76,F,open_air_thermometer_9pm,97,258578,2259,2271
+366,Clifton,America/Toronto,0,1868-03-01 00:00:00,1868-03-01 00:00:00,22,F,open_air_thermometer_mean,98,257691,2256,2088
+367,Clifton,America/Toronto,0,1868-03-02 00:00:00,1868-03-02 00:00:00,12,F,open_air_thermometer_mean,98,257692,2256,2088
+368,Clifton,America/Toronto,0,1868-03-03 00:00:00,1868-03-03 00:00:00,4,F,open_air_thermometer_mean,98,257693,2256,2088
+369,Clifton,America/Toronto,0,1868-03-04 00:00:00,1868-03-04 00:00:00,19,F,open_air_thermometer_mean,98,257694,2256,2088
+370,Clifton,America/Toronto,0,1868-03-05 00:00:00,1868-03-05 00:00:00,28,F,open_air_thermometer_mean,98,257695,2256,2088
+371,Clifton,America/Toronto,0,1868-03-06 00:00:00,1868-03-06 00:00:00,39,F,open_air_thermometer_mean,98,257696,2256,2088
+372,Clifton,America/Toronto,0,1868-03-07 00:00:00,1868-03-07 00:00:00,42,F,open_air_thermometer_mean,98,257697,2256,2088
+373,Clifton,America/Toronto,0,1868-03-08 00:00:00,1868-03-08 00:00:00,40,F,open_air_thermometer_mean,98,257698,2256,2088
+374,Clifton,America/Toronto,0,1868-03-09 00:00:00,1868-03-09 00:00:00,40,F,open_air_thermometer_mean,98,257699,2256,2088
+375,Clifton,America/Toronto,0,1868-03-10 00:00:00,1868-03-10 00:00:00,39,F,open_air_thermometer_mean,98,257700,2256,2088
+376,Clifton,America/Toronto,0,1868-03-11 00:00:00,1868-03-11 00:00:00,30,F,open_air_thermometer_mean,98,257701,2256,2088
+377,Clifton,America/Toronto,0,1868-03-12 00:00:00,1868-03-12 00:00:00,39,F,open_air_thermometer_mean,98,257702,2256,2088
+378,Clifton,America/Toronto,0,1868-03-13 00:00:00,1868-03-13 00:00:00,43,F,open_air_thermometer_mean,98,257703,2256,2088
+379,Clifton,America/Toronto,0,1868-03-14 00:00:00,1868-03-14 00:00:00,45,F,open_air_thermometer_mean,98,257704,2256,2088
+380,Clifton,America/Toronto,0,1868-03-15 00:00:00,1868-03-15 00:00:00,50,F,open_air_thermometer_mean,98,257705,2256,2088
+381,Clifton,America/Toronto,0,1868-03-16 00:00:00,1868-03-16 00:00:00,50,F,open_air_thermometer_mean,98,257706,2256,2088
+382,Clifton,America/Toronto,0,1868-03-17 00:00:00,1868-03-17 00:00:00,55,F,open_air_thermometer_mean,98,257707,2256,2088
+383,Clifton,America/Toronto,0,1868-03-18 00:00:00,1868-03-18 00:00:00,33,F,open_air_thermometer_mean,98,257708,2256,2088
+384,Clifton,America/Toronto,0,1868-03-19 00:00:00,1868-03-19 00:00:00,34,F,open_air_thermometer_mean,98,257709,2256,2088
+385,Clifton,America/Toronto,0,1868-03-20 00:00:00,1868-03-20 00:00:00,35,F,open_air_thermometer_mean,98,257710,2256,2088
+386,Clifton,America/Toronto,0,1868-03-21 00:00:00,1868-03-21 00:00:00,25,F,open_air_thermometer_mean,98,257711,2256,2088
+387,Clifton,America/Toronto,0,1868-03-22 00:00:00,1868-03-22 00:00:00,29,F,open_air_thermometer_mean,98,257712,2256,2088
+388,Clifton,America/Toronto,0,1868-03-23 00:00:00,1868-03-23 00:00:00,45,F,open_air_thermometer_mean,98,257713,2256,2088
+389,Clifton,America/Toronto,0,1868-03-24 00:00:00,1868-03-24 00:00:00,38,F,open_air_thermometer_mean,98,257714,2256,2088
+390,Clifton,America/Toronto,0,1868-03-25 00:00:00,1868-03-25 00:00:00,40,F,open_air_thermometer_mean,98,257715,2256,2088
+391,Clifton,America/Toronto,0,1868-03-26 00:00:00,1868-03-26 00:00:00,40,F,open_air_thermometer_mean,98,257716,2256,2088
+392,Clifton,America/Toronto,0,1868-03-27 00:00:00,1868-03-27 00:00:00,46,F,open_air_thermometer_mean,98,257717,2256,2088
+393,Clifton,America/Toronto,0,1868-03-28 00:00:00,1868-03-28 00:00:00,48,F,open_air_thermometer_mean,98,257718,2256,2088
+394,Clifton,America/Toronto,0,1868-03-29 00:00:00,1868-03-29 00:00:00,50,F,open_air_thermometer_mean,98,257719,2256,2088
+395,Clifton,America/Toronto,0,1868-03-30 00:00:00,1868-03-30 00:00:00,54,F,open_air_thermometer_mean,98,257721,2256,2088
+396,Clifton,America/Toronto,0,1868-03-31 00:00:00,1868-03-31 00:00:00,54,F,open_air_thermometer_mean,98,257722,2256,2088
+397,Clifton,America/Toronto,0,1868-04-01 00:00:00,1868-04-01 00:00:00,55,F,open_air_thermometer_mean,98,257949,2257,2270
+398,Clifton,America/Toronto,0,1868-04-02 00:00:00,1868-04-02 00:00:00,36,F,open_air_thermometer_mean,98,257950,2257,2270
+399,Clifton,America/Toronto,0,1868-04-03 00:00:00,1868-04-03 00:00:00,40,F,open_air_thermometer_mean,98,257951,2257,2270
+400,Clifton,America/Toronto,0,1868-04-04 00:00:00,1868-04-04 00:00:00,37,F,open_air_thermometer_mean,98,257952,2257,2270
+401,Clifton,America/Toronto,0,1868-04-05 00:00:00,1868-04-05 00:00:00,27,F,open_air_thermometer_mean,98,257953,2257,2270
+402,Clifton,America/Toronto,0,1868-04-06 00:00:00,1868-04-06 00:00:00,30,F,open_air_thermometer_mean,98,257954,2257,2270
+403,Clifton,America/Toronto,0,1868-04-07 00:00:00,1868-04-07 00:00:00,33,F,open_air_thermometer_mean,98,257955,2257,2270
+404,Clifton,America/Toronto,0,1868-04-08 00:00:00,1868-04-08 00:00:00,26,F,open_air_thermometer_mean,98,257956,2257,2270
+405,Clifton,America/Toronto,0,1868-04-09 00:00:00,1868-04-09 00:00:00,26,F,open_air_thermometer_mean,98,257957,2257,2270
+406,Clifton,America/Toronto,0,1868-04-10 00:00:00,1868-04-10 00:00:00,31,F,open_air_thermometer_mean,98,257958,2257,2270
+407,Clifton,America/Toronto,0,1868-04-11 00:00:00,1868-04-11 00:00:00,36,F,open_air_thermometer_mean,98,257959,2257,2270
+408,Clifton,America/Toronto,0,1868-04-12 00:00:00,1868-04-12 00:00:00,30,F,open_air_thermometer_mean,98,257960,2257,2270
+409,Clifton,America/Toronto,0,1868-04-13 00:00:00,1868-04-13 00:00:00,35,F,open_air_thermometer_mean,98,257961,2257,2270
+410,Clifton,America/Toronto,0,1868-04-14 00:00:00,1868-04-14 00:00:00,42,F,open_air_thermometer_mean,98,257962,2257,2270
+411,Clifton,America/Toronto,0,1868-04-15 00:00:00,1868-04-15 00:00:00,51,F,open_air_thermometer_mean,98,257963,2257,2270
+412,Clifton,America/Toronto,0,1868-04-16 00:00:00,1868-04-16 00:00:00,53,F,open_air_thermometer_mean,98,257964,2257,2270
+413,Clifton,America/Toronto,0,1868-04-17 00:00:00,1868-04-17 00:00:00,47,F,open_air_thermometer_mean,98,257965,2257,2270
+414,Clifton,America/Toronto,0,1868-04-18 00:00:00,1868-04-18 00:00:00,36,F,open_air_thermometer_mean,98,257966,2257,2270
+415,Clifton,America/Toronto,0,1868-04-19 00:00:00,1868-04-19 00:00:00,43,F,open_air_thermometer_mean,98,257967,2257,2270
+416,Clifton,America/Toronto,0,1868-04-20 00:00:00,1868-04-20 00:00:00,48,F,open_air_thermometer_mean,98,257968,2257,2270
+417,Clifton,America/Toronto,0,1868-04-21 00:00:00,1868-04-21 00:00:00,51,F,open_air_thermometer_mean,98,257969,2257,2270
+418,Clifton,America/Toronto,0,1868-04-22 00:00:00,1868-04-22 00:00:00,42,F,open_air_thermometer_mean,98,257970,2257,2270
+419,Clifton,America/Toronto,0,1868-04-23 00:00:00,1868-04-23 00:00:00,33,F,open_air_thermometer_mean,98,257971,2257,2270
+420,Clifton,America/Toronto,0,1868-04-24 00:00:00,1868-04-24 00:00:00,42,F,open_air_thermometer_mean,98,257972,2257,2270
+421,Clifton,America/Toronto,0,1868-04-25 00:00:00,1868-04-25 00:00:00,44,F,open_air_thermometer_mean,98,257973,2257,2270
+422,Clifton,America/Toronto,0,1868-04-26 00:00:00,1868-04-26 00:00:00,49,F,open_air_thermometer_mean,98,257974,2257,2270
+423,Clifton,America/Toronto,0,1868-04-27 00:00:00,1868-04-27 00:00:00,58,F,open_air_thermometer_mean,98,257975,2257,2270
+424,Clifton,America/Toronto,0,1868-04-28 00:00:00,1868-04-28 00:00:00,45,F,open_air_thermometer_mean,98,257976,2257,2270
+425,Clifton,America/Toronto,0,1868-04-29 00:00:00,1868-04-29 00:00:00,55,F,open_air_thermometer_mean,98,257977,2257,2270
+426,Clifton,America/Toronto,0,1868-04-30 00:00:00,1868-04-30 00:00:00,54,F,open_air_thermometer_mean,98,257978,2257,2270
+427,Clifton,America/Toronto,0,1868-05-01 00:00:00,1868-05-01 00:00:00,42,F,open_air_thermometer_mean,98,257077,2248,2269
+428,Clifton,America/Toronto,0,1868-05-02 00:00:00,1868-05-02 00:00:00,46,F,open_air_thermometer_mean,98,257078,2248,2269
+429,Clifton,America/Toronto,0,1868-05-03 00:00:00,1868-05-03 00:00:00,54,F,open_air_thermometer_mean,98,257079,2248,2269
+430,Clifton,America/Toronto,0,1868-05-04 00:00:00,1868-05-04 00:00:00,59,F,open_air_thermometer_mean,98,257080,2248,2269
+431,Clifton,America/Toronto,0,1868-05-05 00:00:00,1868-05-05 00:00:00,62,F,open_air_thermometer_mean,98,257081,2248,2269
+432,Clifton,America/Toronto,0,1868-05-06 00:00:00,1868-05-06 00:00:00,46,F,open_air_thermometer_mean,98,257082,2248,2269
+433,Clifton,America/Toronto,0,1868-05-07 00:00:00,1868-05-07 00:00:00,40,F,open_air_thermometer_mean,98,257083,2248,2269
+434,Clifton,America/Toronto,0,1868-05-08 00:00:00,1868-05-08 00:00:00,47,F,open_air_thermometer_mean,98,257084,2248,2269
+435,Clifton,America/Toronto,0,1868-05-09 00:00:00,1868-05-09 00:00:00,52,F,open_air_thermometer_mean,98,257085,2248,2269
+436,Clifton,America/Toronto,0,1868-05-10 00:00:00,1868-05-10 00:00:00,51,F,open_air_thermometer_mean,98,257086,2248,2269
+437,Clifton,America/Toronto,0,1868-05-11 00:00:00,1868-05-11 00:00:00,55,F,open_air_thermometer_mean,98,257493,2248,2269
+438,Clifton,America/Toronto,0,1868-05-12 00:00:00,1868-05-12 00:00:00,56,F,open_air_thermometer_mean,98,257494,2248,2269
+439,Clifton,America/Toronto,0,1868-05-13 00:00:00,1868-05-13 00:00:00,41,F,open_air_thermometer_mean,98,257495,2248,2269
+440,Clifton,America/Toronto,0,1868-05-14 00:00:00,1868-05-14 00:00:00,53,F,open_air_thermometer_mean,98,257496,2248,2269
+441,Clifton,America/Toronto,0,1868-05-15 00:00:00,1868-05-15 00:00:00,57,F,open_air_thermometer_mean,98,257497,2248,2269
+442,Clifton,America/Toronto,0,1868-05-16 00:00:00,1868-05-16 00:00:00,58,F,open_air_thermometer_mean,98,257498,2248,2269
+443,Clifton,America/Toronto,0,1868-05-17 00:00:00,1868-05-17 00:00:00,56,F,open_air_thermometer_mean,98,257499,2248,2269
+444,Clifton,America/Toronto,0,1868-05-18 00:00:00,1868-05-18 00:00:00,47,F,open_air_thermometer_mean,98,257500,2248,2269
+445,Clifton,America/Toronto,0,1868-05-19 00:00:00,1868-05-19 00:00:00,52,F,open_air_thermometer_mean,98,257501,2248,2269
+446,Clifton,America/Toronto,0,1868-05-20 00:00:00,1868-05-20 00:00:00,50,F,open_air_thermometer_mean,98,257502,2248,2269
+447,Clifton,America/Toronto,0,1868-05-21 00:00:00,1868-05-21 00:00:00,54,F,open_air_thermometer_mean,98,257504,2248,2269
+448,Clifton,America/Toronto,0,1868-05-22 00:00:00,1868-05-22 00:00:00,54,F,open_air_thermometer_mean,98,257505,2248,2269
+449,Clifton,America/Toronto,0,1868-05-23 00:00:00,1868-05-23 00:00:00,56,F,open_air_thermometer_mean,98,257506,2248,2269
+450,Clifton,America/Toronto,0,1868-05-24 00:00:00,1868-05-24 00:00:00,59,F,open_air_thermometer_mean,98,257507,2248,2269
+451,Clifton,America/Toronto,0,1868-05-25 00:00:00,1868-05-25 00:00:00,63,F,open_air_thermometer_mean,98,257508,2248,2269
+452,Clifton,America/Toronto,0,1868-05-26 00:00:00,1868-05-26 00:00:00,72,F,open_air_thermometer_mean,98,257509,2248,2269
+453,Clifton,America/Toronto,0,1868-05-27 00:00:00,1868-05-27 00:00:00,74,F,open_air_thermometer_mean,98,257510,2248,2269
+454,Clifton,America/Toronto,0,1868-05-28 00:00:00,1868-05-28 00:00:00,68,F,open_air_thermometer_mean,98,257511,2248,2269
+455,Clifton,America/Toronto,0,1868-05-29 00:00:00,1868-05-29 00:00:00,63,F,open_air_thermometer_mean,98,257512,2248,2269
+456,Clifton,America/Toronto,0,1868-05-30 00:00:00,1868-05-30 00:00:00,68,F,open_air_thermometer_mean,98,257513,2248,2269
+457,Clifton,America/Toronto,0,1868-05-31 00:00:00,1868-05-31 00:00:00,62,F,open_air_thermometer_mean,98,257514,2248,2269
+458,Clifton,America/Toronto,0,1868-06-01 00:00:00,1868-06-01 00:00:00,52,F,open_air_thermometer_mean,98,258536,2259,2271
+459,Clifton,America/Toronto,0,1868-06-02 00:00:00,1868-06-02 00:00:00,53,F,open_air_thermometer_mean,98,258539,2259,2271
+460,Clifton,America/Toronto,0,1868-06-03 00:00:00,1868-06-03 00:00:00,53,F,open_air_thermometer_mean,98,258542,2259,2271
+461,Clifton,America/Toronto,0,1868-06-04 00:00:00,1868-06-04 00:00:00,62,F,open_air_thermometer_mean,98,258545,2259,2271
+462,Clifton,America/Toronto,0,1868-06-05 00:00:00,1868-06-05 00:00:00,66,F,open_air_thermometer_mean,98,258547,2259,2271
+463,Clifton,America/Toronto,0,1868-06-06 00:00:00,1868-06-06 00:00:00,64,F,open_air_thermometer_mean,98,258550,2259,2271
+464,Clifton,America/Toronto,0,1868-06-07 00:00:00,1868-06-07 00:00:00,54,F,open_air_thermometer_mean,98,258554,2259,2271
+465,Clifton,America/Toronto,0,1868-06-08 00:00:00,1868-06-08 00:00:00,55,F,open_air_thermometer_mean,98,258555,2259,2271
+466,Clifton,America/Toronto,0,1868-06-09 00:00:00,1868-06-09 00:00:00,53,F,open_air_thermometer_mean,98,258556,2259,2271
+467,Clifton,America/Toronto,0,1868-06-10 00:00:00,1868-06-10 00:00:00,51,F,open_air_thermometer_mean,98,258557,2259,2271
+468,Clifton,America/Toronto,0,1868-06-11 00:00:00,1868-06-11 00:00:00,53,F,open_air_thermometer_mean,98,258558,2259,2271
+469,Clifton,America/Toronto,0,1868-06-12 00:00:00,1868-06-12 00:00:00,57,F,open_air_thermometer_mean,98,258559,2259,2271
+470,Clifton,America/Toronto,0,1868-06-13 00:00:00,1868-06-13 00:00:00,69,F,open_air_thermometer_mean,98,258560,2259,2271
+471,Clifton,America/Toronto,0,1868-06-14 00:00:00,1868-06-14 00:00:00,71,F,open_air_thermometer_mean,98,258561,2259,2271
+472,Clifton,America/Toronto,0,1868-06-15 00:00:00,1868-06-15 00:00:00,72,F,open_air_thermometer_mean,98,258562,2259,2271
+473,Clifton,America/Toronto,0,1868-06-16 00:00:00,1868-06-16 00:00:00,70,F,open_air_thermometer_mean,98,258563,2259,2271
+474,Clifton,America/Toronto,0,1868-06-17 00:00:00,1868-06-17 00:00:00,75,F,open_air_thermometer_mean,98,258564,2259,2271
+475,Clifton,America/Toronto,0,1868-06-18 00:00:00,1868-06-18 00:00:00,76,F,open_air_thermometer_mean,98,258565,2259,2271
+476,Clifton,America/Toronto,0,1868-06-19 00:00:00,1868-06-19 00:00:00,78,F,open_air_thermometer_mean,98,258566,2259,2271
+477,Clifton,America/Toronto,0,1868-06-20 00:00:00,1868-06-20 00:00:00,70,F,open_air_thermometer_mean,98,258567,2259,2271
+478,Clifton,America/Toronto,0,1868-06-21 00:00:00,1868-06-21 00:00:00,62,F,open_air_thermometer_mean,98,258568,2259,2271
+479,Clifton,America/Toronto,0,1868-06-22 00:00:00,1868-06-22 00:00:00,64,F,open_air_thermometer_mean,98,258569,2259,2271
+480,Clifton,America/Toronto,0,1868-06-23 00:00:00,1868-06-23 00:00:00,66,F,open_air_thermometer_mean,98,258570,2259,2271
+481,Clifton,America/Toronto,0,1868-06-24 00:00:00,1868-06-24 00:00:00,64,F,open_air_thermometer_mean,98,258571,2259,2271
+482,Clifton,America/Toronto,0,1868-06-25 00:00:00,1868-06-25 00:00:00,65,F,open_air_thermometer_mean,98,258572,2259,2271
+483,Clifton,America/Toronto,0,1868-06-26 00:00:00,1868-06-26 00:00:00,66,F,open_air_thermometer_mean,98,258573,2259,2271
+484,Clifton,America/Toronto,0,1868-06-27 00:00:00,1868-06-27 00:00:00,65,F,open_air_thermometer_mean,98,258574,2259,2271
+485,Clifton,America/Toronto,0,1868-06-28 00:00:00,1868-06-28 00:00:00,69,F,open_air_thermometer_mean,98,258575,2259,2271
+486,Clifton,America/Toronto,0,1868-06-29 00:00:00,1868-06-29 00:00:00,71,F,open_air_thermometer_mean,98,258577,2259,2271
+487,Clifton,America/Toronto,0,1868-06-30 00:00:00,1868-06-30 00:00:00,72,F,open_air_thermometer_mean,98,258578,2259,2271
+488,Clifton,America/Toronto,0,1868-06-01 00:00:00,1868-06-01 00:00:00,60,F,max_thermometer_obs,36,265220,2259,2271
+489,Clifton,America/Toronto,0,1868-06-02 00:00:00,1868-06-02 00:00:00,62,F,max_thermometer_obs,36,265221,2259,2271
+490,Clifton,America/Toronto,0,1868-06-03 00:00:00,1868-06-03 00:00:00,64,F,max_thermometer_obs,36,265222,2259,2271
+491,Clifton,America/Toronto,0,1868-06-04 00:00:00,1868-06-04 00:00:00,75,F,max_thermometer_obs,36,265223,2259,2271
+492,Clifton,America/Toronto,0,1868-06-05 00:00:00,1868-06-05 00:00:00,76,F,max_thermometer_obs,36,265224,2259,2271
+493,Clifton,America/Toronto,0,1868-06-06 00:00:00,1868-06-06 00:00:00,75,F,max_thermometer_obs,36,265225,2259,2271
+494,Clifton,America/Toronto,0,1868-06-07 00:00:00,1868-06-07 00:00:00,62,F,max_thermometer_obs,36,265226,2259,2271
+495,Clifton,America/Toronto,0,1868-06-08 00:00:00,1868-06-08 00:00:00,72,F,max_thermometer_obs,36,265227,2259,2271
+496,Clifton,America/Toronto,0,1868-06-09 00:00:00,1868-06-09 00:00:00,64,F,max_thermometer_obs,36,265228,2259,2271
+497,Clifton,America/Toronto,0,1868-06-10 00:00:00,1868-06-10 00:00:00,65,F,max_thermometer_obs,36,265229,2259,2271
+498,Clifton,America/Toronto,0,1868-06-11 00:00:00,1868-06-11 00:00:00,69,F,max_thermometer_obs,36,265230,2259,2271
+499,Clifton,America/Toronto,0,1868-06-12 00:00:00,1868-06-12 00:00:00,72,F,max_thermometer_obs,36,265231,2259,2271
+500,Clifton,America/Toronto,0,1868-06-13 00:00:00,1868-06-13 00:00:00,91,F,max_thermometer_obs,36,265232,2259,2271
+501,Clifton,America/Toronto,0,1868-06-14 00:00:00,1868-06-14 00:00:00,93,F,max_thermometer_obs,36,265233,2259,2271
+502,Clifton,America/Toronto,0,1868-06-15 00:00:00,1868-06-15 00:00:00,96,F,max_thermometer_obs,36,265234,2259,2271
+503,Clifton,America/Toronto,0,1868-06-16 00:00:00,1868-06-16 00:00:00,86,F,max_thermometer_obs,36,265235,2259,2271
+504,Clifton,America/Toronto,0,1868-06-17 00:00:00,1868-06-17 00:00:00,91,F,max_thermometer_obs,36,265236,2259,2271
+505,Clifton,America/Toronto,0,1868-06-18 00:00:00,1868-06-18 00:00:00,94,F,max_thermometer_obs,36,265237,2259,2271
+506,Clifton,America/Toronto,0,1868-06-19 00:00:00,1868-06-19 00:00:00,93,F,max_thermometer_obs,36,265238,2259,2271
+507,Clifton,America/Toronto,0,1868-06-20 00:00:00,1868-06-20 00:00:00,82,F,max_thermometer_obs,36,265239,2259,2271
+508,Clifton,America/Toronto,0,1868-06-21 00:00:00,1868-06-21 00:00:00,72,F,max_thermometer_obs,36,265240,2259,2271
+509,Clifton,America/Toronto,0,1868-06-22 00:00:00,1868-06-22 00:00:00,81,F,max_thermometer_obs,36,265241,2259,2271
+510,Clifton,America/Toronto,0,1868-06-23 00:00:00,1868-06-23 00:00:00,85,F,max_thermometer_obs,36,265242,2259,2271
+511,Clifton,America/Toronto,0,1868-06-24 00:00:00,1868-06-24 00:00:00,85,F,max_thermometer_obs,36,265243,2259,2271
+512,Clifton,America/Toronto,0,1868-06-25 00:00:00,1868-06-25 00:00:00,80,F,max_thermometer_obs,36,265244,2259,2271
+513,Clifton,America/Toronto,0,1868-06-26 00:00:00,1868-06-26 00:00:00,79,F,max_thermometer_obs,36,265245,2259,2271
+514,Clifton,America/Toronto,0,1868-06-27 00:00:00,1868-06-27 00:00:00,80,F,max_thermometer_obs,36,265246,2259,2271
+515,Clifton,America/Toronto,0,1868-06-28 00:00:00,1868-06-28 00:00:00,82,F,max_thermometer_obs,36,265247,2259,2271
+516,Clifton,America/Toronto,0,1868-06-29 00:00:00,1868-06-29 00:00:00,94,F,max_thermometer_obs,36,265248,2259,2271
+517,Clifton,America/Toronto,0,1868-06-30 00:00:00,1868-06-30 00:00:00,89,F,max_thermometer_obs,36,265249,2259,2271
+518,Clifton,America/Toronto,0,1868-03-01 00:00:00,1868-03-01 00:00:00,-999,F,min_thermometer_obs,38,257691,2256,2088
+519,Clifton,America/Toronto,0,1868-03-02 00:00:00,1868-03-02 00:00:00,empty,F,min_thermometer_obs,38,257692,2256,2088
+520,Clifton,America/Toronto,0,1868-03-03 00:00:00,1868-03-03 00:00:00,empty,F,min_thermometer_obs,38,257693,2256,2088
+521,Clifton,America/Toronto,0,1868-03-06 00:00:00,1868-03-06 00:00:00,empty,F,min_thermometer_obs,38,257696,2256,2088
+522,Clifton,America/Toronto,0,1868-03-07 00:00:00,1868-03-07 00:00:00,empty,F,min_thermometer_obs,38,257697,2256,2088
+523,Clifton,America/Toronto,0,1868-04-02 00:00:00,1868-04-02 00:00:00,empty,F,min_thermometer_obs,38,257950,2257,2270
+524,Clifton,America/Toronto,0,1868-04-16 00:00:00,1868-04-16 00:00:00,empty,F,min_thermometer_obs,38,257964,2257,2270
+525,Clifton,America/Toronto,0,1868-05-02 00:00:00,1868-05-02 00:00:00,empty,F,min_thermometer_obs,38,257078,2248,2269
+526,Clifton,America/Toronto,0,1868-05-03 00:00:00,1868-05-03 00:00:00,empty,F,min_thermometer_obs,38,257079,2248,2269
+527,Clifton,America/Toronto,0,1868-05-04 00:00:00,1868-05-04 00:00:00,empty,F,min_thermometer_obs,38,257080,2248,2269
+528,Clifton,America/Toronto,0,1868-05-05 00:00:00,1868-05-05 00:00:00,empty,F,min_thermometer_obs,38,257081,2248,2269
+529,Clifton,America/Toronto,0,1868-05-08 00:00:00,1868-05-08 00:00:00,empty,F,min_thermometer_obs,38,257084,2248,2269
+530,Clifton,America/Toronto,0,1868-05-09 00:00:00,1868-05-09 00:00:00,empty,F,min_thermometer_obs,38,257085,2248,2269
+531,Clifton,America/Toronto,0,1868-03-01 07:00:00,1868-03-01 07:00:00,partly cloudy,mno,weather_7am,245,257723,2256,2088
+532,Clifton,America/Toronto,0,1868-03-02 07:00:00,1868-03-02 07:00:00,violent gale moderate snow,mno,weather_7am,245,257725,2256,2088
+533,Clifton,America/Toronto,0,1868-03-03 07:00:00,1868-03-03 07:00:00,clear,mno,weather_7am,245,257726,2256,2088
+534,Clifton,America/Toronto,0,1868-03-04 07:00:00,1868-03-04 07:00:00,clear,mno,weather_7am,245,257727,2256,2088
+535,Clifton,America/Toronto,0,1868-03-05 07:00:00,1868-03-05 07:00:00,clear,mno,weather_7am,245,257728,2256,2088
+536,Clifton,America/Toronto,0,1868-03-06 07:00:00,1868-03-06 07:00:00,moderate rain,mno,weather_7am,245,257729,2256,2088
+537,Clifton,America/Toronto,0,1868-03-07 07:00:00,1868-03-07 07:00:00,moderate rain,mno,weather_7am,245,257730,2256,2088
+538,Clifton,America/Toronto,0,1868-03-08 07:00:00,1868-03-08 07:00:00,clear,mno,weather_7am,245,257731,2256,2088
+539,Clifton,America/Toronto,0,1868-03-09 07:00:00,1868-03-09 07:00:00,clear,mno,weather_7am,245,257732,2256,2088
+540,Clifton,America/Toronto,0,1868-03-10 07:00:00,1868-03-10 07:00:00,overcast,mno,weather_7am,245,257733,2256,2088
+541,Clifton,America/Toronto,0,1868-03-11 07:00:00,1868-03-11 07:00:00,clear,mno,weather_7am,245,257734,2256,2088
+542,Clifton,America/Toronto,0,1868-03-12 07:00:00,1868-03-12 07:00:00,light rain,mno,weather_7am,245,257735,2256,2088
+543,Clifton,America/Toronto,0,1868-03-13 07:00:00,1868-03-13 07:00:00,partly cloudy,mno,weather_7am,245,257736,2256,2088
+544,Clifton,America/Toronto,0,1868-03-14 07:00:00,1868-03-14 07:00:00,partly cloudy,mno,weather_7am,245,257737,2256,2088
+545,Clifton,America/Toronto,0,1868-03-15 07:00:00,1868-03-15 07:00:00,partly cloudy,mno,weather_7am,245,257738,2256,2088
+546,Clifton,America/Toronto,0,1868-03-16 07:00:00,1868-03-16 07:00:00,partly cloudy,mno,weather_7am,245,257739,2256,2088
+547,Clifton,America/Toronto,0,1868-03-17 07:00:00,1868-03-17 07:00:00,partly cloudy,mno,weather_7am,245,257740,2256,2088
+548,Clifton,America/Toronto,0,1868-03-18 07:00:00,1868-03-18 07:00:00,partly cloudy,mno,weather_7am,245,257741,2256,2088
+549,Clifton,America/Toronto,0,1868-03-19 07:00:00,1868-03-19 07:00:00,clear,mno,weather_7am,245,257742,2256,2088
+550,Clifton,America/Toronto,0,1868-03-20 07:00:00,1868-03-20 07:00:00,overcast,mno,weather_7am,245,257743,2256,2088
+551,Clifton,America/Toronto,0,1868-03-21 07:00:00,1868-03-21 07:00:00,overcast,mno,weather_7am,245,257744,2256,2088
+552,Clifton,America/Toronto,0,1868-03-22 07:00:00,1868-03-22 07:00:00,clear,mno,weather_7am,245,257745,2256,2088
+553,Clifton,America/Toronto,0,1868-03-23 07:00:00,1868-03-23 07:00:00,clear,mno,weather_7am,245,257746,2256,2088
+554,Clifton,America/Toronto,0,1868-03-24 07:00:00,1868-03-24 07:00:00,clear,mno,weather_7am,245,257747,2256,2088
+555,Clifton,America/Toronto,0,1868-03-25 07:00:00,1868-03-25 07:00:00,clear,mno,weather_7am,245,257748,2256,2088
+556,Clifton,America/Toronto,0,1868-03-26 07:00:00,1868-03-26 07:00:00,clear,mno,weather_7am,245,257749,2256,2088
+557,Clifton,America/Toronto,0,1868-03-27 07:00:00,1868-03-27 07:00:00,clear,mno,weather_7am,245,257750,2256,2088
+558,Clifton,America/Toronto,0,1868-03-28 07:00:00,1868-03-28 07:00:00,clear,mno,weather_7am,245,257751,2256,2088
+559,Clifton,America/Toronto,0,1868-03-29 07:00:00,1868-03-29 07:00:00,clear,mno,weather_7am,245,257752,2256,2088
+560,Clifton,America/Toronto,0,1868-03-30 07:00:00,1868-03-30 07:00:00,clear,mno,weather_7am,245,257753,2256,2088
+561,Clifton,America/Toronto,0,1868-03-31 07:00:00,1868-03-31 07:00:00,clear,mno,weather_7am,245,257754,2256,2088
+562,Clifton,America/Toronto,0,1868-04-01 07:00:00,1868-04-01 07:00:00,partly cloudy,mno,weather_7am,245,257979,2257,2270
+563,Clifton,America/Toronto,0,1868-04-02 07:00:00,1868-04-02 07:00:00,overcast,mno,weather_7am,245,257980,2257,2270
+564,Clifton,America/Toronto,0,1868-04-03 07:00:00,1868-04-03 07:00:00,clear,mno,weather_7am,245,257981,2257,2270
+565,Clifton,America/Toronto,0,1868-04-04 07:00:00,1868-04-04 07:00:00,partly cloudy,mno,weather_7am,245,257982,2257,2270
+566,Clifton,America/Toronto,0,1868-04-05 07:00:00,1868-04-05 07:00:00,light snow,mno,weather_7am,245,257983,2257,2270
+567,Clifton,America/Toronto,0,1868-04-06 07:00:00,1868-04-06 07:00:00,clear,mno,weather_7am,245,257985,2257,2270
+568,Clifton,America/Toronto,0,1868-04-07 07:00:00,1868-04-07 07:00:00,light snow,mno,weather_7am,245,257986,2257,2270
+569,Clifton,America/Toronto,0,1868-04-08 07:00:00,1868-04-08 07:00:00,overcast,mno,weather_7am,245,257987,2257,2270
+570,Clifton,America/Toronto,0,1868-04-09 07:00:00,1868-04-09 07:00:00,clear,mno,weather_7am,245,257988,2257,2270
+571,Clifton,America/Toronto,0,1868-04-10 07:00:00,1868-04-10 07:00:00,light snow,mno,weather_7am,245,257989,2257,2270
+572,Clifton,America/Toronto,0,1868-04-11 07:00:00,1868-04-11 07:00:00,clear,mno,weather_7am,245,257990,2257,2270
+573,Clifton,America/Toronto,0,1868-04-12 07:00:00,1868-04-12 07:00:00,overcast,mno,weather_7am,245,257991,2257,2270
+574,Clifton,America/Toronto,0,1868-04-13 07:00:00,1868-04-13 07:00:00,clear,mno,weather_7am,245,257992,2257,2270
+575,Clifton,America/Toronto,0,1868-04-14 07:00:00,1868-04-14 07:00:00,partly cloudy,mno,weather_7am,245,257993,2257,2270
+576,Clifton,America/Toronto,0,1868-04-15 07:00:00,1868-04-15 07:00:00,clear,mno,weather_7am,245,257994,2257,2270
+577,Clifton,America/Toronto,0,1868-04-16 07:00:00,1868-04-16 07:00:00,overcast,mno,weather_7am,245,257995,2257,2270
+578,Clifton,America/Toronto,0,1868-04-17 07:00:00,1868-04-17 07:00:00,clear,mno,weather_7am,245,257996,2257,2270
+579,Clifton,America/Toronto,0,1868-04-18 07:00:00,1868-04-18 07:00:00,light snow,mno,weather_7am,245,257997,2257,2270
+580,Clifton,America/Toronto,0,1868-04-19 07:00:00,1868-04-19 07:00:00,clear,mno,weather_7am,245,257998,2257,2270
+581,Clifton,America/Toronto,0,1868-04-20 07:00:00,1868-04-20 07:00:00,overcast,mno,weather_7am,245,257999,2257,2270
+582,Clifton,America/Toronto,0,1868-04-21 07:00:00,1868-04-21 07:00:00,clear,mno,weather_7am,245,258000,2257,2270
+583,Clifton,America/Toronto,0,1868-04-22 07:00:00,1868-04-22 07:00:00,clear,mno,weather_7am,245,258001,2257,2270
+584,Clifton,America/Toronto,0,1868-04-23 07:00:00,1868-04-23 07:00:00,moderate snow,mno,weather_7am,245,258003,2257,2270
+585,Clifton,America/Toronto,0,1868-04-24 07:00:00,1868-04-24 07:00:00,clear,mno,weather_7am,245,258004,2257,2270
+586,Clifton,America/Toronto,0,1868-04-25 07:00:00,1868-04-25 07:00:00,overcast,mno,weather_7am,245,258005,2257,2270
+587,Clifton,America/Toronto,0,1868-04-26 07:00:00,1868-04-26 07:00:00,clear,mno,weather_7am,245,258006,2257,2270
+588,Clifton,America/Toronto,0,1868-04-27 07:00:00,1868-04-27 07:00:00,overcast,mno,weather_7am,245,258007,2257,2270
+589,Clifton,America/Toronto,0,1868-04-28 07:00:00,1868-04-28 07:00:00,overcast,mno,weather_7am,245,258008,2257,2270
+590,Clifton,America/Toronto,0,1868-04-29 07:00:00,1868-04-29 07:00:00,light rain,mno,weather_7am,245,258009,2257,2270
+591,Clifton,America/Toronto,0,1868-04-30 07:00:00,1868-04-30 07:00:00,clear,mno,weather_7am,245,258010,2257,2270
+592,Clifton,America/Toronto,0,1868-05-01 07:00:00,1868-05-01 07:00:00,partly cloudy,mno,weather_7am,245,257318,2248,2269
+593,Clifton,America/Toronto,0,1868-05-02 07:00:00,1868-05-02 07:00:00,overcast,mno,weather_7am,245,257461,2248,2269
+594,Clifton,America/Toronto,0,1868-05-03 07:00:00,1868-05-03 07:00:00,partly cloudy,mno,weather_7am,245,257462,2248,2269
+595,Clifton,America/Toronto,0,1868-05-04 07:00:00,1868-05-04 07:00:00,clear,mno,weather_7am,245,257463,2248,2269
+596,Clifton,America/Toronto,0,1868-05-05 07:00:00,1868-05-05 07:00:00,partly cloudy,mno,weather_7am,245,257464,2248,2269
+597,Clifton,America/Toronto,0,1868-05-06 07:00:00,1868-05-06 07:00:00,overcast,mno,weather_7am,245,257465,2248,2269
+598,Clifton,America/Toronto,0,1868-05-07 07:00:00,1868-05-07 07:00:00,overcast,mno,weather_7am,245,257466,2248,2269
+599,Clifton,America/Toronto,0,1868-05-08 07:00:00,1868-05-08 07:00:00,partly cloudy,mno,weather_7am,245,257467,2248,2269
+600,Clifton,America/Toronto,0,1868-05-09 07:00:00,1868-05-09 07:00:00,clear,mno,weather_7am,245,257468,2248,2269
+601,Clifton,America/Toronto,0,1868-05-10 07:00:00,1868-05-10 07:00:00,clear,mno,weather_7am,245,257469,2248,2269
+602,Clifton,America/Toronto,0,1868-05-11 07:00:00,1868-05-11 07:00:00,clear,mno,weather_7am,245,257470,2248,2269
+603,Clifton,America/Toronto,0,1868-05-12 07:00:00,1868-05-12 07:00:00,clear,mno,weather_7am,245,257472,2248,2269
+604,Clifton,America/Toronto,0,1868-05-13 07:00:00,1868-05-13 07:00:00,moderate rain,mno,weather_7am,245,257473,2248,2269
+605,Clifton,America/Toronto,0,1868-05-14 07:00:00,1868-05-14 07:00:00,overcast,mno,weather_7am,245,257474,2248,2269
+606,Clifton,America/Toronto,0,1868-05-15 07:00:00,1868-05-15 07:00:00,overcast,mno,weather_7am,245,257475,2248,2269
+607,Clifton,America/Toronto,0,1868-05-16 07:00:00,1868-05-16 07:00:00,partly cloudy,mno,weather_7am,245,257476,2248,2269
+608,Clifton,America/Toronto,0,1868-05-17 07:00:00,1868-05-17 07:00:00,overcast,mno,weather_7am,245,257477,2248,2269
+609,Clifton,America/Toronto,0,1868-05-18 07:00:00,1868-05-18 07:00:00,light rain,mno,weather_7am,245,257478,2248,2269
+610,Clifton,America/Toronto,0,1868-05-19 07:00:00,1868-05-19 07:00:00,clear,mno,weather_7am,245,257480,2248,2269
+611,Clifton,America/Toronto,0,1868-05-20 07:00:00,1868-05-20 07:00:00,partly cloudy,mno,weather_7am,245,257481,2248,2269
+612,Clifton,America/Toronto,0,1868-05-21 07:00:00,1868-05-21 07:00:00,overcast,mno,weather_7am,245,257482,2248,2269
+613,Clifton,America/Toronto,0,1868-05-22 07:00:00,1868-05-22 07:00:00,light rain,mno,weather_7am,245,257483,2248,2269
+614,Clifton,America/Toronto,0,1868-05-23 07:00:00,1868-05-23 07:00:00,overcast,mno,weather_7am,245,257484,2248,2269
+615,Clifton,America/Toronto,0,1868-05-24 07:00:00,1868-05-24 07:00:00,overcast,mno,weather_7am,245,257485,2248,2269
+616,Clifton,America/Toronto,0,1868-05-25 07:00:00,1868-05-25 07:00:00,clear,mno,weather_7am,245,257486,2248,2269
+617,Clifton,America/Toronto,0,1868-05-26 07:00:00,1868-05-26 07:00:00,clear,mno,weather_7am,245,257487,2248,2269
+618,Clifton,America/Toronto,0,1868-05-27 07:00:00,1868-05-27 07:00:00,clear,mno,weather_7am,245,257488,2248,2269
+619,Clifton,America/Toronto,0,1868-05-28 07:00:00,1868-05-28 07:00:00,overcast,mno,weather_7am,245,257489,2248,2269
+620,Clifton,America/Toronto,0,1868-05-29 07:00:00,1868-05-29 07:00:00,overcast,mno,weather_7am,245,257490,2248,2269
+621,Clifton,America/Toronto,0,1868-05-30 07:00:00,1868-05-30 07:00:00,overcast,mno,weather_7am,245,257491,2248,2269
+622,Clifton,America/Toronto,0,1868-05-31 07:00:00,1868-05-31 07:00:00,overcast,mno,weather_7am,245,257492,2248,2269
+623,Clifton,America/Toronto,0,1868-06-01 07:00:00,1868-06-01 07:00:00,partly cloudy,mno,weather_7am,245,258579,2259,2271
+624,Clifton,America/Toronto,0,1868-06-02 07:00:00,1868-06-02 07:00:00,clear,mno,weather_7am,245,258580,2259,2271
+625,Clifton,America/Toronto,0,1868-06-03 07:00:00,1868-06-03 07:00:00,partly cloudy,mno,weather_7am,245,258581,2259,2271
+626,Clifton,America/Toronto,0,1868-06-04 07:00:00,1868-06-04 07:00:00,overcast,mno,weather_7am,245,258582,2259,2271
+627,Clifton,America/Toronto,0,1868-06-05 07:00:00,1868-06-05 07:00:00,light rain,mno,weather_7am,245,258583,2259,2271
+628,Clifton,America/Toronto,0,1868-06-06 07:00:00,1868-06-06 07:00:00,moderate rain,mno,weather_7am,245,258584,2259,2271
+629,Clifton,America/Toronto,0,1868-06-07 07:00:00,1868-06-07 07:00:00,partly cloudy,mno,weather_7am,245,258585,2259,2271
+630,Clifton,America/Toronto,0,1868-06-08 07:00:00,1868-06-08 07:00:00,partly cloudy,mno,weather_7am,245,258586,2259,2271
+631,Clifton,America/Toronto,0,1868-06-09 07:00:00,1868-06-09 07:00:00,overcast,mno,weather_7am,245,258587,2259,2271
+632,Clifton,America/Toronto,0,1868-06-10 07:00:00,1868-06-10 07:00:00,clear,mno,weather_7am,245,258588,2259,2271
+633,Clifton,America/Toronto,0,1868-06-11 07:00:00,1868-06-11 07:00:00,clear,mno,weather_7am,245,258589,2259,2271
+634,Clifton,America/Toronto,0,1868-06-12 07:00:00,1868-06-12 07:00:00,clear,mno,weather_7am,245,258590,2259,2271
+635,Clifton,America/Toronto,0,1868-06-13 07:00:00,1868-06-13 07:00:00,partly cloudy,mno,weather_7am,245,258591,2259,2271
+636,Clifton,America/Toronto,0,1868-06-14 07:00:00,1868-06-14 07:00:00,partly cloudy,mno,weather_7am,245,258592,2259,2271
+637,Clifton,America/Toronto,0,1868-06-15 07:00:00,1868-06-15 07:00:00,partly cloudy,mno,weather_7am,245,258595,2259,2271
+638,Clifton,America/Toronto,0,1868-06-16 07:00:00,1868-06-16 07:00:00,overcast,mno,weather_7am,245,258598,2259,2271
+639,Clifton,America/Toronto,0,1868-06-17 07:00:00,1868-06-17 07:00:00,partly cloudy,mno,weather_7am,245,258601,2259,2271
+640,Clifton,America/Toronto,0,1868-06-18 07:00:00,1868-06-18 07:00:00,clear,mno,weather_7am,245,258604,2259,2271
+641,Clifton,America/Toronto,0,1868-06-19 07:00:00,1868-06-19 07:00:00,partly cloudy,mno,weather_7am,245,258607,2259,2271
+642,Clifton,America/Toronto,0,1868-06-20 07:00:00,1868-06-20 07:00:00,partly cloudy,mno,weather_7am,245,258609,2259,2271
+643,Clifton,America/Toronto,0,1868-06-21 07:00:00,1868-06-21 07:00:00,overcast,mno,weather_7am,245,258613,2259,2271
+644,Clifton,America/Toronto,0,1868-06-22 07:00:00,1868-06-22 07:00:00,overcast,mno,weather_7am,245,258617,2259,2271
+645,Clifton,America/Toronto,0,1868-06-23 07:00:00,1868-06-23 07:00:00,partly cloudy,mno,weather_7am,245,258626,2259,2271
+646,Clifton,America/Toronto,0,1868-06-24 07:00:00,1868-06-24 07:00:00,clear,mno,weather_7am,245,258629,2259,2271
+647,Clifton,America/Toronto,0,1868-06-25 07:00:00,1868-06-25 07:00:00,clear,mno,weather_7am,245,258633,2259,2271
+648,Clifton,America/Toronto,0,1868-06-26 07:00:00,1868-06-26 07:00:00,clear,mno,weather_7am,245,258635,2259,2271
+649,Clifton,America/Toronto,0,1868-06-27 07:00:00,1868-06-27 07:00:00,partly cloudy,mno,weather_7am,245,258636,2259,2271
+650,Clifton,America/Toronto,0,1868-06-28 07:00:00,1868-06-28 07:00:00,clear,mno,weather_7am,245,258637,2259,2271
+651,Clifton,America/Toronto,0,1868-06-29 07:00:00,1868-06-29 07:00:00,partly cloudy,mno,weather_7am,245,258638,2259,2271
+652,Clifton,America/Toronto,0,1868-06-30 07:00:00,1868-06-30 07:00:00,partly cloudy,mno,weather_7am,245,258639,2259,2271
+653,Clifton,America/Toronto,0,1868-03-01 14:00:00,1868-03-01 14:00:00,partly cloudy overcast,mno,weather_2pm,246,257723,2256,2088
+654,Clifton,America/Toronto,0,1868-03-02 14:00:00,1868-03-02 14:00:00,overcast violent gale moderate snow,mno,weather_2pm,246,257725,2256,2088
+655,Clifton,America/Toronto,0,1868-03-03 14:00:00,1868-03-03 14:00:00,clear,mno,weather_2pm,246,257726,2256,2088
+656,Clifton,America/Toronto,0,1868-03-04 14:00:00,1868-03-04 14:00:00,clear,mno,weather_2pm,246,257727,2256,2088
+657,Clifton,America/Toronto,0,1868-03-05 14:00:00,1868-03-05 14:00:00,clear,mno,weather_2pm,246,257728,2256,2088
+658,Clifton,America/Toronto,0,1868-03-06 14:00:00,1868-03-06 14:00:00,light rain,mno,weather_2pm,246,257729,2256,2088
+659,Clifton,America/Toronto,0,1868-03-07 14:00:00,1868-03-07 14:00:00,overcast moderate rain,mno,weather_2pm,246,257730,2256,2088
+660,Clifton,America/Toronto,0,1868-03-08 14:00:00,1868-03-08 14:00:00,partly cloudy,mno,weather_2pm,246,257731,2256,2088
+661,Clifton,America/Toronto,0,1868-03-09 14:00:00,1868-03-09 14:00:00,partly cloudy overcast,mno,weather_2pm,246,257732,2256,2088
+662,Clifton,America/Toronto,0,1868-03-10 14:00:00,1868-03-10 14:00:00,overcast light rain,mno,weather_2pm,246,257733,2256,2088
+663,Clifton,America/Toronto,0,1868-03-11 14:00:00,1868-03-11 14:00:00,clear,mno,weather_2pm,246,257734,2256,2088
+664,Clifton,America/Toronto,0,1868-03-12 14:00:00,1868-03-12 14:00:00,light rain,mno,weather_2pm,246,257735,2256,2088
+665,Clifton,America/Toronto,0,1868-03-13 14:00:00,1868-03-13 14:00:00,overcast,mno,weather_2pm,246,257736,2256,2088
+666,Clifton,America/Toronto,0,1868-03-14 14:00:00,1868-03-14 14:00:00,overcast,mno,weather_2pm,246,257737,2256,2088
+667,Clifton,America/Toronto,0,1868-03-15 14:00:00,1868-03-15 14:00:00,clear,mno,weather_2pm,246,257738,2256,2088
+668,Clifton,America/Toronto,0,1868-03-16 14:00:00,1868-03-16 14:00:00,partly cloudy heavy rain,mno,weather_2pm,246,257739,2256,2088
+669,Clifton,America/Toronto,0,1868-03-17 14:00:00,1868-03-17 14:00:00,clear light rain,mno,weather_2pm,246,257740,2256,2088
+670,Clifton,America/Toronto,0,1868-03-18 14:00:00,1868-03-18 14:00:00,clear,mno,weather_2pm,246,257741,2256,2088
+671,Clifton,America/Toronto,0,1868-03-19 14:00:00,1868-03-19 14:00:00,partly cloudy,mno,weather_2pm,246,257742,2256,2088
+672,Clifton,America/Toronto,0,1868-03-20 14:00:00,1868-03-20 14:00:00,overcast,mno,weather_2pm,246,257743,2256,2088
+673,Clifton,America/Toronto,0,1868-03-21 14:00:00,1868-03-21 14:00:00,partly cloudy overcast,mno,weather_2pm,246,257744,2256,2088
+674,Clifton,America/Toronto,0,1868-03-22 14:00:00,1868-03-22 14:00:00,clear,mno,weather_2pm,246,257745,2256,2088
+675,Clifton,America/Toronto,0,1868-03-23 14:00:00,1868-03-23 14:00:00,clear,mno,weather_2pm,246,257746,2256,2088
+676,Clifton,America/Toronto,0,1868-03-24 14:00:00,1868-03-24 14:00:00,clear,mno,weather_2pm,246,257747,2256,2088
+677,Clifton,America/Toronto,0,1868-03-25 14:00:00,1868-03-25 14:00:00,clear,mno,weather_2pm,246,257748,2256,2088
+678,Clifton,America/Toronto,0,1868-03-26 14:00:00,1868-03-26 14:00:00,clear,mno,weather_2pm,246,257749,2256,2088
+679,Clifton,America/Toronto,0,1868-03-27 14:00:00,1868-03-27 14:00:00,clear,mno,weather_2pm,246,257750,2256,2088
+680,Clifton,America/Toronto,0,1868-03-28 14:00:00,1868-03-28 14:00:00,clear,mno,weather_2pm,246,257751,2256,2088
+681,Clifton,America/Toronto,0,1868-03-29 14:00:00,1868-03-29 14:00:00,clear,mno,weather_2pm,246,257752,2256,2088
+682,Clifton,America/Toronto,0,1868-03-30 14:00:00,1868-03-30 14:00:00,clear,mno,weather_2pm,246,257753,2256,2088
+683,Clifton,America/Toronto,0,1868-03-31 14:00:00,1868-03-31 14:00:00,clear,mno,weather_2pm,246,257754,2256,2088
+684,Clifton,America/Toronto,0,1868-04-01 14:00:00,1868-04-01 14:00:00,partly cloudy,mno,weather_2pm,246,257979,2257,2270
+685,Clifton,America/Toronto,0,1868-04-02 14:00:00,1868-04-02 14:00:00,moderate snow,mno,weather_2pm,246,257980,2257,2270
+686,Clifton,America/Toronto,0,1868-04-03 14:00:00,1868-04-03 14:00:00,partly cloudy,mno,weather_2pm,246,257981,2257,2270
+687,Clifton,America/Toronto,0,1868-04-04 14:00:00,1868-04-04 14:00:00,partly cloudy overcast light rain and snow,mno,weather_2pm,246,257982,2257,2270
+688,Clifton,America/Toronto,0,1868-04-05 14:00:00,1868-04-05 14:00:00,partly cloudy light snow,mno,weather_2pm,246,257983,2257,2270
+689,Clifton,America/Toronto,0,1868-04-06 14:00:00,1868-04-06 14:00:00,clear partly cloudy,mno,weather_2pm,246,257985,2257,2270
+690,Clifton,America/Toronto,0,1868-04-07 14:00:00,1868-04-07 14:00:00,partly cloudy overcast,mno,weather_2pm,246,257986,2257,2270
+691,Clifton,America/Toronto,0,1868-04-08 14:00:00,1868-04-08 14:00:00,partly cloudy overcast light snow,mno,weather_2pm,246,257987,2257,2270
+692,Clifton,America/Toronto,0,1868-04-09 14:00:00,1868-04-09 14:00:00,clear,mno,weather_2pm,246,257988,2257,2270
+693,Clifton,America/Toronto,0,1868-04-10 14:00:00,1868-04-10 14:00:00,overcast,mno,weather_2pm,246,257989,2257,2270
+694,Clifton,America/Toronto,0,1868-04-11 14:00:00,1868-04-11 14:00:00,partly cloudy light rain,mno,weather_2pm,246,257990,2257,2270
+695,Clifton,America/Toronto,0,1868-04-12 14:00:00,1868-04-12 14:00:00,clear partly cloudy,mno,weather_2pm,246,257991,2257,2270
+696,Clifton,America/Toronto,0,1868-04-13 14:00:00,1868-04-13 14:00:00,clear,mno,weather_2pm,246,257992,2257,2270
+697,Clifton,America/Toronto,0,1868-04-14 14:00:00,1868-04-14 14:00:00,overcast light rain,mno,weather_2pm,246,257993,2257,2270
+698,Clifton,America/Toronto,0,1868-04-15 14:00:00,1868-04-15 14:00:00,partly cloudy moderate rain,mno,weather_2pm,246,257994,2257,2270
+699,Clifton,America/Toronto,0,1868-04-16 14:00:00,1868-04-16 14:00:00,clear overcast,mno,weather_2pm,246,257995,2257,2270
+700,Clifton,America/Toronto,0,1868-04-17 14:00:00,1868-04-17 14:00:00,clear overcast,mno,weather_2pm,246,257996,2257,2270
+701,Clifton,America/Toronto,0,1868-04-18 14:00:00,1868-04-18 14:00:00,clear overcast,mno,weather_2pm,246,257997,2257,2270
+702,Clifton,America/Toronto,0,1868-04-19 14:00:00,1868-04-19 14:00:00,partly cloudy light rain,mno,weather_2pm,246,257998,2257,2270
+703,Clifton,America/Toronto,0,1868-04-20 14:00:00,1868-04-20 14:00:00,overcast,mno,weather_2pm,246,257999,2257,2270
+704,Clifton,America/Toronto,0,1868-04-21 14:00:00,1868-04-21 14:00:00,clear,mno,weather_2pm,246,258000,2257,2270
+705,Clifton,America/Toronto,0,1868-04-22 14:00:00,1868-04-22 14:00:00,clear partly cloudy,mno,weather_2pm,246,258001,2257,2270
+706,Clifton,America/Toronto,0,1868-04-23 14:00:00,1868-04-23 14:00:00,clear partly cloudy,mno,weather_2pm,246,258003,2257,2270
+707,Clifton,America/Toronto,0,1868-04-24 14:00:00,1868-04-24 14:00:00,clear overcast,mno,weather_2pm,246,258004,2257,2270
+708,Clifton,America/Toronto,0,1868-04-25 14:00:00,1868-04-25 14:00:00,clear partly cloudy,mno,weather_2pm,246,258005,2257,2270
+709,Clifton,America/Toronto,0,1868-04-26 14:00:00,1868-04-26 14:00:00,clear partly cloudy,mno,weather_2pm,246,258006,2257,2270
+710,Clifton,America/Toronto,0,1868-04-27 14:00:00,1868-04-27 14:00:00,clear partly cloudy,mno,weather_2pm,246,258007,2257,2270
+711,Clifton,America/Toronto,0,1868-04-28 14:00:00,1868-04-28 14:00:00,clear partly cloudy,mno,weather_2pm,246,258008,2257,2270
+712,Clifton,America/Toronto,0,1868-04-29 14:00:00,1868-04-29 14:00:00,partly cloudy overcast moderate rain,mno,weather_2pm,246,258009,2257,2270
+713,Clifton,America/Toronto,0,1868-04-30 14:00:00,1868-04-30 14:00:00,clear partly cloudy,mno,weather_2pm,246,258010,2257,2270
+714,Clifton,America/Toronto,0,1868-05-01 14:00:00,1868-05-01 14:00:00,partly cloudy,mno,weather_2pm,246,257318,2248,2269
+715,Clifton,America/Toronto,0,1868-05-02 14:00:00,1868-05-02 14:00:00,overcast,mno,weather_2pm,246,257461,2248,2269
+716,Clifton,America/Toronto,0,1868-05-03 14:00:00,1868-05-03 14:00:00,clear,mno,weather_2pm,246,257462,2248,2269
+717,Clifton,America/Toronto,0,1868-05-04 14:00:00,1868-05-04 14:00:00,overcast,mno,weather_2pm,246,257463,2248,2269
+718,Clifton,America/Toronto,0,1868-05-05 14:00:00,1868-05-05 14:00:00,partly cloudy,mno,weather_2pm,246,257464,2248,2269
+719,Clifton,America/Toronto,0,1868-05-06 14:00:00,1868-05-06 14:00:00,clear partly cloudy,mno,weather_2pm,246,257465,2248,2269
+720,Clifton,America/Toronto,0,1868-05-07 14:00:00,1868-05-07 14:00:00,overcast,mno,weather_2pm,246,257466,2248,2269
+721,Clifton,America/Toronto,0,1868-05-08 14:00:00,1868-05-08 14:00:00,partly cloudy,mno,weather_2pm,246,257467,2248,2269
+722,Clifton,America/Toronto,0,1868-05-09 14:00:00,1868-05-09 14:00:00,clear,mno,weather_2pm,246,257468,2248,2269
+723,Clifton,America/Toronto,0,1868-05-10 14:00:00,1868-05-10 14:00:00,clear,mno,weather_2pm,246,257469,2248,2269
+724,Clifton,America/Toronto,0,1868-05-11 14:00:00,1868-05-11 14:00:00,clear,mno,weather_2pm,246,257470,2248,2269
+725,Clifton,America/Toronto,0,1868-05-12 14:00:00,1868-05-12 14:00:00,clear,mno,weather_2pm,246,257472,2248,2269
+726,Clifton,America/Toronto,0,1868-05-13 14:00:00,1868-05-13 14:00:00,heavy rain,mno,weather_2pm,246,257473,2248,2269
+727,Clifton,America/Toronto,0,1868-05-14 14:00:00,1868-05-14 14:00:00,overcast heavy rain,mno,weather_2pm,246,257474,2248,2269
+728,Clifton,America/Toronto,0,1868-05-15 14:00:00,1868-05-15 14:00:00,overcast moderate rain,mno,weather_2pm,246,257475,2248,2269
+729,Clifton,America/Toronto,0,1868-05-16 14:00:00,1868-05-16 14:00:00,partly cloudy overcast,mno,weather_2pm,246,257476,2248,2269
+730,Clifton,America/Toronto,0,1868-05-17 14:00:00,1868-05-17 14:00:00,overcast light rain,mno,weather_2pm,246,257477,2248,2269
+731,Clifton,America/Toronto,0,1868-05-18 14:00:00,1868-05-18 14:00:00,moderate rain,mno,weather_2pm,246,257478,2248,2269
+732,Clifton,America/Toronto,0,1868-05-19 14:00:00,1868-05-19 14:00:00,clear,mno,weather_2pm,246,257480,2248,2269
+733,Clifton,America/Toronto,0,1868-05-20 14:00:00,1868-05-20 14:00:00,partly cloudy,mno,weather_2pm,246,257481,2248,2269
+734,Clifton,America/Toronto,0,1868-05-21 14:00:00,1868-05-21 14:00:00,overcast,mno,weather_2pm,246,257482,2248,2269
+735,Clifton,America/Toronto,0,1868-05-22 14:00:00,1868-05-22 14:00:00,overcast,mno,weather_2pm,246,257483,2248,2269
+736,Clifton,America/Toronto,0,1868-05-23 14:00:00,1868-05-23 14:00:00,partly cloudy,mno,weather_2pm,246,257484,2248,2269
+737,Clifton,America/Toronto,0,1868-05-24 14:00:00,1868-05-24 14:00:00,partly cloudy,mno,weather_2pm,246,257485,2248,2269
+738,Clifton,America/Toronto,0,1868-05-25 14:00:00,1868-05-25 14:00:00,clear,mno,weather_2pm,246,257486,2248,2269
+739,Clifton,America/Toronto,0,1868-05-26 14:00:00,1868-05-26 14:00:00,clear,mno,weather_2pm,246,257487,2248,2269
+740,Clifton,America/Toronto,0,1868-05-27 14:00:00,1868-05-27 14:00:00,clear moderate rain,mno,weather_2pm,246,257488,2248,2269
+741,Clifton,America/Toronto,0,1868-05-28 14:00:00,1868-05-28 14:00:00,partly cloudy,mno,weather_2pm,246,257489,2248,2269
+742,Clifton,America/Toronto,0,1868-05-29 14:00:00,1868-05-29 14:00:00,overcast,mno,weather_2pm,246,257490,2248,2269
+743,Clifton,America/Toronto,0,1868-05-30 14:00:00,1868-05-30 14:00:00,overcast light rain,mno,weather_2pm,246,257491,2248,2269
+744,Clifton,America/Toronto,0,1868-05-31 14:00:00,1868-05-31 14:00:00,partly cloudy,mno,weather_2pm,246,257492,2248,2269
+745,Clifton,America/Toronto,0,1868-06-01 14:00:00,1868-06-01 14:00:00,partly cloudy light rain,mno,weather_2pm,246,258579,2259,2271
+746,Clifton,America/Toronto,0,1868-06-02 14:00:00,1868-06-02 14:00:00,clear,mno,weather_2pm,246,258580,2259,2271
+747,Clifton,America/Toronto,0,1868-06-03 14:00:00,1868-06-03 14:00:00,partly cloudy,mno,weather_2pm,246,258581,2259,2271
+748,Clifton,America/Toronto,0,1868-06-04 14:00:00,1868-06-04 14:00:00,partly cloudy,mno,weather_2pm,246,258582,2259,2271
+749,Clifton,America/Toronto,0,1868-06-05 14:00:00,1868-06-05 14:00:00,partly cloudy moderate rain,mno,weather_2pm,246,258583,2259,2271
+750,Clifton,America/Toronto,0,1868-06-06 14:00:00,1868-06-06 14:00:00,overcast,mno,weather_2pm,246,258584,2259,2271
+751,Clifton,America/Toronto,0,1868-06-07 14:00:00,1868-06-07 14:00:00,clear,mno,weather_2pm,246,258585,2259,2271
+752,Clifton,America/Toronto,0,1868-06-08 14:00:00,1868-06-08 14:00:00,overcast,mno,weather_2pm,246,258586,2259,2271
+753,Clifton,America/Toronto,0,1868-06-09 14:00:00,1868-06-09 14:00:00,clear,mno,weather_2pm,246,258587,2259,2271
+754,Clifton,America/Toronto,0,1868-06-10 14:00:00,1868-06-10 14:00:00,clear,mno,weather_2pm,246,258588,2259,2271
+755,Clifton,America/Toronto,0,1868-06-11 14:00:00,1868-06-11 14:00:00,partly cloudy,mno,weather_2pm,246,258589,2259,2271
+756,Clifton,America/Toronto,0,1868-06-12 14:00:00,1868-06-12 14:00:00,clear,mno,weather_2pm,246,258590,2259,2271
+757,Clifton,America/Toronto,0,1868-06-13 14:00:00,1868-06-13 14:00:00,partly cloudy,mno,weather_2pm,246,258591,2259,2271
+758,Clifton,America/Toronto,0,1868-06-14 14:00:00,1868-06-14 14:00:00,partly cloudy,mno,weather_2pm,246,258592,2259,2271
+759,Clifton,America/Toronto,0,1868-06-15 14:00:00,1868-06-15 14:00:00,partly cloudy,mno,weather_2pm,246,258595,2259,2271
+760,Clifton,America/Toronto,0,1868-06-16 14:00:00,1868-06-16 14:00:00,partly cloudy,mno,weather_2pm,246,258598,2259,2271
+761,Clifton,America/Toronto,0,1868-06-17 14:00:00,1868-06-17 14:00:00,clear,mno,weather_2pm,246,258601,2259,2271
+762,Clifton,America/Toronto,0,1868-06-18 14:00:00,1868-06-18 14:00:00,clear,mno,weather_2pm,246,258604,2259,2271
+763,Clifton,America/Toronto,0,1868-06-19 14:00:00,1868-06-19 14:00:00,clear,mno,weather_2pm,246,258607,2259,2271
+764,Clifton,America/Toronto,0,1868-06-20 14:00:00,1868-06-20 14:00:00,partly cloudy,mno,weather_2pm,246,258609,2259,2271
+765,Clifton,America/Toronto,0,1868-06-21 14:00:00,1868-06-21 14:00:00,overcast light rain,mno,weather_2pm,246,258613,2259,2271
+766,Clifton,America/Toronto,0,1868-06-22 14:00:00,1868-06-22 14:00:00,partly cloudy,mno,weather_2pm,246,258617,2259,2271
+767,Clifton,America/Toronto,0,1868-06-23 14:00:00,1868-06-23 14:00:00,partly cloudy,mno,weather_2pm,246,258626,2259,2271
+768,Clifton,America/Toronto,0,1868-06-24 14:00:00,1868-06-24 14:00:00,clear,mno,weather_2pm,246,258629,2259,2271
+769,Clifton,America/Toronto,0,1868-06-25 14:00:00,1868-06-25 14:00:00,clear,mno,weather_2pm,246,258633,2259,2271
+770,Clifton,America/Toronto,0,1868-06-26 14:00:00,1868-06-26 14:00:00,clear,mno,weather_2pm,246,258635,2259,2271
+771,Clifton,America/Toronto,0,1868-06-27 14:00:00,1868-06-27 14:00:00,overcast,mno,weather_2pm,246,258636,2259,2271
+772,Clifton,America/Toronto,0,1868-06-28 14:00:00,1868-06-28 14:00:00,clear,mno,weather_2pm,246,258637,2259,2271
+773,Clifton,America/Toronto,0,1868-06-29 14:00:00,1868-06-29 14:00:00,clear,mno,weather_2pm,246,258638,2259,2271
+774,Clifton,America/Toronto,0,1868-06-30 14:00:00,1868-06-30 14:00:00,partly cloudy,mno,weather_2pm,246,258639,2259,2271
+775,Clifton,America/Toronto,0,1868-03-01 21:00:00,1868-03-01 21:00:00,overcast high wind,mno,weather_9pm,247,257723,2256,2088
+776,Clifton,America/Toronto,0,1868-03-02 21:00:00,1868-03-02 21:00:00,overcast,mno,weather_9pm,247,257725,2256,2088
+777,Clifton,America/Toronto,0,1868-03-03 21:00:00,1868-03-03 21:00:00,overcast,mno,weather_9pm,247,257726,2256,2088
+778,Clifton,America/Toronto,0,1868-03-04 21:00:00,1868-03-04 21:00:00,clear,mno,weather_9pm,247,257727,2256,2088
+779,Clifton,America/Toronto,0,1868-03-05 21:00:00,1868-03-05 21:00:00,clear,mno,weather_9pm,247,257728,2256,2088
+780,Clifton,America/Toronto,0,1868-03-06 21:00:00,1868-03-06 21:00:00,light rain,mno,weather_9pm,247,257729,2256,2088
+781,Clifton,America/Toronto,0,1868-03-07 21:00:00,1868-03-07 21:00:00,overcast,mno,weather_9pm,247,257730,2256,2088
+782,Clifton,America/Toronto,0,1868-03-08 21:00:00,1868-03-08 21:00:00,clear,mno,weather_9pm,247,257731,2256,2088
+783,Clifton,America/Toronto,0,1868-03-09 21:00:00,1868-03-09 21:00:00,overcast,mno,weather_9pm,247,257732,2256,2088
+784,Clifton,America/Toronto,0,1868-03-10 21:00:00,1868-03-10 21:00:00,overcast,mno,weather_9pm,247,257733,2256,2088
+785,Clifton,America/Toronto,0,1868-03-11 21:00:00,1868-03-11 21:00:00,clear,mno,weather_9pm,247,257734,2256,2088
+786,Clifton,America/Toronto,0,1868-03-12 21:00:00,1868-03-12 21:00:00,moderate rain,mno,weather_9pm,247,257735,2256,2088
+787,Clifton,America/Toronto,0,1868-03-13 21:00:00,1868-03-13 21:00:00,overcast,mno,weather_9pm,247,257736,2256,2088
+788,Clifton,America/Toronto,0,1868-03-14 21:00:00,1868-03-14 21:00:00,heavy rain,mno,weather_9pm,247,257737,2256,2088
+789,Clifton,America/Toronto,0,1868-03-15 21:00:00,1868-03-15 21:00:00,partly cloudy,mno,weather_9pm,247,257738,2256,2088
+790,Clifton,America/Toronto,0,1868-03-16 21:00:00,1868-03-16 21:00:00,hazy,mno,weather_9pm,247,257739,2256,2088
+791,Clifton,America/Toronto,0,1868-03-17 21:00:00,1868-03-17 21:00:00,partly cloudy,mno,weather_9pm,247,257740,2256,2088
+792,Clifton,America/Toronto,0,1868-03-18 21:00:00,1868-03-18 21:00:00,clear,mno,weather_9pm,247,257741,2256,2088
+793,Clifton,America/Toronto,0,1868-03-19 21:00:00,1868-03-19 21:00:00,overcast,mno,weather_9pm,247,257742,2256,2088
+794,Clifton,America/Toronto,0,1868-03-20 21:00:00,1868-03-20 21:00:00,overcast,mno,weather_9pm,247,257743,2256,2088
+795,Clifton,America/Toronto,0,1868-03-21 21:00:00,1868-03-21 21:00:00,clear,mno,weather_9pm,247,257744,2256,2088
+796,Clifton,America/Toronto,0,1868-03-22 21:00:00,1868-03-22 21:00:00,clear,mno,weather_9pm,247,257745,2256,2088
+797,Clifton,America/Toronto,0,1868-03-23 21:00:00,1868-03-23 21:00:00,overcast,mno,weather_9pm,247,257746,2256,2088
+798,Clifton,America/Toronto,0,1868-03-24 21:00:00,1868-03-24 21:00:00,clear,mno,weather_9pm,247,257747,2256,2088
+799,Clifton,America/Toronto,0,1868-03-25 21:00:00,1868-03-25 21:00:00,clear,mno,weather_9pm,247,257748,2256,2088
+800,Clifton,America/Toronto,0,1868-03-26 21:00:00,1868-03-26 21:00:00,clear,mno,weather_9pm,247,257749,2256,2088
+801,Clifton,America/Toronto,0,1868-03-27 21:00:00,1868-03-27 21:00:00,clear,mno,weather_9pm,247,257750,2256,2088
+802,Clifton,America/Toronto,0,1868-03-28 21:00:00,1868-03-28 21:00:00,clear,mno,weather_9pm,247,257751,2256,2088
+803,Clifton,America/Toronto,0,1868-03-29 21:00:00,1868-03-29 21:00:00,clear,mno,weather_9pm,247,257752,2256,2088
+804,Clifton,America/Toronto,0,1868-03-30 21:00:00,1868-03-30 21:00:00,clear,mno,weather_9pm,247,257753,2256,2088
+805,Clifton,America/Toronto,0,1868-03-31 21:00:00,1868-03-31 21:00:00,clear,mno,weather_9pm,247,257754,2256,2088
+806,Clifton,America/Toronto,0,1868-04-01 21:00:00,1868-04-01 21:00:00,partly cloudy,mno,weather_9pm,247,257979,2257,2270
+807,Clifton,America/Toronto,0,1868-04-02 21:00:00,1868-04-02 21:00:00,overcast,mno,weather_9pm,247,257980,2257,2270
+808,Clifton,America/Toronto,0,1868-04-03 21:00:00,1868-04-03 21:00:00,overcast,mno,weather_9pm,247,257981,2257,2270
+809,Clifton,America/Toronto,0,1868-04-04 21:00:00,1868-04-04 21:00:00,high wind moderate snow,mno,weather_9pm,247,257982,2257,2270
+810,Clifton,America/Toronto,0,1868-04-05 21:00:00,1868-04-05 21:00:00,clear,mno,weather_9pm,247,257983,2257,2270
+811,Clifton,America/Toronto,0,1868-04-06 21:00:00,1868-04-06 21:00:00,overcast,mno,weather_9pm,247,257985,2257,2270
+812,Clifton,America/Toronto,0,1868-04-07 21:00:00,1868-04-07 21:00:00,clear,mno,weather_9pm,247,257986,2257,2270
+813,Clifton,America/Toronto,0,1868-04-08 21:00:00,1868-04-08 21:00:00,overcast,mno,weather_9pm,247,257987,2257,2270
+814,Clifton,America/Toronto,0,1868-04-09 21:00:00,1868-04-09 21:00:00,partly cloudy,mno,weather_9pm,247,257988,2257,2270
+815,Clifton,America/Toronto,0,1868-04-10 21:00:00,1868-04-10 21:00:00,overcast,mno,weather_9pm,247,257989,2257,2270
+816,Clifton,America/Toronto,0,1868-04-11 21:00:00,1868-04-11 21:00:00,light rain,mno,weather_9pm,247,257990,2257,2270
+817,Clifton,America/Toronto,0,1868-04-12 21:00:00,1868-04-12 21:00:00,clear,mno,weather_9pm,247,257991,2257,2270
+818,Clifton,America/Toronto,0,1868-04-13 21:00:00,1868-04-13 21:00:00,clear,mno,weather_9pm,247,257992,2257,2270
+819,Clifton,America/Toronto,0,1868-04-14 21:00:00,1868-04-14 21:00:00,overcast,mno,weather_9pm,247,257993,2257,2270
+820,Clifton,America/Toronto,0,1868-04-15 21:00:00,1868-04-15 21:00:00,overcast,mno,weather_9pm,247,257994,2257,2270
+821,Clifton,America/Toronto,0,1868-04-16 21:00:00,1868-04-16 21:00:00,clear,mno,weather_9pm,247,257995,2257,2270
+822,Clifton,America/Toronto,0,1868-04-17 21:00:00,1868-04-17 21:00:00,overcast,mno,weather_9pm,247,257996,2257,2270
+823,Clifton,America/Toronto,0,1868-04-18 21:00:00,1868-04-18 21:00:00,clear,mno,weather_9pm,247,257997,2257,2270
+824,Clifton,America/Toronto,0,1868-04-19 21:00:00,1868-04-19 21:00:00,overcast,mno,weather_9pm,247,257998,2257,2270
+825,Clifton,America/Toronto,0,1868-04-20 21:00:00,1868-04-20 21:00:00,overcast,mno,weather_9pm,247,257999,2257,2270
+826,Clifton,America/Toronto,0,1868-04-21 21:00:00,1868-04-21 21:00:00,clear,mno,weather_9pm,247,258000,2257,2270
+827,Clifton,America/Toronto,0,1868-04-22 21:00:00,1868-04-22 21:00:00,overcast,mno,weather_9pm,247,258001,2257,2270
+828,Clifton,America/Toronto,0,1868-04-23 21:00:00,1868-04-23 21:00:00,clear,mno,weather_9pm,247,258003,2257,2270
+829,Clifton,America/Toronto,0,1868-04-24 21:00:00,1868-04-24 21:00:00,overcast,mno,weather_9pm,247,258004,2257,2270
+830,Clifton,America/Toronto,0,1868-04-25 21:00:00,1868-04-25 21:00:00,clear,mno,weather_9pm,247,258005,2257,2270
+831,Clifton,America/Toronto,0,1868-04-26 21:00:00,1868-04-26 21:00:00,overcast,mno,weather_9pm,247,258006,2257,2270
+832,Clifton,America/Toronto,0,1868-04-27 21:00:00,1868-04-27 21:00:00,clear,mno,weather_9pm,247,258007,2257,2270
+833,Clifton,America/Toronto,0,1868-04-28 21:00:00,1868-04-28 21:00:00,clear,mno,weather_9pm,247,258008,2257,2270
+834,Clifton,America/Toronto,0,1868-04-29 21:00:00,1868-04-29 21:00:00,partly cloudy,mno,weather_9pm,247,258009,2257,2270
+835,Clifton,America/Toronto,0,1868-04-30 21:00:00,1868-04-30 21:00:00,overcast,mno,weather_9pm,247,258010,2257,2270
+836,Clifton,America/Toronto,0,1868-05-01 21:00:00,1868-05-01 21:00:00,partly cloudy,mno,weather_9pm,247,257318,2248,2269
+837,Clifton,America/Toronto,0,1868-05-02 21:00:00,1868-05-02 21:00:00,overcast,mno,weather_9pm,247,257461,2248,2269
+838,Clifton,America/Toronto,0,1868-05-03 21:00:00,1868-05-03 21:00:00,clear,mno,weather_9pm,247,257462,2248,2269
+839,Clifton,America/Toronto,0,1868-05-04 21:00:00,1868-05-04 21:00:00,partly cloudy,mno,weather_9pm,247,257463,2248,2269
+840,Clifton,America/Toronto,0,1868-05-05 21:00:00,1868-05-05 21:00:00,heavy rain,mno,weather_9pm,247,257464,2248,2269
+841,Clifton,America/Toronto,0,1868-05-06 21:00:00,1868-05-06 21:00:00,partly cloudy,mno,weather_9pm,247,257465,2248,2269
+842,Clifton,America/Toronto,0,1868-05-07 21:00:00,1868-05-07 21:00:00,partly cloudy,mno,weather_9pm,247,257466,2248,2269
+843,Clifton,America/Toronto,0,1868-05-08 21:00:00,1868-05-08 21:00:00,clear,mno,weather_9pm,247,257467,2248,2269
+844,Clifton,America/Toronto,0,1868-05-09 21:00:00,1868-05-09 21:00:00,clear,mno,weather_9pm,247,257468,2248,2269
+845,Clifton,America/Toronto,0,1868-05-10 21:00:00,1868-05-10 21:00:00,clear,mno,weather_9pm,247,257469,2248,2269
+846,Clifton,America/Toronto,0,1868-05-11 21:00:00,1868-05-11 21:00:00,clear,mno,weather_9pm,247,257470,2248,2269
+847,Clifton,America/Toronto,0,1868-05-12 21:00:00,1868-05-12 21:00:00,clear,mno,weather_9pm,247,257472,2248,2269
+848,Clifton,America/Toronto,0,1868-05-13 21:00:00,1868-05-13 21:00:00,overcast,mno,weather_9pm,247,257473,2248,2269
+849,Clifton,America/Toronto,0,1868-05-14 21:00:00,1868-05-14 21:00:00,partly cloudy,mno,weather_9pm,247,257474,2248,2269
+850,Clifton,America/Toronto,0,1868-05-15 21:00:00,1868-05-15 21:00:00,partly cloudy,mno,weather_9pm,247,257475,2248,2269
+851,Clifton,America/Toronto,0,1868-05-16 21:00:00,1868-05-16 21:00:00,overcast,mno,weather_9pm,247,257476,2248,2269
+852,Clifton,America/Toronto,0,1868-05-17 21:00:00,1868-05-17 21:00:00,light rain,mno,weather_9pm,247,257477,2248,2269
+853,Clifton,America/Toronto,0,1868-05-18 21:00:00,1868-05-18 21:00:00,clear,mno,weather_9pm,247,257478,2248,2269
+854,Clifton,America/Toronto,0,1868-05-19 21:00:00,1868-05-19 21:00:00,overcast,mno,weather_9pm,247,257480,2248,2269
+855,Clifton,America/Toronto,0,1868-05-20 21:00:00,1868-05-20 21:00:00,partly cloudy,mno,weather_9pm,247,257481,2248,2269
+856,Clifton,America/Toronto,0,1868-05-21 21:00:00,1868-05-21 21:00:00,light rain,mno,weather_9pm,247,257482,2248,2269
+857,Clifton,America/Toronto,0,1868-05-22 21:00:00,1868-05-22 21:00:00,overcast,mno,weather_9pm,247,257483,2248,2269
+858,Clifton,America/Toronto,0,1868-05-23 21:00:00,1868-05-23 21:00:00,clear,mno,weather_9pm,247,257484,2248,2269
+859,Clifton,America/Toronto,0,1868-05-24 21:00:00,1868-05-24 21:00:00,partly cloudy,mno,weather_9pm,247,257485,2248,2269
+860,Clifton,America/Toronto,0,1868-05-25 21:00:00,1868-05-25 21:00:00,clear,mno,weather_9pm,247,257486,2248,2269
+861,Clifton,America/Toronto,0,1868-05-26 21:00:00,1868-05-26 21:00:00,clear,mno,weather_9pm,247,257487,2248,2269
+862,Clifton,America/Toronto,0,1868-05-27 21:00:00,1868-05-27 21:00:00,partly cloudy,mno,weather_9pm,247,257488,2248,2269
+863,Clifton,America/Toronto,0,1868-05-28 21:00:00,1868-05-28 21:00:00,partly cloudy,mno,weather_9pm,247,257489,2248,2269
+864,Clifton,America/Toronto,0,1868-05-29 21:00:00,1868-05-29 21:00:00,light rain,mno,weather_9pm,247,257490,2248,2269
+865,Clifton,America/Toronto,0,1868-05-30 21:00:00,1868-05-30 21:00:00,overcast,mno,weather_9pm,247,257491,2248,2269
+866,Clifton,America/Toronto,0,1868-05-31 21:00:00,1868-05-31 21:00:00,clear,mno,weather_9pm,247,257492,2248,2269
+867,Clifton,America/Toronto,0,1868-06-01 21:00:00,1868-06-01 21:00:00,clear,mno,weather_9pm,247,258579,2259,2271
+868,Clifton,America/Toronto,0,1868-06-02 21:00:00,1868-06-02 21:00:00,clear,mno,weather_9pm,247,258580,2259,2271
+869,Clifton,America/Toronto,0,1868-06-03 21:00:00,1868-06-03 21:00:00,overcast,mno,weather_9pm,247,258581,2259,2271
+870,Clifton,America/Toronto,0,1868-06-04 21:00:00,1868-06-04 21:00:00,clear,mno,weather_9pm,247,258582,2259,2271
+871,Clifton,America/Toronto,0,1868-06-05 21:00:00,1868-06-05 21:00:00,moderate rain,mno,weather_9pm,247,258583,2259,2271
+872,Clifton,America/Toronto,0,1868-06-06 21:00:00,1868-06-06 21:00:00,light rain,mno,weather_9pm,247,258584,2259,2271
+873,Clifton,America/Toronto,0,1868-06-07 21:00:00,1868-06-07 21:00:00,clear,mno,weather_9pm,247,258585,2259,2271
+874,Clifton,America/Toronto,0,1868-06-08 21:00:00,1868-06-08 21:00:00,moderate rain,mno,weather_9pm,247,258586,2259,2271
+875,Clifton,America/Toronto,0,1868-06-09 21:00:00,1868-06-09 21:00:00,clear,mno,weather_9pm,247,258587,2259,2271
+876,Clifton,America/Toronto,0,1868-06-10 21:00:00,1868-06-10 21:00:00,clear,mno,weather_9pm,247,258588,2259,2271
+877,Clifton,America/Toronto,0,1868-06-11 21:00:00,1868-06-11 21:00:00,clear,mno,weather_9pm,247,258589,2259,2271
+878,Clifton,America/Toronto,0,1868-06-12 21:00:00,1868-06-12 21:00:00,clear,mno,weather_9pm,247,258590,2259,2271
+879,Clifton,America/Toronto,0,1868-06-13 21:00:00,1868-06-13 21:00:00,overcast,mno,weather_9pm,247,258591,2259,2271
+880,Clifton,America/Toronto,0,1868-06-14 21:00:00,1868-06-14 21:00:00,partly cloudy,mno,weather_9pm,247,258592,2259,2271
+881,Clifton,America/Toronto,0,1868-06-15 21:00:00,1868-06-15 21:00:00,heavy rain,mno,weather_9pm,247,258595,2259,2271
+882,Clifton,America/Toronto,0,1868-06-16 21:00:00,1868-06-16 21:00:00,clear,mno,weather_9pm,247,258598,2259,2271
+883,Clifton,America/Toronto,0,1868-06-17 21:00:00,1868-06-17 21:00:00,clear,mno,weather_9pm,247,258601,2259,2271
+884,Clifton,America/Toronto,0,1868-06-18 21:00:00,1868-06-18 21:00:00,clear,mno,weather_9pm,247,258604,2259,2271
+885,Clifton,America/Toronto,0,1868-06-19 21:00:00,1868-06-19 21:00:00,partly cloudy,mno,weather_9pm,247,258607,2259,2271
+886,Clifton,America/Toronto,0,1868-06-20 21:00:00,1868-06-20 21:00:00,light rain,mno,weather_9pm,247,258609,2259,2271
+887,Clifton,America/Toronto,0,1868-06-21 21:00:00,1868-06-21 21:00:00,overcast,mno,weather_9pm,247,258613,2259,2271
+888,Clifton,America/Toronto,0,1868-06-22 21:00:00,1868-06-22 21:00:00,partly cloudy,mno,weather_9pm,247,258617,2259,2271
+889,Clifton,America/Toronto,0,1868-06-23 21:00:00,1868-06-23 21:00:00,partly cloudy,mno,weather_9pm,247,258626,2259,2271
+890,Clifton,America/Toronto,0,1868-06-24 21:00:00,1868-06-24 21:00:00,clear,mno,weather_9pm,247,258629,2259,2271
+891,Clifton,America/Toronto,0,1868-06-25 21:00:00,1868-06-25 21:00:00,clear,mno,weather_9pm,247,258633,2259,2271
+892,Clifton,America/Toronto,0,1868-06-26 21:00:00,1868-06-26 21:00:00,clear,mno,weather_9pm,247,258635,2259,2271
+893,Clifton,America/Toronto,0,1868-06-27 21:00:00,1868-06-27 21:00:00,partly cloudy,mno,weather_9pm,247,258636,2259,2271
+894,Clifton,America/Toronto,0,1868-06-28 21:00:00,1868-06-28 21:00:00,clear,mno,weather_9pm,247,258637,2259,2271
+895,Clifton,America/Toronto,0,1868-06-29 21:00:00,1868-06-29 21:00:00,partly cloudy,mno,weather_9pm,247,258638,2259,2271
+896,Clifton,America/Toronto,0,1868-06-30 21:00:00,1868-06-30 21:00:00,partly cloudy,mno,weather_9pm,247,258639,2259,2271
+897,Clifton,America/Toronto,0,1868-03-01 00:00:00,1868-03-01 00:00:00,good sleighing,mno,daily_weather_remarks,129,257723,2256,2088
+898,Clifton,America/Toronto,0,1868-03-02 00:00:00,1868-03-02 00:00:00,good sleighing,mno,daily_weather_remarks,129,257725,2256,2088
+899,Clifton,America/Toronto,0,1868-03-03 00:00:00,1868-03-03 00:00:00,good sleighing,mno,daily_weather_remarks,129,257726,2256,2088
+900,Clifton,America/Toronto,0,1868-03-04 00:00:00,1868-03-04 00:00:00,good sleighing,mno,daily_weather_remarks,129,257727,2256,2088
+901,Clifton,America/Toronto,0,1868-03-05 00:00:00,1868-03-05 00:00:00,good sleighing,mno,daily_weather_remarks,129,257728,2256,2088
+902,Clifton,America/Toronto,0,1868-03-06 00:00:00,1868-03-06 00:00:00,good sleighing,mno,daily_weather_remarks,129,257729,2256,2088
+903,Clifton,America/Toronto,0,1868-03-07 00:00:00,1868-03-07 00:00:00,empty,mno,daily_weather_remarks,129,257730,2256,2088
+904,Clifton,America/Toronto,0,1868-03-08 00:00:00,1868-03-08 00:00:00,empty,mno,daily_weather_remarks,129,257731,2256,2088
+905,Clifton,America/Toronto,0,1868-03-09 00:00:00,1868-03-09 00:00:00,empty,mno,daily_weather_remarks,129,257732,2256,2088
+906,Clifton,America/Toronto,0,1868-03-10 00:00:00,1868-03-10 00:00:00,empty,mno,daily_weather_remarks,129,257733,2256,2088
+907,Clifton,America/Toronto,0,1868-03-11 00:00:00,1868-03-11 00:00:00,empty,mno,daily_weather_remarks,129,257734,2256,2088
+908,Clifton,America/Toronto,0,1868-03-12 00:00:00,1868-03-12 00:00:00,empty,mno,daily_weather_remarks,129,257735,2256,2088
+909,Clifton,America/Toronto,0,1868-03-13 00:00:00,1868-03-13 00:00:00,empty,mno,daily_weather_remarks,129,257736,2256,2088
+910,Clifton,America/Toronto,0,1868-03-14 00:00:00,1868-03-14 00:00:00,empty,mno,daily_weather_remarks,129,257737,2256,2088
+911,Clifton,America/Toronto,0,1868-03-15 00:00:00,1868-03-15 00:00:00,empty,mno,daily_weather_remarks,129,257738,2256,2088
+912,Clifton,America/Toronto,0,1868-03-16 00:00:00,1868-03-16 00:00:00,empty,mno,daily_weather_remarks,129,257739,2256,2088
+913,Clifton,America/Toronto,0,1868-03-17 00:00:00,1868-03-17 00:00:00,empty,mno,daily_weather_remarks,129,257740,2256,2088
+914,Clifton,America/Toronto,0,1868-03-18 00:00:00,1868-03-18 00:00:00,empty,mno,daily_weather_remarks,129,257741,2256,2088
+915,Clifton,America/Toronto,0,1868-03-19 00:00:00,1868-03-19 00:00:00,empty,mno,daily_weather_remarks,129,257742,2256,2088
+916,Clifton,America/Toronto,0,1868-03-20 00:00:00,1868-03-20 00:00:00,empty,mno,daily_weather_remarks,129,257743,2256,2088
+917,Clifton,America/Toronto,0,1868-03-21 00:00:00,1868-03-21 00:00:00,empty,mno,daily_weather_remarks,129,257744,2256,2088
+918,Clifton,America/Toronto,0,1868-03-22 00:00:00,1868-03-22 00:00:00,empty,mno,daily_weather_remarks,129,257745,2256,2088
+919,Clifton,America/Toronto,0,1868-03-23 00:00:00,1868-03-23 00:00:00,empty,mno,daily_weather_remarks,129,257746,2256,2088
+920,Clifton,America/Toronto,0,1868-03-24 00:00:00,1868-03-24 00:00:00,empty,mno,daily_weather_remarks,129,257747,2256,2088
+921,Clifton,America/Toronto,0,1868-03-25 00:00:00,1868-03-25 00:00:00,empty,mno,daily_weather_remarks,129,257748,2256,2088
+922,Clifton,America/Toronto,0,1868-03-26 00:00:00,1868-03-26 00:00:00,empty,mno,daily_weather_remarks,129,257749,2256,2088
+923,Clifton,America/Toronto,0,1868-03-27 00:00:00,1868-03-27 00:00:00,empty,mno,daily_weather_remarks,129,257750,2256,2088
+924,Clifton,America/Toronto,0,1868-03-28 00:00:00,1868-03-28 00:00:00,empty,mno,daily_weather_remarks,129,257751,2256,2088
+925,Clifton,America/Toronto,0,1868-03-29 00:00:00,1868-03-29 00:00:00,empty,mno,daily_weather_remarks,129,257752,2256,2088
+926,Clifton,America/Toronto,0,1868-03-30 00:00:00,1868-03-30 00:00:00,empty,mno,daily_weather_remarks,129,257753,2256,2088
+927,Clifton,America/Toronto,0,1868-03-31 00:00:00,1868-03-31 00:00:00,empty,mno,daily_weather_remarks,129,257754,2256,2088
+928,Clifton,America/Toronto,0,1868-04-02 00:00:00,1868-04-02 00:00:00,empty,mno,daily_weather_remarks,129,257980,2257,2270
+929,Clifton,America/Toronto,0,1868-06-01 00:00:00,1868-06-01 00:00:00,empty,mno,daily_weather_remarks,129,258579,2259,2271
+930,Clifton,America/Toronto,0,1868-06-02 00:00:00,1868-06-02 00:00:00,empty,mno,daily_weather_remarks,129,258580,2259,2271
+931,Clifton,America/Toronto,0,1868-06-03 00:00:00,1868-06-03 00:00:00,empty,mno,daily_weather_remarks,129,258581,2259,2271
+932,Clifton,America/Toronto,0,1868-06-04 00:00:00,1868-06-04 00:00:00,empty,mno,daily_weather_remarks,129,258582,2259,2271
+933,Clifton,America/Toronto,0,1868-06-05 00:00:00,1868-06-05 00:00:00,rain in inches: 0.5,mno,daily_weather_remarks,129,258583,2259,2271
+934,Clifton,America/Toronto,0,1868-06-06 00:00:00,1868-06-06 00:00:00,rain in inches: 1.3,mno,daily_weather_remarks,129,258584,2259,2271
+935,Clifton,America/Toronto,0,1868-06-07 00:00:00,1868-06-07 00:00:00,rain in inches: 0.2,mno,daily_weather_remarks,129,258585,2259,2271
+936,Clifton,America/Toronto,0,1868-06-08 00:00:00,1868-06-08 00:00:00,empty,mno,daily_weather_remarks,129,258586,2259,2271
+937,Clifton,America/Toronto,0,1868-06-09 00:00:00,1868-06-09 00:00:00,rain in inches: 0.15,mno,daily_weather_remarks,129,258587,2259,2271
+938,Clifton,America/Toronto,0,1868-06-10 00:00:00,1868-06-10 00:00:00,empty,mno,daily_weather_remarks,129,258588,2259,2271
+939,Clifton,America/Toronto,0,1868-06-11 00:00:00,1868-06-11 00:00:00,empty,mno,daily_weather_remarks,129,258589,2259,2271
+940,Clifton,America/Toronto,0,1868-06-12 00:00:00,1868-06-12 00:00:00,empty,mno,daily_weather_remarks,129,258590,2259,2271
+941,Clifton,America/Toronto,0,1868-06-13 00:00:00,1868-06-13 00:00:00,empty,mno,daily_weather_remarks,129,258591,2259,2271
+942,Clifton,America/Toronto,0,1868-06-14 00:00:00,1868-06-14 00:00:00,empty,mno,daily_weather_remarks,129,258592,2259,2271
+943,Clifton,America/Toronto,0,1868-06-15 00:00:00,1868-06-15 00:00:00,empty,mno,daily_weather_remarks,129,258595,2259,2271
+944,Clifton,America/Toronto,0,1868-06-16 00:00:00,1868-06-16 00:00:00,rain in inches: 0.5,mno,daily_weather_remarks,129,258598,2259,2271
+945,Clifton,America/Toronto,0,1868-06-17 00:00:00,1868-06-17 00:00:00,empty,mno,daily_weather_remarks,129,258601,2259,2271
+946,Clifton,America/Toronto,0,1868-06-18 00:00:00,1868-06-18 00:00:00,empty,mno,daily_weather_remarks,129,258604,2259,2271
+947,Clifton,America/Toronto,0,1868-06-19 00:00:00,1868-06-19 00:00:00,empty,mno,daily_weather_remarks,129,258607,2259,2271
+948,Clifton,America/Toronto,0,1868-06-20 00:00:00,1868-06-20 00:00:00,empty,mno,daily_weather_remarks,129,258609,2259,2271
+949,Clifton,America/Toronto,0,1868-06-21 00:00:00,1868-06-21 00:00:00,empty,mno,daily_weather_remarks,129,258613,2259,2271
+950,Clifton,America/Toronto,0,1868-06-22 00:00:00,1868-06-22 00:00:00,empty,mno,daily_weather_remarks,129,258617,2259,2271
+951,Clifton,America/Toronto,0,1868-06-23 00:00:00,1868-06-23 00:00:00,empty,mno,daily_weather_remarks,129,258626,2259,2271
+952,Clifton,America/Toronto,0,1868-06-24 00:00:00,1868-06-24 00:00:00,empty,mno,daily_weather_remarks,129,258629,2259,2271
+953,Clifton,America/Toronto,0,1868-06-25 00:00:00,1868-06-25 00:00:00,empty,mno,daily_weather_remarks,129,258633,2259,2271
+954,Clifton,America/Toronto,0,1868-06-26 00:00:00,1868-06-26 00:00:00,empty,mno,daily_weather_remarks,129,258635,2259,2271
+955,Clifton,America/Toronto,0,1868-06-27 00:00:00,1868-06-27 00:00:00,empty,mno,daily_weather_remarks,129,258636,2259,2271
+956,Clifton,America/Toronto,0,1868-06-28 00:00:00,1868-06-28 00:00:00,empty,mno,daily_weather_remarks,129,258637,2259,2271
+957,Clifton,America/Toronto,0,1868-06-29 00:00:00,1868-06-29 00:00:00,empty,mno,daily_weather_remarks,129,258638,2259,2271
+958,Clifton,America/Toronto,0,1868-06-30 00:00:00,1868-06-30 00:00:00,empty,mno,daily_weather_remarks,129,258639,2259,2271
+959,Clifton,America/Toronto,0,1868-03-01 00:00:00,1868-03-01 00:00:00,empty,mno,average_weather,248,257723,2256,2088
+960,Clifton,America/Toronto,0,1868-03-02 00:00:00,1868-03-02 00:00:00,empty,mno,average_weather,248,257725,2256,2088
+961,Clifton,America/Toronto,0,1868-03-03 00:00:00,1868-03-03 00:00:00,pleasant,mno,average_weather,248,257726,2256,2088
+962,Clifton,America/Toronto,0,1868-03-04 00:00:00,1868-03-04 00:00:00,pleasant,mno,average_weather,248,257727,2256,2088
+963,Clifton,America/Toronto,0,1868-03-05 00:00:00,1868-03-05 00:00:00,pleasant,mno,average_weather,248,257728,2256,2088
+964,Clifton,America/Toronto,0,1868-03-06 00:00:00,1868-03-06 00:00:00,empty,mno,average_weather,248,257729,2256,2088
+965,Clifton,America/Toronto,0,1868-03-07 00:00:00,1868-03-07 00:00:00,empty,mno,average_weather,248,257730,2256,2088
+966,Clifton,America/Toronto,0,1868-03-08 00:00:00,1868-03-08 00:00:00,pleasant,mno,average_weather,248,257731,2256,2088
+967,Clifton,America/Toronto,0,1868-03-09 00:00:00,1868-03-09 00:00:00,pleasant,mno,average_weather,248,257732,2256,2088
+968,Clifton,America/Toronto,0,1868-03-10 00:00:00,1868-03-10 00:00:00,empty,mno,average_weather,248,257733,2256,2088
+969,Clifton,America/Toronto,0,1868-03-11 00:00:00,1868-03-11 00:00:00,pleasant,mno,average_weather,248,257734,2256,2088
+970,Clifton,America/Toronto,0,1868-03-12 00:00:00,1868-03-12 00:00:00,empty,mno,average_weather,248,257735,2256,2088
+971,Clifton,America/Toronto,0,1868-03-13 00:00:00,1868-03-13 00:00:00,empty,mno,average_weather,248,257736,2256,2088
+972,Clifton,America/Toronto,0,1868-03-14 00:00:00,1868-03-14 00:00:00,empty,mno,average_weather,248,257737,2256,2088
+973,Clifton,America/Toronto,0,1868-03-15 00:00:00,1868-03-15 00:00:00,empty,mno,average_weather,248,257738,2256,2088
+974,Clifton,America/Toronto,0,1868-03-16 00:00:00,1868-03-16 00:00:00,empty,mno,average_weather,248,257739,2256,2088
+975,Clifton,America/Toronto,0,1868-03-17 00:00:00,1868-03-17 00:00:00,empty,mno,average_weather,248,257740,2256,2088
+976,Clifton,America/Toronto,0,1868-03-18 00:00:00,1868-03-18 00:00:00,pleasant,mno,average_weather,248,257741,2256,2088
+977,Clifton,America/Toronto,0,1868-03-19 00:00:00,1868-03-19 00:00:00,pleasant,mno,average_weather,248,257742,2256,2088
+978,Clifton,America/Toronto,0,1868-03-20 00:00:00,1868-03-20 00:00:00,empty,mno,average_weather,248,257743,2256,2088
+979,Clifton,America/Toronto,0,1868-03-21 00:00:00,1868-03-21 00:00:00,empty,mno,average_weather,248,257744,2256,2088
+980,Clifton,America/Toronto,0,1868-03-22 00:00:00,1868-03-22 00:00:00,pleasant,mno,average_weather,248,257745,2256,2088
+981,Clifton,America/Toronto,0,1868-03-23 00:00:00,1868-03-23 00:00:00,pleasant,mno,average_weather,248,257746,2256,2088
+982,Clifton,America/Toronto,0,1868-03-24 00:00:00,1868-03-24 00:00:00,pleasant,mno,average_weather,248,257747,2256,2088
+983,Clifton,America/Toronto,0,1868-03-25 00:00:00,1868-03-25 00:00:00,pleasant,mno,average_weather,248,257748,2256,2088
+984,Clifton,America/Toronto,0,1868-03-26 00:00:00,1868-03-26 00:00:00,pleasant,mno,average_weather,248,257749,2256,2088
+985,Clifton,America/Toronto,0,1868-03-27 00:00:00,1868-03-27 00:00:00,pleasant,mno,average_weather,248,257750,2256,2088
+986,Clifton,America/Toronto,0,1868-03-28 00:00:00,1868-03-28 00:00:00,pleasant,mno,average_weather,248,257751,2256,2088
+987,Clifton,America/Toronto,0,1868-03-29 00:00:00,1868-03-29 00:00:00,pleasant,mno,average_weather,248,257752,2256,2088
+988,Clifton,America/Toronto,0,1868-03-30 00:00:00,1868-03-30 00:00:00,pleasant,mno,average_weather,248,257753,2256,2088
+989,Clifton,America/Toronto,0,1868-03-31 00:00:00,1868-03-31 00:00:00,pleasant,mno,average_weather,248,257754,2256,2088
+990,Clifton,America/Toronto,0,1868-04-01 00:00:00,1868-04-01 00:00:00,pleasant,mno,average_weather,248,257979,2257,2270
+991,Clifton,America/Toronto,0,1868-04-02 00:00:00,1868-04-02 00:00:00,empty,mno,average_weather,248,257980,2257,2270
+992,Clifton,America/Toronto,0,1868-04-03 00:00:00,1868-04-03 00:00:00,empty,mno,average_weather,248,257981,2257,2270
+993,Clifton,America/Toronto,0,1868-04-04 00:00:00,1868-04-04 00:00:00,empty,mno,average_weather,248,257982,2257,2270
+994,Clifton,America/Toronto,0,1868-04-05 00:00:00,1868-04-05 00:00:00,empty,mno,average_weather,248,257983,2257,2270
+995,Clifton,America/Toronto,0,1868-04-06 00:00:00,1868-04-06 00:00:00,pleasant,mno,average_weather,248,257985,2257,2270
+996,Clifton,America/Toronto,0,1868-04-07 00:00:00,1868-04-07 00:00:00,empty,mno,average_weather,248,257986,2257,2270
+997,Clifton,America/Toronto,0,1868-04-08 00:00:00,1868-04-08 00:00:00,empty,mno,average_weather,248,257987,2257,2270
+998,Clifton,America/Toronto,0,1868-04-09 00:00:00,1868-04-09 00:00:00,pleasant,mno,average_weather,248,257988,2257,2270
+999,Clifton,America/Toronto,0,1868-04-10 00:00:00,1868-04-10 00:00:00,empty,mno,average_weather,248,257989,2257,2270
+1000,Clifton,America/Toronto,0,1868-04-11 00:00:00,1868-04-11 00:00:00,empty,mno,average_weather,248,257990,2257,2270
+1001,Clifton,America/Toronto,0,1868-04-12 00:00:00,1868-04-12 00:00:00,empty,mno,average_weather,248,257991,2257,2270
+1002,Clifton,America/Toronto,0,1868-04-13 00:00:00,1868-04-13 00:00:00,pleasant,mno,average_weather,248,257992,2257,2270
+1003,Clifton,America/Toronto,0,1868-04-14 00:00:00,1868-04-14 00:00:00,empty,mno,average_weather,248,257993,2257,2270
+1004,Clifton,America/Toronto,0,1868-04-15 00:00:00,1868-04-15 00:00:00,pleasant,mno,average_weather,248,257994,2257,2270
+1005,Clifton,America/Toronto,0,1868-04-16 00:00:00,1868-04-16 00:00:00,pleasant,mno,average_weather,248,257995,2257,2270
+1006,Clifton,America/Toronto,0,1868-04-17 00:00:00,1868-04-17 00:00:00,pleasant,mno,average_weather,248,257996,2257,2270
+1007,Clifton,America/Toronto,0,1868-04-18 00:00:00,1868-04-18 00:00:00,empty,mno,average_weather,248,257997,2257,2270
+1008,Clifton,America/Toronto,0,1868-04-19 00:00:00,1868-04-19 00:00:00,pleasant,mno,average_weather,248,257998,2257,2270
+1009,Clifton,America/Toronto,0,1868-04-20 00:00:00,1868-04-20 00:00:00,empty,mno,average_weather,248,257999,2257,2270
+1010,Clifton,America/Toronto,0,1868-04-21 00:00:00,1868-04-21 00:00:00,pleasant,mno,average_weather,248,258000,2257,2270
+1011,Clifton,America/Toronto,0,1868-04-22 00:00:00,1868-04-22 00:00:00,pleasant,mno,average_weather,248,258001,2257,2270
+1012,Clifton,America/Toronto,0,1868-04-23 00:00:00,1868-04-23 00:00:00,empty,mno,average_weather,248,258003,2257,2270
+1013,Clifton,America/Toronto,0,1868-04-24 00:00:00,1868-04-24 00:00:00,pleasant,mno,average_weather,248,258004,2257,2270
+1014,Clifton,America/Toronto,0,1868-04-25 00:00:00,1868-04-25 00:00:00,pleasant,mno,average_weather,248,258005,2257,2270
+1015,Clifton,America/Toronto,0,1868-04-26 00:00:00,1868-04-26 00:00:00,pleasant,mno,average_weather,248,258006,2257,2270
+1016,Clifton,America/Toronto,0,1868-04-27 00:00:00,1868-04-27 00:00:00,pleasant,mno,average_weather,248,258007,2257,2270
+1017,Clifton,America/Toronto,0,1868-04-28 00:00:00,1868-04-28 00:00:00,pleasant,mno,average_weather,248,258008,2257,2270
+1018,Clifton,America/Toronto,0,1868-04-29 00:00:00,1868-04-29 00:00:00,empty,mno,average_weather,248,258009,2257,2270
+1019,Clifton,America/Toronto,0,1868-04-30 00:00:00,1868-04-30 00:00:00,empty,mno,average_weather,248,258010,2257,2270
+1020,Clifton,America/Toronto,0,1868-05-01 00:00:00,1868-05-01 00:00:00,empty,mno,average_weather,248,257318,2248,2269
+1021,Clifton,America/Toronto,0,1868-05-02 00:00:00,1868-05-02 00:00:00,empty,mno,average_weather,248,257461,2248,2269
+1022,Clifton,America/Toronto,0,1868-05-03 00:00:00,1868-05-03 00:00:00,pleasant,mno,average_weather,248,257462,2248,2269
+1023,Clifton,America/Toronto,0,1868-05-04 00:00:00,1868-05-04 00:00:00,pleasant,mno,average_weather,248,257463,2248,2269
+1024,Clifton,America/Toronto,0,1868-05-05 00:00:00,1868-05-05 00:00:00,empty,mno,average_weather,248,257464,2248,2269
+1025,Clifton,America/Toronto,0,1868-05-06 00:00:00,1868-05-06 00:00:00,pleasant,mno,average_weather,248,257465,2248,2269
+1026,Clifton,America/Toronto,0,1868-05-07 00:00:00,1868-05-07 00:00:00,empty,mno,average_weather,248,257466,2248,2269
+1027,Clifton,America/Toronto,0,1868-05-08 00:00:00,1868-05-08 00:00:00,pleasant,mno,average_weather,248,257467,2248,2269
+1028,Clifton,America/Toronto,0,1868-05-09 00:00:00,1868-05-09 00:00:00,pleasant,mno,average_weather,248,257468,2248,2269
+1029,Clifton,America/Toronto,0,1868-05-10 00:00:00,1868-05-10 00:00:00,pleasant,mno,average_weather,248,257469,2248,2269
+1030,Clifton,America/Toronto,0,1868-05-11 00:00:00,1868-05-11 00:00:00,pleasant,mno,average_weather,248,257470,2248,2269
+1031,Clifton,America/Toronto,0,1868-05-12 00:00:00,1868-05-12 00:00:00,pleasant,mno,average_weather,248,257472,2248,2269
+1032,Clifton,America/Toronto,0,1868-05-13 00:00:00,1868-05-13 00:00:00,empty,mno,average_weather,248,257473,2248,2269
+1033,Clifton,America/Toronto,0,1868-05-14 00:00:00,1868-05-14 00:00:00,empty,mno,average_weather,248,257474,2248,2269
+1034,Clifton,America/Toronto,0,1868-05-15 00:00:00,1868-05-15 00:00:00,empty,mno,average_weather,248,257475,2248,2269
+1035,Clifton,America/Toronto,0,1868-05-16 00:00:00,1868-05-16 00:00:00,pleasant,mno,average_weather,248,257476,2248,2269
+1036,Clifton,America/Toronto,0,1868-05-17 00:00:00,1868-05-17 00:00:00,empty,mno,average_weather,248,257477,2248,2269
+1037,Clifton,America/Toronto,0,1868-05-18 00:00:00,1868-05-18 00:00:00,empty,mno,average_weather,248,257478,2248,2269
+1038,Clifton,America/Toronto,0,1868-05-19 00:00:00,1868-05-19 00:00:00,pleasant,mno,average_weather,248,257480,2248,2269
+1039,Clifton,America/Toronto,0,1868-05-20 00:00:00,1868-05-20 00:00:00,pleasant,mno,average_weather,248,257481,2248,2269
+1040,Clifton,America/Toronto,0,1868-05-21 00:00:00,1868-05-21 00:00:00,empty,mno,average_weather,248,257482,2248,2269
+1041,Clifton,America/Toronto,0,1868-05-22 00:00:00,1868-05-22 00:00:00,empty,mno,average_weather,248,257483,2248,2269
+1042,Clifton,America/Toronto,0,1868-05-23 00:00:00,1868-05-23 00:00:00,pleasant,mno,average_weather,248,257484,2248,2269
+1043,Clifton,America/Toronto,0,1868-05-24 00:00:00,1868-05-24 00:00:00,pleasant,mno,average_weather,248,257485,2248,2269
+1044,Clifton,America/Toronto,0,1868-05-25 00:00:00,1868-05-25 00:00:00,pleasant,mno,average_weather,248,257486,2248,2269
+1045,Clifton,America/Toronto,0,1868-05-26 00:00:00,1868-05-26 00:00:00,pleasant,mno,average_weather,248,257487,2248,2269
+1046,Clifton,America/Toronto,0,1868-05-27 00:00:00,1868-05-27 00:00:00,pleasant,mno,average_weather,248,257488,2248,2269
+1047,Clifton,America/Toronto,0,1868-05-28 00:00:00,1868-05-28 00:00:00,pleasant,mno,average_weather,248,257489,2248,2269
+1048,Clifton,America/Toronto,0,1868-05-29 00:00:00,1868-05-29 00:00:00,empty,mno,average_weather,248,257490,2248,2269
+1049,Clifton,America/Toronto,0,1868-05-30 00:00:00,1868-05-30 00:00:00,empty,mno,average_weather,248,257491,2248,2269
+1050,Clifton,America/Toronto,0,1868-05-31 00:00:00,1868-05-31 00:00:00,pleasant,mno,average_weather,248,257492,2248,2269
+1051,Clifton,America/Toronto,0,1868-06-01 00:00:00,1868-06-01 00:00:00,pleasant,mno,average_weather,248,258579,2259,2271
+1052,Clifton,America/Toronto,0,1868-06-02 00:00:00,1868-06-02 00:00:00,pleasant,mno,average_weather,248,258580,2259,2271
+1053,Clifton,America/Toronto,0,1868-06-03 00:00:00,1868-06-03 00:00:00,pleasant,mno,average_weather,248,258581,2259,2271
+1054,Clifton,America/Toronto,0,1868-06-04 00:00:00,1868-06-04 00:00:00,pleasant,mno,average_weather,248,258582,2259,2271
+1055,Clifton,America/Toronto,0,1868-06-05 00:00:00,1868-06-05 00:00:00,empty,mno,average_weather,248,258583,2259,2271
+1056,Clifton,America/Toronto,0,1868-06-06 00:00:00,1868-06-06 00:00:00,empty,mno,average_weather,248,258584,2259,2271
+1057,Clifton,America/Toronto,0,1868-06-07 00:00:00,1868-06-07 00:00:00,pleasant,mno,average_weather,248,258585,2259,2271
+1058,Clifton,America/Toronto,0,1868-06-08 00:00:00,1868-06-08 00:00:00,empty,mno,average_weather,248,258586,2259,2271
+1059,Clifton,America/Toronto,0,1868-06-09 00:00:00,1868-06-09 00:00:00,pleasant,mno,average_weather,248,258587,2259,2271
+1060,Clifton,America/Toronto,0,1868-06-10 00:00:00,1868-06-10 00:00:00,pleasant,mno,average_weather,248,258588,2259,2271
+1061,Clifton,America/Toronto,0,1868-06-11 00:00:00,1868-06-11 00:00:00,pleasant,mno,average_weather,248,258589,2259,2271
+1062,Clifton,America/Toronto,0,1868-06-12 00:00:00,1868-06-12 00:00:00,pleasant,mno,average_weather,248,258590,2259,2271
+1063,Clifton,America/Toronto,0,1868-06-13 00:00:00,1868-06-13 00:00:00,pleasant,mno,average_weather,248,258591,2259,2271
+1064,Clifton,America/Toronto,0,1868-06-14 00:00:00,1868-06-14 00:00:00,pleasant,mno,average_weather,248,258592,2259,2271
+1065,Clifton,America/Toronto,0,1868-06-15 00:00:00,1868-06-15 00:00:00,pleasant,mno,average_weather,248,258595,2259,2271
+1066,Clifton,America/Toronto,0,1868-06-16 00:00:00,1868-06-16 00:00:00,pleasant,mno,average_weather,248,258598,2259,2271
+1067,Clifton,America/Toronto,0,1868-06-17 00:00:00,1868-06-17 00:00:00,pleasant,mno,average_weather,248,258601,2259,2271
+1068,Clifton,America/Toronto,0,1868-06-18 00:00:00,1868-06-18 00:00:00,pleasant,mno,average_weather,248,258604,2259,2271
+1069,Clifton,America/Toronto,0,1868-06-19 00:00:00,1868-06-19 00:00:00,pleasant,mno,average_weather,248,258607,2259,2271
+1070,Clifton,America/Toronto,0,1868-06-20 00:00:00,1868-06-20 00:00:00,pleasant,mno,average_weather,248,258609,2259,2271
+1071,Clifton,America/Toronto,0,1868-06-21 00:00:00,1868-06-21 00:00:00,empty,mno,average_weather,248,258613,2259,2271
+1072,Clifton,America/Toronto,0,1868-06-22 00:00:00,1868-06-22 00:00:00,pleasant,mno,average_weather,248,258617,2259,2271
+1073,Clifton,America/Toronto,0,1868-06-23 00:00:00,1868-06-23 00:00:00,pleasant,mno,average_weather,248,258626,2259,2271
+1074,Clifton,America/Toronto,0,1868-06-24 00:00:00,1868-06-24 00:00:00,pleasant,mno,average_weather,248,258629,2259,2271
+1075,Clifton,America/Toronto,0,1868-06-25 00:00:00,1868-06-25 00:00:00,pleasant,mno,average_weather,248,258633,2259,2271
+1076,Clifton,America/Toronto,0,1868-06-26 00:00:00,1868-06-26 00:00:00,pleasant,mno,average_weather,248,258635,2259,2271
+1077,Clifton,America/Toronto,0,1868-06-27 00:00:00,1868-06-27 00:00:00,empty,mno,average_weather,248,258636,2259,2271
+1078,Clifton,America/Toronto,0,1868-06-28 00:00:00,1868-06-28 00:00:00,pleasant,mno,average_weather,248,258637,2259,2271
+1079,Clifton,America/Toronto,0,1868-06-29 00:00:00,1868-06-29 00:00:00,pleasant,mno,average_weather,248,258638,2259,2271
+1080,Clifton,America/Toronto,0,1868-06-30 00:00:00,1868-06-30 00:00:00,pleasant,mno,average_weather,248,258639,2259,2271

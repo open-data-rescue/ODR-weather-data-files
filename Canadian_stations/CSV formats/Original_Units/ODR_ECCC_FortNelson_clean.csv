@@ -1,93 +1,484 @@
 ,StationName,Timezone,UTCoffset,ObservationDate,UTCDate,value,unit,field_key,fieldID,annotationID,transcriptionID,pageID
-1,Fort Nelson,America/Fort_Nelson,0,1821-10-07,1821-10-07,rainy,mno,daily_weather_remarks,129,252354,2203,2085
-2,Fort Nelson,America/Fort_Nelson,0,1821-10-08,1821-10-08,heavy rain all the day,mno,daily_weather_remarks,129,252358,2203,2085
-3,Fort Nelson,America/Fort_Nelson,0,1821-10-09,1821-10-09,misty rain,mno,daily_weather_remarks,129,252361,2203,2085
-4,Fort Nelson,America/Fort_Nelson,0,1821-10-12,1821-10-12,heavy rain at 2 o'clock pm [2pm] and at 9pm,mno,daily_weather_remarks,129,252367,2203,2085
-5,Fort Nelson,America/Fort_Nelson,0,1821-10-20,1821-10-20,white frost,mno,daily_weather_remarks,129,252369,2203,2085
-6,Fort Nelson,America/Fort_Nelson,0,1821-10-21,1821-10-21,frost,mno,daily_weather_remarks,129,252371,2203,2085
-7,Fort Nelson,America/Fort_Nelson,0,1821-10-27,1821-10-27,rain this day at 2 o'clock pm [2pm],mno,daily_weather_remarks,129,252374,2203,2085
-8,Fort Nelson,America/Fort_Nelson,0,1821-11-03,1821-11-03,rain at 8 o'clock pm [8pm],mno,daily_weather_remarks,129,249989,2204,2086
-9,Fort Nelson,America/Fort_Nelson,0,1821-11-04,1821-11-04,heavy rain all the day,mno,daily_weather_remarks,129,249990,2204,2086
-10,Fort Nelson,America/Fort_Nelson,0,1821-11-05,1821-11-05,misty and rain all the day,mno,daily_weather_remarks,129,249991,2204,2086
-11,Fort Nelson,America/Fort_Nelson,0,1821-11-06,1821-11-06,heavy rain at 9 o'clock pm [9pm],mno,daily_weather_remarks,129,249992,2204,2086
-12,Fort Nelson,America/Fort_Nelson,0,1821-11-09,1821-11-09,thunder and lightning with rain at 9 o'clock pm [9pm],mno,daily_weather_remarks,129,249993,2204,2086
-13,Fort Nelson,America/Fort_Nelson,0,1821-11-23,1821-11-23,continual rain all day,mno,daily_weather_remarks,129,249994,2204,2086
-14,Fort Nelson,America/Fort_Nelson,0,1821-11-24,1821-11-24,heavy rain all day,mno,daily_weather_remarks,129,249995,2204,2086
-15,Fort Nelson,America/Fort_Nelson,0,1821-11-30,1821-11-30,rain at 9pm,mno,daily_weather_remarks,129,249996,2204,2086
-16,Fort Nelson,America/Fort_Nelson,0,1821-12-01,1821-12-01,rain at 4 pm,mno,daily_weather_remarks,129,251526,2214,2087
-17,Fort Nelson,America/Fort_Nelson,0,1821-12-02,1821-12-02,heavy fog with rain,mno,daily_weather_remarks,129,251530,2214,2087
-18,Fort Nelson,America/Fort_Nelson,0,1821-12-05,1821-12-05,continual rain all this day,mno,daily_weather_remarks,129,251540,2214,2087
-19,Fort Nelson,America/Fort_Nelson,0,1821-12-13,1821-12-13,heavy rain all this day,mno,daily_weather_remarks,129,251567,2214,2087
-20,Fort Nelson,America/Fort_Nelson,0,1821-12-17,1821-12-17,rain at 5 oclock pm,mno,daily_weather_remarks,129,251580,2214,2087
-21,Fort Nelson,America/Fort_Nelson,0,1821-12-18,1821-12-18,rain from 7 am to 2 pm,mno,daily_weather_remarks,129,251584,2214,2087
-22,Fort Nelson,America/Fort_Nelson,0,1821-12-21,1821-12-21,hail at 8 oclock pm,mno,daily_weather_remarks,129,251594,2214,2087
-23,Fort Nelson,America/Fort_Nelson,0,1821-12-30,1821-12-30,heavy rain all this day,mno,daily_weather_remarks,129,251622,2214,2087
-24,Fort Nelson,America/Fort_Nelson,0,1821-10-24,1821-10-24,cloudy,mno,weather_0,18,252339,2203,2085
-25,Fort Nelson,America/Fort_Nelson,0,1821-10-25,1821-10-25,clear,mno,weather_0,18,252340,2203,2085
-26,Fort Nelson,America/Fort_Nelson,0,1821-10-26,1821-10-26,clear,mno,weather_0,18,252341,2203,2085
-27,Fort Nelson,America/Fort_Nelson,0,1821-10-27,1821-10-27,cloudy,mno,weather_0,18,252342,2203,2085
-28,Fort Nelson,America/Fort_Nelson,0,1821-10-28,1821-10-28,clear,mno,weather_0,18,252343,2203,2085
-29,Fort Nelson,America/Fort_Nelson,0,1821-10-29,1821-10-29,clear,mno,weather_0,18,252345,2203,2085
-30,Fort Nelson,America/Fort_Nelson,0,1821-10-30,1821-10-30,clear,mno,weather_0,18,252348,2203,2085
-31,Fort Nelson,America/Fort_Nelson,0,1821-10-31,1821-10-31,cloudy,mno,weather_0,18,252350,2203,2085
-32,Fort Nelson,America/Fort_Nelson,0,1821-11-01,1821-11-01,cloudy,mno,weather_0,18,249959,2204,2086
-33,Fort Nelson,America/Fort_Nelson,0,1821-11-02,1821-11-02,clear,mno,weather_0,18,249960,2204,2086
-34,Fort Nelson,America/Fort_Nelson,0,1821-11-03,1821-11-03,cloudy,mno,weather_0,18,249961,2204,2086
-35,Fort Nelson,America/Fort_Nelson,0,1821-11-04,1821-11-04,cloudy,mno,weather_0,18,249962,2204,2086
-36,Fort Nelson,America/Fort_Nelson,0,1821-11-05,1821-11-05,cloudy,mno,weather_0,18,249963,2204,2086
-37,Fort Nelson,America/Fort_Nelson,0,1821-11-06,1821-11-06,cloudy,mno,weather_0,18,249964,2204,2086
-38,Fort Nelson,America/Fort_Nelson,0,1821-11-07,1821-11-07,clear,mno,weather_0,18,249965,2204,2086
-39,Fort Nelson,America/Fort_Nelson,0,1821-11-08,1821-11-08,clear,mno,weather_0,18,249966,2204,2086
-40,Fort Nelson,America/Fort_Nelson,0,1821-11-09,1821-11-09,clear,mno,weather_0,18,249967,2204,2086
-41,Fort Nelson,America/Fort_Nelson,0,1821-11-10,1821-11-10,clear,mno,weather_0,18,249968,2204,2086
-42,Fort Nelson,America/Fort_Nelson,0,1821-11-11,1821-11-11,clear,mno,weather_0,18,249969,2204,2086
-43,Fort Nelson,America/Fort_Nelson,0,1821-11-12,1821-11-12,clear,mno,weather_0,18,249970,2204,2086
-44,Fort Nelson,America/Fort_Nelson,0,1821-11-13,1821-11-13,clear,mno,weather_0,18,249971,2204,2086
-45,Fort Nelson,America/Fort_Nelson,0,1821-11-14,1821-11-14,clear,mno,weather_0,18,249972,2204,2086
-46,Fort Nelson,America/Fort_Nelson,0,1821-11-15,1821-11-15,clear,mno,weather_0,18,249973,2204,2086
-47,Fort Nelson,America/Fort_Nelson,0,1821-11-16,1821-11-16,clear,mno,weather_0,18,249974,2204,2086
-48,Fort Nelson,America/Fort_Nelson,0,1821-11-17,1821-11-17,clear,mno,weather_0,18,249975,2204,2086
-49,Fort Nelson,America/Fort_Nelson,0,1821-11-18,1821-11-18,clear,mno,weather_0,18,249976,2204,2086
-50,Fort Nelson,America/Fort_Nelson,0,1821-11-19,1821-11-19,clear,mno,weather_0,18,249977,2204,2086
-51,Fort Nelson,America/Fort_Nelson,0,1821-11-20,1821-11-20,clear,mno,weather_0,18,249978,2204,2086
-52,Fort Nelson,America/Fort_Nelson,0,1821-11-21,1821-11-21,clear,mno,weather_0,18,249979,2204,2086
-53,Fort Nelson,America/Fort_Nelson,0,1821-11-22,1821-11-22,cloudy,mno,weather_0,18,249980,2204,2086
-54,Fort Nelson,America/Fort_Nelson,0,1821-11-23,1821-11-23,cloudy,mno,weather_0,18,249981,2204,2086
-55,Fort Nelson,America/Fort_Nelson,0,1821-11-24,1821-11-24,cloudy,mno,weather_0,18,249982,2204,2086
-56,Fort Nelson,America/Fort_Nelson,0,1821-11-25,1821-11-25,clear,mno,weather_0,18,249983,2204,2086
-57,Fort Nelson,America/Fort_Nelson,0,1821-11-26,1821-11-26,clear,mno,weather_0,18,249984,2204,2086
-58,Fort Nelson,America/Fort_Nelson,0,1821-11-27,1821-11-27,clear,mno,weather_0,18,249985,2204,2086
-59,Fort Nelson,America/Fort_Nelson,0,1821-11-28,1821-11-28,clear,mno,weather_0,18,249986,2204,2086
-60,Fort Nelson,America/Fort_Nelson,0,1821-11-29,1821-11-29,clear,mno,weather_0,18,249987,2204,2086
-61,Fort Nelson,America/Fort_Nelson,0,1821-11-30,1821-11-30,clear,mno,weather_0,18,249988,2204,2086
-62,Fort Nelson,America/Fort_Nelson,0,1821-12-01,1821-12-01,cloudy,mno,weather_0,18,251525,2214,2087
-63,Fort Nelson,America/Fort_Nelson,0,1821-12-02,1821-12-02,cloudy,mno,weather_0,18,251529,2214,2087
-64,Fort Nelson,America/Fort_Nelson,0,1821-12-03,1821-12-03,clear,mno,weather_0,18,251533,2214,2087
-65,Fort Nelson,America/Fort_Nelson,0,1821-12-04,1821-12-04,cloudy,mno,weather_0,18,251536,2214,2087
-66,Fort Nelson,America/Fort_Nelson,0,1821-12-05,1821-12-05,cloudy,mno,weather_0,18,251539,2214,2087
-67,Fort Nelson,America/Fort_Nelson,0,1821-12-06,1821-12-06,clear,mno,weather_0,18,251543,2214,2087
-68,Fort Nelson,America/Fort_Nelson,0,1821-12-07,1821-12-07,clear,mno,weather_0,18,251547,2214,2087
-69,Fort Nelson,America/Fort_Nelson,0,1821-12-08,1821-12-08,cloudy,mno,weather_0,18,251550,2214,2087
-70,Fort Nelson,America/Fort_Nelson,0,1821-12-09,1821-12-09,clear,mno,weather_0,18,251554,2214,2087
-71,Fort Nelson,America/Fort_Nelson,0,1821-12-10,1821-12-10,clear,mno,weather_0,18,251557,2214,2087
-72,Fort Nelson,America/Fort_Nelson,0,1821-12-11,1821-12-11,clear,mno,weather_0,18,251560,2214,2087
-73,Fort Nelson,America/Fort_Nelson,0,1821-12-12,1821-12-12,clear,mno,weather_0,18,251563,2214,2087
-74,Fort Nelson,America/Fort_Nelson,0,1821-12-13,1821-12-13,cloudy,mno,weather_0,18,251566,2214,2087
-75,Fort Nelson,America/Fort_Nelson,0,1821-12-14,1821-12-14,clear,mno,weather_0,18,251570,2214,2087
-76,Fort Nelson,America/Fort_Nelson,0,1821-12-15,1821-12-15,clear,mno,weather_0,18,251573,2214,2087
-77,Fort Nelson,America/Fort_Nelson,0,1821-12-16,1821-12-16,clear,mno,weather_0,18,251576,2214,2087
-78,Fort Nelson,America/Fort_Nelson,0,1821-12-17,1821-12-17,cloudy,mno,weather_0,18,251579,2214,2087
-79,Fort Nelson,America/Fort_Nelson,0,1821-12-18,1821-12-18,cloudy,mno,weather_0,18,251583,2214,2087
-80,Fort Nelson,America/Fort_Nelson,0,1821-12-19,1821-12-19,clear,mno,weather_0,18,251587,2214,2087
-81,Fort Nelson,America/Fort_Nelson,0,1821-12-20,1821-12-20,clear,mno,weather_0,18,251590,2214,2087
-82,Fort Nelson,America/Fort_Nelson,0,1821-12-21,1821-12-21,cloudy,mno,weather_0,18,251593,2214,2087
-83,Fort Nelson,America/Fort_Nelson,0,1821-12-22,1821-12-22,clear,mno,weather_0,18,251597,2214,2087
-84,Fort Nelson,America/Fort_Nelson,0,1821-12-23,1821-12-23,clear,mno,weather_0,18,251600,2214,2087
-85,Fort Nelson,America/Fort_Nelson,0,1821-12-24,1821-12-24,clear,mno,weather_0,18,251603,2214,2087
-86,Fort Nelson,America/Fort_Nelson,0,1821-12-25,1821-12-25,clear,mno,weather_0,18,251606,2214,2087
-87,Fort Nelson,America/Fort_Nelson,0,1821-12-26,1821-12-26,clear,mno,weather_0,18,251609,2214,2087
-88,Fort Nelson,America/Fort_Nelson,0,1821-12-27,1821-12-27,clear,mno,weather_0,18,251612,2214,2087
-89,Fort Nelson,America/Fort_Nelson,0,1821-12-28,1821-12-28,clear,mno,weather_0,18,251615,2214,2087
-90,Fort Nelson,America/Fort_Nelson,0,1821-12-29,1821-12-29,clear,mno,weather_0,18,251618,2214,2087
-91,Fort Nelson,America/Fort_Nelson,0,1821-12-30,1821-12-30,cloudy,mno,weather_0,18,251621,2214,2087
-92,Fort Nelson,America/Fort_Nelson,0,1821-12-31,1821-12-31,clear,mno,weather_0,18,251625,2214,2087
+0,Fort Nelson,America/Fort_Nelson,0,1821-10-01 12:00:00,1821-10-01 12:00:00,north-west,dir,wind_direction,19,252258,2203,2085
+1,Fort Nelson,America/Fort_Nelson,0,1821-10-02 12:00:00,1821-10-02 12:00:00,north-west,dir,wind_direction,19,252259,2203,2085
+2,Fort Nelson,America/Fort_Nelson,0,1821-10-03 12:00:00,1821-10-03 12:00:00,north,dir,wind_direction,19,252260,2203,2085
+3,Fort Nelson,America/Fort_Nelson,0,1821-10-04 12:00:00,1821-10-04 12:00:00,north-west,dir,wind_direction,19,252261,2203,2085
+4,Fort Nelson,America/Fort_Nelson,0,1821-10-05 12:00:00,1821-10-05 12:00:00,north-east,dir,wind_direction,19,252262,2203,2085
+5,Fort Nelson,America/Fort_Nelson,0,1821-10-06 12:00:00,1821-10-06 12:00:00,north-west,dir,wind_direction,19,252263,2203,2085
+6,Fort Nelson,America/Fort_Nelson,0,1821-10-07 12:00:00,1821-10-07 12:00:00,south-east,dir,wind_direction,19,252264,2203,2085
+7,Fort Nelson,America/Fort_Nelson,0,1821-10-08 12:00:00,1821-10-08 12:00:00,north-east,dir,wind_direction,19,252266,2203,2085
+8,Fort Nelson,America/Fort_Nelson,0,1821-10-09 12:00:00,1821-10-09 12:00:00,south-east,dir,wind_direction,19,252269,2203,2085
+9,Fort Nelson,America/Fort_Nelson,0,1821-10-10 12:00:00,1821-10-10 12:00:00,north-west,dir,wind_direction,19,252270,2203,2085
+10,Fort Nelson,America/Fort_Nelson,0,1821-10-11 12:00:00,1821-10-11 12:00:00,south-west,dir,wind_direction,19,252272,2203,2085
+11,Fort Nelson,America/Fort_Nelson,0,1821-10-12 12:00:00,1821-10-12 12:00:00,south-west,dir,wind_direction,19,252273,2203,2085
+12,Fort Nelson,America/Fort_Nelson,0,1821-10-13 12:00:00,1821-10-13 12:00:00,north-west,dir,wind_direction,19,252274,2203,2085
+13,Fort Nelson,America/Fort_Nelson,0,1821-10-14 12:00:00,1821-10-14 12:00:00,south-west,dir,wind_direction,19,252276,2203,2085
+14,Fort Nelson,America/Fort_Nelson,0,1821-10-15 12:00:00,1821-10-15 12:00:00,north-west,dir,wind_direction,19,252277,2203,2085
+15,Fort Nelson,America/Fort_Nelson,0,1821-10-16 12:00:00,1821-10-16 12:00:00,north-west,dir,wind_direction,19,252279,2203,2085
+16,Fort Nelson,America/Fort_Nelson,0,1821-10-17 12:00:00,1821-10-17 12:00:00,north-west,dir,wind_direction,19,252280,2203,2085
+17,Fort Nelson,America/Fort_Nelson,0,1821-10-18 12:00:00,1821-10-18 12:00:00,north-east,dir,wind_direction,19,252282,2203,2085
+18,Fort Nelson,America/Fort_Nelson,0,1821-10-19 12:00:00,1821-10-19 12:00:00,north-west,dir,wind_direction,19,252283,2203,2085
+19,Fort Nelson,America/Fort_Nelson,0,1821-10-20 12:00:00,1821-10-20 12:00:00,south-west,dir,wind_direction,19,252284,2203,2085
+20,Fort Nelson,America/Fort_Nelson,0,1821-10-21 12:00:00,1821-10-21 12:00:00,south,dir,wind_direction,19,252285,2203,2085
+21,Fort Nelson,America/Fort_Nelson,0,1821-10-22 12:00:00,1821-10-22 12:00:00,north-west,dir,wind_direction,19,252286,2203,2085
+22,Fort Nelson,America/Fort_Nelson,0,1821-10-23 12:00:00,1821-10-23 12:00:00,north-east,dir,wind_direction,19,252287,2203,2085
+23,Fort Nelson,America/Fort_Nelson,0,1821-10-24 12:00:00,1821-10-24 12:00:00,north-east,dir,wind_direction,19,252288,2203,2085
+24,Fort Nelson,America/Fort_Nelson,0,1821-10-25 12:00:00,1821-10-25 12:00:00,north-east,dir,wind_direction,19,252289,2203,2085
+25,Fort Nelson,America/Fort_Nelson,0,1821-10-26 12:00:00,1821-10-26 12:00:00,north,dir,wind_direction,19,252290,2203,2085
+26,Fort Nelson,America/Fort_Nelson,0,1821-10-27 12:00:00,1821-10-27 12:00:00,south-east,dir,wind_direction,19,252291,2203,2085
+27,Fort Nelson,America/Fort_Nelson,0,1821-10-28 12:00:00,1821-10-28 12:00:00,north-west,dir,wind_direction,19,252292,2203,2085
+28,Fort Nelson,America/Fort_Nelson,0,1821-10-29 12:00:00,1821-10-29 12:00:00,south-east,dir,wind_direction,19,252293,2203,2085
+29,Fort Nelson,America/Fort_Nelson,0,1821-10-30 12:00:00,1821-10-30 12:00:00,south-west,dir,wind_direction,19,252294,2203,2085
+30,Fort Nelson,America/Fort_Nelson,0,1821-10-31 12:00:00,1821-10-31 12:00:00,south-east,dir,wind_direction,19,252295,2203,2085
+31,Fort Nelson,America/Fort_Nelson,0,1821-11-01 12:00:00,1821-11-01 12:00:00,north-west,dir,wind_direction,19,249928,2204,2086
+32,Fort Nelson,America/Fort_Nelson,0,1821-11-02 12:00:00,1821-11-02 12:00:00,north,dir,wind_direction,19,249929,2204,2086
+33,Fort Nelson,America/Fort_Nelson,0,1821-11-03 12:00:00,1821-11-03 12:00:00,south,dir,wind_direction,19,249930,2204,2086
+34,Fort Nelson,America/Fort_Nelson,0,1821-11-04 12:00:00,1821-11-04 12:00:00,south,dir,wind_direction,19,249931,2204,2086
+35,Fort Nelson,America/Fort_Nelson,0,1821-11-05 12:00:00,1821-11-05 12:00:00,north-east,dir,wind_direction,19,249932,2204,2086
+36,Fort Nelson,America/Fort_Nelson,0,1821-11-06 12:00:00,1821-11-06 12:00:00,south-west,dir,wind_direction,19,249933,2204,2086
+37,Fort Nelson,America/Fort_Nelson,0,1821-11-07 12:00:00,1821-11-07 12:00:00,north-west,dir,wind_direction,19,249934,2204,2086
+38,Fort Nelson,America/Fort_Nelson,0,1821-11-08 12:00:00,1821-11-08 12:00:00,south-west,dir,wind_direction,19,249935,2204,2086
+39,Fort Nelson,America/Fort_Nelson,0,1821-11-09 12:00:00,1821-11-09 12:00:00,south,dir,wind_direction,19,249936,2204,2086
+40,Fort Nelson,America/Fort_Nelson,0,1821-11-10 12:00:00,1821-11-10 12:00:00,west,dir,wind_direction,19,249937,2204,2086
+41,Fort Nelson,America/Fort_Nelson,0,1821-11-11 12:00:00,1821-11-11 12:00:00,south-west,dir,wind_direction,19,249939,2204,2086
+42,Fort Nelson,America/Fort_Nelson,0,1821-11-12 12:00:00,1821-11-12 12:00:00,north-west,dir,wind_direction,19,249940,2204,2086
+43,Fort Nelson,America/Fort_Nelson,0,1821-11-13 12:00:00,1821-11-13 12:00:00,south-west,dir,wind_direction,19,249941,2204,2086
+44,Fort Nelson,America/Fort_Nelson,0,1821-11-14 12:00:00,1821-11-14 12:00:00,west,dir,wind_direction,19,249942,2204,2086
+45,Fort Nelson,America/Fort_Nelson,0,1821-11-15 12:00:00,1821-11-15 12:00:00,west,dir,wind_direction,19,249943,2204,2086
+46,Fort Nelson,America/Fort_Nelson,0,1821-11-16 12:00:00,1821-11-16 12:00:00,north,dir,wind_direction,19,249944,2204,2086
+47,Fort Nelson,America/Fort_Nelson,0,1821-11-17 12:00:00,1821-11-17 12:00:00,north-east,dir,wind_direction,19,249945,2204,2086
+48,Fort Nelson,America/Fort_Nelson,0,1821-11-18 12:00:00,1821-11-18 12:00:00,west,dir,wind_direction,19,249946,2204,2086
+49,Fort Nelson,America/Fort_Nelson,0,1821-11-19 12:00:00,1821-11-19 12:00:00,west,dir,wind_direction,19,249947,2204,2086
+50,Fort Nelson,America/Fort_Nelson,0,1821-11-20 12:00:00,1821-11-20 12:00:00,north-west,dir,wind_direction,19,249948,2204,2086
+51,Fort Nelson,America/Fort_Nelson,0,1821-11-21 12:00:00,1821-11-21 12:00:00,west,dir,wind_direction,19,249949,2204,2086
+52,Fort Nelson,America/Fort_Nelson,0,1821-11-22 12:00:00,1821-11-22 12:00:00,south-west,dir,wind_direction,19,249950,2204,2086
+53,Fort Nelson,America/Fort_Nelson,0,1821-11-23 12:00:00,1821-11-23 12:00:00,north-east,dir,wind_direction,19,249951,2204,2086
+54,Fort Nelson,America/Fort_Nelson,0,1821-11-24 12:00:00,1821-11-24 12:00:00,north-east,dir,wind_direction,19,249952,2204,2086
+55,Fort Nelson,America/Fort_Nelson,0,1821-11-25 12:00:00,1821-11-25 12:00:00,west,dir,wind_direction,19,249953,2204,2086
+56,Fort Nelson,America/Fort_Nelson,0,1821-11-26 12:00:00,1821-11-26 12:00:00,calm,dir,wind_direction,19,249954,2204,2086
+57,Fort Nelson,America/Fort_Nelson,0,1821-11-27 12:00:00,1821-11-27 12:00:00,north-east,dir,wind_direction,19,249955,2204,2086
+58,Fort Nelson,America/Fort_Nelson,0,1821-11-28 12:00:00,1821-11-28 12:00:00,east,dir,wind_direction,19,249956,2204,2086
+59,Fort Nelson,America/Fort_Nelson,0,1821-11-29 12:00:00,1821-11-29 12:00:00,north,dir,wind_direction,19,249957,2204,2086
+60,Fort Nelson,America/Fort_Nelson,0,1821-11-30 12:00:00,1821-11-30 12:00:00,north-east,dir,wind_direction,19,249958,2204,2086
+61,Fort Nelson,America/Fort_Nelson,0,1821-12-01 12:00:00,1821-12-01 12:00:00,north,dir,wind_direction,19,251524,2214,2087
+62,Fort Nelson,America/Fort_Nelson,0,1821-12-02 12:00:00,1821-12-02 12:00:00,calm,dir,wind_direction,19,251528,2214,2087
+63,Fort Nelson,America/Fort_Nelson,0,1821-12-03 12:00:00,1821-12-03 12:00:00,north,dir,wind_direction,19,251532,2214,2087
+64,Fort Nelson,America/Fort_Nelson,0,1821-12-04 12:00:00,1821-12-04 12:00:00,calm,dir,wind_direction,19,251535,2214,2087
+65,Fort Nelson,America/Fort_Nelson,0,1821-12-05 12:00:00,1821-12-05 12:00:00,north,dir,wind_direction,19,251538,2214,2087
+66,Fort Nelson,America/Fort_Nelson,0,1821-12-06 12:00:00,1821-12-06 12:00:00,north-west,dir,wind_direction,19,251542,2214,2087
+67,Fort Nelson,America/Fort_Nelson,0,1821-12-07 12:00:00,1821-12-07 12:00:00,south-west,dir,wind_direction,19,251546,2214,2087
+68,Fort Nelson,America/Fort_Nelson,0,1821-12-08 12:00:00,1821-12-08 12:00:00,north-west,dir,wind_direction,19,251549,2214,2087
+69,Fort Nelson,America/Fort_Nelson,0,1821-12-09 12:00:00,1821-12-09 12:00:00,north,dir,wind_direction,19,251552,2214,2087
+70,Fort Nelson,America/Fort_Nelson,0,1821-12-10 12:00:00,1821-12-10 12:00:00,north-east,dir,wind_direction,19,251556,2214,2087
+71,Fort Nelson,America/Fort_Nelson,0,1821-12-11 12:00:00,1821-12-11 12:00:00,north-west,dir,wind_direction,19,251559,2214,2087
+72,Fort Nelson,America/Fort_Nelson,0,1821-12-12 12:00:00,1821-12-12 12:00:00,north-east,dir,wind_direction,19,251562,2214,2087
+73,Fort Nelson,America/Fort_Nelson,0,1821-12-13 12:00:00,1821-12-13 12:00:00,south-west,dir,wind_direction,19,251565,2214,2087
+74,Fort Nelson,America/Fort_Nelson,0,1821-12-14 12:00:00,1821-12-14 12:00:00,south-west,dir,wind_direction,19,251569,2214,2087
+75,Fort Nelson,America/Fort_Nelson,0,1821-12-15 12:00:00,1821-12-15 12:00:00,north-west,dir,wind_direction,19,251572,2214,2087
+76,Fort Nelson,America/Fort_Nelson,0,1821-12-16 12:00:00,1821-12-16 12:00:00,north,dir,wind_direction,19,251575,2214,2087
+77,Fort Nelson,America/Fort_Nelson,0,1821-12-17 12:00:00,1821-12-17 12:00:00,north-west,dir,wind_direction,19,251578,2214,2087
+78,Fort Nelson,America/Fort_Nelson,0,1821-12-18 12:00:00,1821-12-18 12:00:00,north-west,dir,wind_direction,19,251582,2214,2087
+79,Fort Nelson,America/Fort_Nelson,0,1821-12-19 12:00:00,1821-12-19 12:00:00,north-west,dir,wind_direction,19,251586,2214,2087
+80,Fort Nelson,America/Fort_Nelson,0,1821-12-20 12:00:00,1821-12-20 12:00:00,south,dir,wind_direction,19,251589,2214,2087
+81,Fort Nelson,America/Fort_Nelson,0,1821-12-21 12:00:00,1821-12-21 12:00:00,south,dir,wind_direction,19,251592,2214,2087
+82,Fort Nelson,America/Fort_Nelson,0,1821-12-22 12:00:00,1821-12-22 12:00:00,north,dir,wind_direction,19,251596,2214,2087
+83,Fort Nelson,America/Fort_Nelson,0,1821-12-23 12:00:00,1821-12-23 12:00:00,north-west,dir,wind_direction,19,251599,2214,2087
+84,Fort Nelson,America/Fort_Nelson,0,1821-12-24 12:00:00,1821-12-24 12:00:00,north,dir,wind_direction,19,251602,2214,2087
+85,Fort Nelson,America/Fort_Nelson,0,1821-12-25 12:00:00,1821-12-25 12:00:00,north-west,dir,wind_direction,19,251605,2214,2087
+86,Fort Nelson,America/Fort_Nelson,0,1821-12-26 12:00:00,1821-12-26 12:00:00,north-west,dir,wind_direction,19,251608,2214,2087
+87,Fort Nelson,America/Fort_Nelson,0,1821-12-27 12:00:00,1821-12-27 12:00:00,west,dir,wind_direction,19,251611,2214,2087
+88,Fort Nelson,America/Fort_Nelson,0,1821-12-28 12:00:00,1821-12-28 12:00:00,south,dir,wind_direction,19,251614,2214,2087
+89,Fort Nelson,America/Fort_Nelson,0,1821-12-29 12:00:00,1821-12-29 12:00:00,west,dir,wind_direction,19,251617,2214,2087
+90,Fort Nelson,America/Fort_Nelson,0,1821-12-30 12:00:00,1821-12-30 12:00:00,north,dir,wind_direction,19,251620,2214,2087
+91,Fort Nelson,America/Fort_Nelson,0,1821-12-31 12:00:00,1821-12-31 12:00:00,north,dir,wind_direction,19,251624,2214,2087
+92,Fort Nelson,America/Fort_Nelson,0,1821-10-01 07:00:00,1821-10-01 07:00:00,75,F,open_air_thermometer_7am,95,252203,2203,2085
+93,Fort Nelson,America/Fort_Nelson,0,1821-10-02 07:00:00,1821-10-02 07:00:00,72,F,open_air_thermometer_7am,95,252204,2203,2085
+94,Fort Nelson,America/Fort_Nelson,0,1821-10-03 07:00:00,1821-10-03 07:00:00,72,F,open_air_thermometer_7am,95,252205,2203,2085
+95,Fort Nelson,America/Fort_Nelson,0,1821-10-04 07:00:00,1821-10-04 07:00:00,70,F,open_air_thermometer_7am,95,252206,2203,2085
+96,Fort Nelson,America/Fort_Nelson,0,1821-10-05 07:00:00,1821-10-05 07:00:00,64,F,open_air_thermometer_7am,95,252207,2203,2085
+97,Fort Nelson,America/Fort_Nelson,0,1821-10-06 07:00:00,1821-10-06 07:00:00,69,F,open_air_thermometer_7am,95,252208,2203,2085
+98,Fort Nelson,America/Fort_Nelson,0,1821-10-07 07:00:00,1821-10-07 07:00:00,72,F,open_air_thermometer_7am,95,252209,2203,2085
+99,Fort Nelson,America/Fort_Nelson,0,1821-10-08 07:00:00,1821-10-08 07:00:00,73,F,open_air_thermometer_7am,95,252210,2203,2085
+100,Fort Nelson,America/Fort_Nelson,0,1821-10-09 07:00:00,1821-10-09 07:00:00,64,F,open_air_thermometer_7am,95,252211,2203,2085
+101,Fort Nelson,America/Fort_Nelson,0,1821-10-10 07:00:00,1821-10-10 07:00:00,58,F,open_air_thermometer_7am,95,252212,2203,2085
+102,Fort Nelson,America/Fort_Nelson,0,1821-10-11 07:00:00,1821-10-11 07:00:00,59,F,open_air_thermometer_7am,95,252215,2203,2085
+103,Fort Nelson,America/Fort_Nelson,0,1821-10-12 07:00:00,1821-10-12 07:00:00,62,F,open_air_thermometer_7am,95,252216,2203,2085
+104,Fort Nelson,America/Fort_Nelson,0,1821-10-13 07:00:00,1821-10-13 07:00:00,69,F,open_air_thermometer_7am,95,252217,2203,2085
+105,Fort Nelson,America/Fort_Nelson,0,1821-10-14 07:00:00,1821-10-14 07:00:00,63,F,open_air_thermometer_7am,95,252219,2203,2085
+106,Fort Nelson,America/Fort_Nelson,0,1821-10-15 07:00:00,1821-10-15 07:00:00,68,F,open_air_thermometer_7am,95,252220,2203,2085
+107,Fort Nelson,America/Fort_Nelson,0,1821-10-16 07:00:00,1821-10-16 07:00:00,58,F,open_air_thermometer_7am,95,252221,2203,2085
+108,Fort Nelson,America/Fort_Nelson,0,1821-10-17 07:00:00,1821-10-17 07:00:00,68,F,open_air_thermometer_7am,95,252222,2203,2085
+109,Fort Nelson,America/Fort_Nelson,0,1821-10-18 07:00:00,1821-10-18 07:00:00,58,F,open_air_thermometer_7am,95,252223,2203,2085
+110,Fort Nelson,America/Fort_Nelson,0,1821-10-19 07:00:00,1821-10-19 07:00:00,50,F,open_air_thermometer_7am,95,252224,2203,2085
+111,Fort Nelson,America/Fort_Nelson,0,1821-10-20 07:00:00,1821-10-20 07:00:00,48,F,open_air_thermometer_7am,95,252225,2203,2085
+112,Fort Nelson,America/Fort_Nelson,0,1821-10-21 07:00:00,1821-10-21 07:00:00,52,F,open_air_thermometer_7am,95,252226,2203,2085
+113,Fort Nelson,America/Fort_Nelson,0,1821-10-22 07:00:00,1821-10-22 07:00:00,59,F,open_air_thermometer_7am,95,252227,2203,2085
+114,Fort Nelson,America/Fort_Nelson,0,1821-10-23 07:00:00,1821-10-23 07:00:00,59,F,open_air_thermometer_7am,95,252228,2203,2085
+115,Fort Nelson,America/Fort_Nelson,0,1821-10-24 07:00:00,1821-10-24 07:00:00,54,F,open_air_thermometer_7am,95,252229,2203,2085
+116,Fort Nelson,America/Fort_Nelson,0,1821-10-25 07:00:00,1821-10-25 07:00:00,79,F,open_air_thermometer_7am,95,252230,2203,2085
+117,Fort Nelson,America/Fort_Nelson,0,1821-10-26 07:00:00,1821-10-26 07:00:00,52,F,open_air_thermometer_7am,95,252231,2203,2085
+118,Fort Nelson,America/Fort_Nelson,0,1821-10-27 07:00:00,1821-10-27 07:00:00,62,F,open_air_thermometer_7am,95,252232,2203,2085
+119,Fort Nelson,America/Fort_Nelson,0,1821-10-28 07:00:00,1821-10-28 07:00:00,64,F,open_air_thermometer_7am,95,252233,2203,2085
+120,Fort Nelson,America/Fort_Nelson,0,1821-10-29 07:00:00,1821-10-29 07:00:00,56,F,open_air_thermometer_7am,95,252235,2203,2085
+121,Fort Nelson,America/Fort_Nelson,0,1821-10-30 07:00:00,1821-10-30 07:00:00,64,F,open_air_thermometer_7am,95,252236,2203,2085
+122,Fort Nelson,America/Fort_Nelson,0,1821-10-31 07:00:00,1821-10-31 07:00:00,68,F,open_air_thermometer_7am,95,252237,2203,2085
+123,Fort Nelson,America/Fort_Nelson,0,1821-11-01 07:00:00,1821-11-01 07:00:00,58,F,open_air_thermometer_7am,95,249897,2204,2086
+124,Fort Nelson,America/Fort_Nelson,0,1821-11-02 07:00:00,1821-11-02 07:00:00,50,F,open_air_thermometer_7am,95,249898,2204,2086
+125,Fort Nelson,America/Fort_Nelson,0,1821-11-03 07:00:00,1821-11-03 07:00:00,54,F,open_air_thermometer_7am,95,249899,2204,2086
+126,Fort Nelson,America/Fort_Nelson,0,1821-11-04 07:00:00,1821-11-04 07:00:00,65,F,open_air_thermometer_7am,95,249900,2204,2086
+127,Fort Nelson,America/Fort_Nelson,0,1821-11-05 07:00:00,1821-11-05 07:00:00,61,F,open_air_thermometer_7am,95,249901,2204,2086
+128,Fort Nelson,America/Fort_Nelson,0,1821-11-06 07:00:00,1821-11-06 07:00:00,60,F,open_air_thermometer_7am,95,249902,2204,2086
+129,Fort Nelson,America/Fort_Nelson,0,1821-11-07 07:00:00,1821-11-07 07:00:00,50,F,open_air_thermometer_7am,95,249903,2204,2086
+130,Fort Nelson,America/Fort_Nelson,0,1821-11-08 07:00:00,1821-11-08 07:00:00,44,F,open_air_thermometer_7am,95,249904,2204,2086
+131,Fort Nelson,America/Fort_Nelson,0,1821-11-09 07:00:00,1821-11-09 07:00:00,57,F,open_air_thermometer_7am,95,249905,2204,2086
+132,Fort Nelson,America/Fort_Nelson,0,1821-11-10 07:00:00,1821-11-10 07:00:00,45,F,open_air_thermometer_7am,95,249906,2204,2086
+133,Fort Nelson,America/Fort_Nelson,0,1821-11-11 07:00:00,1821-11-11 07:00:00,40,F,open_air_thermometer_7am,95,249907,2204,2086
+134,Fort Nelson,America/Fort_Nelson,0,1821-11-12 07:00:00,1821-11-12 07:00:00,52,F,open_air_thermometer_7am,95,249909,2204,2086
+135,Fort Nelson,America/Fort_Nelson,0,1821-11-13 07:00:00,1821-11-13 07:00:00,38,F,open_air_thermometer_7am,95,249910,2204,2086
+136,Fort Nelson,America/Fort_Nelson,0,1821-11-14 07:00:00,1821-11-14 07:00:00,39,F,open_air_thermometer_7am,95,249911,2204,2086
+137,Fort Nelson,America/Fort_Nelson,0,1821-11-15 07:00:00,1821-11-15 07:00:00,35,F,open_air_thermometer_7am,95,249912,2204,2086
+138,Fort Nelson,America/Fort_Nelson,0,1821-11-16 07:00:00,1821-11-16 07:00:00,45,F,open_air_thermometer_7am,95,249913,2204,2086
+139,Fort Nelson,America/Fort_Nelson,0,1821-11-17 07:00:00,1821-11-17 07:00:00,48,F,open_air_thermometer_7am,95,249914,2204,2086
+140,Fort Nelson,America/Fort_Nelson,0,1821-11-18 07:00:00,1821-11-18 07:00:00,40,F,open_air_thermometer_7am,95,249915,2204,2086
+141,Fort Nelson,America/Fort_Nelson,0,1821-11-19 07:00:00,1821-11-19 07:00:00,42,F,open_air_thermometer_7am,95,249916,2204,2086
+142,Fort Nelson,America/Fort_Nelson,0,1821-11-20 07:00:00,1821-11-20 07:00:00,37,F,open_air_thermometer_7am,95,249917,2204,2086
+143,Fort Nelson,America/Fort_Nelson,0,1821-11-21 07:00:00,1821-11-21 07:00:00,36,F,open_air_thermometer_7am,95,249918,2204,2086
+144,Fort Nelson,America/Fort_Nelson,0,1821-11-22 07:00:00,1821-11-22 07:00:00,56,F,open_air_thermometer_7am,95,249919,2204,2086
+145,Fort Nelson,America/Fort_Nelson,0,1821-11-23 07:00:00,1821-11-23 07:00:00,60,F,open_air_thermometer_7am,95,249920,2204,2086
+146,Fort Nelson,America/Fort_Nelson,0,1821-11-24 07:00:00,1821-11-24 07:00:00,49,F,open_air_thermometer_7am,95,249921,2204,2086
+147,Fort Nelson,America/Fort_Nelson,0,1821-11-25 07:00:00,1821-11-25 07:00:00,38,F,open_air_thermometer_7am,95,249922,2204,2086
+148,Fort Nelson,America/Fort_Nelson,0,1821-11-26 07:00:00,1821-11-26 07:00:00,35,F,open_air_thermometer_7am,95,249923,2204,2086
+149,Fort Nelson,America/Fort_Nelson,0,1821-11-27 07:00:00,1821-11-27 07:00:00,38,F,open_air_thermometer_7am,95,249924,2204,2086
+150,Fort Nelson,America/Fort_Nelson,0,1821-11-28 07:00:00,1821-11-28 07:00:00,38,F,open_air_thermometer_7am,95,249925,2204,2086
+151,Fort Nelson,America/Fort_Nelson,0,1821-11-29 07:00:00,1821-11-29 07:00:00,45,F,open_air_thermometer_7am,95,249926,2204,2086
+152,Fort Nelson,America/Fort_Nelson,0,1821-11-30 07:00:00,1821-11-30 07:00:00,45,F,open_air_thermometer_7am,95,249927,2204,2086
+153,Fort Nelson,America/Fort_Nelson,0,1821-12-01 07:00:00,1821-12-01 07:00:00,64,F,open_air_thermometer_7am,95,251523,2214,2087
+154,Fort Nelson,America/Fort_Nelson,0,1821-12-02 07:00:00,1821-12-02 07:00:00,54,F,open_air_thermometer_7am,95,251527,2214,2087
+155,Fort Nelson,America/Fort_Nelson,0,1821-12-03 07:00:00,1821-12-03 07:00:00,54,F,open_air_thermometer_7am,95,251531,2214,2087
+156,Fort Nelson,America/Fort_Nelson,0,1821-12-04 07:00:00,1821-12-04 07:00:00,50,F,open_air_thermometer_7am,95,251534,2214,2087
+157,Fort Nelson,America/Fort_Nelson,0,1821-12-05 07:00:00,1821-12-05 07:00:00,50,F,open_air_thermometer_7am,95,251537,2214,2087
+158,Fort Nelson,America/Fort_Nelson,0,1821-12-06 07:00:00,1821-12-06 07:00:00,40,F,open_air_thermometer_7am,95,251541,2214,2087
+159,Fort Nelson,America/Fort_Nelson,0,1821-12-07 07:00:00,1821-12-07 07:00:00,34,F,open_air_thermometer_7am,95,251545,2214,2087
+160,Fort Nelson,America/Fort_Nelson,0,1821-12-08 07:00:00,1821-12-08 07:00:00,47,F,open_air_thermometer_7am,95,251548,2214,2087
+161,Fort Nelson,America/Fort_Nelson,0,1821-12-09 07:00:00,1821-12-09 07:00:00,46,F,open_air_thermometer_7am,95,251551,2214,2087
+162,Fort Nelson,America/Fort_Nelson,0,1821-12-10 07:00:00,1821-12-10 07:00:00,47,F,open_air_thermometer_7am,95,251555,2214,2087
+163,Fort Nelson,America/Fort_Nelson,0,1821-12-11 07:00:00,1821-12-11 07:00:00,49,F,open_air_thermometer_7am,95,251558,2214,2087
+164,Fort Nelson,America/Fort_Nelson,0,1821-12-12 07:00:00,1821-12-12 07:00:00,39,F,open_air_thermometer_7am,95,251561,2214,2087
+165,Fort Nelson,America/Fort_Nelson,0,1821-12-13 07:00:00,1821-12-13 07:00:00,46,F,open_air_thermometer_7am,95,251564,2214,2087
+166,Fort Nelson,America/Fort_Nelson,0,1821-12-14 07:00:00,1821-12-14 07:00:00,38,F,open_air_thermometer_7am,95,251568,2214,2087
+167,Fort Nelson,America/Fort_Nelson,0,1821-12-15 07:00:00,1821-12-15 07:00:00,29,F,open_air_thermometer_7am,95,251571,2214,2087
+168,Fort Nelson,America/Fort_Nelson,0,1821-12-16 07:00:00,1821-12-16 07:00:00,34,F,open_air_thermometer_7am,95,251574,2214,2087
+169,Fort Nelson,America/Fort_Nelson,0,1821-12-17 07:00:00,1821-12-17 07:00:00,36,F,open_air_thermometer_7am,95,251577,2214,2087
+170,Fort Nelson,America/Fort_Nelson,0,1821-12-18 07:00:00,1821-12-18 07:00:00,44,F,open_air_thermometer_7am,95,251581,2214,2087
+171,Fort Nelson,America/Fort_Nelson,0,1821-12-19 07:00:00,1821-12-19 07:00:00,39,F,open_air_thermometer_7am,95,251585,2214,2087
+172,Fort Nelson,America/Fort_Nelson,0,1821-12-20 07:00:00,1821-12-20 07:00:00,40,F,open_air_thermometer_7am,95,251588,2214,2087
+173,Fort Nelson,America/Fort_Nelson,0,1821-12-21 07:00:00,1821-12-21 07:00:00,54,F,open_air_thermometer_7am,95,251591,2214,2087
+174,Fort Nelson,America/Fort_Nelson,0,1821-12-22 07:00:00,1821-12-22 07:00:00,64,F,open_air_thermometer_7am,95,251595,2214,2087
+175,Fort Nelson,America/Fort_Nelson,0,1821-12-23 07:00:00,1821-12-23 07:00:00,34,F,open_air_thermometer_7am,95,251598,2214,2087
+176,Fort Nelson,America/Fort_Nelson,0,1821-12-24 07:00:00,1821-12-24 07:00:00,35,F,open_air_thermometer_7am,95,251601,2214,2087
+177,Fort Nelson,America/Fort_Nelson,0,1821-12-25 07:00:00,1821-12-25 07:00:00,36,F,open_air_thermometer_7am,95,251604,2214,2087
+178,Fort Nelson,America/Fort_Nelson,0,1821-12-26 07:00:00,1821-12-26 07:00:00,32,F,open_air_thermometer_7am,95,251607,2214,2087
+179,Fort Nelson,America/Fort_Nelson,0,1821-12-27 07:00:00,1821-12-27 07:00:00,29,F,open_air_thermometer_7am,95,251610,2214,2087
+180,Fort Nelson,America/Fort_Nelson,0,1821-12-28 07:00:00,1821-12-28 07:00:00,34,F,open_air_thermometer_7am,95,251613,2214,2087
+181,Fort Nelson,America/Fort_Nelson,0,1821-12-29 07:00:00,1821-12-29 07:00:00,40,F,open_air_thermometer_7am,95,251616,2214,2087
+182,Fort Nelson,America/Fort_Nelson,0,1821-12-30 07:00:00,1821-12-30 07:00:00,40,F,open_air_thermometer_7am,95,251619,2214,2087
+183,Fort Nelson,America/Fort_Nelson,0,1821-12-31 07:00:00,1821-12-31 07:00:00,30,F,open_air_thermometer_7am,95,251623,2214,2087
+184,Fort Nelson,America/Fort_Nelson,0,1821-10-01 14:00:00,1821-10-01 14:00:00,79,F,open_air_thermometer_2pm,96,252203,2203,2085
+185,Fort Nelson,America/Fort_Nelson,0,1821-10-02 14:00:00,1821-10-02 14:00:00,78,F,open_air_thermometer_2pm,96,252204,2203,2085
+186,Fort Nelson,America/Fort_Nelson,0,1821-10-03 14:00:00,1821-10-03 14:00:00,78,F,open_air_thermometer_2pm,96,252205,2203,2085
+187,Fort Nelson,America/Fort_Nelson,0,1821-10-04 14:00:00,1821-10-04 14:00:00,76,F,open_air_thermometer_2pm,96,252206,2203,2085
+188,Fort Nelson,America/Fort_Nelson,0,1821-10-05 14:00:00,1821-10-05 14:00:00,74,F,open_air_thermometer_2pm,96,252207,2203,2085
+189,Fort Nelson,America/Fort_Nelson,0,1821-10-06 14:00:00,1821-10-06 14:00:00,74,F,open_air_thermometer_2pm,96,252208,2203,2085
+190,Fort Nelson,America/Fort_Nelson,0,1821-10-07 14:00:00,1821-10-07 14:00:00,74,F,open_air_thermometer_2pm,96,252209,2203,2085
+191,Fort Nelson,America/Fort_Nelson,0,1821-10-08 14:00:00,1821-10-08 14:00:00,75,F,open_air_thermometer_2pm,96,252210,2203,2085
+192,Fort Nelson,America/Fort_Nelson,0,1821-10-09 14:00:00,1821-10-09 14:00:00,64,F,open_air_thermometer_2pm,96,252211,2203,2085
+193,Fort Nelson,America/Fort_Nelson,0,1821-10-10 14:00:00,1821-10-10 14:00:00,63,F,open_air_thermometer_2pm,96,252212,2203,2085
+194,Fort Nelson,America/Fort_Nelson,0,1821-10-11 14:00:00,1821-10-11 14:00:00,64,F,open_air_thermometer_2pm,96,252215,2203,2085
+195,Fort Nelson,America/Fort_Nelson,0,1821-10-12 14:00:00,1821-10-12 14:00:00,68,F,open_air_thermometer_2pm,96,252216,2203,2085
+196,Fort Nelson,America/Fort_Nelson,0,1821-10-13 14:00:00,1821-10-13 14:00:00,74,F,open_air_thermometer_2pm,96,252217,2203,2085
+197,Fort Nelson,America/Fort_Nelson,0,1821-10-14 14:00:00,1821-10-14 14:00:00,70,F,open_air_thermometer_2pm,96,252219,2203,2085
+198,Fort Nelson,America/Fort_Nelson,0,1821-10-15 14:00:00,1821-10-15 14:00:00,69,F,open_air_thermometer_2pm,96,252220,2203,2085
+199,Fort Nelson,America/Fort_Nelson,0,1821-10-16 14:00:00,1821-10-16 14:00:00,68,F,open_air_thermometer_2pm,96,252221,2203,2085
+200,Fort Nelson,America/Fort_Nelson,0,1821-10-17 14:00:00,1821-10-17 14:00:00,70,F,open_air_thermometer_2pm,96,252222,2203,2085
+201,Fort Nelson,America/Fort_Nelson,0,1821-10-18 14:00:00,1821-10-18 14:00:00,56,F,open_air_thermometer_2pm,96,252223,2203,2085
+202,Fort Nelson,America/Fort_Nelson,0,1821-10-19 14:00:00,1821-10-19 14:00:00,54,F,open_air_thermometer_2pm,96,252224,2203,2085
+203,Fort Nelson,America/Fort_Nelson,0,1821-10-20 14:00:00,1821-10-20 14:00:00,59,F,open_air_thermometer_2pm,96,252225,2203,2085
+204,Fort Nelson,America/Fort_Nelson,0,1821-10-21 14:00:00,1821-10-21 14:00:00,64,F,open_air_thermometer_2pm,96,252226,2203,2085
+205,Fort Nelson,America/Fort_Nelson,0,1821-10-22 14:00:00,1821-10-22 14:00:00,68,F,open_air_thermometer_2pm,96,252227,2203,2085
+206,Fort Nelson,America/Fort_Nelson,0,1821-10-23 14:00:00,1821-10-23 14:00:00,66,F,open_air_thermometer_2pm,96,252228,2203,2085
+207,Fort Nelson,America/Fort_Nelson,0,1821-10-24 14:00:00,1821-10-24 14:00:00,69,F,open_air_thermometer_2pm,96,252229,2203,2085
+208,Fort Nelson,America/Fort_Nelson,0,1821-10-25 14:00:00,1821-10-25 14:00:00,62,F,open_air_thermometer_2pm,96,252230,2203,2085
+209,Fort Nelson,America/Fort_Nelson,0,1821-10-26 14:00:00,1821-10-26 14:00:00,62,F,open_air_thermometer_2pm,96,252231,2203,2085
+210,Fort Nelson,America/Fort_Nelson,0,1821-10-27 14:00:00,1821-10-27 14:00:00,61,F,open_air_thermometer_2pm,96,252232,2203,2085
+211,Fort Nelson,America/Fort_Nelson,0,1821-10-28 14:00:00,1821-10-28 14:00:00,66,F,open_air_thermometer_2pm,96,252233,2203,2085
+212,Fort Nelson,America/Fort_Nelson,0,1821-10-29 14:00:00,1821-10-29 14:00:00,74,F,open_air_thermometer_2pm,96,252235,2203,2085
+213,Fort Nelson,America/Fort_Nelson,0,1821-10-30 14:00:00,1821-10-30 14:00:00,72,F,open_air_thermometer_2pm,96,252236,2203,2085
+214,Fort Nelson,America/Fort_Nelson,0,1821-10-31 14:00:00,1821-10-31 14:00:00,74,F,open_air_thermometer_2pm,96,252237,2203,2085
+215,Fort Nelson,America/Fort_Nelson,0,1821-11-01 14:00:00,1821-11-01 14:00:00,62,F,open_air_thermometer_2pm,96,249897,2204,2086
+216,Fort Nelson,America/Fort_Nelson,0,1821-11-02 14:00:00,1821-11-02 14:00:00,56,F,open_air_thermometer_2pm,96,249898,2204,2086
+217,Fort Nelson,America/Fort_Nelson,0,1821-11-03 14:00:00,1821-11-03 14:00:00,48,F,open_air_thermometer_2pm,96,249899,2204,2086
+218,Fort Nelson,America/Fort_Nelson,0,1821-11-04 14:00:00,1821-11-04 14:00:00,67,F,open_air_thermometer_2pm,96,249900,2204,2086
+219,Fort Nelson,America/Fort_Nelson,0,1821-11-05 14:00:00,1821-11-05 14:00:00,62,F,open_air_thermometer_2pm,96,249901,2204,2086
+220,Fort Nelson,America/Fort_Nelson,0,1821-11-06 14:00:00,1821-11-06 14:00:00,64,F,open_air_thermometer_2pm,96,249902,2204,2086
+221,Fort Nelson,America/Fort_Nelson,0,1821-11-07 14:00:00,1821-11-07 14:00:00,56,F,open_air_thermometer_2pm,96,249903,2204,2086
+222,Fort Nelson,America/Fort_Nelson,0,1821-11-08 14:00:00,1821-11-08 14:00:00,60,F,open_air_thermometer_2pm,96,249904,2204,2086
+223,Fort Nelson,America/Fort_Nelson,0,1821-11-09 14:00:00,1821-11-09 14:00:00,68,F,open_air_thermometer_2pm,96,249905,2204,2086
+224,Fort Nelson,America/Fort_Nelson,0,1821-11-10 14:00:00,1821-11-10 14:00:00,50,F,open_air_thermometer_2pm,96,249906,2204,2086
+225,Fort Nelson,America/Fort_Nelson,0,1821-11-11 14:00:00,1821-11-11 14:00:00,60,F,open_air_thermometer_2pm,96,249907,2204,2086
+226,Fort Nelson,America/Fort_Nelson,0,1821-11-12 14:00:00,1821-11-12 14:00:00,54,F,open_air_thermometer_2pm,96,249909,2204,2086
+227,Fort Nelson,America/Fort_Nelson,0,1821-11-13 14:00:00,1821-11-13 14:00:00,48,F,open_air_thermometer_2pm,96,249910,2204,2086
+228,Fort Nelson,America/Fort_Nelson,0,1821-11-14 14:00:00,1821-11-14 14:00:00,53,F,open_air_thermometer_2pm,96,249911,2204,2086
+229,Fort Nelson,America/Fort_Nelson,0,1821-11-15 14:00:00,1821-11-15 14:00:00,58,F,open_air_thermometer_2pm,96,249912,2204,2086
+230,Fort Nelson,America/Fort_Nelson,0,1821-11-16 14:00:00,1821-11-16 14:00:00,60,F,open_air_thermometer_2pm,96,249913,2204,2086
+231,Fort Nelson,America/Fort_Nelson,0,1821-11-17 14:00:00,1821-11-17 14:00:00,54,F,open_air_thermometer_2pm,96,249914,2204,2086
+232,Fort Nelson,America/Fort_Nelson,0,1821-11-18 14:00:00,1821-11-18 14:00:00,52,F,open_air_thermometer_2pm,96,249915,2204,2086
+233,Fort Nelson,America/Fort_Nelson,0,1821-11-19 14:00:00,1821-11-19 14:00:00,51,F,open_air_thermometer_2pm,96,249916,2204,2086
+234,Fort Nelson,America/Fort_Nelson,0,1821-11-20 14:00:00,1821-11-20 14:00:00,52,F,open_air_thermometer_2pm,96,249917,2204,2086
+235,Fort Nelson,America/Fort_Nelson,0,1821-11-21 14:00:00,1821-11-21 14:00:00,60,F,open_air_thermometer_2pm,96,249918,2204,2086
+236,Fort Nelson,America/Fort_Nelson,0,1821-11-22 14:00:00,1821-11-22 14:00:00,64,F,open_air_thermometer_2pm,96,249919,2204,2086
+237,Fort Nelson,America/Fort_Nelson,0,1821-11-23 14:00:00,1821-11-23 14:00:00,52,F,open_air_thermometer_2pm,96,249920,2204,2086
+238,Fort Nelson,America/Fort_Nelson,0,1821-11-24 14:00:00,1821-11-24 14:00:00,54,F,open_air_thermometer_2pm,96,249921,2204,2086
+239,Fort Nelson,America/Fort_Nelson,0,1821-11-25 14:00:00,1821-11-25 14:00:00,45,F,open_air_thermometer_2pm,96,249922,2204,2086
+240,Fort Nelson,America/Fort_Nelson,0,1821-11-26 14:00:00,1821-11-26 14:00:00,50,F,open_air_thermometer_2pm,96,249923,2204,2086
+241,Fort Nelson,America/Fort_Nelson,0,1821-11-27 14:00:00,1821-11-27 14:00:00,51,F,open_air_thermometer_2pm,96,249924,2204,2086
+242,Fort Nelson,America/Fort_Nelson,0,1821-11-28 14:00:00,1821-11-28 14:00:00,52,F,open_air_thermometer_2pm,96,249925,2204,2086
+243,Fort Nelson,America/Fort_Nelson,0,1821-11-29 14:00:00,1821-11-29 14:00:00,60,F,open_air_thermometer_2pm,96,249926,2204,2086
+244,Fort Nelson,America/Fort_Nelson,0,1821-11-30 14:00:00,1821-11-30 14:00:00,54,F,open_air_thermometer_2pm,96,249927,2204,2086
+245,Fort Nelson,America/Fort_Nelson,0,1821-12-01 14:00:00,1821-12-01 14:00:00,54,F,open_air_thermometer_2pm,96,251523,2214,2087
+246,Fort Nelson,America/Fort_Nelson,0,1821-12-02 14:00:00,1821-12-02 14:00:00,56,F,open_air_thermometer_2pm,96,251527,2214,2087
+247,Fort Nelson,America/Fort_Nelson,0,1821-12-03 14:00:00,1821-12-03 14:00:00,57,F,open_air_thermometer_2pm,96,251531,2214,2087
+248,Fort Nelson,America/Fort_Nelson,0,1821-12-04 14:00:00,1821-12-04 14:00:00,54,F,open_air_thermometer_2pm,96,251534,2214,2087
+249,Fort Nelson,America/Fort_Nelson,0,1821-12-05 14:00:00,1821-12-05 14:00:00,56,F,open_air_thermometer_2pm,96,251537,2214,2087
+250,Fort Nelson,America/Fort_Nelson,0,1821-12-06 14:00:00,1821-12-06 14:00:00,45,F,open_air_thermometer_2pm,96,251541,2214,2087
+251,Fort Nelson,America/Fort_Nelson,0,1821-12-07 14:00:00,1821-12-07 14:00:00,47,F,open_air_thermometer_2pm,96,251545,2214,2087
+252,Fort Nelson,America/Fort_Nelson,0,1821-12-08 14:00:00,1821-12-08 14:00:00,50,F,open_air_thermometer_2pm,96,251548,2214,2087
+253,Fort Nelson,America/Fort_Nelson,0,1821-12-09 14:00:00,1821-12-09 14:00:00,54,F,open_air_thermometer_2pm,96,251551,2214,2087
+254,Fort Nelson,America/Fort_Nelson,0,1821-12-10 14:00:00,1821-12-10 14:00:00,54,F,open_air_thermometer_2pm,96,251555,2214,2087
+255,Fort Nelson,America/Fort_Nelson,0,1821-12-11 14:00:00,1821-12-11 14:00:00,54,F,open_air_thermometer_2pm,96,251558,2214,2087
+256,Fort Nelson,America/Fort_Nelson,0,1821-12-12 14:00:00,1821-12-12 14:00:00,52,F,open_air_thermometer_2pm,96,251561,2214,2087
+257,Fort Nelson,America/Fort_Nelson,0,1821-12-13 14:00:00,1821-12-13 14:00:00,56,F,open_air_thermometer_2pm,96,251564,2214,2087
+258,Fort Nelson,America/Fort_Nelson,0,1821-12-14 14:00:00,1821-12-14 14:00:00,37,F,open_air_thermometer_2pm,96,251568,2214,2087
+259,Fort Nelson,America/Fort_Nelson,0,1821-12-15 14:00:00,1821-12-15 14:00:00,39,F,open_air_thermometer_2pm,96,251571,2214,2087
+260,Fort Nelson,America/Fort_Nelson,0,1821-12-16 14:00:00,1821-12-16 14:00:00,36,F,open_air_thermometer_2pm,96,251574,2214,2087
+261,Fort Nelson,America/Fort_Nelson,0,1821-12-17 14:00:00,1821-12-17 14:00:00,42,F,open_air_thermometer_2pm,96,251577,2214,2087
+262,Fort Nelson,America/Fort_Nelson,0,1821-12-18 14:00:00,1821-12-18 14:00:00,48,F,open_air_thermometer_2pm,96,251581,2214,2087
+263,Fort Nelson,America/Fort_Nelson,0,1821-12-19 14:00:00,1821-12-19 14:00:00,44,F,open_air_thermometer_2pm,96,251585,2214,2087
+264,Fort Nelson,America/Fort_Nelson,0,1821-12-20 14:00:00,1821-12-20 14:00:00,53,F,open_air_thermometer_2pm,96,251588,2214,2087
+265,Fort Nelson,America/Fort_Nelson,0,1821-12-21 14:00:00,1821-12-21 14:00:00,66,F,open_air_thermometer_2pm,96,251591,2214,2087
+266,Fort Nelson,America/Fort_Nelson,0,1821-12-22 14:00:00,1821-12-22 14:00:00,50,F,open_air_thermometer_2pm,96,251595,2214,2087
+267,Fort Nelson,America/Fort_Nelson,0,1821-12-23 14:00:00,1821-12-23 14:00:00,36,F,open_air_thermometer_2pm,96,251598,2214,2087
+268,Fort Nelson,America/Fort_Nelson,0,1821-12-24 14:00:00,1821-12-24 14:00:00,36,F,open_air_thermometer_2pm,96,251601,2214,2087
+269,Fort Nelson,America/Fort_Nelson,0,1821-12-25 14:00:00,1821-12-25 14:00:00,40,F,open_air_thermometer_2pm,96,251604,2214,2087
+270,Fort Nelson,America/Fort_Nelson,0,1821-12-26 14:00:00,1821-12-26 14:00:00,46,F,open_air_thermometer_2pm,96,251607,2214,2087
+271,Fort Nelson,America/Fort_Nelson,0,1821-12-27 14:00:00,1821-12-27 14:00:00,44,F,open_air_thermometer_2pm,96,251610,2214,2087
+272,Fort Nelson,America/Fort_Nelson,0,1821-12-28 14:00:00,1821-12-28 14:00:00,56,F,open_air_thermometer_2pm,96,251613,2214,2087
+273,Fort Nelson,America/Fort_Nelson,0,1821-12-29 14:00:00,1821-12-29 14:00:00,48,F,open_air_thermometer_2pm,96,251616,2214,2087
+274,Fort Nelson,America/Fort_Nelson,0,1821-12-30 14:00:00,1821-12-30 14:00:00,47,F,open_air_thermometer_2pm,96,251619,2214,2087
+275,Fort Nelson,America/Fort_Nelson,0,1821-12-31 14:00:00,1821-12-31 14:00:00,40,F,open_air_thermometer_2pm,96,251623,2214,2087
+276,Fort Nelson,America/Fort_Nelson,0,1821-10-01 21:00:00,1821-10-01 21:00:00,74,F,open_air_thermometer_9pm,97,252203,2203,2085
+277,Fort Nelson,America/Fort_Nelson,0,1821-10-02 21:00:00,1821-10-02 21:00:00,72,F,open_air_thermometer_9pm,97,252204,2203,2085
+278,Fort Nelson,America/Fort_Nelson,0,1821-10-03 21:00:00,1821-10-03 21:00:00,76,F,open_air_thermometer_9pm,97,252205,2203,2085
+279,Fort Nelson,America/Fort_Nelson,0,1821-10-04 21:00:00,1821-10-04 21:00:00,72,F,open_air_thermometer_9pm,97,252206,2203,2085
+280,Fort Nelson,America/Fort_Nelson,0,1821-10-05 21:00:00,1821-10-05 21:00:00,73,F,open_air_thermometer_9pm,97,252207,2203,2085
+281,Fort Nelson,America/Fort_Nelson,0,1821-10-06 21:00:00,1821-10-06 21:00:00,70,F,open_air_thermometer_9pm,97,252208,2203,2085
+282,Fort Nelson,America/Fort_Nelson,0,1821-10-07 21:00:00,1821-10-07 21:00:00,70,F,open_air_thermometer_9pm,97,252209,2203,2085
+283,Fort Nelson,America/Fort_Nelson,0,1821-10-08 21:00:00,1821-10-08 21:00:00,70,F,open_air_thermometer_9pm,97,252210,2203,2085
+284,Fort Nelson,America/Fort_Nelson,0,1821-10-09 21:00:00,1821-10-09 21:00:00,66,F,open_air_thermometer_9pm,97,252211,2203,2085
+285,Fort Nelson,America/Fort_Nelson,0,1821-10-10 21:00:00,1821-10-10 21:00:00,62,F,open_air_thermometer_9pm,97,252212,2203,2085
+286,Fort Nelson,America/Fort_Nelson,0,1821-10-11 21:00:00,1821-10-11 21:00:00,62,F,open_air_thermometer_9pm,97,252215,2203,2085
+287,Fort Nelson,America/Fort_Nelson,0,1821-10-12 21:00:00,1821-10-12 21:00:00,70,F,open_air_thermometer_9pm,97,252216,2203,2085
+288,Fort Nelson,America/Fort_Nelson,0,1821-10-13 21:00:00,1821-10-13 21:00:00,73,F,open_air_thermometer_9pm,97,252217,2203,2085
+289,Fort Nelson,America/Fort_Nelson,0,1821-10-14 21:00:00,1821-10-14 21:00:00,69,F,open_air_thermometer_9pm,97,252219,2203,2085
+290,Fort Nelson,America/Fort_Nelson,0,1821-10-15 21:00:00,1821-10-15 21:00:00,62,F,open_air_thermometer_9pm,97,252220,2203,2085
+291,Fort Nelson,America/Fort_Nelson,0,1821-10-16 21:00:00,1821-10-16 21:00:00,66,F,open_air_thermometer_9pm,97,252221,2203,2085
+292,Fort Nelson,America/Fort_Nelson,0,1821-10-17 21:00:00,1821-10-17 21:00:00,68,F,open_air_thermometer_9pm,97,252222,2203,2085
+293,Fort Nelson,America/Fort_Nelson,0,1821-10-18 21:00:00,1821-10-18 21:00:00,53,F,open_air_thermometer_9pm,97,252223,2203,2085
+294,Fort Nelson,America/Fort_Nelson,0,1821-10-19 21:00:00,1821-10-19 21:00:00,51,F,open_air_thermometer_9pm,97,252224,2203,2085
+295,Fort Nelson,America/Fort_Nelson,0,1821-10-20 21:00:00,1821-10-20 21:00:00,54,F,open_air_thermometer_9pm,97,252225,2203,2085
+296,Fort Nelson,America/Fort_Nelson,0,1821-10-21 21:00:00,1821-10-21 21:00:00,62,F,open_air_thermometer_9pm,97,252226,2203,2085
+297,Fort Nelson,America/Fort_Nelson,0,1821-10-22 21:00:00,1821-10-22 21:00:00,63,F,open_air_thermometer_9pm,97,252227,2203,2085
+298,Fort Nelson,America/Fort_Nelson,0,1821-10-23 21:00:00,1821-10-23 21:00:00,61,F,open_air_thermometer_9pm,97,252228,2203,2085
+299,Fort Nelson,America/Fort_Nelson,0,1821-10-24 21:00:00,1821-10-24 21:00:00,59,F,open_air_thermometer_9pm,97,252229,2203,2085
+300,Fort Nelson,America/Fort_Nelson,0,1821-10-25 21:00:00,1821-10-25 21:00:00,59,F,open_air_thermometer_9pm,97,252230,2203,2085
+301,Fort Nelson,America/Fort_Nelson,0,1821-10-26 21:00:00,1821-10-26 21:00:00,63,F,open_air_thermometer_9pm,97,252231,2203,2085
+302,Fort Nelson,America/Fort_Nelson,0,1821-10-27 21:00:00,1821-10-27 21:00:00,70,F,open_air_thermometer_9pm,97,252232,2203,2085
+303,Fort Nelson,America/Fort_Nelson,0,1821-10-28 21:00:00,1821-10-28 21:00:00,69,F,open_air_thermometer_9pm,97,252233,2203,2085
+304,Fort Nelson,America/Fort_Nelson,0,1821-10-29 21:00:00,1821-10-29 21:00:00,66,F,open_air_thermometer_9pm,97,252235,2203,2085
+305,Fort Nelson,America/Fort_Nelson,0,1821-10-30 21:00:00,1821-10-30 21:00:00,70,F,open_air_thermometer_9pm,97,252236,2203,2085
+306,Fort Nelson,America/Fort_Nelson,0,1821-10-31 21:00:00,1821-10-31 21:00:00,78,F,open_air_thermometer_9pm,97,252237,2203,2085
+307,Fort Nelson,America/Fort_Nelson,0,1821-11-01 21:00:00,1821-11-01 21:00:00,60,F,open_air_thermometer_9pm,97,249897,2204,2086
+308,Fort Nelson,America/Fort_Nelson,0,1821-11-02 21:00:00,1821-11-02 21:00:00,56,F,open_air_thermometer_9pm,97,249898,2204,2086
+309,Fort Nelson,America/Fort_Nelson,0,1821-11-03 21:00:00,1821-11-03 21:00:00,68,F,open_air_thermometer_9pm,97,249899,2204,2086
+310,Fort Nelson,America/Fort_Nelson,0,1821-11-04 21:00:00,1821-11-04 21:00:00,68,F,open_air_thermometer_9pm,97,249900,2204,2086
+311,Fort Nelson,America/Fort_Nelson,0,1821-11-05 21:00:00,1821-11-05 21:00:00,61,F,open_air_thermometer_9pm,97,249901,2204,2086
+312,Fort Nelson,America/Fort_Nelson,0,1821-11-06 21:00:00,1821-11-06 21:00:00,61,F,open_air_thermometer_9pm,97,249902,2204,2086
+313,Fort Nelson,America/Fort_Nelson,0,1821-11-07 21:00:00,1821-11-07 21:00:00,54,F,open_air_thermometer_9pm,97,249903,2204,2086
+314,Fort Nelson,America/Fort_Nelson,0,1821-11-08 21:00:00,1821-11-08 21:00:00,58,F,open_air_thermometer_9pm,97,249904,2204,2086
+315,Fort Nelson,America/Fort_Nelson,0,1821-11-09 21:00:00,1821-11-09 21:00:00,72,F,open_air_thermometer_9pm,97,249905,2204,2086
+316,Fort Nelson,America/Fort_Nelson,0,1821-11-10 21:00:00,1821-11-10 21:00:00,51,F,open_air_thermometer_9pm,97,249906,2204,2086
+317,Fort Nelson,America/Fort_Nelson,0,1821-11-11 21:00:00,1821-11-11 21:00:00,58,F,open_air_thermometer_9pm,97,249907,2204,2086
+318,Fort Nelson,America/Fort_Nelson,0,1821-11-12 21:00:00,1821-11-12 21:00:00,46,F,open_air_thermometer_9pm,97,249909,2204,2086
+319,Fort Nelson,America/Fort_Nelson,0,1821-11-13 21:00:00,1821-11-13 21:00:00,45,F,open_air_thermometer_9pm,97,249910,2204,2086
+320,Fort Nelson,America/Fort_Nelson,0,1821-11-14 21:00:00,1821-11-14 21:00:00,39,F,open_air_thermometer_9pm,97,249911,2204,2086
+321,Fort Nelson,America/Fort_Nelson,0,1821-11-15 21:00:00,1821-11-15 21:00:00,53,F,open_air_thermometer_9pm,97,249912,2204,2086
+322,Fort Nelson,America/Fort_Nelson,0,1821-11-16 21:00:00,1821-11-16 21:00:00,57,F,open_air_thermometer_9pm,97,249913,2204,2086
+323,Fort Nelson,America/Fort_Nelson,0,1821-11-17 21:00:00,1821-11-17 21:00:00,51,F,open_air_thermometer_9pm,97,249914,2204,2086
+324,Fort Nelson,America/Fort_Nelson,0,1821-11-18 21:00:00,1821-11-18 21:00:00,51,F,open_air_thermometer_9pm,97,249915,2204,2086
+325,Fort Nelson,America/Fort_Nelson,0,1821-11-19 21:00:00,1821-11-19 21:00:00,47,F,open_air_thermometer_9pm,97,249916,2204,2086
+326,Fort Nelson,America/Fort_Nelson,0,1821-11-20 21:00:00,1821-11-20 21:00:00,47,F,open_air_thermometer_9pm,97,249917,2204,2086
+327,Fort Nelson,America/Fort_Nelson,0,1821-11-21 21:00:00,1821-11-21 21:00:00,58,F,open_air_thermometer_9pm,97,249918,2204,2086
+328,Fort Nelson,America/Fort_Nelson,0,1821-11-22 21:00:00,1821-11-22 21:00:00,64,F,open_air_thermometer_9pm,97,249919,2204,2086
+329,Fort Nelson,America/Fort_Nelson,0,1821-11-23 21:00:00,1821-11-23 21:00:00,52,F,open_air_thermometer_9pm,97,249920,2204,2086
+330,Fort Nelson,America/Fort_Nelson,0,1821-11-24 21:00:00,1821-11-24 21:00:00,48,F,open_air_thermometer_9pm,97,249921,2204,2086
+331,Fort Nelson,America/Fort_Nelson,0,1821-11-25 21:00:00,1821-11-25 21:00:00,43,F,open_air_thermometer_9pm,97,249922,2204,2086
+332,Fort Nelson,America/Fort_Nelson,0,1821-11-26 21:00:00,1821-11-26 21:00:00,40,F,open_air_thermometer_9pm,97,249923,2204,2086
+333,Fort Nelson,America/Fort_Nelson,0,1821-11-27 21:00:00,1821-11-27 21:00:00,48,F,open_air_thermometer_9pm,97,249924,2204,2086
+334,Fort Nelson,America/Fort_Nelson,0,1821-11-28 21:00:00,1821-11-28 21:00:00,53,F,open_air_thermometer_9pm,97,249925,2204,2086
+335,Fort Nelson,America/Fort_Nelson,0,1821-11-29 21:00:00,1821-11-29 21:00:00,55,F,open_air_thermometer_9pm,97,249926,2204,2086
+336,Fort Nelson,America/Fort_Nelson,0,1821-11-30 21:00:00,1821-11-30 21:00:00,52,F,open_air_thermometer_9pm,97,249927,2204,2086
+337,Fort Nelson,America/Fort_Nelson,0,1821-12-01 21:00:00,1821-12-01 21:00:00,56,F,open_air_thermometer_9pm,97,251523,2214,2087
+338,Fort Nelson,America/Fort_Nelson,0,1821-12-02 21:00:00,1821-12-02 21:00:00,62,F,open_air_thermometer_9pm,97,251527,2214,2087
+339,Fort Nelson,America/Fort_Nelson,0,1821-12-03 21:00:00,1821-12-03 21:00:00,54,F,open_air_thermometer_9pm,97,251531,2214,2087
+340,Fort Nelson,America/Fort_Nelson,0,1821-12-04 21:00:00,1821-12-04 21:00:00,52,F,open_air_thermometer_9pm,97,251534,2214,2087
+341,Fort Nelson,America/Fort_Nelson,0,1821-12-05 21:00:00,1821-12-05 21:00:00,54,F,open_air_thermometer_9pm,97,251537,2214,2087
+342,Fort Nelson,America/Fort_Nelson,0,1821-12-06 21:00:00,1821-12-06 21:00:00,44,F,open_air_thermometer_9pm,97,251541,2214,2087
+343,Fort Nelson,America/Fort_Nelson,0,1821-12-07 21:00:00,1821-12-07 21:00:00,50,F,open_air_thermometer_9pm,97,251545,2214,2087
+344,Fort Nelson,America/Fort_Nelson,0,1821-12-08 21:00:00,1821-12-08 21:00:00,52,F,open_air_thermometer_9pm,97,251548,2214,2087
+345,Fort Nelson,America/Fort_Nelson,0,1821-12-09 21:00:00,1821-12-09 21:00:00,53,F,open_air_thermometer_9pm,97,251551,2214,2087
+346,Fort Nelson,America/Fort_Nelson,0,1821-12-10 21:00:00,1821-12-10 21:00:00,60,F,open_air_thermometer_9pm,97,251555,2214,2087
+347,Fort Nelson,America/Fort_Nelson,0,1821-12-11 21:00:00,1821-12-11 21:00:00,47,F,open_air_thermometer_9pm,97,251558,2214,2087
+348,Fort Nelson,America/Fort_Nelson,0,1821-12-12 21:00:00,1821-12-12 21:00:00,48,F,open_air_thermometer_9pm,97,251561,2214,2087
+349,Fort Nelson,America/Fort_Nelson,0,1821-12-13 21:00:00,1821-12-13 21:00:00,50,F,open_air_thermometer_9pm,97,251564,2214,2087
+350,Fort Nelson,America/Fort_Nelson,0,1821-12-14 21:00:00,1821-12-14 21:00:00,42,F,open_air_thermometer_9pm,97,251568,2214,2087
+351,Fort Nelson,America/Fort_Nelson,0,1821-12-15 21:00:00,1821-12-15 21:00:00,34,F,open_air_thermometer_9pm,97,251571,2214,2087
+352,Fort Nelson,America/Fort_Nelson,0,1821-12-16 21:00:00,1821-12-16 21:00:00,34,F,open_air_thermometer_9pm,97,251574,2214,2087
+353,Fort Nelson,America/Fort_Nelson,0,1821-12-17 21:00:00,1821-12-17 21:00:00,46,F,open_air_thermometer_9pm,97,251577,2214,2087
+354,Fort Nelson,America/Fort_Nelson,0,1821-12-18 21:00:00,1821-12-18 21:00:00,50,F,open_air_thermometer_9pm,97,251581,2214,2087
+355,Fort Nelson,America/Fort_Nelson,0,1821-12-19 21:00:00,1821-12-19 21:00:00,43,F,open_air_thermometer_9pm,97,251585,2214,2087
+356,Fort Nelson,America/Fort_Nelson,0,1821-12-20 21:00:00,1821-12-20 21:00:00,56,F,open_air_thermometer_9pm,97,251588,2214,2087
+357,Fort Nelson,America/Fort_Nelson,0,1821-12-21 21:00:00,1821-12-21 21:00:00,62,F,open_air_thermometer_9pm,97,251591,2214,2087
+358,Fort Nelson,America/Fort_Nelson,0,1821-12-22 21:00:00,1821-12-22 21:00:00,40,F,open_air_thermometer_9pm,97,251595,2214,2087
+359,Fort Nelson,America/Fort_Nelson,0,1821-12-23 21:00:00,1821-12-23 21:00:00,35,F,open_air_thermometer_9pm,97,251598,2214,2087
+360,Fort Nelson,America/Fort_Nelson,0,1821-12-24 21:00:00,1821-12-24 21:00:00,40,F,open_air_thermometer_9pm,97,251601,2214,2087
+361,Fort Nelson,America/Fort_Nelson,0,1821-12-25 21:00:00,1821-12-25 21:00:00,46,F,open_air_thermometer_9pm,97,251604,2214,2087
+362,Fort Nelson,America/Fort_Nelson,0,1821-12-26 21:00:00,1821-12-26 21:00:00,42,F,open_air_thermometer_9pm,97,251607,2214,2087
+363,Fort Nelson,America/Fort_Nelson,0,1821-12-27 21:00:00,1821-12-27 21:00:00,44,F,open_air_thermometer_9pm,97,251610,2214,2087
+364,Fort Nelson,America/Fort_Nelson,0,1821-12-28 21:00:00,1821-12-28 21:00:00,50,F,open_air_thermometer_9pm,97,251613,2214,2087
+365,Fort Nelson,America/Fort_Nelson,0,1821-12-29 21:00:00,1821-12-29 21:00:00,46,F,open_air_thermometer_9pm,97,251616,2214,2087
+366,Fort Nelson,America/Fort_Nelson,0,1821-12-30 21:00:00,1821-12-30 21:00:00,46,F,open_air_thermometer_9pm,97,251619,2214,2087
+367,Fort Nelson,America/Fort_Nelson,0,1821-12-31 21:00:00,1821-12-31 21:00:00,38,F,open_air_thermometer_9pm,97,251623,2214,2087
+368,Fort Nelson,America/Fort_Nelson,0,1821-10-01 00:00:00,1821-10-01 00:00:00,cloudy,mno,weather_0,18,252296,2203,2085
+369,Fort Nelson,America/Fort_Nelson,0,1821-10-02 00:00:00,1821-10-02 00:00:00,clear,mno,weather_0,18,252298,2203,2085
+370,Fort Nelson,America/Fort_Nelson,0,1821-10-03 00:00:00,1821-10-03 00:00:00,clear,mno,weather_0,18,252299,2203,2085
+371,Fort Nelson,America/Fort_Nelson,0,1821-10-04 00:00:00,1821-10-04 00:00:00,clear,mno,weather_0,18,252301,2203,2085
+372,Fort Nelson,America/Fort_Nelson,0,1821-10-05 00:00:00,1821-10-05 00:00:00,clear,mno,weather_0,18,252302,2203,2085
+373,Fort Nelson,America/Fort_Nelson,0,1821-10-06 00:00:00,1821-10-06 00:00:00,clear,mno,weather_0,18,252304,2203,2085
+374,Fort Nelson,America/Fort_Nelson,0,1821-10-07 00:00:00,1821-10-07 00:00:00,cloudy,mno,weather_0,18,252305,2203,2085
+375,Fort Nelson,America/Fort_Nelson,0,1821-10-08 00:00:00,1821-10-08 00:00:00,cloudy,mno,weather_0,18,252307,2203,2085
+376,Fort Nelson,America/Fort_Nelson,0,1821-10-09 00:00:00,1821-10-09 00:00:00,cloudy,mno,weather_0,18,252308,2203,2085
+377,Fort Nelson,America/Fort_Nelson,0,1821-10-10 00:00:00,1821-10-10 00:00:00,clear,mno,weather_0,18,252310,2203,2085
+378,Fort Nelson,America/Fort_Nelson,0,1821-10-11 00:00:00,1821-10-11 00:00:00,clear,mno,weather_0,18,252312,2203,2085
+379,Fort Nelson,America/Fort_Nelson,0,1821-10-12 00:00:00,1821-10-12 00:00:00,cloudy,mno,weather_0,18,252313,2203,2085
+380,Fort Nelson,America/Fort_Nelson,0,1821-10-13 00:00:00,1821-10-13 00:00:00,clear,mno,weather_0,18,252315,2203,2085
+381,Fort Nelson,America/Fort_Nelson,0,1821-10-14 00:00:00,1821-10-14 00:00:00,clear,mno,weather_0,18,252317,2203,2085
+382,Fort Nelson,America/Fort_Nelson,0,1821-10-15 00:00:00,1821-10-15 00:00:00,clear,mno,weather_0,18,252319,2203,2085
+383,Fort Nelson,America/Fort_Nelson,0,1821-10-16 00:00:00,1821-10-16 00:00:00,clear,mno,weather_0,18,252322,2203,2085
+384,Fort Nelson,America/Fort_Nelson,0,1821-10-17 00:00:00,1821-10-17 00:00:00,clear,mno,weather_0,18,252324,2203,2085
+385,Fort Nelson,America/Fort_Nelson,0,1821-10-18 00:00:00,1821-10-18 00:00:00,cloudy,mno,weather_0,18,252326,2203,2085
+386,Fort Nelson,America/Fort_Nelson,0,1821-10-19 00:00:00,1821-10-19 00:00:00,cloudy,mno,weather_0,18,252328,2203,2085
+387,Fort Nelson,America/Fort_Nelson,0,1821-10-20 00:00:00,1821-10-20 00:00:00,clear,mno,weather_0,18,252330,2203,2085
+388,Fort Nelson,America/Fort_Nelson,0,1821-10-21 00:00:00,1821-10-21 00:00:00,clear,mno,weather_0,18,252331,2203,2085
+389,Fort Nelson,America/Fort_Nelson,0,1821-10-22 00:00:00,1821-10-22 00:00:00,clear,mno,weather_0,18,252332,2203,2085
+390,Fort Nelson,America/Fort_Nelson,0,1821-10-23 00:00:00,1821-10-23 00:00:00,clear,mno,weather_0,18,252334,2203,2085
+391,Fort Nelson,America/Fort_Nelson,0,1821-10-24 00:00:00,1821-10-24 00:00:00,cloudy,mno,weather_0,18,252339,2203,2085
+392,Fort Nelson,America/Fort_Nelson,0,1821-10-25 00:00:00,1821-10-25 00:00:00,clear,mno,weather_0,18,252340,2203,2085
+393,Fort Nelson,America/Fort_Nelson,0,1821-10-26 00:00:00,1821-10-26 00:00:00,clear,mno,weather_0,18,252341,2203,2085
+394,Fort Nelson,America/Fort_Nelson,0,1821-10-27 00:00:00,1821-10-27 00:00:00,cloudy,mno,weather_0,18,252342,2203,2085
+395,Fort Nelson,America/Fort_Nelson,0,1821-10-28 00:00:00,1821-10-28 00:00:00,clear,mno,weather_0,18,252343,2203,2085
+396,Fort Nelson,America/Fort_Nelson,0,1821-10-29 00:00:00,1821-10-29 00:00:00,clear,mno,weather_0,18,252345,2203,2085
+397,Fort Nelson,America/Fort_Nelson,0,1821-10-30 00:00:00,1821-10-30 00:00:00,clear,mno,weather_0,18,252348,2203,2085
+398,Fort Nelson,America/Fort_Nelson,0,1821-10-31 00:00:00,1821-10-31 00:00:00,cloudy,mno,weather_0,18,252350,2203,2085
+399,Fort Nelson,America/Fort_Nelson,0,1821-11-01 00:00:00,1821-11-01 00:00:00,cloudy,mno,weather_0,18,249959,2204,2086
+400,Fort Nelson,America/Fort_Nelson,0,1821-11-02 00:00:00,1821-11-02 00:00:00,clear,mno,weather_0,18,249960,2204,2086
+401,Fort Nelson,America/Fort_Nelson,0,1821-11-03 00:00:00,1821-11-03 00:00:00,cloudy,mno,weather_0,18,249961,2204,2086
+402,Fort Nelson,America/Fort_Nelson,0,1821-11-04 00:00:00,1821-11-04 00:00:00,cloudy,mno,weather_0,18,249962,2204,2086
+403,Fort Nelson,America/Fort_Nelson,0,1821-11-05 00:00:00,1821-11-05 00:00:00,cloudy,mno,weather_0,18,249963,2204,2086
+404,Fort Nelson,America/Fort_Nelson,0,1821-11-06 00:00:00,1821-11-06 00:00:00,cloudy,mno,weather_0,18,249964,2204,2086
+405,Fort Nelson,America/Fort_Nelson,0,1821-11-07 00:00:00,1821-11-07 00:00:00,clear,mno,weather_0,18,249965,2204,2086
+406,Fort Nelson,America/Fort_Nelson,0,1821-11-08 00:00:00,1821-11-08 00:00:00,clear,mno,weather_0,18,249966,2204,2086
+407,Fort Nelson,America/Fort_Nelson,0,1821-11-09 00:00:00,1821-11-09 00:00:00,clear,mno,weather_0,18,249967,2204,2086
+408,Fort Nelson,America/Fort_Nelson,0,1821-11-10 00:00:00,1821-11-10 00:00:00,clear,mno,weather_0,18,249968,2204,2086
+409,Fort Nelson,America/Fort_Nelson,0,1821-11-11 00:00:00,1821-11-11 00:00:00,clear,mno,weather_0,18,249969,2204,2086
+410,Fort Nelson,America/Fort_Nelson,0,1821-11-12 00:00:00,1821-11-12 00:00:00,clear,mno,weather_0,18,249970,2204,2086
+411,Fort Nelson,America/Fort_Nelson,0,1821-11-13 00:00:00,1821-11-13 00:00:00,clear,mno,weather_0,18,249971,2204,2086
+412,Fort Nelson,America/Fort_Nelson,0,1821-11-14 00:00:00,1821-11-14 00:00:00,clear,mno,weather_0,18,249972,2204,2086
+413,Fort Nelson,America/Fort_Nelson,0,1821-11-15 00:00:00,1821-11-15 00:00:00,clear,mno,weather_0,18,249973,2204,2086
+414,Fort Nelson,America/Fort_Nelson,0,1821-11-16 00:00:00,1821-11-16 00:00:00,clear,mno,weather_0,18,249974,2204,2086
+415,Fort Nelson,America/Fort_Nelson,0,1821-11-17 00:00:00,1821-11-17 00:00:00,clear,mno,weather_0,18,249975,2204,2086
+416,Fort Nelson,America/Fort_Nelson,0,1821-11-18 00:00:00,1821-11-18 00:00:00,clear,mno,weather_0,18,249976,2204,2086
+417,Fort Nelson,America/Fort_Nelson,0,1821-11-19 00:00:00,1821-11-19 00:00:00,clear,mno,weather_0,18,249977,2204,2086
+418,Fort Nelson,America/Fort_Nelson,0,1821-11-20 00:00:00,1821-11-20 00:00:00,clear,mno,weather_0,18,249978,2204,2086
+419,Fort Nelson,America/Fort_Nelson,0,1821-11-21 00:00:00,1821-11-21 00:00:00,clear,mno,weather_0,18,249979,2204,2086
+420,Fort Nelson,America/Fort_Nelson,0,1821-11-22 00:00:00,1821-11-22 00:00:00,cloudy,mno,weather_0,18,249980,2204,2086
+421,Fort Nelson,America/Fort_Nelson,0,1821-11-23 00:00:00,1821-11-23 00:00:00,cloudy,mno,weather_0,18,249981,2204,2086
+422,Fort Nelson,America/Fort_Nelson,0,1821-11-24 00:00:00,1821-11-24 00:00:00,cloudy,mno,weather_0,18,249982,2204,2086
+423,Fort Nelson,America/Fort_Nelson,0,1821-11-25 00:00:00,1821-11-25 00:00:00,clear,mno,weather_0,18,249983,2204,2086
+424,Fort Nelson,America/Fort_Nelson,0,1821-11-26 00:00:00,1821-11-26 00:00:00,clear,mno,weather_0,18,249984,2204,2086
+425,Fort Nelson,America/Fort_Nelson,0,1821-11-27 00:00:00,1821-11-27 00:00:00,clear,mno,weather_0,18,249985,2204,2086
+426,Fort Nelson,America/Fort_Nelson,0,1821-11-28 00:00:00,1821-11-28 00:00:00,clear,mno,weather_0,18,249986,2204,2086
+427,Fort Nelson,America/Fort_Nelson,0,1821-11-29 00:00:00,1821-11-29 00:00:00,clear,mno,weather_0,18,249987,2204,2086
+428,Fort Nelson,America/Fort_Nelson,0,1821-11-30 00:00:00,1821-11-30 00:00:00,clear,mno,weather_0,18,249988,2204,2086
+429,Fort Nelson,America/Fort_Nelson,0,1821-12-01 00:00:00,1821-12-01 00:00:00,cloudy,mno,weather_0,18,251525,2214,2087
+430,Fort Nelson,America/Fort_Nelson,0,1821-12-02 00:00:00,1821-12-02 00:00:00,cloudy,mno,weather_0,18,251529,2214,2087
+431,Fort Nelson,America/Fort_Nelson,0,1821-12-03 00:00:00,1821-12-03 00:00:00,clear,mno,weather_0,18,251533,2214,2087
+432,Fort Nelson,America/Fort_Nelson,0,1821-12-04 00:00:00,1821-12-04 00:00:00,cloudy,mno,weather_0,18,251536,2214,2087
+433,Fort Nelson,America/Fort_Nelson,0,1821-12-05 00:00:00,1821-12-05 00:00:00,cloudy,mno,weather_0,18,251539,2214,2087
+434,Fort Nelson,America/Fort_Nelson,0,1821-12-06 00:00:00,1821-12-06 00:00:00,clear,mno,weather_0,18,251543,2214,2087
+435,Fort Nelson,America/Fort_Nelson,0,1821-12-07 00:00:00,1821-12-07 00:00:00,clear,mno,weather_0,18,251547,2214,2087
+436,Fort Nelson,America/Fort_Nelson,0,1821-12-08 00:00:00,1821-12-08 00:00:00,cloudy,mno,weather_0,18,251550,2214,2087
+437,Fort Nelson,America/Fort_Nelson,0,1821-12-09 00:00:00,1821-12-09 00:00:00,clear,mno,weather_0,18,251554,2214,2087
+438,Fort Nelson,America/Fort_Nelson,0,1821-12-10 00:00:00,1821-12-10 00:00:00,clear,mno,weather_0,18,251557,2214,2087
+439,Fort Nelson,America/Fort_Nelson,0,1821-12-11 00:00:00,1821-12-11 00:00:00,clear,mno,weather_0,18,251560,2214,2087
+440,Fort Nelson,America/Fort_Nelson,0,1821-12-12 00:00:00,1821-12-12 00:00:00,clear,mno,weather_0,18,251563,2214,2087
+441,Fort Nelson,America/Fort_Nelson,0,1821-12-13 00:00:00,1821-12-13 00:00:00,cloudy,mno,weather_0,18,251566,2214,2087
+442,Fort Nelson,America/Fort_Nelson,0,1821-12-14 00:00:00,1821-12-14 00:00:00,clear,mno,weather_0,18,251570,2214,2087
+443,Fort Nelson,America/Fort_Nelson,0,1821-12-15 00:00:00,1821-12-15 00:00:00,clear,mno,weather_0,18,251573,2214,2087
+444,Fort Nelson,America/Fort_Nelson,0,1821-12-16 00:00:00,1821-12-16 00:00:00,clear,mno,weather_0,18,251576,2214,2087
+445,Fort Nelson,America/Fort_Nelson,0,1821-12-17 00:00:00,1821-12-17 00:00:00,cloudy,mno,weather_0,18,251579,2214,2087
+446,Fort Nelson,America/Fort_Nelson,0,1821-12-18 00:00:00,1821-12-18 00:00:00,cloudy,mno,weather_0,18,251583,2214,2087
+447,Fort Nelson,America/Fort_Nelson,0,1821-12-19 00:00:00,1821-12-19 00:00:00,clear,mno,weather_0,18,251587,2214,2087
+448,Fort Nelson,America/Fort_Nelson,0,1821-12-20 00:00:00,1821-12-20 00:00:00,clear,mno,weather_0,18,251590,2214,2087
+449,Fort Nelson,America/Fort_Nelson,0,1821-12-21 00:00:00,1821-12-21 00:00:00,cloudy,mno,weather_0,18,251593,2214,2087
+450,Fort Nelson,America/Fort_Nelson,0,1821-12-22 00:00:00,1821-12-22 00:00:00,clear,mno,weather_0,18,251597,2214,2087
+451,Fort Nelson,America/Fort_Nelson,0,1821-12-23 00:00:00,1821-12-23 00:00:00,clear,mno,weather_0,18,251600,2214,2087
+452,Fort Nelson,America/Fort_Nelson,0,1821-12-24 00:00:00,1821-12-24 00:00:00,clear,mno,weather_0,18,251603,2214,2087
+453,Fort Nelson,America/Fort_Nelson,0,1821-12-25 00:00:00,1821-12-25 00:00:00,clear,mno,weather_0,18,251606,2214,2087
+454,Fort Nelson,America/Fort_Nelson,0,1821-12-26 00:00:00,1821-12-26 00:00:00,clear,mno,weather_0,18,251609,2214,2087
+455,Fort Nelson,America/Fort_Nelson,0,1821-12-27 00:00:00,1821-12-27 00:00:00,clear,mno,weather_0,18,251612,2214,2087
+456,Fort Nelson,America/Fort_Nelson,0,1821-12-28 00:00:00,1821-12-28 00:00:00,clear,mno,weather_0,18,251615,2214,2087
+457,Fort Nelson,America/Fort_Nelson,0,1821-12-29 00:00:00,1821-12-29 00:00:00,clear,mno,weather_0,18,251618,2214,2087
+458,Fort Nelson,America/Fort_Nelson,0,1821-12-30 00:00:00,1821-12-30 00:00:00,cloudy,mno,weather_0,18,251621,2214,2087
+459,Fort Nelson,America/Fort_Nelson,0,1821-12-31 00:00:00,1821-12-31 00:00:00,clear,mno,weather_0,18,251625,2214,2087
+460,Fort Nelson,America/Fort_Nelson,0,1821-10-07 00:00:00,1821-10-07 00:00:00,rainy,mno,daily_weather_remarks,129,252354,2203,2085
+461,Fort Nelson,America/Fort_Nelson,0,1821-10-08 00:00:00,1821-10-08 00:00:00,heavy rain all the day,mno,daily_weather_remarks,129,252358,2203,2085
+462,Fort Nelson,America/Fort_Nelson,0,1821-10-09 00:00:00,1821-10-09 00:00:00,misty rain,mno,daily_weather_remarks,129,252361,2203,2085
+463,Fort Nelson,America/Fort_Nelson,0,1821-10-12 00:00:00,1821-10-12 00:00:00,heavy rain at 2 o'clock pm [2pm] and at 9pm,mno,daily_weather_remarks,129,252367,2203,2085
+464,Fort Nelson,America/Fort_Nelson,0,1821-10-20 00:00:00,1821-10-20 00:00:00,white frost,mno,daily_weather_remarks,129,252369,2203,2085
+465,Fort Nelson,America/Fort_Nelson,0,1821-10-21 00:00:00,1821-10-21 00:00:00,frost,mno,daily_weather_remarks,129,252371,2203,2085
+466,Fort Nelson,America/Fort_Nelson,0,1821-10-27 00:00:00,1821-10-27 00:00:00,rain this day at 2 o'clock pm [2pm],mno,daily_weather_remarks,129,252374,2203,2085
+467,Fort Nelson,America/Fort_Nelson,0,1821-11-03 00:00:00,1821-11-03 00:00:00,rain at 8 o'clock pm [8pm],mno,daily_weather_remarks,129,249989,2204,2086
+468,Fort Nelson,America/Fort_Nelson,0,1821-11-04 00:00:00,1821-11-04 00:00:00,heavy rain all the day,mno,daily_weather_remarks,129,249990,2204,2086
+469,Fort Nelson,America/Fort_Nelson,0,1821-11-05 00:00:00,1821-11-05 00:00:00,misty and rain all the day,mno,daily_weather_remarks,129,249991,2204,2086
+470,Fort Nelson,America/Fort_Nelson,0,1821-11-06 00:00:00,1821-11-06 00:00:00,heavy rain at 9 o'clock pm [9pm],mno,daily_weather_remarks,129,249992,2204,2086
+471,Fort Nelson,America/Fort_Nelson,0,1821-11-09 00:00:00,1821-11-09 00:00:00,thunder and lightning with rain at 9 o'clock pm [9,mno,daily_weather_remarks,129,249993,2204,2086
+472,Fort Nelson,America/Fort_Nelson,0,1821-11-23 00:00:00,1821-11-23 00:00:00,continual rain all day,mno,daily_weather_remarks,129,249994,2204,2086
+473,Fort Nelson,America/Fort_Nelson,0,1821-11-24 00:00:00,1821-11-24 00:00:00,heavy rain all day,mno,daily_weather_remarks,129,249995,2204,2086
+474,Fort Nelson,America/Fort_Nelson,0,1821-11-30 00:00:00,1821-11-30 00:00:00,rain at 9pm,mno,daily_weather_remarks,129,249996,2204,2086
+475,Fort Nelson,America/Fort_Nelson,0,1821-12-01 00:00:00,1821-12-01 00:00:00,rain at 4 pm,mno,daily_weather_remarks,129,251526,2214,2087
+476,Fort Nelson,America/Fort_Nelson,0,1821-12-02 00:00:00,1821-12-02 00:00:00,heavy fog with rain,mno,daily_weather_remarks,129,251530,2214,2087
+477,Fort Nelson,America/Fort_Nelson,0,1821-12-05 00:00:00,1821-12-05 00:00:00,continual rain all this day,mno,daily_weather_remarks,129,251540,2214,2087
+478,Fort Nelson,America/Fort_Nelson,0,1821-12-13 00:00:00,1821-12-13 00:00:00,heavy rain all this day,mno,daily_weather_remarks,129,251567,2214,2087
+479,Fort Nelson,America/Fort_Nelson,0,1821-12-17 00:00:00,1821-12-17 00:00:00,rain at 5 oclock pm,mno,daily_weather_remarks,129,251580,2214,2087
+480,Fort Nelson,America/Fort_Nelson,0,1821-12-18 00:00:00,1821-12-18 00:00:00,rain from 7 am to 2 pm,mno,daily_weather_remarks,129,251584,2214,2087
+481,Fort Nelson,America/Fort_Nelson,0,1821-12-21 00:00:00,1821-12-21 00:00:00,hail at 8 oclock pm,mno,daily_weather_remarks,129,251594,2214,2087
+482,Fort Nelson,America/Fort_Nelson,0,1821-12-30 00:00:00,1821-12-30 00:00:00,heavy rain all this day,mno,daily_weather_remarks,129,251622,2214,2087
