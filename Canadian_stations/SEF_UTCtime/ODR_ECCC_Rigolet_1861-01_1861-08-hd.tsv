@@ -1,0 +1,75 @@
+SEF	1.0.0
+ID	RigoletCanada
+Name	Rigolet
+Lat	54.18
+Lon	301.46
+Alt	unknown
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	hd
+Stat	point
+Unit	deg
+Meta		UTCOffset=Applied	UTCOffset=4
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1861	01	12	01	00	0	135	|	orig=South-East dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	01	21	01	00	0	0	|	orig=North dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	01	22	01	00	0	0	|	orig=North dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	01	23	01	00	0	0	|	orig=North dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	01	24	01	00	0	0	|	orig=North dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	01	25	01	00	0	0	|	orig=North dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	01	26	01	00	0	225	|	orig=South-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	01	27	01	00	0	0	|	orig=North dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	01	31	01	00	0	135	|	orig=South-East dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	02	01	01	00	0	45	|	orig=North-East dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-01-01_OBS-L.jpg
+1861	02	15	01	00	0	45	|	orig=North-East dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-02-01_OBS-L.jpg
+1861	03	02	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	03	03	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	03	11	01	00	0	225	|	orig=South-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	03	23	01	00	0	270	|	orig=West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	03	25	01	00	0	270	|	orig=West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	03	26	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	03	27	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	03	29	01	00	0	270	|	orig=West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	03	30	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	04	01	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-03-01_OBS-L.jpg
+1861	04	14	01	00	0	270	|	orig=West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-04-01_OBS-L.jpg
+1861	06	02	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	06	03	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	06	04	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	06	05	01	00	0	45	|	orig=North-East dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	06	06	01	00	0	45	|	orig=North-East dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	06	13	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	06	19	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	06	29	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	06	30	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-06-01_OBS-L.jpg
+1861	07	02	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	04	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	05	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	06	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	07	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	08	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	09	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	10	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	11	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	12	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	13	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	14	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	15	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	16	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	17	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	18	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	19	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	20	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	21	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	22	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	23	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	24	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	25	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	26	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	27	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	28	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	29	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	30	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	07	31	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	08	01	01	00	0	-999	|	orig=Empty dir|Local time: 2100|QC flag: missing|Image File: Rigolet_USSI-401_M1958_1861-07-01_OBS-L.jpg
+1861	08	18	01	00	0	315	|	orig=North-West dir|Local time: 2100|QC flag: None|Image File: Rigolet_USSI-401_M1958_1861-08-01_OBS-L.jpg
