@@ -1,0 +1,92 @@
+SEF	1.0.0
+ID	FortRaeCanada
+Name	FortRae
+Lat	62.81
+Lon	244
+Alt	unknown
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	pte
+Stat	point
+Unit	hour
+Meta		UTCOffset=Applied	UTCOffset=7
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1859	10	01	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	02	00	00	24	9am	|	orig=9am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	03	00	00	24	3am	|	orig=3am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	04	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	05	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	06	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	07	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	08	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	09	00	00	24	-999	|	orig=- hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1859	10	10	00	00	24	empty	|	orig=Empty hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-201_M1958_1859-10-01_OBS-L.jpg
+1861	09	10	00	00	24	4 pm	|	orig=4 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-09-01_OBS-F.jpg
+1861	09	21	00	00	24	12	|	orig=12 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-09-01_OBS-F.jpg
+1861	09	24	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-09-01_OBS-F.jpg
+1861	10	12	00	00	24	4 pm	|	orig=4 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-10-01_OBS-F.jpg
+1861	10	16	00	00	24	11 am	|	orig=11 am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-10-01_OBS-F.jpg
+1861	10	21	00	00	24	1 pm	|	orig=1 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-10-01_OBS-F.jpg
+1861	10	26	00	00	24	6 pm	|	orig=6 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-10-01_OBS-F.jpg
+1861	11	03	00	00	24	3pm	|	orig=3pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-11-01_OBS-F.jpg
+1861	11	05	00	00	24	7pm	|	orig=7pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-11-01_OBS-F.jpg
+1861	11	07	00	00	24	11 1/2 [11:30]am	|	orig=11 1/2 [11:30]am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-11-01_OBS-F.jpg
+1861	11	08	00	00	24	6 1/2 [6:30]pm	|	orig=6 1/2 [6:30]pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-11-01_OBS-F.jpg
+1861	11	09	00	00	24	11am	|	orig=11am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-11-01_OBS-F.jpg
+1861	11	13	00	00	24	11 1/2 [11:30]am	|	orig=11 1/2 [11:30]am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-11-01_OBS-F.jpg
+1861	11	18	00	00	24	6pm	|	orig=6pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-11-01_OBS-F.jpg
+1861	11	23	00	00	24	4pm	|	orig=4pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-11-01_OBS-F.jpg
+1861	11	25	00	00	24	2pm	|	orig=2pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-11-01_OBS-F.jpg
+1861	12	11	00	00	24	7 pm	|	orig=7 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1861-12-01_OBS-F.jpg
+1862	01	29	00	00	24	7pm	|	orig=7pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-01-01_OBS-F.jpg
+1862	02	15	00	00	24	5 pm	|	orig=5 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	17	00	00	24	10 am	|	orig=10 am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	19	00	00	24	12 pm	|	orig=12 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	02	20	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-02-01_OBS-F.jpg
+1862	03	01	00	00	24	10 am	|	orig=10 am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-03-01_OBS-F.jpg
+1862	03	07	00	00	24	5 pm	|	orig=5 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-03-01_OBS-F.jpg
+1862	03	13	00	00	24	4 pm	|	orig=4 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-03-01_OBS-F.jpg
+1862	03	22	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-03-01_OBS-F.jpg
+1862	03	23	00	00	24	7 pm	|	orig=7 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-03-01_OBS-F.jpg
+1862	03	25	00	00	24	7 pm	|	orig=7 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-03-01_OBS-F.jpg
+1862	04	25	00	00	24	1am	|	orig=1am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-04-01_OBS-F.jpg
+1862	05	06	00	00	24	5 1/4 [5:15]pm	|	orig=5 1/4 [5:15]pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-05-01_OBS-F.jpg
+1862	05	08	00	00	24	6 1/6 [6:10]am	|	orig=6 1/6 [6:10]am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-05-01_OBS-F.jpg
+1862	05	09	00	00	24	7 1/12 [7:05]am	|	orig=7 1/12 [7:05]am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-05-01_OBS-F.jpg
+1862	05	26	00	00	24	2 1/4 [2:15]pm	|	orig=2 1/4 [2:15]pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-05-01_OBS-F.jpg
+1862	06	05	00	00	24	9:30 am	|	orig=9:30 am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-06-01_OBS-F.jpg
+1862	09	18	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	19	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	20	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	21	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	22	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	23	00	00	24	6pm	|	orig=6pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	24	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	25	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	26	00	00	24	9am	|	orig=9am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	27	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	28	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	29	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	09	30	00	00	24	0	|	orig=0 hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-09-01_OBS-F.jpg
+1862	10	02	00	00	24	10 am	|	orig=10 am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-10-01_OBS-F.jpg
+1862	10	08	00	00	24	7 pm	|	orig=7 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-10-01_OBS-F.jpg
+1862	10	10	00	00	24	10 pm	|	orig=10 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-10-01_OBS-F.jpg
+1862	10	14	00	00	24	9 am	|	orig=9 am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-10-01_OBS-F.jpg
+1862	10	18	00	00	24	10 pm	|	orig=10 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-10-01_OBS-F.jpg
+1862	10	20	00	00	24	10 pm	|	orig=10 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-10-01_OBS-F.jpg
+1862	11	06	00	00	24	9 pm	|	orig=9 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-11-01_OBS-F.jpg
+1862	11	10	00	00	24	12 am	|	orig=12 am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-11-01_OBS-F.jpg
+1862	11	18	00	00	24	8 pm	|	orig=8 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-11-01_OBS-F.jpg
+1862	12	04	00	00	24	5 am	|	orig=5 am hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-12-01_OBS-F.jpg
+1862	12	05	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-12-01_OBS-F.jpg
+1862	12	27	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-12-01_OBS-F.jpg
+1862	12	28	00	00	24	4 pm	|	orig=4 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1862-12-01_OBS-F.jpg
+1863	03	02	00	00	24	1 pm	|	orig=1 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1863-03-01_OBS-F.jpg
+1863	04	05	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	18	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	05	18	00	00	24	9 pm	|	orig=9 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	05	29	00	00	24	1 pm	|	orig=1 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1863-05-01_OBS-F.jpg
+1863	06	05	00	00	24	-999	|	orig=Illegible hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1863-06-01_OBS-F.jpg
+1863	06	07	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1863-06-01_OBS-F.jpg
+1863	06	11	00	00	24	4:15 pm	|	orig=4:15 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1863-06-01_OBS-F.jpg
+1863	06	13	00	00	24	2 pm	|	orig=2 pm hr|Local time: mean|QC flag: None|Image File: FortRae_USSI-206_M1958_1863-06-01_OBS-F.jpg
