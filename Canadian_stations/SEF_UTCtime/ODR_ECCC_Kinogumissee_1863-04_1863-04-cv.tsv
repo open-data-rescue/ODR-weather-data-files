@@ -1,0 +1,23 @@
+SEF	1.0.0
+ID	KinogumisseeCanada
+Name	Kinogumissee
+Lat	49.83
+Lon	276.0
+Alt	84
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	cv
+Stat	point
+Unit	0-10
+Meta		UTCOffset=Applied	UTCOffset=5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1863	04	09	12	00	0	0	|	orig=0 cloudvel|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	09	19	00	0	2	|	orig=2 cloudvel|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	10	02	00	0	0	|	orig=0 cloudvel|Local time: 2100|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	10	12	00	0	0	|	orig=0 cloudvel|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	10	19	00	0	1	|	orig=1 cloudvel|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	11	02	00	0	0	|	orig=0 cloudvel|Local time: 2100|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	11	12	00	0	0	|	orig=0 cloudvel|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	11	19	00	0	0	|	orig=0 cloudvel|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	12	02	00	0	0	|	orig=0 cloudvel|Local time: 2100|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	12	12	00	0	0	|	orig=0 cloudvel|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg

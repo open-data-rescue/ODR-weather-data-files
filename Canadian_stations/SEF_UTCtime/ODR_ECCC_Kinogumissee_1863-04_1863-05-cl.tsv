@@ -1,0 +1,41 @@
+SEF	1.0.0
+ID	KinogumisseeCanada
+Name	Kinogumissee
+Lat	49.83
+Lon	276.0
+Alt	84
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	cl
+Stat	point
+Unit	cloudatlas
+Meta		UTCOffset=Applied	UTCOffset=5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1863	04	08	12	00	0	Cl0	|	orig=Empty lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	09	12	00	0	Ch6	|	orig=Cirrus lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	09	19	00	0	-999	|	orig=Illegible lct|Local time: 1400|QC flag: missing|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	10	02	00	0	Cl7	|	orig=Nimbus lct|Local time: 2100|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	10	12	00	0	Cl7	|	orig=Nimbus lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	10	19	00	0	Cl4	|	orig=Cumulo-stratus lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	11	02	00	0	Cl0	|	orig=0 lct|Local time: 2100|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	11	12	00	0	Cl0	|	orig=0 lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	11	19	00	0	Cl0	|	orig=0 lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	12	02	00	0	Cl0	|	orig=0 lct|Local time: 2100|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	12	12	00	0	Cl0	|	orig=0 lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	23	12	00	0	Cl0	|	orig=Empty lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	23	19	00	0	Cl0	|	orig=Empty lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	24	12	00	0	Cl0	|	orig=Empty lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	24	19	00	0	Cl0	|	orig=Empty lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	25	12	00	0	Cl0	|	orig=Empty lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	25	19	00	0	Cl0	|	orig=Empty lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	26	12	00	0	Cl0	|	orig=Empty lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	26	19	00	0	Cl0	|	orig=Empty lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	27	12	00	0	Cl0	|	orig=Empty lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	27	19	00	0	Cl0	|	orig=Empty lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	28	12	00	0	Cl0	|	orig=Empty lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	28	19	00	0	Cl0	|	orig=Empty lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	29	12	00	0	Cl0	|	orig=Empty lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	29	19	00	0	Cl0	|	orig=Empty lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	30	12	00	0	Cl0	|	orig=Empty lct|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	30	19	00	0	Cl0	|	orig=Empty lct|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	05	01	02	00	0	Cl0	|	orig=Empty lct|Local time: 2100|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg

@@ -1,0 +1,19 @@
+SEF	1.0.0
+ID	HatleyCanada
+Name	Hatley
+Lat	45.3
+Lon	288.05
+Alt	250
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	w
+Stat	point
+Unit	mps
+Meta		UTCOffset=Applied	UTCOffset=5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1836	06	08	11	00	0	0	|	orig=Empty Sm|Local time: 0600|QC flag: None|Image File: Hatley_CUS-120_FORTS_1836-06-01_OBS-F.png
+1836	06	09	11	00	0	0	|	orig=Empty Sm|Local time: 0600|QC flag: None|Image File: Hatley_CUS-120_FORTS_1836-06-01_OBS-F.png
+1836	06	10	11	00	0	0	|	orig=Empty Sm|Local time: 0600|QC flag: None|Image File: Hatley_CUS-120_FORTS_1836-06-01_OBS-F.png
+1836	06	11	11	00	0	0	|	orig=Empty Sm|Local time: 0600|QC flag: None|Image File: Hatley_CUS-120_FORTS_1836-06-01_OBS-F.png
+1836	06	12	11	00	0	0	|	orig=Empty Sm|Local time: 0600|QC flag: None|Image File: Hatley_CUS-120_FORTS_1836-06-01_OBS-F.png
+1836	06	13	11	00	0	0	|	orig=Empty Sm|Local time: 0600|QC flag: None|Image File: Hatley_CUS-120_FORTS_1836-06-01_OBS-F.png

@@ -1,0 +1,18 @@
+SEF	1.0.0
+ID	KinogumisseeCanada
+Name	Kinogumissee
+Lat	49.83
+Lon	276.0
+Alt	84
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	hd
+Stat	point
+Unit	deg
+Meta		UTCOffset=Applied	UTCOffset=5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1863	04	09	12	00	0	270	|	orig=West dir|Local time: 0700|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	09	19	00	0	270	|	orig=West dir|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	10	02	00	0	225	|	orig=South-West dir|Local time: 2100|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	10	12	00	0	-999	|	orig=0 dir|Local time: 0700|QC flag: missing|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
+1863	04	10	19	00	0	270	|	orig=West dir|Local time: 1400|QC flag: None|Image File: Kinogumissee_USSI-206_M1958_1863-04-01_OBS-F.jpg
