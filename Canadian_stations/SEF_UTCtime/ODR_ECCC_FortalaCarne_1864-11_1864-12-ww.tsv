@@ -1,0 +1,56 @@
+SEF	1.0.0
+ID	FortalaCarneCanada
+Name	FortalaCarne
+Lat	53.23
+Lon	255.18
+Alt	440
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	ww
+Stat	point
+Unit	manual observation
+Meta		UTCOffset=Applied	UTCOffset=6
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1864	11	03	00	00	24	RA	|	orig=Rained lightly for about an hour last night; this morning the ground frozen hard mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	04	00	00	24	SN	|	orig=A few flakes of snow fell this morning about 1/2 past six [6:30am]. The greatest degree of cold during the night 24° mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	05	00	00	24	SN	|	orig=Begun to snow at 3pm. Turned to rain at 4pm. Still raining at 10pm. Small rain mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	06	00	00	24	SN	|	orig=Begun to snow at 2am. Continued snowing until 1pm. Depth of fallen snow  then 2 inches. Snowed again a little this evening mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	07	00	00	24	-999	|	orig=At 1am the river a mass of floating ice. At 2pm half frozen over mno|Local time: daily|QC flag: missing|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	10	00	00	24	-999	|	orig=Still floating ice in the middle of the river mno|Local time: daily|QC flag: missing|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	11	00	00	24	-999	|	orig=The river still open in the middle. about 1/2 past 10 PM [10:30pm] motion of higher clouds from NW to South West, Velocity 5 mno|Local time: daily|QC flag: missing|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	11	00	00	24	SN	|	orig=Begun to snow heavily at 7am. Continued so for an hour. Then snowed lightly until 11am mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	13	00	00	24	HALO	|	orig=The same weather as yesterday. At 1/2 past 10 PM [10:30pm] a large halo round the moon of a  yellowish colur. Motion of higher clouds from North to South East. Velocity 4 mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	13	00	00	24	SN	|	orig=Very mild weather, snow melting on the ground and dripping like rain from the roofs of the houses. A very heavy fall of snow this afternoon mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	14	00	00	24	-999	|	orig=The river entirely frozen over opposite the Fort, but a little higher up, within sight, still an open space. About 10pm amount of cloudiness 8. Motion of higher clouds from South East to N. Velocity 3 mno|Local time: daily|QC flag: missing|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	16	00	00	24	SKC	|	orig=The river altogether frozen over, crossed over it this morning for the first time. Beautifully clear last night, not a cloud seen mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	17	00	00	24	-999	|	orig=Thawing all day mno|Local time: daily|QC flag: missing|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	18	00	00	24	SN	|	orig=A thick heavy fog this morning. Cleared away gradually until 8am when it disappeared altogether. Began to snow at 10pm mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	19	00	00	24	SN	|	orig=Continued snowing all day. At intervals large heavy flakes,  ceased altogether at 3pm. Depth of fallen snow 6 inches mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	20	00	00	24	HALO	|	orig=Clear starry night last night. Very early this morning a halo round the moon the outer rim of a dark colour, the inner rim yellowish colour. mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	22	00	00	24	-999	|	orig=The greatest degree of cold during the night, past -30° mno|Local time: daily|QC flag: missing|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	24	00	00	24	RA	|	orig=About 10pm a very heavy mist; I could almost call it small rain, but being so perfectly dark nothing can be distinguished mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	26	00	00	24	RA	|	orig=Drizzling rain for about an hour this forenoon. Began to clear up at 4pm quite clear by 9pm. At 10pm a dense mist: cleared in half an hour. Aurora of a light colour. Stretching from North to East. Thawing all day mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	27	00	00	24	RA	|	orig=At 10pm small drizzling rain for half an hour. A dense fog after it. Cleared up about 5am [on the] 28th mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	28	00	00	24	SN	|	orig=A slight fall of snow, small flakes, for about a quarter of an hour from 3pm to 3:15pm mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	11	29	00	00	24	SN	|	orig=A dense fog this morning, partially cleared up by 8am. Hung over the woods until snow fell at 5pm but it disappeared, still cloudy at 10 1/2 PM [10:30pm] only two stars visible but very dim. Snow which fell this evening very small and round mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-11-01_CP-I.jpg
+1864	12	01	00	00	24	SN	|	orig=Snowing from 6:30am to 9pm, interrupted snow, small flakes mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	03	00	00	24	SN	|	orig=Snowed lightly for 15 minutes today, small snow mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	04	00	00	24	SN	|	orig=Small snow again the same as yesterday mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	05	00	00	24	SN	|	orig=Interrupted snow from 2pm. Still snowing and blowing at 10pm. Cannot say when it ceased mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	06	00	00	24	AU	|	orig=10pm The coldest night we had yet. Clear and starry. No aurora mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	08	00	00	24	HALO	|	orig=10:30pm. A large halo round the moon. Very faint pale colour. The greatest degree of cold during the night. Frost -40° mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	09	00	00	24	SN	|	orig=The greatest degree of cold during the night frost -41°. Snowed a little this afternoon. Very small snow mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	10	00	00	24	FG	|	orig=The greatest degree of cold last night -46°. A dense fog this morning, cleared away by 7am mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	11	00	00	24	FG	|	orig=The greatest degree of cold last night [illegible]. Another dense fog this morning, cleared away by 8am mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	13	00	00	24	SN	|	orig=Fine clear sky in the morning. About 9am. A north [illegible] accompanied with heavy mist, followed a short time by snow. Very small flakes. Cleared up again at 4pm. Fine starry night no haze mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	17	00	00	24	SN	|	orig=Snow at intervals the whole forenoon. Small snow mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	18	00	00	24	SN	|	orig=A few flakes of small snow falling at intervals the whole forenoon mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	19	00	00	24	SN	|	orig=Snowed heavily for about an hour, then interrupted snow the rest of the time . Turned out calm and clear by 2pm, calm the whole afternoon. At 9pm a storm of wind arose (a soft wind) Can scarcely distinguish from what quarter in the night has turned out dark as near as I can tell from the North East mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	22	00	00	24	SN	|	orig=At 9pm a very heavy fall of snow. Large flat flakes mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	23	00	00	24	BKN	|	orig=Cloudy in the morning. Began to clear up at 8, at 10am a [illegible] sun, brighter on the East side of the [illegible] the faintest on the west side faded away first mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	24	00	00	24	SN	|	orig=Hail in the early part of the morning, followed by snow. Large heavy flakes mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	25	00	00	24	SN	|	orig=Snowing again all day but interrupted. Small snow mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	28	00	00	24	SN	|	orig=Beautiful red sky at sunrise to the East and south, in an hour's time the sky entirely overcast. Snowing very very heavily the whole afternoon, and blowing strong and drifting in the evening mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	29	00	00	24	SN	|	orig=Snowing the whole forenoon but small light snow mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	30	00	00	24	SN	|	orig=Slight interrupted snow mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg
+1864	12	31	00	00	24	SN	|	orig=A slight fall of snow. The snow dripping off the houses like rain at 2pm mno|Local time: daily|QC flag: None|Image File: FortalaCarne_USSI-401_M1958_1864-12-01_CP-I.jpg

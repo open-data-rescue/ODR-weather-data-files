@@ -1,0 +1,43 @@
+SEF	1.0.0
+ID	CliftonCanada
+Name	Clifton
+Lat	43.12
+Lon	280.93
+Alt	180
+Source	ODR
+Link	https://opendatarescue.org
+Vbl	Tx
+Stat	point
+Unit	C
+Meta		UTCOffset=Applied	UTCOffset=5
+Year	Month	Day	Hour	Minute	Period	Value	|	Meta
+1868	06	01	00	00	24	15.56	|	orig=60 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	02	00	00	24	16.67	|	orig=62 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	03	00	00	24	17.78	|	orig=64 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	04	00	00	24	23.89	|	orig=75 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	05	00	00	24	24.44	|	orig=76 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	06	00	00	24	23.89	|	orig=75 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	07	00	00	24	16.67	|	orig=62 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	08	00	00	24	22.22	|	orig=72 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	09	00	00	24	17.78	|	orig=64 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	10	00	00	24	18.33	|	orig=65 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	11	00	00	24	20.56	|	orig=69 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	12	00	00	24	22.22	|	orig=72 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	13	00	00	24	32.78	|	orig=91 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	14	00	00	24	33.89	|	orig=93 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	15	00	00	24	35.56	|	orig=96 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	16	00	00	24	30.00	|	orig=86 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	17	00	00	24	32.78	|	orig=91 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	18	00	00	24	34.44	|	orig=94 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	19	00	00	24	33.89	|	orig=93 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	20	00	00	24	27.78	|	orig=82 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	21	00	00	24	22.22	|	orig=72 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	22	00	00	24	27.22	|	orig=81 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	23	00	00	24	29.44	|	orig=85 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	24	00	00	24	29.44	|	orig=85 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	25	00	00	24	26.67	|	orig=80 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	26	00	00	24	26.11	|	orig=79 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	27	00	00	24	26.67	|	orig=80 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	28	00	00	24	27.78	|	orig=82 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	29	00	00	24	34.44	|	orig=94 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
+1868	06	30	00	00	24	31.67	|	orig=89 F|Local time: daily|QC flag: None|Image File: Clifton_RMO-100_M1958_1868-06-01_OBS-F.jpg
