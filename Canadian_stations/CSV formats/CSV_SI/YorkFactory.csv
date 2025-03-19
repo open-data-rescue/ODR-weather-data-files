@@ -1,0 +1,147 @@
+"StationName","latitude","longitude","elevation","timeZone","UTCoffset","WMOID","MSCID"
+"YorkFactory","57.0","-92.3","15.5","America/Winnipeg","6","71618","5063350"
+"Short_Name","What","Material","Error","Units","Seasonality","Data_Type","Detail","Method","Data_Format","Additional_Information"
+"p","surface pressure","atmospheric material",NA,"hPa","sub-daily","instrumental","observation","field method","n"
+"atb","temperature","atmospheric material",NA,"C","sub-daily","instrumental","observation","field method","n"
+"p_cor","surface pressure","atmospheric material",NA,"hPa","sub-daily","instrumental","corrected","computational method","n"
+"tb","humidity","atmospheric material",NA,"C","sub-daily","instrumental","observation","field method","n"
+"e","specific humidity","atmospheric material",NA,"hPa","sub-daily","instrumental","observation","computational method","n"
+"rh","relative humidity","atmospheric material",NA,"%","sub-daily","instrumental","calculated","computational method","n"
+"ch","cloud type","atmospheric material",NA,"cloudatlas","sub-daily","historical","observation","field method","c"
+"hd","wind direction","atmospheric material",NA,"degrees","sub-daily","historical","observation","field method","n"
+"w","wind speed","atmospheric material",NA,"mps","sub-daily","instrumental","observation","field method","n"
+"cl","cloud type","atmospheric material",NA,"cloudatlas","sub-daily","historical","observation","field method","c"
+"cd","wind direction","atmospheric material",NA,"degrees","sub-daily","historical","observation","field method","n"
+"nl","cloud cover","atmospheric material",NA,"okta","sub-daily","historical","observation","field method","n"
+"sd","snowfall","snow",NA,"mm","sub-daily","instrumental","observation","field method","n"
+"pr","precipitation","precipitation",NA,"mm","sub-daily","instrumental","observation","field method","n"
+"Tx","maximum air temperature","atmospheric material",NA,"C","daily","instrumental","observation","field method","n"
+"Tn","minimum air temperature","atmospheric material",NA,"C","daily","instrumental","observation","field method","n"
+"au","phenomenon","atmospheric material",NA,"text","daily","historical","observation","field method","c"
+"p_cor_mean","surface pressure","atmospheric material",NA,"hPa","daily","instrumental","mean","computational method","n"
+"ta_mean","air temperature","atmospheric material",NA,"C","daily","instrumental","mean","computational method","n"
+"cv","wind speed","atmospheric material",NA,"mps","sub-daily","historical","observation","field method","n"
+"ptb","hour","atmospheric material",NA,"hh:mm","sub-daily","instrumental","observation","field method","c"
+"pte","hour","atmospheric material",NA,"hh:mm","sub-daily","instrumental","observation","field method","c"
+"tdb","air temperature","atmospheric material",NA,"C","sub-daily","instrumental","observation","field method","n"
+"e_mean","specific humidity","atmospheric material",NA,"hPa","daily","instrumental","mean","computational method","n"
+"hv","wind direction","atmospheric material",NA,"mps","sub-daily","historical","observation","field method","n"
+"tdb_mean","air temperature","atmospheric material",NA,"C","daily","instrumental","mean","computational method","n"
+"rh_mean","relative humidity","atmospheric material",NA,"%","daily","instrumental","mean","computational method","n"
+"ObservationDate","cd","ch","cl","cv","e","e_mean","hd","hv","nl","p","pr","ptb","pte","rh","rh_mean","sd","ta_mean","tb","tdb","Tn","Tx","w"
+1876-02-01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-36.21,NA,NA,-42.78,-33.33,NA
+1876-02-01 07:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-01 14:00:00,NA,NA,"cirrus",NA,NA,NA,225,NA,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-01 21:00:00,NA,NA,"haze",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-32.5,NA,NA,-37.22,-29.72,NA
+1876-02-02 07:00:00,NA,NA,"stratus",NA,NA,NA,225,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-02 14:00:00,NA,NA,"cirro-stratus",NA,NA,NA,270,NA,5.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-02 21:00:00,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-44.26,NA,NA,-44.72,-28.89,NA
+1876-02-03 07:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+1876-02-03 14:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-03 21:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.25,"8 pm","midnight",NA,NA,NA,-39.63,NA,NA,-47.22,-38.89,NA
+1876-02-04 07:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-04 14:00:00,NA,NA,"cirrus",NA,NA,NA,180,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-04 21:00:00,NA,NA,"cumulus",NA,NA,NA,180,NA,3.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"9 pm",NA,NA,NA,NA,-29.07,NA,NA,-38.89,-25,NA
+1876-02-05 07:00:00,NA,NA,"cirrus",NA,NA,NA,180,NA,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-05 14:00:00,NA,NA,"cirrus",NA,NA,NA,270,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-05 21:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.25,NA,"2 am",NA,NA,NA,-37.22,NA,NA,-40,-24.17,NA
+1876-02-06 07:00:00,NA,NA,"cirrus",NA,NA,NA,180,NA,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-06 14:00:00,NA,NA,"cirrus",NA,NA,NA,270,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-06 21:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-36.94,NA,NA,-43.06,-30.83,NA
+1876-02-07 07:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-07 14:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-07 21:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.25,"9 am","11 am",NA,NA,NA,-30.09,NA,NA,-37.22,-25.56,NA
+1876-02-08 07:00:00,NA,NA,"cumulus",NA,NA,NA,270,NA,5.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-08 14:00:00,NA,NA,"cirro-stratus fog",NA,NA,NA,270,NA,3.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-08 21:00:00,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-32.04,NA,NA,-36.67,-25.56,NA
+1876-02-09 07:00:00,NA,NA,"haze cirrus",NA,NA,NA,90,NA,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-09 14:00:00,NA,NA,"cirrus fog",NA,NA,NA,90,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-09 21:00:00,NA,NA,"cumulus",NA,NA,NA,90,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.27,"noon",NA,NA,NA,NA,-25.74,NA,NA,-32.22,-23.33,NA
+1876-02-10 07:00:00,NA,NA,"haze cumulus",NA,NA,NA,90,NA,4.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-10 14:00:00,NA,NA,"nimbus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+1876-02-10 21:00:00,NA,NA,"nimbus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20
+1876-02-11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.35,NA,NA,NA,NA,NA,-21.85,NA,NA,-24.44,-19.44,NA
+1876-02-11 07:00:00,NA,NA,"nimbus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+1876-02-11 14:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16
+1876-02-11 21:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16
+1876-02-12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.02,NA,"10 am",NA,NA,NA,-25.18,NA,NA,-25.56,-20.56,NA
+1876-02-12 07:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+1876-02-12 14:00:00,NA,NA,"cumulus",NA,NA,NA,135,NA,3.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-12 21:00:00,NA,NA,"cirrus",NA,NA,NA,135,NA,3.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-29.17,NA,NA,-33.33,-21.11,NA
+1876-02-13 07:00:00,NA,NA,"cumulus",NA,NA,NA,90,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1876-02-13 14:00:00,NA,NA,"cirrus",NA,NA,NA,90,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-13 21:00:00,NA,NA,"cirrus",NA,NA,NA,45,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.25,"9 pm","midnight",NA,NA,NA,-24.54,NA,NA,-31.67,-23.06,NA
+1876-02-14 07:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-14 14:00:00,NA,NA,"cirro-cumulus",NA,NA,NA,45,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-14 21:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-21.94,NA,NA,-29.72,-20,NA
+1876-02-15 07:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1876-02-15 14:00:00,NA,NA,"cumulus fog",NA,NA,NA,45,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-15 21:00:00,NA,NA,"cumulus fog",NA,NA,NA,45,NA,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-24.63,NA,NA,-31.67,-19.44,NA
+1876-02-16 07:00:00,NA,NA,"haze",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-16 14:00:00,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-16 21:00:00,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1876-02-17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"9 pm",NA,NA,NA,NA,-16.02,NA,NA,-31.11,-12.22,NA
+1876-02-17 07:00:00,NA,NA,"cirro-stratus",NA,NA,NA,0,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-17 14:00:00,NA,NA,"cirro-cumulus",NA,NA,NA,0,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-17 21:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.52,NA,NA,NA,NA,NA,-14.17,NA,NA,-13.89,-8.33,NA
+1876-02-18 07:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-18 14:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-18 21:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+1876-02-19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.76,NA,"11 am",NA,NA,NA,-29.44,NA,NA,-30,-9.44,NA
+1876-02-19 07:00:00,NA,NA,"cumulo-stratus",NA,NA,NA,315,NA,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+1876-02-19 14:00:00,NA,NA,"cumulo-stratus",NA,NA,NA,315,NA,7.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-19 21:00:00,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"pm",NA,NA,NA,NA,-30.46,NA,NA,-38.89,-26.67,NA
+1876-02-20 07:00:00,NA,NA,"cirro-stratus",NA,NA,NA,90,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-20 14:00:00,NA,NA,"cirro-stratus",NA,NA,NA,90,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1876-02-20 21:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.03,NA,NA,NA,NA,NA,-27.59,NA,NA,-27.78,-22.78,NA
+1876-02-21 07:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-21 14:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+1876-02-21 21:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20
+1876-02-22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.03,NA,"3 pm",NA,NA,NA,-33.15,NA,NA,NA,-23.33,NA
+1876-02-22 07:00:00,NA,NA,"nimbus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16
+1876-02-22 14:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+1876-02-22 21:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+1876-02-23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-32.78,NA,NA,-33.89,-30.56,NA
+1876-02-23 07:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-23 14:00:00,NA,NA,"cirrus fog",NA,NA,NA,315,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-23 21:00:00,NA,NA,"cirrus fog",NA,NA,NA,315,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-33.43,NA,NA,-36.67,-29.44,NA
+1876-02-24 07:00:00,NA,NA,"cirrus",NA,NA,NA,315,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-24 14:00:00,NA,NA,"cirrus",NA,NA,NA,315,NA,2.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-24 21:00:00,NA,NA,"cirrus",NA,NA,NA,315,NA,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-36.02,NA,NA,-37.22,-31.11,NA
+1876-02-25 07:00:00,NA,NA,"cirrus fog",NA,NA,NA,315,NA,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-25 14:00:00,NA,NA,"cirrus fog",NA,NA,NA,90,NA,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-25 21:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1876-02-26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-33.89,NA,NA,-43.33,-29.44,NA
+1876-02-26 07:00:00,NA,NA,"fog",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1876-02-26 14:00:00,NA,NA,"cirrus",NA,NA,NA,135,NA,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-26 21:00:00,NA,NA,"cirrus",NA,NA,NA,135,NA,1.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-22.41,NA,NA,-29.44,-18.33,NA
+1876-02-27 07:00:00,NA,NA,"cumulo-stratus",NA,NA,NA,180,NA,3.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-27 14:00:00,NA,NA,"cirro-stratus",NA,NA,NA,180,NA,4.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-27 21:00:00,NA,NA,"stratus",NA,NA,NA,180,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.51,"1,40 pm","11,50 pm",NA,NA,NA,-18.33,NA,NA,NA,-17.22,NA
+1876-02-28 07:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+1876-02-28 14:00:00,NA,NA,"stratus",NA,NA,NA,NA,NA,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+1876-02-28 21:00:00,NA,NA,"nimbus",NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1876-02-29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-24.17,NA,NA,-29.17,-16.39,NA
+1876-02-29 07:00:00,NA,NA,"cumulo-stratus",NA,NA,NA,315,NA,2.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1876-02-29 14:00:00,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1876-02-29 21:00:00,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0

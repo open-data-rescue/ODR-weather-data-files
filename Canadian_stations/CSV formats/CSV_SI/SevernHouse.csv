@@ -1,0 +1,7 @@
+"StationName","latitude","longitude","elevation","timeZone","UTCoffset","WMOID","MSCID"
+"SevernHouse","56.1","-89","14","America/Winnipeg","6","71099","6012501"
+"Short_Name","What","Material","Error","Units","Seasonality","Data_Type","Detail","Method","Data_Format","Additional_Information"
+"ta","air temperature","atmospheric material",NA,"C","sub-daily","instrumental","observation","field method","n"
+"ww","weather","atmospheric material",NA,"synop","sub-daily","historical","observation","field method","c"
+"dd","wind direction","atmospheric material",NA,"degrees","sub-daily","historical","observation","field method","n"
+"ObservationDate","dd","ta","ww"
